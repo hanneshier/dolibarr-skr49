@@ -1,1032 +1,1033 @@
-Kontenplan ID,Kontenplan,ID,Buchhaltungskonto,Bezeichnung,Übergeordnetes Konto,Kontenklasse,Status,
-43,SKR49,101517258,0010,Konzessionen und gewerbl.Schutzrechte,0,0,1,
-43,SKR49,101517259,0015,Konzessionen,0,0,1,
-43,SKR49,101517260,0016,Ablöse bezahlte Sportler,0,0,1,
-43,SKR49,101517261,0017,Ablöse unbezahlte Sportler bis 2.556 Euro,0,0,1,
-43,SKR49,101517262,0018,Ablöse unbezahlte Sportler über 2.556 Euro,0,0,1,
-43,SKR49,101517263,0020,Gewerbliche Schutzrechte,0,0,1,
-43,SKR49,101517264,0025,Ähnliche Rechte und Werte,0,0,1,
-43,SKR49,101517265,0026,Rechtswerte,0,0,1,
-43,SKR49,101517266,0027,EDV-Software,0,0,1,
-43,SKR49,101517267,0030,Lizenzen an gewerblichen Schutzrechten und ähnlichen Rechten und Werten,0,0,1,
-43,SKR49,101517268,0035,Geschäfts- oder Firmenwert,0,0,1,
-43,SKR49,101517269,0050,Unbebaute Grundstücke,0,0,1,
-43,SKR49,101517270,0055,Grundstückswerte eigener Grundstücke babaut mit Gebäuden,0,0,1,
-43,SKR49,101517271,0060,Grundstückswerte eigener Grundstücke bebaut mit Anlagen,0,0,1,
-43,SKR49,101517272,0070,"Grundstücksgleiche Rechte (Erbbaurecht, Dauerwohnrecht, unbebaute Grundstücke)",0,0,1,
-43,SKR49,101517273,0100,Gebäude,0,0,1,
-43,SKR49,101517274,0110,Vereinsheim,0,0,1,
-43,SKR49,101517275,0111,Sporthallen,0,0,1,
-43,SKR49,101517276,0112,Sportanlagen,0,0,1,
-43,SKR49,101517277,0120,Vereinsgastätte ,0,0,1,
-43,SKR49,101517278,0125,Sonstige Vereinsgebäude,0,0,1,
-43,SKR49,101517279,0130,Geschäftsbauten,0,0,1,
-43,SKR49,101517280,0155,Außenanlagen,0,0,1,
-43,SKR49,101517281,0160,Hof- und Wegebefestigungen,0,0,1,
-43,SKR49,101517282,0170,Einrichtungen für Gebäude,0,0,1,
-43,SKR49,101517283,0175,"Ausbauten, Anbauten und Zubauten",0,0,1,
-43,SKR49,101517284,0200,Technische Anlagen,0,0,1,
-43,SKR49,101517285,0205,Maschinen,0,0,1,
-43,SKR49,101517286,0210,Betriebsvorrichtungen,0,0,1,
-43,SKR49,101517287,0215,Sportvorrichtungen,0,0,1,
-43,SKR49,101517288,0220,Vereinsheimausstattung,0,0,1,
-43,SKR49,101517289,0250,"Kraftfahrzeuge, Transportmittel",0,0,1,
-43,SKR49,101517290,0255,Pkw,0,0,1,
-43,SKR49,101517291,0260,Anhänger,0,0,1,
-43,SKR49,101517292,0265,Pflegemaschinen,0,0,1,
-43,SKR49,101517293,0300,Vereinsausstattung,0,0,1,
-43,SKR49,101517294,0305,Vereinskleidung,0,0,1,
-43,SKR49,101517295,0310,Sportgeräte,0,0,1,
-43,SKR49,101517296,0315,Werkzeuge,0,0,1,
-43,SKR49,101517297,0320,Büroeinrichtung,0,0,1,
-43,SKR49,101517298,0330,Einrichtung Vereinsheim,0,0,1,
-43,SKR49,101517299,0335,Sonstiges Inventar,0,0,1,
-43,SKR49,101517300,0340,Geringwertige Wirtschaftsgüter,0,0,1,
-43,SKR49,101517301,0341,Geringwertige Wirtschaftsgüter (Sammelposten),0,0,1,
-43,SKR49,101517302,0400,Sonstige Anlagen und Ausstattung,0,0,1,
-43,SKR49,101517303,0405,Betriebsausstattung,0,0,1,
-43,SKR49,101517304,0410,Geschäftsausstattung,0,0,1,
-43,SKR49,101517305,0415,Büroeinrichtung,0,0,1,
-43,SKR49,101517306,0420,Ladeneinrichtung,0,0,1,
-43,SKR49,101517307,0425,Werkzeuge,0,0,1,
-43,SKR49,101517308,0475,Geringwertige Wirtschaftsgüter,0,0,1,
-43,SKR49,101517309,0476,Geringwertige Wirtschaftsgüter (Sammelposten),0,0,1,
-43,SKR49,101517310,0485,Gebäude im Bau,0,0,1,
-43,SKR49,101517311,0495,Sonstige Sachanlagen im Bau,0,0,1,
-43,SKR49,101517312,0530,Rechtswerte,0,0,1,
-43,SKR49,101517313,0531,Ablöse bezahlter Sportler,0,0,1,
-43,SKR49,101517314,0533,Ablöse unbez.Sportler bis 2556 Euro,0,0,1,
-43,SKR49,101517315,0534,Ablöse unbez.Sportler über 2556 Euro,0,0,1,
-43,SKR49,101517316,0545,Wertpapiere des Anlagevermögens,0,0,1,
-43,SKR49,101517317,0555,Geleistete Kautionen,0,0,1,
-43,SKR49,101517318,0560,Darlehen,0,0,1,
-43,SKR49,101517319,0630,Geleistete Anzahlungen auf Vorräte,0,0,1,
-43,SKR49,101517320,0650,Forderungen aus Lieferungen/Leistungen,0,0,1,
-43,SKR49,101517321,0655,Forderungen aus Vereinsbereichen,0,0,1,
-43,SKR49,101517322,0660,"Forderungen zu Einnahmen 11/1,S2EStG",0,0,1,
-43,SKR49,101517323,0665,Wertberichtigungen Forderungen ,0,0,1,
-43,SKR49,101517324,0680,Forderungen gg. verbund.Untern.,0,0,1,
-43,SKR49,101517325,0700,Sonstige Vermögensgegenstände,0,0,1,
-43,SKR49,101517326,0703,Forderungen gegenüber Krankenkassen aus AAG,0,0,1,
-43,SKR49,101517327,0705,Geldtransit,0,0,1,
-43,SKR49,101517328,0710,Verrech.kto.Gewinnermittlung 4/3 EStG,0,0,1,
-43,SKR49,101517329,0715,Überleitungskonto Kostenstellen,0,0,1,
-43,SKR49,101517330,0720,Verrechnungskonto Ist-Versteuerung,0,0,1,
-43,SKR49,101517331,0725,Sonstige Forderungen,0,0,1,
-43,SKR49,101517332,0730,Gegenkonto Bruttovorumsatz,0,0,1,
-43,SKR49,101517333,0745,Umsatzsteuerforderungen laufendes Jahr,0,0,1,
-43,SKR49,101517334,0746,Forderungen aus Umsatzsteuer-Vorauszahlungen,0,0,1,
-43,SKR49,101517335,0747,Umsatzsteuerforderungen Vorjahr,0,0,1,
-43,SKR49,101517336,0748,Umsatzsteuerforderungen frühere Jahre,0,0,1,
-43,SKR49,101517337,0755,"Zurückzuzahlende Vorsteuer gem. § 15a Abs. 1 UStG, unbewegliche Wirtschaftsgüter",0,0,1,
-43,SKR49,101517338,0756,Zurückzuzahlende Vorsteuer gem. § 15a Abs. 2 UStG,0,0,1,
-43,SKR49,101517339,0757,"Zurückzuzahlende Vorsteuer gem. § 15a Abs. 1 UStG, bewegliche Wirtschaftsgüter",0,0,1,
-43,SKR49,101517340,0758,"Nachträglich abziehbare Vorsteuer, § 15a Abs. 2 UStG",0,0,1,
-43,SKR49,101517341,0759,"Nachträglich abziehbare Vorsteuer, § 15a Abs. 1 UStG, unbewegl. Wirtschaftsgüter",0,0,1,
-43,SKR49,101517342,0760,"Nachträglich abziehbare Vorsteuer, § 15a Abs. 1 UStG, bewegl. Wirtschaftsgüter",0,0,1,
-43,SKR49,101517343,0761,Abziehbare Vorsteuer aus der Auslagerung von Gegenständen aus einem USt-Lager,0,0,1,
-43,SKR49,101517344,0770,Abziehbare Vorsteuer,0,0,1,
-43,SKR49,101517345,0775,Abziehbare Vorsteuer 7 %,0,0,1,
-43,SKR49,101517346,0780,Abziehbare Vorsteuer 19 %,0,0,1,
-43,SKR49,101517347,0781,Abziehbare Vorsteuer 5 %,0,0,1,
-43,SKR49,101517348,0782,Abziehbare Vorsteuer 16 %,0,0,1,
-43,SKR49,101517349,0785,Pauschalierte Vorsteuer,0,0,1,
-43,SKR49,101517350,0810,Abziehbare Vorsteuer i.g.Erwerb,0,0,1,
-43,SKR49,101517351,0811,Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 19 %,0,0,1,
-43,SKR49,101517352,0814,Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 16 %,0,0,1,
-43,SKR49,101517353,0815,Abziehb.Vorst.i.g.Erwerb Neufzg. ohne ID,0,0,1,
-43,SKR49,101517354,0825,Aufzuteilende Vorsteuer,0,0,1,
-43,SKR49,101517355,0830,Aufzuteilende Vorsteuer 7 %,0,0,1,
-43,SKR49,101517356,0835,Aufzuteilende Vorsteuer 19 %,0,0,1,
-43,SKR49,101517357,0838,Aufzuteilende Vorsteuer nach §§ 13a/13b UStG 19 %,0,0,1,
-43,SKR49,101517358,0839,Aufzuteilende Vorsteuer nach §§ 13a/13b UStG,0,0,1,
-43,SKR49,101517359,0840,Aufzuteilende Vorsteuer aus i.g.Erw.,0,0,1,
-43,SKR49,101517360,0841,Aufzuteilende Vorsteuer Anlagevemögen,0,0,1,
-43,SKR49,101517361,0844,Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb 19 %,0,0,1,
-43,SKR49,101517362,0845,Aufzuteilende Vorst. Ausgaben B4000-8000,0,0,1,
-43,SKR49,101517363,0849,Abziehbare Vorsteuer §13b UStG,0,0,1,
-43,SKR49,101517364,0850,Abziehbare Vorsteuer §13b UStG 19 %,0,0,1,
-43,SKR49,101517365,0852,Abziehbare Vorsteuer §13b UStG 16 %,0,0,1,
-43,SKR49,101517366,0853,Vorsteuer in Folgeperiode/im Folgejahr abziehbar,0,0,1,
-43,SKR49,101517367,0855,Auflösung Vorst.aus Vorjahr 4/3 EStG,0,0,1,
-43,SKR49,101517368,0860,Entstandene Einfuhrumsatzsteuer,0,0,1,
-43,SKR49,101517369,0865,Vorst.nach allgem.Durchschnittsätzen,0,0,1,
-43,SKR49,101517370,0870,Durchlaufende Posten Einnahmen,0,0,1,
-43,SKR49,101517371,0875,Durchlaufende Posten Ausgaben,0,0,1,
-43,SKR49,101517372,0885,Sammelkonto aufzuteilende Ausgaben,0,0,1,
-43,SKR49,101517373,0890,Sammelkonto aufzuteilende Einnahmen,0,0,1,
-43,SKR49,101517374,0910,Finanzwechsel,0,0,1,
-43,SKR49,101517375,0920,Kasse,0,0,1,
-43,SKR49,101517376,0925,Hauptkasse,0,0,1,
-43,SKR49,101517377,0930,Nebenkasse 1,0,0,1,
-43,SKR49,101517378,0935,Nebenkasse 2,0,0,1,
-43,SKR49,101517379,0940,Bank (Postbank),0,0,1,
-43,SKR49,101517380,0945,Bank,0,0,1,
-43,SKR49,101517381,0950,Bank 1,0,0,1,
-43,SKR49,101517382,0955,Bank 2,0,0,1,
-43,SKR49,101517383,0960,Schecks,0,0,1,
-43,SKR49,101517384,0965,Bank 3,0,0,1,
-43,SKR49,101517385,0970,Bank 4,0,0,1,
-43,SKR49,101517386,0975,Bank 5,0,0,1,
-43,SKR49,101517387,1180,Übrige andere Sonderposten,0,1,1,
-43,SKR49,101517388,1181,Steuerfreie Rücklagen nach § 6b EStG,0,1,1,
-43,SKR49,101517389,1182,Rücklage für Ersatzbeschaffung,0,1,1,
-43,SKR49,101517390,1183,Ausgleichsposten bei Entnahmen § 4g EStG,0,1,1,
-43,SKR49,101517391,1184,Rücklage für Zuschüsse,0,1,1,
-43,SKR49,101517392,1200,Rückstellungen für Pensionen und ähnliche Verpflichtungen,0,1,1,
-43,SKR49,101517393,1210,Steuerrückstellungen,0,1,1,
-43,SKR49,101517394,1220,Sonstige Rückstellungen,0,1,1,
-43,SKR49,101517395,1221,Urlaubsrückstellungen,0,1,1,
-43,SKR49,101517396,1222,Rückstellungen für Personalkosten,0,1,1,
-43,SKR49,101517397,1320,Verbindlichkeiten gg.Kreditinstituten,0,1,1,
-43,SKR49,101517398,1334,Erhaltene Anzahlung - Nachsteuer,0,1,1,
-43,SKR49,101517399,1340,Verbindlichkeiten aus Lief./Leist.,0,1,1,
-43,SKR49,101517400,1345,Verbindlichk.aus Investitionen 4/3EStG,0,1,1,
-43,SKR49,101517401,1350,Wechselverbindlichkeiten,0,1,1,
-43,SKR49,101517402,1360,Verbindlichk.gg. verbundenen Untern.,0,1,1,
-43,SKR49,101517403,1380,Verbindl.f.satzungsgemäße Leistungen,0,1,1,
-43,SKR49,101517404,1385,Verbindl. aus erteilten Zusagen,0,1,1,
-43,SKR49,101517405,1390,Verbindl.noch nicht zweckentspr.verw.Mit,0,1,1,
-43,SKR49,101517406,1395,Verbindlichkeiten aus bedingt rückzahlungspflichtigen Spenden,0,1,1,
-43,SKR49,101517407,1700,Verbindlichkeiten aus Lohn- und Kirchensteuer,0,1,1,
-43,SKR49,101517408,1705,Verbindlichkeiten im Rahmen der sozialen Sicherheit,0,1,1,
-43,SKR49,101517409,1710,Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern,0,1,1,
-43,SKR49,101517410,1712,Lohnverbindlichkeiten,0,1,1,
-43,SKR49,101517411,1715,"Verbindlichkeiten aus Einbehaltungen (KapESt u. SolZ, KiSt auf KapESt)",0,1,1,
-43,SKR49,101517412,1720,Verbindlichkeiten aus Vermögensbildung,0,1,1,
-43,SKR49,101517413,1724,Ausgegebene Geschenkgutscheine,0,1,1,
-43,SKR49,101517414,1730,Lohn- und Gehaltsverrechnungskonto,0,1,1,
-43,SKR49,101517415,1731,Lohn- und Gehaltsverrechnung § 11 Abs. 2 S.2 EStG für § 4 Abs. 3 EStG,0,1,1,
-43,SKR49,101517416,1732,Verbindlichkeiten im Rahmen der sozialen Sicherheit für § 4 Abs. 3 EStG,0,1,1,
-43,SKR49,101517417,1798,Verbindlichkeiten für Einbehaltung von Arbeitnehmern,0,1,1,
-43,SKR49,101517418,1799,Verbindlichkeiten an das Finanzamt aus abzuführendem Bauabzugsbetrag,0,1,1,
-43,SKR49,101517419,1800,Sonstige Verbindlichkeiten,0,1,1,
-43,SKR49,101517420,1803,Sonstige Verbindlichkeiten Restlaufzeit größer 5 Jahre,0,1,1,
-43,SKR49,101517421,1804,Sonstige Verbindlichkeiten nach § 11 Abs. 2 Satz 2 EStG für § 4 Abs. 3 EStG,0,1,1,
-43,SKR49,101517422,1806,Verbindlichkeiten aus Steuern und Abgaben,0,1,1,
-43,SKR49,101517423,1809,Verbindlichkeiten aus Steuern und Abgaben Restlaufzeit größer 5 Jahre,0,1,1,
-43,SKR49,101517424,1813,Voraussichtl. Beitragsschuld ggü. Sozialversicherungsträger,0,1,1,
-43,SKR49,101517425,1815,Gegenkonto Bruttoerlöse,0,1,1,
-43,SKR49,101517426,1840,Umsatzsteuer,0,1,1,
-43,SKR49,101517427,1845,Umsatzsteuer 7 %,0,1,1,
-43,SKR49,101517428,1850,Umsatzsteuer 19 %,0,1,1,
-43,SKR49,101517429,1851,Umsatzsteuer 5 %,0,1,1,
-43,SKR49,101517430,1852,Umsatzsteuer 16%,0,1,1,
-43,SKR49,101517431,1860,USt aus i.g. Erwerb,0,1,1,
-43,SKR49,101517432,1861,USt i.g. Erwerb Neufahrzeuge ohne ID,0,1,1,
-43,SKR49,101517433,1864,USt a.i.Inland steuerpfl.Leistungen 7 %,0,1,1,
-43,SKR49,101517434,1865,USt a.i.Inland steuerpfl.Leistungen 19 %,0,1,1,
-43,SKR49,101517435,1866,USt a.i.Inland steuerpfl.EG-Lieferungen,0,1,1,
-43,SKR49,101517436,1869,Umsatzsteuer aus im anderen EU-Land steuerpflichtigen elektr. Dienstleistungen,0,1,1,
-43,SKR49,101517437,1870,USt a.i.anderen EG-Land stpfl.Lieferung,0,1,1,
-43,SKR49,101517438,1871,USt a.i.and.EG-Land stpfl.sonst.Leistung,0,1,1,
-43,SKR49,101517439,1873,Umsatzsteuer aus innermeinschaftlichem Erwerb 19 %,0,1,1,
-43,SKR49,101517440,1874,Umsatzsteuer aus innermeinschaftlichem Erwerb 16 %,0,1,1,
-43,SKR49,101517441,1880,Umsatzsteuer nicht fällig,0,1,1,
-43,SKR49,101517442,1885,Umsatzsteuer nicht fällig 7 %,0,1,1,
-43,SKR49,101517443,1890,Umsatzsteuer nicht fällig 19 %,0,1,1,
-43,SKR49,101517444,1891,Umsatzsteuer nicht fällig 5 %,0,1,1,
-43,SKR49,101517445,1892,Umsatzsteuer nicht fällig 16 %,0,1,1,
-43,SKR49,101517446,1895,USt nicht fällig aus EG-Lieferungen,0,1,1,
-43,SKR49,101517447,1896,USt nicht fällig aus EU-Lieferungen 19 %,0,1,1,
-43,SKR49,101517448,1898,USt nicht fällig aus EU-Lieferungen 16 %,0,1,1,
-43,SKR49,101517449,1899,USt-Abzugsverfahren 7 % USt,0,1,1,
-43,SKR49,101517450,1900,"USt-Abzugsverf.oder USt § 13b UStG, 16 %",0,1,1,
-43,SKR49,101517451,1901,Umsatzsteuer nach § 13b UStG,0,1,1,
-43,SKR49,101517452,1902,"Umsatzsteuer nach § 13b UStG, 19 %",0,1,1,
-43,SKR49,101517453,1904,"Umsatzsteuer nach § 13b UStG, 16 %",0,1,1,
-43,SKR49,101517454,1910,Sammelkonto USt-Vorauszahlung/-Erstattung,0,1,1,
-43,SKR49,101517455,1911,Umsatzsteuer-Vorauszahlung 1/11,0,1,1,
-43,SKR49,101517456,1912,Sammelkonto in Rechng. unrichtig od. unberecht. ausgew. Steuer UStVA Kz. 69,0,1,1,
-43,SKR49,101517457,1913,Sammelkonto Umsatzsteuer Vorjahre,0,1,1,
-43,SKR49,101517458,1914,Sammelkto.unberecht. ausgewiesene Ust,0,1,1,
-43,SKR49,101517459,1915,Steuerzahlungen an andere EG-Länder,0,1,1,
-43,SKR49,101517460,1916,Verbindlichkeiten aus Umsatzsteuer-Vorauszahlungen,0,1,1,
-43,SKR49,101517461,1918,"Umsatzsteuer in Folgeperiode fällig (§§ 13 Abs. 1 Nr. 6, 13b Abs. 2 UStG)",0,1,1,
-43,SKR49,101517462,1919,Umsatzsteuer Vorjahr,0,1,1,
-43,SKR49,101517463,1920,Umsatzsteuer laufendes Jahr,0,1,1,
-43,SKR49,101517464,1930,Einfuhrumsatzsteuer aufgeschoben,0,1,1,
-43,SKR49,101517465,2000,Sonstige Einnahmen Bereich 2000,0,2,1,
-43,SKR49,101517466,2110,Echte Mitgliedsbeiträge bis 300 Euro,0,2,1,
-43,SKR49,101517467,2120,Echte Mitgliedsbeiträge 300-1023 Euro,0,2,1,
-43,SKR49,101517468,2150,Aufnahmegebühren bis 300 Euro,0,2,1,
-43,SKR49,101517469,2160,Aufnahmegebühren 300-1534 Euro,0,2,1,
-43,SKR49,101517470,2170,Umlagen,0,2,1,
-43,SKR49,101517471,2300,Erhaltene nicht steuerbare Zuschüsse,0,2,1,
-43,SKR49,101517472,2301,Zuschüsse von Verbänden,0,2,1,
-43,SKR49,101517473,2302,Zuschüsse von Behörden,0,2,1,
-43,SKR49,101517474,2303,Sonstige Zuschüsse,0,2,1,
-43,SKR49,101517475,2400,Sonstige Einnahmen ideeller Bereich,0,2,1,
-43,SKR49,101517476,2410,Stfr.Einnahmen nicht gemeinnütz.Vereine,0,2,1,
-43,SKR49,101517477,2412,Zuwendungen Dritter (Sponsoren),0,2,1,
-43,SKR49,101517478,2420,Stfr.Einnahmen gemeinnütziger Vereine,0,2,1,
-43,SKR49,101517479,2421,Erlöse auf Verkäufen Sachanlagevermögen (bei Buchgewinn),0,2,1,
-43,SKR49,101517480,2423,Erträge aus der Auflösung sonstiger steuerlicher Rücklagen,0,2,1,
-43,SKR49,101517481,2450,Verrechnete/aufget. Einnahmen ideel.Ber.,0,2,1,
-43,SKR49,101517482,2451,Verrechnete Sachbezüge Arbeitnehmer,0,2,1,
-43,SKR49,101517483,2490,Zuschreibungen,0,2,1,
-43,SKR49,101517484,2500,Abschreibungen Anlagevermögen,0,2,1,
-43,SKR49,101517485,2501,Abschreibungen GWG,0,2,1,
-43,SKR49,101517486,2502,Kalkulatorische Abschreibungen,0,2,1,
-43,SKR49,101517487,2503,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,2,1,
-43,SKR49,101517488,2510,Ausgaben Bereich 2000,0,2,1,
-43,SKR49,101517489,2550,Anteilige Personalkosten,0,2,1,
-43,SKR49,101517490,2551,Löhne und Gehälter,0,2,1,
-43,SKR49,101517491,2552,Ehrenamtspauschale,0,2,1,
-43,SKR49,101517492,2553,Abgeführte Lohnsteuer,0,2,1,
-43,SKR49,101517493,2554,Aufwandsentschädigungen Übungsleiter,0,2,1,
-43,SKR49,101517494,2555,Sozialversicherungsbeiträge,0,2,1,
-43,SKR49,101517495,2556,Aushilfslöhne,0,2,1,
-43,SKR49,101517496,2557,Sachbezüge Arbeitnehmer,0,2,1,
-43,SKR49,101517497,2558,Beiträge zur Berufsgenossenschaft,0,2,1,
-43,SKR49,101517498,2560,Reisekostenerstattungen,0,2,1,
-43,SKR49,101517499,2561,Reisekosten Arbeitnehmer,0,2,1,
-43,SKR49,101517500,2562,Reisekosten Arbeitnehmer Übernachtungsaufwand,0,2,1,
-43,SKR49,101517501,2563,Reisekosten Arbeitnehmer Fahrtkosten,0,2,1,
-43,SKR49,101517502,2564,Kilometergelderstattung Arbeitnehmer,0,2,1,
-43,SKR49,101517503,2660,Anteilige Raumkosten,0,2,1,
-43,SKR49,101517504,2661,Miete und Pacht,0,2,1,
-43,SKR49,101517505,2663,Raumnebenkosten,0,2,1,
-43,SKR49,101517506,2664,Reparaturen,0,2,1,
-43,SKR49,101517507,2700,Kosten der Mitgliederverwaltung,0,2,1,
-43,SKR49,101517508,2701,Büromaterial,0,2,1,
-43,SKR49,101517509,2702,"Porto, Telefon",0,2,1,
-43,SKR49,101517510,2703,Einzugskosten,0,2,1,
-43,SKR49,101517511,2704,Sonstige Kosten,0,2,1,
-43,SKR49,101517512,2750,Verbrauchsabgaben u.sonstige Beiträge,0,2,1,
-43,SKR49,101517513,2751,Abgaben Landesverband,0,2,1,
-43,SKR49,101517514,2752,Abgaben Fachverband,0,2,1,
-43,SKR49,101517515,2753,Versicherungsbeiträge,0,2,1,
-43,SKR49,101517516,2800,Mitgliederpflege,0,2,1,
-43,SKR49,101517517,2801,Vereinsmitteilungen,0,2,1,
-43,SKR49,101517518,2802,"Geschenke, Jubiläen, Ehrungen",0,2,1,
-43,SKR49,101517519,2803,Ausbildungskosten,0,2,1,
-43,SKR49,101517520,2804,Lehr- und Jugendarbeit,0,2,1,
-43,SKR49,101517521,2810,Repräsentationskosten,0,2,1,
-43,SKR49,101517522,2892,Einstellungen in sonstige steuerliche Rücklagen,0,2,1,
-43,SKR49,101517523,2900,Sonstige Kosten ideeller Bereich,0,2,1,
-43,SKR49,101517524,2901,Nicht abziehbare Ausgaben,0,2,1,
-43,SKR49,101517525,2902,Verrechnete/aufgeteilte Kosten,0,2,1,
-43,SKR49,101517526,2903,Nicht abziehbare Vorsteuer,0,2,1,
-43,SKR49,101517527,3200,Steuerneutrale Einnahmen Bereich 2000,0,3,1,
-43,SKR49,101517528,3210,Schenkungen,0,3,1,
-43,SKR49,101517529,3211,Erbschaften,0,3,1,
-43,SKR49,101517530,3212,Vermächtnisse,0,3,1,
-43,SKR49,101517531,3215,Sonstige Einnahmen,0,3,1,
-43,SKR49,101517532,3220,Erhaltene Spenden / Zuwendungen,0,3,1,
-43,SKR49,101517533,3221,Geldspenden/-zuwendungen gg. Quittung,0,3,1,
-43,SKR49,101517534,3223,Geldspenden/-zuwendungen ohne Quittung,0,3,1,
-43,SKR49,101517535,3225,Sachspenden/-zuwendungen gg. Quittung,0,3,1,
-43,SKR49,101517536,3227,Sachspenden/-zuwendungen ohne Quittung,0,3,1,
-43,SKR49,101517537,3230,Aufwandszuwendungen gegen Zuwendungsbestätigung,0,3,1,
-43,SKR49,101517538,3232,Aufwandszuwendungen ohne Zuwendungsbestätigung,0,3,1,
-43,SKR49,101517539,3240,Ertrag aus Spendenverbrauch,0,3,1,
-43,SKR49,101517540,3250,Nicht abziehbare Ausgaben Bereich2000,0,3,1,
-43,SKR49,101517541,3251,Gezahlte Spenden / Zuwendungen,0,3,1,
-43,SKR49,101517542,3252,Hingegebene Sachspenden/-zuwendungen,0,3,1,
-43,SKR49,101517543,3260,"Erbschaft-,Schenkungsteuer",0,3,1,
-43,SKR49,101517544,3400,Steuerneutrale Einnahmen Bereich 4000,0,3,1,
-43,SKR49,101517545,3401,Investitionszulage,0,3,1,
-43,SKR49,101517546,3402,Erstattete Kapitalertragsteuer,0,3,1,
-43,SKR49,101517547,3403,Erstattete und vergütete Körperschaftsteuer,0,3,1,
-43,SKR49,101517548,3404,Solidaritätszuschlagerstattungen für Vorjahre,0,3,1,
-43,SKR49,101517549,3410,Nicht stb.Kursgewin.Wertpap.(ü.12 M.) 0%,0,3,1,
-43,SKR49,101517550,3415,Ertrag aus pauschal.Vorsteuer §23a UStG,0,3,1,
-43,SKR49,101517551,3420,Verkaufserlöse Vermögensverwaltung,0,3,1,
-43,SKR49,101517552,3421,Verkaufserlöse Anlagevermögen 0% USt,0,3,1,
-43,SKR49,101517553,3422,Verkaufserlöse Anlagevermögen 7 % USt,0,3,1,
-43,SKR49,101517554,3423,Verkaufserlöse Anlagevermögen 19 % USt,0,3,1,
-43,SKR49,101517555,3424,Verkaufserlöse Wertpapiere,0,3,1,
-43,SKR49,101517556,3450,Nicht abziehbare Ausgaben Bereich 4000,0,3,1,
-43,SKR49,101517557,3451,Abgezogene Kapitalertragsteuer,0,3,1,
-43,SKR49,101517558,3452,Abgezogene Körperschaftsteuer,0,3,1,
-43,SKR49,101517559,3453,Solidaritätszuschlag zur KSt,0,3,1,
-43,SKR49,101517560,3455,Nich abzugsfähige Bewirtungskosten,0,3,1,
-43,SKR49,101517561,3500,Steuerneutrale Einnahmen Bereich 5000,0,3,1,
-43,SKR49,101517562,3515,Ertrag a.pauschaler Vorsteuer §23a UStG,0,3,1,
-43,SKR49,101517563,3550,Nicht abziehbare Ausgaben Bereich 5000,0,3,1,
-43,SKR49,101517564,3551,Ausgaben i.S.v. §4 Abs.5 EStG,0,3,1,
-43,SKR49,101517565,3552,Geschenke über 35 Euro,0,3,1,
-43,SKR49,101517566,3553,Nicht abzugsfähige Bewirtungskosten,0,3,1,
-43,SKR49,101517567,3590,USt unentgeltl.Wertabgabe§3/1b.9a UStG,0,3,1,
-43,SKR49,101517568,3600,Steuerneutrale Einnahmen Bereich 6000,0,3,1,
-43,SKR49,101517569,3615,Ertrag aus pauschal. Vorsteuer §23a UStG,0,3,1,
-43,SKR49,101517570,3650,Nicht abziehbare Ausgaben Bereich 6000,0,3,1,
-43,SKR49,101517571,3651,Ausgaben i.S.v. §4 Abs. 5 EStG,0,3,1,
-43,SKR49,101517572,3652,Geschenke über 35 Euro,0,3,1,
-43,SKR49,101517573,3653,Nicht abzugsfähige Bewirtungskosten,0,3,1,
-43,SKR49,101517574,3690,USt unentgeltl.Wertabgabe §3/1b.9a UStG,0,3,1,
-43,SKR49,101517575,3700,Steuerneutrale Einnahmen Bereich 7000,0,3,1,
-43,SKR49,101517576,3710,Steuerfreie Einn.z. Verlustausgl.TB 7001,0,3,1,
-43,SKR49,101517577,3711,Mitgliederuml.z.Verlustausgleich TB7001,0,3,1,
-43,SKR49,101517578,3712,Mitgliederzusch.z. Verlustausgl.TB 7001,0,3,1,
-43,SKR49,101517579,3715,Ertrag a. pauschaler Vorsteuer §23a UStG,0,3,1,
-43,SKR49,101517580,3750,Nicht abziehbare Ausgaben B 7000,0,3,1,
-43,SKR49,101517581,3754,Gewerbesteuer,0,3,1,
-43,SKR49,101517582,3755,Körperschaftsteuer,0,3,1,
-43,SKR49,101517583,3756,Solidaritätszuschlag zur KSt,0,3,1,
-43,SKR49,101517584,3770,Säumnis-/Verspätungszuschläge,0,3,1,
-43,SKR49,101517585,3780,Gewährte Spenden / Zuwendungen,0,3,1,
-43,SKR49,101517586,3781,Ausgaben i.S.v. §4 Abs. 5 EStG,0,3,1,
-43,SKR49,101517587,3782,Geschenke über 35 Euro,0,3,1,
-43,SKR49,101517588,3783,Nicht abzugsfähige Bewirtungskosten,0,3,1,
-43,SKR49,101517589,3790,USt unentgeltl.Wertabgabe §3/1b.9a UstG,0,3,1,
-43,SKR49,101517590,3795,Aufw.a.Verr.posten (Gkto.z.7518/7520..),0,3,1,
-43,SKR49,101517591,3800,Steuerneutrale Einnahmen Bereich 8000,0,3,1,
-43,SKR49,101517592,3801,Investitionszulage,0,3,1,
-43,SKR49,101517593,3815,Ertrag a.pauschaler Vorsteuer §23a UStG,0,3,1,
-43,SKR49,101517594,3820,"Zinserträge § 233a AO, steuerfrei (Anlage GK KSt)",0,3,1,
-43,SKR49,101517595,3850,Nicht abziehbare Ausgaben Bereich 8000,0,3,1,
-43,SKR49,101517596,3853,Gewerbesteuer,0,3,1,
-43,SKR49,101517597,3854,Solidaritätszuschlag zur KSt,0,3,1,
-43,SKR49,101517598,3855,Körperschaftsteuer,0,3,1,
-43,SKR49,101517599,3856,Vermögensteuer,0,3,1,
-43,SKR49,101517600,3857,Säumnis-/Verspätungszuschläge,0,3,1,
-43,SKR49,101517601,3860,"Pauschale Steuer für Geschenke, nicht abzugsfähig",0,3,1,
-43,SKR49,101517602,3861,Ausgaben i.S.v. §4 Abs.5 EStG,0,3,1,
-43,SKR49,101517603,3862,Geschenke über 35 Euro,0,3,1,
-43,SKR49,101517604,3863,Nicht abzugsfähige Bewirtungskosten,0,3,1,
-43,SKR49,101517605,3864,Gezahlte Zinsen auf hinterzogene Steuern,0,3,1,
-43,SKR49,101517606,3870,Gezahlte Zinsen auf KSt/VermSt,0,3,1,
-43,SKR49,101517607,3871,Gezahlte Zinsen auf KSt-Nachforderungen,0,3,1,
-43,SKR49,101517608,3872,Gezahlte Stundungszinsen KSt,0,3,1,
-43,SKR49,101517609,3873,Gezahlte Aussetzungszinsen KSt,0,3,1,
-43,SKR49,101517610,3890,USt unentgelt.Wertabgabe §3/1b.9a UStG,0,3,1,
-43,SKR49,101517611,3895,Aufw.a.Verr.posten (Gkto.z.8158-8166),0,3,1,
-43,SKR49,101517612,4000,Steuerfreie Einnahm.gemeinnützig.Vereine,0,4,1,
-43,SKR49,101517613,4100,Einnahmen aus Vermögensverwaltung,0,4,1,
-43,SKR49,101517614,4109,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG (gemeinnützige Vereine),0,4,1,
-43,SKR49,101517615,4110,Miet-und Pachterträge 0 % USt,0,4,1,
-43,SKR49,101517616,4111,Miet-und Pachterträge 7 % USt,0,4,1,
-43,SKR49,101517617,4120,Einnahmen Vermietung Sportstät.langfrist,0,4,1,
-43,SKR49,101517618,4121,Vermiet.langfristig Mitglieder 0% USt,0,4,1,
-43,SKR49,101517619,4122,Vermiet. Betriebsvorrichtung langfr. 7 % USt,0,4,1,
-43,SKR49,101517620,4150,Zinserträge 0 % USt,0,4,1,
-43,SKR49,101517621,4151,Erträge aus Wertpapieren 0 % USt,0,4,1,
-43,SKR49,101517622,4152,Kursgewinne a.Wertpap.(unt.12Mon.) 0 %,0,4,1,
-43,SKR49,101517623,4153,Zuschreibungen,0,4,1,
-43,SKR49,101517624,4200,Erlöse von Werbeunternehmen,0,4,1,
-43,SKR49,101517625,4201,Erlöse Werbeunternehmen 7 % USt,0,4,1,
-43,SKR49,101517626,4202,Übertragene Werbeflächenrechte,0,4,1,
-43,SKR49,101517627,4203,Übertragene Lautsprecherwerbung,0,4,1,
-43,SKR49,101517628,4220,Verkaufserlöse Vermögensverwaltung,0,4,1,
-43,SKR49,101517629,4221,Verkaufserlöse Anlagevermögen 7 %,0,4,1,
-43,SKR49,101517630,4222,Verkaufserlöse Wertpapiere,0,4,1,
-43,SKR49,101517631,4230,Sonstige Einnahmen,0,4,1,
-43,SKR49,101517632,4239,Verrechn./aufgeteilte Einnahmen,0,4,1,
-43,SKR49,101517633,4342,Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn),0,4,1,
-43,SKR49,101517634,4343,Erträge aus der Auflösung einer steuerlichen Rücklage,0,4,1,
-43,SKR49,101517635,4347,Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn),0,4,1,
-43,SKR49,101517636,4390,Zuschreibungen,0,4,1,
-43,SKR49,101517637,4400,Stpfl.Einnahmen n.gemeinnützg.Vereine,0,4,1,
-43,SKR49,101517638,4409,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG (nicht gemeinnützige Vereine),0,4,1,
-43,SKR49,101517639,4410,Miet-u.Pachterträge 0 % USt,0,4,1,
-43,SKR49,101517640,4411,Miet-u.Pachterträge 19 % USt,0,4,1,
-43,SKR49,101517641,4415,Sonstige Mieterträge,0,4,1,
-43,SKR49,101517642,4420,Zinserträge 0 % USt,0,4,1,
-43,SKR49,101517643,4421,Wertpapiererträge,0,4,1,
-43,SKR49,101517644,4422,Sonstige Kapitalerträge,0,4,1,
-43,SKR49,101517645,4430,Verkaufserlöse Anlagevermögen 0 %,0,4,1,
-43,SKR49,101517646,4431,Verkaufserlöse Anlagevermögen 19 % USt,0,4,1,
-43,SKR49,101517647,4440,Sonstige Einnahmen,0,4,1,
-43,SKR49,101517648,4441,Sonstige Einnahmen 0 % USt,0,4,1,
-43,SKR49,101517649,4442,Sonstige Einnahmen 19 % USt,0,4,1,
-43,SKR49,101517650,4443,Steuerpflichtige Kursgewinne aus Wertpapieren 0% USt,0,4,1,
-43,SKR49,101517651,4489,Verrechnete/aufgeteillte Einnahmen,0,4,1,
-43,SKR49,101517652,4490,Zuschreibungen,0,4,1,
-43,SKR49,101517653,4492,Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn),0,4,1,
-43,SKR49,101517654,4493,Erträge aus der Auflösung einer steuerlichen Rücklage,0,4,1,
-43,SKR49,101517655,4496,Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn),0,4,1,
-43,SKR49,101517656,4498,Umgeb.Einnahmen wg.Verlust Gemeinnütz.,0,4,1,
-43,SKR49,101517657,4500,Abschreibungen Anlagevermögen,0,4,1,
-43,SKR49,101517658,4501,Abschreibungen GWG,0,4,1,
-43,SKR49,101517659,4502,Kalkulatorische Abschreibungen,0,4,1,
-43,SKR49,101517660,4503,Abschreibungen auf Finanzanlagen,0,4,1,
-43,SKR49,101517661,4504,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,4,1,
-43,SKR49,101517662,4510,Ausgaben Bereich 4000,0,4,1,
-43,SKR49,101517663,4531,Sonstige Kosten,0,4,1,
-43,SKR49,101517664,4597,Erlöse aus Verkäufen Finanzanlagen (bei Buchverlust),0,4,1,
-43,SKR49,101517665,4600,Anlageabgänge/Restbuchwerte,0,4,1,
-43,SKR49,101517666,4602,Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchverlust),0,4,1,
-43,SKR49,101517667,4700,Zinsen Vermögensverwaltung,0,4,1,
-43,SKR49,101517668,4710,Kosten Wertpapierverwaltung,0,4,1,
-43,SKR49,101517669,4711,Geldbeschaffungskosten,0,4,1,
-43,SKR49,101517670,4712,Nebenkosten des Geldverkehrs,0,4,1,
-43,SKR49,101517671,4750,Grundstücksaufwendungen,0,4,1,
-43,SKR49,101517672,4751,Grundstücksreparaturen,0,4,1,
-43,SKR49,101517673,4752,Versicherungen,0,4,1,
-43,SKR49,101517674,4892,Einstellungen in steuerliche Rücklagen,0,4,1,
-43,SKR49,101517675,4900,Sonstige Kosten Vermögensverwaltung,0,4,1,
-43,SKR49,101517676,4901,Sonstige Kosten,0,4,1,
-43,SKR49,101517677,4902,Verrechnete/aufgeteillte Kosten,0,4,1,
-43,SKR49,101517678,4904,Anteilige Umsatzsteuerzahlungen,0,4,1,
-43,SKR49,101517679,4905,Aufzuteilende Vorsteuer Klasse 4,0,4,1,
-43,SKR49,101517680,4906,Abziehbare Vorsteuer,0,4,1,
-43,SKR49,101517681,4907,Nicht abziehbare Vorsteuer,0,4,1,
-43,SKR49,101517682,4965,Anteilige Raumkosten,0,4,1,
-43,SKR49,101517683,4966,"Miete, Pacht",0,4,1,
-43,SKR49,101517684,4967,Raumnebenkosten,0,4,1,
-43,SKR49,101517685,4968,Bewirtungskosten (abzugsfähig),0,4,1,
-43,SKR49,101517686,4970,Reisekosten Arbeitnehmer,0,4,1,
-43,SKR49,101517687,4971,Reisekosten Arbeitnehmer Verpflegungsmehraufwand,0,4,1,
-43,SKR49,101517688,4972,Reisekosten Arbeitnehmer Übernachtungsaufwand,0,4,1,
-43,SKR49,101517689,4973,Reisekosten Arbeitnehmer Fahrtkosten,0,4,1,
-43,SKR49,101517690,4974,Kilometergelderstattung Arbeitnehmer,0,4,1,
-43,SKR49,101517691,4980,Löhne und Gehälter,0,4,1,
-43,SKR49,101517692,4981,Abgeführte Lohnsteuer,0,4,1,
-43,SKR49,101517693,4982,"Freiwillige soziale Aufwendungen, lohnsteuerpflichtig",0,4,1,
-43,SKR49,101517694,4990,Gesetzliche soziale Aufwendungen,0,4,1,
-43,SKR49,101517695,4991,Aufwendungen für Altersversorgung,0,4,1,
-43,SKR49,101517696,4992,Beiträge zur Berufsgenossenschaft,0,4,1,
-43,SKR49,101517697,5000,Eintrittsgelder Sport 1,0,5,1,
-43,SKR49,101517698,5005,Eintrittsgelder aus Wettkämpfen 7 % USt,0,5,1,
-43,SKR49,101517699,5010,Eintrittsgelder aus Fußballspielen 7 %,0,5,1,
-43,SKR49,101517700,5015,Eintrittsgelder aus Sportturnen 7 % USt,0,5,1,
-43,SKR49,101517701,5020,Eintr.geld.a.sonst.sportl.Veranst. 7 %,0,5,1,
-43,SKR49,101517702,5021,Eintrittsgelder aus Sport 1 (7 % USt),0,5,1,
-43,SKR49,101517703,5022,Eintrittsgelder aus Sport 2 (7 % USt),0,5,1,
-43,SKR49,101517704,5023,Eintrittsgelder aus Sport 3 (7 % USt),0,5,1,
-43,SKR49,101517705,5050,Einnahmen aus Sportreisen,0,5,1,
-43,SKR49,101517706,5055,Einnahmen nicht steuerbar nach UStG,0,5,1,
-43,SKR49,101517707,5060,Einnahmen 0 % USt,0,5,1,
-43,SKR49,101517708,5065,Einnahmen 7 % USt,0,5,1,
-43,SKR49,101517709,5070,Einnahmen a.sonst.sportl.Veranstaltg.,0,5,1,
-43,SKR49,101517710,5075,Einnahmen aus Leist. gg.Nichtmitglied.7 %,0,5,1,
-43,SKR49,101517711,5079,Startgelder,0,5,1,
-43,SKR49,101517712,5080,Erstattungen der Gastmannschaften,0,5,1,
-43,SKR49,101517713,5085,Einnahmen aus Auswahlspielen 7 % USt,0,5,1,
-43,SKR49,101517714,5090,Einnahm.Sportkurs o.bezahlte Sportler,0,5,1,
-43,SKR49,101517715,5100,Einn.aus Leistungen gegenüb.Mitgliedern,0,5,1,
-43,SKR49,101517716,5105,Platzgebühren 7 % USt,0,5,1,
-43,SKR49,101517717,5110,Hallengebühren 7 % USt,0,5,1,
-43,SKR49,101517718,5115,Chartergebühren 7 % USt,0,5,1,
-43,SKR49,101517719,5120,Unechte Mitgliedsbeiträge,0,5,1,
-43,SKR49,101517720,5200,Einn.steuerb.Zusch. f. Zweckbetr. Sport,0,5,1,
-43,SKR49,101517721,5205,Zusch.von Verbänden und Organisationen,0,5,1,
-43,SKR49,101517722,5210,Ausbild.zuschüsse v.Verbänd.u.Organisat.,0,5,1,
-43,SKR49,101517723,5215,Zuschüsse von Behörden,0,5,1,
-43,SKR49,101517724,5220,Ausbildungszuschüsse v.Behörden,0,5,1,
-43,SKR49,101517725,5225,Sonstige Zuschüsse,0,5,1,
-43,SKR49,101517726,5250,Sonstige Einnahmen Zweckbetrieb Sport,0,5,1,
-43,SKR49,101517727,5255,Anteilig verrechnete Einnahmen/Umlagen,0,5,1,
-43,SKR49,101517728,5260,Einnahm.Ablöse unbezahlter Sportler 7 %,0,5,1,
-43,SKR49,101517729,5265,Ablösesummen über 2556 Euro 7 % USt,0,5,1,
-43,SKR49,101517730,5269,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ,0,5,1,
-43,SKR49,101517731,5270,Verkaufserlöse Anlageverm.Zweckbet.7 %,0,5,1,
-43,SKR49,101517732,5273,Erträge aus der Auflösung einer steuerlichen Rücklage,0,5,1,
-43,SKR49,101517733,5275,Einnahmen aus Nebenleistungen,0,5,1,
-43,SKR49,101517734,5279,Zuschreibungen,0,5,1,
-43,SKR49,101517735,5280,Aufwendungen für RHB/bezogene Waren,0,5,1,
-43,SKR49,101517736,5290,Aufwendungen für bezogene Leistungen,0,5,1,
-43,SKR49,101517737,5300,Löhne und Gehälter,0,5,1,
-43,SKR49,101517738,5305,Personalkosten Trainer/Übungsleiter,0,5,1,
-43,SKR49,101517739,5310,Aufwandsentschädig. i.S.v.§3 Nr.26 EStG,0,5,1,
-43,SKR49,101517740,5315,Aufw.entschäd.pausch an akt.Vereinsmitgl,0,5,1,
-43,SKR49,101517741,5320,Aushilfslöhne,0,5,1,
-43,SKR49,101517742,5350,soziale Abgaben allgemein,0,5,1,
-43,SKR49,101517743,5351,Beiträge zur Berufsgenossenschaft,0,5,1,
-43,SKR49,101517744,5355,abgeführte Lohnsteuer,0,5,1,
-43,SKR49,101517745,5360,freiwillige soziale Aufwendungen,0,5,1,
-43,SKR49,101517746,5400,Abgaben für Altersversorgung,0,5,1,
-43,SKR49,101517747,5450,Abschreibung Anlagevermögen TB 5001,0,5,1,
-43,SKR49,101517748,5455,Abschreibungen GWG,0,5,1,
-43,SKR49,101517749,5456,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,5,1,
-43,SKR49,101517750,5460,Anlagenabgänge Restbuchwerte,0,5,1,
-43,SKR49,101517751,5465,Kalkulatorische Abschreibungen,0,5,1,
-43,SKR49,101517752,5470,Abschreib.auf Sportler-Ablösezahlungen,0,5,1,
-43,SKR49,101517753,5490,"Abschr. auf Umlaufvermögen, unüblich",0,5,1,
-43,SKR49,101517754,5500,Reisekosten f.aktive Vereinsmitglieder,0,5,1,
-43,SKR49,101517755,5503,Reisekosten AN Verpflegungsmehraufwand,0,5,1,
-43,SKR49,101517756,5506,Reisekosten Arbeitnehmer,0,5,1,
-43,SKR49,101517757,5509,Km-Geld-Erstattung,0,5,1,
-43,SKR49,101517758,5512,Spesenersatz an akt.Sportler Kostennachw,0,5,1,
-43,SKR49,101517759,5515,Speseners.an aktiv.Nichtmitgl.Kostenn.,0,5,1,
-43,SKR49,101517760,5518,Sonst.veranstaltungsabhäng.Kosten Sport1,0,5,1,
-43,SKR49,101517761,5521,Entschädigungen an Nichtaktive,0,5,1,
-43,SKR49,101517762,5524,Reisekosten AN Verpflegungsmehraufwand,0,5,1,
-43,SKR49,101517763,5527,Reisekosten Arbeitnehmer,0,5,1,
-43,SKR49,101517764,5533,Reisekost.erstatt.an Nicht-Arbeitnehmer,0,5,1,
-43,SKR49,101517765,5536,Transportkosten,0,5,1,
-43,SKR49,101517766,5539,Kostenerstattung der Gastmannschaften,0,5,1,
-43,SKR49,101517767,5542,Abgaben,0,5,1,
-43,SKR49,101517768,5545,Sonstige Kosten der Veranstaltung,0,5,1,
-43,SKR49,101517769,5550,Kosten der Sportanlagen,0,5,1,
-43,SKR49,101517770,5555,"Miete, Pacht",0,5,1,
-43,SKR49,101517771,5560,Strom,0,5,1,
-43,SKR49,101517772,5561,Wasser,0,5,1,
-43,SKR49,101517773,5562,"Gas, Heizung",0,5,1,
-43,SKR49,101517774,5565,Reparaturen,0,5,1,
-43,SKR49,101517775,5570,Allgemeine Kosten des Sportbetriebs,0,5,1,
-43,SKR49,101517776,5575,Verwaltungskosten,0,5,1,
-43,SKR49,101517777,5580,Reisekostenerstattungen,0,5,1,
-43,SKR49,101517778,5585,Reisekosten AN Verpflegungsmehraufwand,0,5,1,
-43,SKR49,101517779,5590,Reisekosten Arbeitnehmer,0,5,1,
-43,SKR49,101517780,5595,Km-Geld-Erstattung,0,5,1,
-43,SKR49,101517781,5600,Versicherungen,0,5,1,
-43,SKR49,101517782,5605,Sportkleidung,0,5,1,
-43,SKR49,101517783,5610,Ausbildungskostenersatz,0,5,1,
-43,SKR49,101517784,5620,"Betriebskosten Fahrzeuge,Transportmitt.",0,5,1,
-43,SKR49,101517785,5621,Kfz-Steuern,0,5,1,
-43,SKR49,101517786,5622,Kfz-Versicherungen,0,5,1,
-43,SKR49,101517787,5623,Laufende Kfz-Kosten,0,5,1,
-43,SKR49,101517788,5624,Kfz-Reparaturen,0,5,1,
-43,SKR49,101517789,5625,Sonstige Kfz-Kosten,0,5,1,
-43,SKR49,101517790,5630,Betriebskosten Ausstattung Sportgeräte,0,5,1,
-43,SKR49,101517791,5635,Betr.kosten Ausstattung Zweckbetrieb,0,5,1,
-43,SKR49,101517792,5640,Betriebskosten Sportgeräte,0,5,1,
-43,SKR49,101517793,5645,Reparaturen Sportgeräte,0,5,1,
-43,SKR49,101517794,5650,Sonstige Kosten Zweckbetrieb Sport 1,0,5,1,
-43,SKR49,101517795,5670,Verrechnete/aufgeteilte Kosten,0,5,1,
-43,SKR49,101517796,5672,Einstellungen in steuerliche Rücklagen,0,5,1,
-43,SKR49,101517797,5675,Anteilige Umsatzsteuerzahlungen,0,5,1,
-43,SKR49,101517798,5680,Aufzuteilende Vorsteuer Teilber.5001,0,5,1,
-43,SKR49,101517799,5685,Abziehbare Vorsteuer,0,5,1,
-43,SKR49,101517800,5690,Nicht abziehbare Vorsteuer,0,5,1,
-43,SKR49,101517801,5695,Aufzuteilende Posten Teilbereich 5001,0,5,1,
-43,SKR49,101517802,5700,Erlöse Sport 2 0% i.S.v.§4 Nr.22a UStG,0,5,1,
-43,SKR49,101517803,5702,Einnahmen aus Vorträgen/Sport 0% USt,0,5,1,
-43,SKR49,101517804,5704,Einnahmen aus Kursen/Sport 0 % USt,0,5,1,
-43,SKR49,101517805,5706,Einnahmen aus sonst.Veranstaltungen 0%,0,5,1,
-43,SKR49,101517806,5720,Sport-Erlöse 0% i.S.v. §4 Nr. 22b UStG,0,5,1,
-43,SKR49,101517807,5722,Teilnehmergebühren 0 % USt,0,5,1,
-43,SKR49,101517808,5724,Startgelder 0 % USt,0,5,1,
-43,SKR49,101517809,5726,Meldegebühren 0 % USt,0,5,1,
-43,SKR49,101517810,5728,Teilnehmergebühren 0% Sportwettkämpfe,0,5,1,
-43,SKR49,101517811,5740,Sport Jugendhilfe 0% §4 Nr.25a+b UStG,0,5,1,
-43,SKR49,101517812,5742,Einn.a.Lehrgäng.Jugendhilfe Sport 0 %,0,5,1,
-43,SKR49,101517813,5744,Einn.a.Sportunterricht Jugendhilfe 0%,0,5,1,
-43,SKR49,101517814,5750,Sport Jugendhilfe 0%i.S.v. §4Nr.25c UStG,0,5,1,
-43,SKR49,101517815,5752,Einn.a.Darbietungen Jugendlicher 0% USt,0,5,1,
-43,SKR49,101517816,5754,Einn.a.Darbietungen Jugendl.u.Erwachs.0%,0,5,1,
-43,SKR49,101517817,5760,Sonst.Einnahmen 0% Zweckbetrieb Sport 2,0,5,1,
-43,SKR49,101517818,5762,Anteilig verrechnete Einnahmen/Erlöse,0,5,1,
-43,SKR49,101517819,5780,Sonstige betriebliche Erträge,0,5,1,
-43,SKR49,101517820,5782,Veräußerungserlöse 0% §4 Nr.12 UStG,0,5,1,
-43,SKR49,101517821,5783,Erträge aus der Auflösung einer steuerlichen Rücklage,0,5,1,
-43,SKR49,101517822,5784,Einnahmen aus Nebenleistungen,0,5,1,
-43,SKR49,101517823,5790,Zuschreibungen,0,5,1,
-43,SKR49,101517824,5800,Aufwendungen für RHB/bezogene Waren,0,5,1,
-43,SKR49,101517825,5810,Aufwendungen für bezogene Leistungen,0,5,1,
-43,SKR49,101517826,5820,"Personalkosten Übungsleiter,Trainer",0,5,1,
-43,SKR49,101517827,5822,Sonstige Personalkosten,0,5,1,
-43,SKR49,101517828,5830,Soziale Abgaben allgmein,0,5,1,
-43,SKR49,101517829,5835,Abgaben für Altersversorgung,0,5,1,
-43,SKR49,101517830,5836,Beiträge zur Berufsgenossenschaft,0,5,1,
-43,SKR49,101517831,5840,Abschreibungen Anlagevermögen B 5000,0,5,1,
-43,SKR49,101517832,5844,Abschreibungen GWG,0,5,1,
-43,SKR49,101517833,5845,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,5,1,
-43,SKR49,101517834,5846,Anlagenabgänge Restbuchwerte,0,5,1,
-43,SKR49,101517835,5848,Kalkulatorische Abschreibungen,0,5,1,
-43,SKR49,101517836,5850,Abschreib.geleistete Ablösezahlungen,0,5,1,
-43,SKR49,101517837,5855,"Abschr. auf Umlaufvermögen, unüblich",0,5,1,
-43,SKR49,101517838,5860,Unmittelbare Kosten des Sportunterrichts,0,5,1,
-43,SKR49,101517839,5865,Unmittelb.Kost.Darbiet.Jugend/Erwachs.,0,5,1,
-43,SKR49,101517840,5870,Sonstige Kosten Teilbereich 5700,0,5,1,
-43,SKR49,101517841,5872,Sonstige Kosten sportl.Veranstaltg.,0,5,1,
-43,SKR49,101517842,5874,Sonstige Kosten Jugendhilfe,0,5,1,
-43,SKR49,101517843,5875,Einstellungen in steuerliche Rücklagen,0,5,1,
-43,SKR49,101517844,5876,Reisekostenerstattung Arbeitnehmer,0,5,1,
-43,SKR49,101517845,5878,"Betriebskosten Ausstattung, Geräte",0,5,1,
-43,SKR49,101517846,5880,Nicht abziehbare Vorsteuer,0,5,1,
-43,SKR49,101517847,5882,Verrechnungskto.aufzuteil.Posten TB5700,0,5,1,
-43,SKR49,101517848,5990,Umgebuchte Einnahmen B 5000 (Gkto.8980),0,5,1,
-43,SKR49,101517849,5992,Umgebuchte Ausgaben  B 5000 (Gkto.8990),0,5,1,
-43,SKR49,101517850,6000,Umsatzerlöse,0,6,1,
-43,SKR49,101517851,6005,Umsatzerlöse 7 %,0,6,1,
-43,SKR49,101517852,6008,Vermietung Sportanlagen an Mitglieder,0,6,1,
-43,SKR49,101517853,6010,Eintrittsgelder 7 %,0,6,1,
-43,SKR49,101517854,6012,Zuwendungen Dritter (Sponsoren) 7 %,0,6,1,
-43,SKR49,101517855,6015,Einnahmen aus Programmverkauf,0,6,1,
-43,SKR49,101517856,6045,Direkt mit dem Umsatz verbundene Steuern,0,6,1,
-43,SKR49,101517857,6050,Bestandsveränderung,0,6,1,
-43,SKR49,101517858,6055,andere aktivierte Eigenleistungen,0,6,1,
-43,SKR49,101517859,6059,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),0,6,1,
-43,SKR49,101517860,6060,sonstige betriebliche Erträge,0,6,1,
-43,SKR49,101517861,6065,Einnahmen aus Nebenleistungen,0,6,1,
-43,SKR49,101517862,6069,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ,0,6,1,
-43,SKR49,101517863,6070,Veranstaltungsgebundene Zuschüsse,0,6,1,
-43,SKR49,101517864,6075,Anteilige verrechnete Einnahmen/Umlagen,0,6,1,
-43,SKR49,101517865,6080,Verkaufserlöse Anlageverm.Zweckbetr.7 %,0,6,1,
-43,SKR49,101517866,6082,Erträge aus der Auflösung einer steuerlichen Rücklage,0,6,1,
-43,SKR49,101517867,6085,Unentgeltliche Wertabgaben 7 % USt,0,6,1,
-43,SKR49,101517868,6090,Zuschreibungen,0,6,1,
-43,SKR49,101517869,6170,Aufwendungen für RHB,0,6,1,
-43,SKR49,101517870,6180,Aufwendungen für bezogene Leistungen,0,6,1,
-43,SKR49,101517871,6200,Löhne und Gehälter,0,6,1,
-43,SKR49,101517872,6205,Personalkosten Übungsleiter,0,6,1,
-43,SKR49,101517873,6210,Aufwandsentschädigung §3 Nr.26 EStG,0,6,1,
-43,SKR49,101517874,6215,Aushilfslöhne,0,6,1,
-43,SKR49,101517875,6250,soziale Abgaben,0,6,1,
-43,SKR49,101517876,6251,Beiträge zur Berufsgenossenschaft,0,6,1,
-43,SKR49,101517877,6255,abgeführte Lohnsteuer,0,6,1,
-43,SKR49,101517878,6260,freiwillige soziale Aufwendungen,0,6,1,
-43,SKR49,101517879,6275,Abgaben für Altersversorgung,0,6,1,
-43,SKR49,101517880,6280,Abschreibungen Anlagevermögen,0,6,1,
-43,SKR49,101517881,6285,Abschreibungen GWG,0,6,1,
-43,SKR49,101517882,6286,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,6,1,
-43,SKR49,101517883,6290,Abschr.auf Umlaufvermögen (unüblich),0,6,1,
-43,SKR49,101517884,6300,sonstige betriebliche Aufwendungen,0,6,1,
-43,SKR49,101517885,6301,Werbekosten,0,6,1,
-43,SKR49,101517886,6302,Reparaturkosten Ausstattung,0,6,1,
-43,SKR49,101517887,6303,Transportkosten,0,6,1,
-43,SKR49,101517888,6305,Bewirtungskosten (abzugsfähig),0,6,1,
-43,SKR49,101517889,6310,Reisekosten,0,6,1,
-43,SKR49,101517890,6315,Reisekosten AN Verpflegungsmehraufwand,0,6,1,
-43,SKR49,101517891,6320,Reisekosten Arbeitnehmer,0,6,1,
-43,SKR49,101517892,6325,Km-Geld-Erstattung,0,6,1,
-43,SKR49,101517893,6328,Veranstaltungsabhängige Kosten,0,6,1,
-43,SKR49,101517894,6329,Reinigungskosten,0,6,1,
-43,SKR49,101517895,6330,Gebäudekosten,0,6,1,
-43,SKR49,101517896,6331,Strom,0,6,1,
-43,SKR49,101517897,6332,Wasser,0,6,1,
-43,SKR49,101517898,6333,"Gas, Heizung",0,6,1,
-43,SKR49,101517899,6334,Sonstige Raumkosten,0,6,1,
-43,SKR49,101517900,6335,Gema-Gebühren,0,6,1,
-43,SKR49,101517901,6336,Musikkosten,0,6,1,
-43,SKR49,101517902,6339,"Miete, Pacht",0,6,1,
-43,SKR49,101517903,6340,Verwaltungskosten,0,6,1,
-43,SKR49,101517904,6341,"Porto, Telefon, Bürobedarf",0,6,1,
-43,SKR49,101517905,6342,"Zeitschriften, Bücher (Fachliteratur)",0,6,1,
-43,SKR49,101517906,6345,Geschenke unter 35 EUR,0,6,1,
-43,SKR49,101517907,6346,Repräsentationskosten,0,6,1,
-43,SKR49,101517908,6350,"Fahrzeuge, Transportmittel",0,6,1,
-43,SKR49,101517909,6353,Versicherungen,0,6,1,
-43,SKR49,101517910,6354,Geringwertige Wirtschaftsgüter,0,6,1,
-43,SKR49,101517911,6355,Verrechnete/aufgeteilte Kosten,0,6,1,
-43,SKR49,101517912,6360,Anteilige Zinsaufwendungen,0,6,1,
-43,SKR49,101517913,6362,Einstellungen in steuerliche Rücklagen,0,6,1,
-43,SKR49,101517914,6365,Anteilige Umsatzsteuerzahlungen,0,6,1,
-43,SKR49,101517915,6375,Abziehbare Vorsteuer,0,6,1,
-43,SKR49,101517916,6377,Nicht abziehbare Vorsteuer,0,6,1,
-43,SKR49,101517917,6380,Aufzuteilende Vorsteuer,0,6,1,
-43,SKR49,101517918,6385,Aufzuteilende Posten Teilbereich 6000,0,6,1,
-43,SKR49,101517919,6410,Erträge aus Beteiligungen,0,6,1,
-43,SKR49,101517920,6420,Erträge aus anderen Wertpapieren,0,6,1,
-43,SKR49,101517921,6430,sonstige Zinsen und ähnl.Erträge,0,6,1,
-43,SKR49,101517922,6440,Abschreibungen auf Finanzanlagen,0,6,1,
-43,SKR49,101517923,6450,Zinsen und ähnl.Aufwendungen,0,6,1,
-43,SKR49,101517924,6470,Steuern vom Einkommen und vom Ertrag,0,6,1,
-43,SKR49,101517925,6475,sonstige Steuern,0,6,1,
-43,SKR49,101517926,6500,Umsatzerlöse,0,6,1,
-43,SKR49,101517927,6505,Umsatzerlöse 0 %,0,6,1,
-43,SKR49,101517928,6510,Eintrittsgelder 0%,0,6,1,
-43,SKR49,101517929,6515,Einnahmen aus Programmverkauf,0,6,1,
-43,SKR49,101517930,6520,Einnahmen aus Unterricht §4 Nr.22a UStG,0,6,1,
-43,SKR49,101517931,6525,Einnahmen kulturell.Veranst.Jugendhilfe,0,6,1,
-43,SKR49,101517932,6545,Direkt mit dem Umsatz verbundene Steuern,0,6,1,
-43,SKR49,101517933,6550,Bestandsveränderung,0,6,1,
-43,SKR49,101517934,6555,andere aktivierte Eigenleistungen,0,6,1,
-43,SKR49,101517935,6559,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),0,6,1,
-43,SKR49,101517936,6560,sonstige betriebliche Erträge,0,6,1,
-43,SKR49,101517937,6565,Einnahmen aus Nebenleistungen,0,6,1,
-43,SKR49,101517938,6570,veranstaltungsgebundene Zuschüsse,0,6,1,
-43,SKR49,101517939,6575,Anteilige verrechnete Einnahmen/Umlagen,0,6,1,
-43,SKR49,101517940,6580,Verkaufserlöse Anlageverm.Zweckbetr.0 %,0,6,1,
-43,SKR49,101517941,6582,Erträge aus der Auflösung einer steuerlichen Rücklage,0,6,1,
-43,SKR49,101517942,6585,Unentgeltliche Wertabgaben 0 % USt,0,6,1,
-43,SKR49,101517943,6590,Zuschreibungen,0,6,1,
-43,SKR49,101517944,6670,Aufwendungen für RHB,0,6,1,
-43,SKR49,101517945,6680,Aufwendungen für bezogene Leistungen,0,6,1,
-43,SKR49,101517946,6700,Löhne und Gehälter,0,6,1,
-43,SKR49,101517947,6705,Personalkosten Übungsleiter,0,6,1,
-43,SKR49,101517948,6710,Aufwandsentschädigung §3 Nr.26 EStG,0,6,1,
-43,SKR49,101517949,6715,Aushilfslöhne,0,6,1,
-43,SKR49,101517950,6750,soziale Abgaben,0,6,1,
-43,SKR49,101517951,6751,Beiträge zur Berufsgenossenschaft,0,6,1,
-43,SKR49,101517952,6755,abgeführte Lohnsteuer,0,6,1,
-43,SKR49,101517953,6760,freiwillige soziale Aufwendungen,0,6,1,
-43,SKR49,101517954,6775,Abgaben für Altersversorgung,0,6,1,
-43,SKR49,101517955,6780,Abschreibungen Anlagevermögen,0,6,1,
-43,SKR49,101517956,6785,Abschreibungen GWG,0,6,1,
-43,SKR49,101517957,6786,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,6,1,
-43,SKR49,101517958,6790,Abschr.auf Umlaufvermögen (unüblich),0,6,1,
-43,SKR49,101517959,6800,sonstige betriebliche Aufwendungen,0,6,1,
-43,SKR49,101517960,6805,Bewirtungskosten (abzugsfähig),0,6,1,
-43,SKR49,101517961,6810,Reisekosten,0,6,1,
-43,SKR49,101517962,6815,Reisekosten AN Verpflegungsmehraufwand,0,6,1,
-43,SKR49,101517963,6820,Reisekosten Arbeitnehmer,0,6,1,
-43,SKR49,101517964,6825,Km-Geld-Erstattung,0,6,1,
-43,SKR49,101517965,6830,Gebäudekosten,0,6,1,
-43,SKR49,101517966,6831,Strom,0,6,1,
-43,SKR49,101517967,6832,Wasser,0,6,1,
-43,SKR49,101517968,6833,"Gas, Heizung",0,6,1,
-43,SKR49,101517969,6834,Sonstige Raumkosten,0,6,1,
-43,SKR49,101517970,6835,Gema-Gebühren,0,6,1,
-43,SKR49,101517971,6839,"Miete, Pacht",0,6,1,
-43,SKR49,101517972,6840,Verwaltungskosten,0,6,1,
-43,SKR49,101517973,6841,"Porto, Telefon",0,6,1,
-43,SKR49,101517974,6842,Bürobedarf,0,6,1,
-43,SKR49,101517975,6845,Geschenke unter 35 EUR,0,6,1,
-43,SKR49,101517976,6848,Versicherungen,0,6,1,
-43,SKR49,101517977,6850,"Fahrzeuge, Transportmittel",0,6,1,
-43,SKR49,101517978,6855,Verrechnete/aufgeteilte Kosten,0,6,1,
-43,SKR49,101517979,6860,Anteilige Zinsaufwendungen,0,6,1,
-43,SKR49,101517980,6862,Einstellungen in steuerliche Rücklagen,0,6,1,
-43,SKR49,101517981,6865,Anteilige Umsatzsteuerzahlungen,0,6,1,
-43,SKR49,101517982,6875,Abziehbare Vorsteuer,0,6,1,
-43,SKR49,101517983,6877,Nicht abziehbare Vorsteuer,0,6,1,
-43,SKR49,101517984,6880,Aufzuteilende Vorsteuer,0,6,1,
-43,SKR49,101517985,6885,Aufzuteilende Posten Teilbereich 6500,0,6,1,
-43,SKR49,101517986,6890,Unmittelbare Kosten des Unterrichts,0,6,1,
-43,SKR49,101517987,6895,Unm.Kost.Darbietung.Jugendl.u.Erwachsene,0,6,1,
-43,SKR49,101517988,6910,Erträge aus Beteiligungen,0,6,1,
-43,SKR49,101517989,6930,sonstige Zinsen und ähnl.Erträge,0,6,1,
-43,SKR49,101517990,6940,Abschreibungen auf Finanzanlagen,0,6,1,
-43,SKR49,101517991,6950,Zinsen und ähnl.Aufwendungen,0,6,1,
-43,SKR49,101517992,6970,Steuern vom Einkommen und vom Ertrag,0,6,1,
-43,SKR49,101517993,6975,sonstige Steuern,0,6,1,
-43,SKR49,101517994,6990,Umgebuchte Einnahmen B 6000 (Gkto.8980),0,6,1,
-43,SKR49,101517995,6992,Umgebuchte Ausgaben B 5000 (Gkto. 8990),0,6,1,
-43,SKR49,101517996,7000,Einnahmen aus Geschäftsbetrieb.Sport,0,7,1,
-43,SKR49,101517997,7002,Einnahmen 19 % USt Sport 3,0,7,1,
-43,SKR49,101517998,7004,Eintritt aus Wettkämpfen 19 % USt,0,7,1,
-43,SKR49,101517999,7006,Eintritt a.Fußballspielen 19 % USt,0,7,1,
-43,SKR49,101518000,7008,Eintritt aus Sportturnieren 19 % USt,0,7,1,
-43,SKR49,101518001,7010,Eintritt aus sonst.Sportveranst. 19 % USt,0,7,1,
-43,SKR49,101518002,7012,Zuwendungen Dritter (Sponsoren) 19 % USt,0,7,1,
-43,SKR49,101518003,7021,Eintrittsgelder aus Sport 1 (19 % USt),0,7,1,
-43,SKR49,101518004,7022,Eintrittsgelder aus Sport 2 (19 % USt),0,7,1,
-43,SKR49,101518005,7023,Eintrittsgelder aus Sport 3 (19 % USt),0,7,1,
-43,SKR49,101518006,7050,Einn.a.Fußballspiel.mit Lizenzspielern,0,7,1,
-43,SKR49,101518007,7052,Eintrittsgelder 19 % USt,0,7,1,
-43,SKR49,101518008,7054,Einnahmen aus Ablösesummen 19 % USt,0,7,1,
-43,SKR49,101518009,7100,Sonst.Einnahmen Geschäftsbetr.Sport 3,0,7,1,
-43,SKR49,101518010,7102,Anteilige/verrechnete Einnahmen,0,7,1,
-43,SKR49,101518011,7104,Sonstige Erträge,0,7,1,
-43,SKR49,101518012,7106,Einn.a.Sportkursen/-lehrg.m.bez.Sportl.,0,7,1,
-43,SKR49,101518013,7150,Einnahmen a.Ablöse bez.Sportler 19 % USt,0,7,1,
-43,SKR49,101518014,7152,Verkaufserl.Anlagev.TB 7001 19 % USt,0,7,1,
-43,SKR49,101518015,7154,Einnahmen aus Nebenleistungen,0,7,1,
-43,SKR49,101518016,7160,Erträge aus der Auflösung einer steuerlichen Rücklage,0,7,1,
-43,SKR49,101518017,7190,Erträge aus Zuschreibungen des Anlagevermögens,0,7,1,
-43,SKR49,101518018,7200,Aufwendungen für RHB/bezogene Waren,0,7,1,
-43,SKR49,101518019,7210,Aufwendungen für bezogene Leistungen,0,7,1,
-43,SKR49,101518020,7220,Löhne und Gehälter,0,7,1,
-43,SKR49,101518021,7222,Vergütungen an Sportler,0,7,1,
-43,SKR49,101518022,7224,Vergütungen i.S.v. §67a Abs.3 Satz 3 AO,0,7,1,
-43,SKR49,101518023,7226,Sportlervergütungen an aktive Mitglieder,0,7,1,
-43,SKR49,101518024,7228,Sonstige Vergütung.an aktive Mitglieder,0,7,1,
-43,SKR49,101518025,7230,Sportlervergüt.aktive Nichtmitglieder,0,7,1,
-43,SKR49,101518026,7232,"Personalkosten Trainer,Übungsleiter",0,7,1,
-43,SKR49,101518027,7234,Sonstige Personalkosten,0,7,1,
-43,SKR49,101518028,7236,Aushilfslöhne,0,7,1,
-43,SKR49,101518029,7250,Sozialversicherungsbeiträge,0,7,1,
-43,SKR49,101518030,7251,Beiträge zur Berufsgenossenschaft,0,7,1,
-43,SKR49,101518031,7252,Abgeführte Lohnsteuer,0,7,1,
-43,SKR49,101518032,7265,Abgaben für Altersversorgung,0,7,1,
-43,SKR49,101518033,7270,Abschreibung Anlagevermögen TB 7000,0,7,1,
-43,SKR49,101518034,7272,Abschreibungen,0,7,1,
-43,SKR49,101518035,7274,Abschreibungen GWG,0,7,1,
-43,SKR49,101518036,7275,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,7,1,
-43,SKR49,101518037,7278,Kalkulatorische Abschreibungen,0,7,1,
-43,SKR49,101518038,7280,"Abschr. auf Umlaufvermögen, unüblich",0,7,1,
-43,SKR49,101518039,7300,Reisekosten,0,7,1,
-43,SKR49,101518040,7302,Reisekosten AN Verpflegungsmehraufwand,0,7,1,
-43,SKR49,101518041,7304,Reisekosten Arbeitnehmer,0,7,1,
-43,SKR49,101518042,7306,Km-Geld-Erstattung,0,7,1,
-43,SKR49,101518043,7308,Sonstiger Reisekostenersatz,0,7,1,
-43,SKR49,101518044,7310,Kostenerstattung an Gastmannschaften,0,7,1,
-43,SKR49,101518045,7312,Sonstige Vergütungen,0,7,1,
-43,SKR49,101518046,7314,Aufwand für andere Vorteile,0,7,1,
-43,SKR49,101518047,7316,Gezahlte Preisgelder an bezahlt.Sportler,0,7,1,
-43,SKR49,101518048,7318,Aufwandsersatz,0,7,1,
-43,SKR49,101518049,7320,Anteilige Aufwandspauschale TB 7001,0,7,1,
-43,SKR49,101518050,7350,Sonstige veranstaltungsabhängig.Kosten,0,7,1,
-43,SKR49,101518051,7352,Reisekostenerstattung an Nichtaktive,0,7,1,
-43,SKR49,101518052,7354,Transportkosten,0,7,1,
-43,SKR49,101518053,7356,Abgaben,0,7,1,
-43,SKR49,101518054,7358,Sonstige Kosten,0,7,1,
-43,SKR49,101518055,7380,Kosten der Sportanlagen,0,7,1,
-43,SKR49,101518056,7382,Personalkosten,0,7,1,
-43,SKR49,101518057,7384,"Miete, Pacht",0,7,1,
-43,SKR49,101518058,7385,Strom,0,7,1,
-43,SKR49,101518059,7386,Wasser,0,7,1,
-43,SKR49,101518060,7387,"Gas, Heizung",0,7,1,
-43,SKR49,101518061,7388,Reparaturen,0,7,1,
-43,SKR49,101518062,7400,Allgemeine Kosten des Sportbetriebs,0,7,1,
-43,SKR49,101518063,7402,Anteilige Personalkosten,0,7,1,
-43,SKR49,101518064,7404,Verwaltungskosten,0,7,1,
-43,SKR49,101518065,7406,Reisekostenerstattung,0,7,1,
-43,SKR49,101518066,7408,Reisekosten AN Verpflegungsmehraufwand,0,7,1,
-43,SKR49,101518067,7410,Reisekosten Arbeitnehmer,0,7,1,
-43,SKR49,101518068,7412,Km-Geld-Erstattung,0,7,1,
-43,SKR49,101518069,7414,Versicherungen,0,7,1,
-43,SKR49,101518070,7416,Sportkleidung,0,7,1,
-43,SKR49,101518071,7418,Ausbildungskostenersatz,0,7,1,
-43,SKR49,101518072,7430,"Betriebskosten Fahrzeuge,Transportmitt.",0,7,1,
-43,SKR49,101518073,7432,Kfz-Kosten,0,7,1,
-43,SKR49,101518074,7440,"Betriebskosten Ausstattung,Sportgeräte",0,7,1,
-43,SKR49,101518075,7442,Betriebskosten Ausstattung TB 7001,0,7,1,
-43,SKR49,101518076,7444,Betriebskosten Sportgeräte TB 7001,0,7,1,
-43,SKR49,101518077,7446,Reparaturkosten Ausstattung/Geräte,0,7,1,
-43,SKR49,101518078,7462,"Sonstige Steuern, Abgaben",0,7,1,
-43,SKR49,101518079,7500,Verschiedene Kosten Teilbereich 7001,0,7,1,
-43,SKR49,101518080,7502,Verrechnete/aufgeteilte Kosten,0,7,1,
-43,SKR49,101518081,7504,Anteilige Umsatzsteuerzahlungen,0,7,1,
-43,SKR49,101518082,7506,Aufzuteilende Vorsteuer,0,7,1,
-43,SKR49,101518083,7508,Abziehbare Vorsteuer,0,7,1,
-43,SKR49,101518084,7510,Nicht abziehbare Vorsteuer,0,7,1,
-43,SKR49,101518085,7512,Beiträge,0,7,1,
-43,SKR49,101518086,7514,Anteilige Verwaltungskosten,0,7,1,
-43,SKR49,101518087,7516,Aufzuteilende Posten Teilbereich 7001,0,7,1,
-43,SKR49,101518088,7517,Einstellungen in steuerliche Rücklagen,0,7,1,
-43,SKR49,101518089,7518,Ertr.a.Storno Aufw.pauschal.(Gkto.3795),0,7,1,
-43,SKR49,101518090,7520,Ertr.a.Storno Trainingskst.(Gkto.3795),0,7,1,
-43,SKR49,101518091,7800,Werbeeinnahmen i.eigener Regie b.Sport,0,7,1,
-43,SKR49,101518092,7801,Einnahmen Reklameflächen 19% USt in Eigenregie,0,7,1,
-43,SKR49,101518093,7802,Einnahmen Trikotwerbung 19% USt in Eigenregie,0,7,1,
-43,SKR49,101518094,7803,Einnahmen Sportgerätewerbung 19% USt in Eigenregie,0,7,1,
-43,SKR49,101518095,7804,Einnahmen Bandenwerbung 19% USt in Eigenregie,0,7,1,
-43,SKR49,101518096,7805,Einnahmen aus Plakatwerbung und ähnliches 19% USt in Eigenregie,0,7,1,
-43,SKR49,101518097,7806,Einnahmen Lautsprecherwerbung 19% USt in Eigenregie,0,7,1,
-43,SKR49,101518098,7810,Einnahmen aus übertragenen Werberechten im wirtschaftlichen Geschäftsbetrieb,0,7,1,
-43,SKR49,101518099,7811,Einnahmen Trikotwerberechte 19% USt im wirtschaftlichen Geschäftsbetrieb,0,7,1,
-43,SKR49,101518100,7812,Einnahmen Sportgeräte-Werberechte 19% USt im wirtschaftlichen Geschäftsbetrieb,0,7,1,
-43,SKR49,101518101,7813,Einnahmen a. sonst. übertr. Werberechten im wirtschaftlichen Geschäftsbetrieb,0,7,1,
-43,SKR49,101518102,7820,Einnahmen Inserate/Werbeanzeigen in Eigenregie,0,7,1,
-43,SKR49,101518103,7821,Einnahmen Verkauf Embleme/Abzeichen in Eigenregie,0,7,1,
-43,SKR49,101518104,7830,Kurzfr.Vermiet.Sportstätten a.Nichtmitgl,0,7,1,
-43,SKR49,101518105,7831,Kurzfr.Vermietung a.Nichtmitgl.,0,7,1,
-43,SKR49,101518106,7832,Stundenw.Vermietung v.Spielfeld. 19 % USt,0,7,1,
-43,SKR49,101518107,7833,Stundenw.Vermietung v.Tennispl. 19 % USt,0,7,1,
-43,SKR49,101518108,7834,Stundenw.Vermiet.v.Schwimmhallen 19 %USt,0,7,1,
-43,SKR49,101518109,7835,Stundenw.Vermiet.v.Kegelbahnen 19 % USt,0,7,1,
-43,SKR49,101518110,7836,Stundenw.Vermiet.v.Geräten 19 % USt,0,7,1,
-43,SKR49,101518111,7837,Einnahmen Greenfee 19 % USt,0,7,1,
-43,SKR49,101518112,7840,Sonstige Einnahmen Teilbereich 7800,0,7,1,
-43,SKR49,101518113,7842,Erträge aus der Auflösung einer steuerlichen Rücklage,0,7,1,
-43,SKR49,101518114,7850,Unmittelbare Ausgaben zur Werbung,0,7,1,
-43,SKR49,101518115,7851,Werbekostenpauschbetrag 85% (Gkto.3795),0,7,1,
-43,SKR49,101518116,7852,Tatsächliche Kosten Werbung,0,7,1,
-43,SKR49,101518117,7854,Anteilige Druckkosten,0,7,1,
-43,SKR49,101518118,7855,Anteilige Versandkosten,0,7,1,
-43,SKR49,101518119,7856,Werbemittlungskosten,0,7,1,
-43,SKR49,101518120,7858,Ertr.Storno tatsäch.Werbekost.(Gkt.3795),0,7,1,
-43,SKR49,101518121,7860,Unmittelb.Ausgaben Sportstättenvermiet.,0,7,1,
-43,SKR49,101518122,7861,Anteilige Kostenumlage f.Sportstätten,0,7,1,
-43,SKR49,101518123,7870,Verschiedene Kosten Teilbereich 7800,0,7,1,
-43,SKR49,101518124,7871,Verrechnete/aufgeteilte Kosten TB7800,0,7,1,
-43,SKR49,101518125,7874,Einstellungen in steuerliche Rücklagen,0,7,1,
-43,SKR49,101518126,7875,Anteilige Umsatzsteuerzahlungen,0,7,1,
-43,SKR49,101518127,7876,Aufzuteilende Vorsteuer,0,7,1,
-43,SKR49,101518128,7877,Abziehbare Vorsteuer,0,7,1,
-43,SKR49,101518129,7878,Nicht abziehbare Vorsteuer,0,7,1,
-43,SKR49,101518130,7879,Aufzuteilende Posten Teilbereich 7800,0,7,1,
-43,SKR49,101518131,8000,Einnahmen aus Umsatzerlösen,0,8,1,
-43,SKR49,101518132,8002,Eintr.gelder aus geselligen Veranstalt.,0,8,1,
-43,SKR49,101518133,8004,Erlöse aus Handelswaren,0,8,1,
-43,SKR49,101518134,8006,Erlöse aus Leistungen,0,8,1,
-43,SKR49,101518135,8008,Erlöse aus Leihgebühren,0,8,1,
-43,SKR49,101518136,8010,Erlöse aus Geldspielautomaten,0,8,1,
-43,SKR49,101518137,8012,Einnahmen aus Werbung Reklameflächen,0,8,1,
-43,SKR49,101518138,8014,Anzeigengeschäfte (Vereinszeitschr...),0,8,1,
-43,SKR49,101518139,8016,Sonstige Werbeeinnahmen,0,8,1,
-43,SKR49,101518140,8018,Kurzfr.Benutzungsgeb.v.Nichtmitglied.,0,8,1,
-43,SKR49,101518141,8020,Erlöse USt-frei §4 Nr.7 ff UStG,0,8,1,
-43,SKR49,101518142,8022,Einn.a.steuerschädl.Lotterien/Ausspiel.,0,8,1,
-43,SKR49,101518143,8024,Erlöse USt-frei §4 Nr.1-6 UStG,0,8,1,
-43,SKR49,101518144,8025,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ,0,8,1,
-43,SKR49,101518145,8026,Erlöse 7 % Umsatzsteuer,0,8,1,
-43,SKR49,101518146,8028,Erl.Speis./Getr. 7 % (kein Verzehr a.Ort),0,8,1,
-43,SKR49,101518147,8030,Erlöse 19 % USt,0,8,1,
-43,SKR49,101518148,8032,Erlöse 19 % USt Vereinsgastst. u.ä.,0,8,1,
-43,SKR49,101518149,8034,Erl.Speise/Getr.ausserh.Gastst. 19 % USt,0,8,1,
-43,SKR49,101518150,8036,Erlöse Festzeltbetrieb 19 % USt,0,8,1,
-43,SKR49,101518151,8038,Getränkeumsatz alkoholfrei,0,8,1,
-43,SKR49,101518152,8040,Getränkeumsatz alkoholisch,0,8,1,
-43,SKR49,101518153,8042,Verrechnungskonto Geldspielautomaten,0,8,1,
-43,SKR49,101518154,8044,Provisionserlöse,0,8,1,
-43,SKR49,101518155,8045,Direkt mit dem Umsatz verbundene Steuern,0,8,1,
-43,SKR49,101518156,8046,Erlösschmälerungen,0,8,1,
-43,SKR49,101518157,8048,Nicht steuerbare Umsätze (Innenumsätze),0,8,1,
-43,SKR49,101518158,8050,Umsatzsteuervergütungen,0,8,1,
-43,SKR49,101518159,8052,Unentgeltliche Wertabgaben,0,8,1,
-43,SKR49,101518160,8054,Entnahme v.Gegenst.3/1b/1 UStG (Waren),0,8,1,
-43,SKR49,101518161,8056,Unentgelt.Zuwend.Gegenst.3/1b/2.3 UStG,0,8,1,
-43,SKR49,101518162,8090,Bestandsveränderung,0,8,1,
-43,SKR49,101518163,8095,andere aktivierte Eigenleistungen,0,8,1,
-43,SKR49,101518164,8099,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),0,8,1,
-43,SKR49,101518165,8100,Sonstige betriebliche Erträge,0,8,1,
-43,SKR49,101518166,8102,Erlöse Verkauf Anlagevermögen TB 8001,0,8,1,
-43,SKR49,101518167,8104,Verwend.v.Gegenst. §3/9a/1 UStG,0,8,1,
-43,SKR49,101518168,8106,Unentgeltl.Leistungserbring.3/9a/1 UStG,0,8,1,
-43,SKR49,101518169,8108,Erlöse Abfallverwertung,0,8,1,
-43,SKR49,101518170,8110,Erlöse Leergut,0,8,1,
-43,SKR49,101518171,8112,Anteilige/verrechnete Einnahmen,0,8,1,
-43,SKR49,101518172,8114,Erhaltene Zinsen auf Betriebsteuern,0,8,1,
-43,SKR49,101518173,8130,Erträge aus der Auflösung einer steuerlichen Rücklage,0,8,1,
-43,SKR49,101518174,8131,Sonstige Erträge unregelmäßig,0,8,1,
-43,SKR49,101518175,8132,Sonstige Erträge betrieblich und regelmäßig,0,8,1,
-43,SKR49,101518176,8133,Erstattungen nach AAG,0,8,1,
-43,SKR49,101518177,8134,Verrechnete sonstige Sachbezüge (keine Waren),0,8,1,
-43,SKR49,101518178,8140,Zuschreibungen,0,8,1,
-43,SKR49,101518179,8150,Wareneinkauf,0,8,1,
-43,SKR49,101518180,8152,Wareneingang 7 % Vorsteuer,0,8,1,
-43,SKR49,101518181,8154,Wareneingang 19 % Vorsteuer,0,8,1,
-43,SKR49,101518182,8156,Handelswaren,0,8,1,
-43,SKR49,101518183,8158,Tatsächliche Kosten Altpapiersammlungen,0,8,1,
-43,SKR49,101518184,8160,Tatsächl.Kosten Altmaterialsammlungen,0,8,1,
-43,SKR49,101518185,8162,Ausgabenpausch.95%  Altpap.(Gkto.3895),0,8,1,
-43,SKR49,101518186,8164,Ausgabenpausch.80%  Altmat.(Gkto.3895),0,8,1,
-43,SKR49,101518187,8166,Ertrag aus Stornokost.Altpap./Altmat.,0,8,1,
-43,SKR49,101518188,8172,Bezugs- und Nebenkosten,0,8,1,
-43,SKR49,101518189,8200,Fremdleistungen,0,8,1,
-43,SKR49,101518190,8210,Löhne und Gehälter,0,8,1,
-43,SKR49,101518191,8212,Aushilfslöhne,0,8,1,
-43,SKR49,101518192,8213,Löhne für Minijobs,0,8,1,
-43,SKR49,101518193,8214,Bedienungsgelder,0,8,1,
-43,SKR49,101518194,8215,Freiwillige Zuwendungen an Minijobber,0,8,1,
-43,SKR49,101518195,8216,Vermögenswirksame Leistungen,0,8,1,
-43,SKR49,101518196,8217,Sachzuwendungen an Arbeitnehmer,0,8,1,
-43,SKR49,101518197,8218,Sachzuwendungen an Minijobber,0,8,1,
-43,SKR49,101518198,8219,Fahrtkostenerstattung Wohnung/Arbeitsstätte,0,8,1,
-43,SKR49,101518199,8220,Zuschüsse der Agenturen für Arbeit (Haben),0,8,1,
-43,SKR49,101518200,8221,Pauschale Steuer auf sonstige Bezüge,0,8,1,
-43,SKR49,101518201,8222,Pauschale Steuer für Arbeitnehmer,0,8,1,
-43,SKR49,101518202,8223,Pauschale Steuer für Aushilfen,0,8,1,
-43,SKR49,101518203,8226,Pauschale Steuer für Minijobber,0,8,1,
-43,SKR49,101518204,8230,Sozialversicherungsbeiträge,0,8,1,
-43,SKR49,101518205,8231,"Freiwillige soziale Aufwendungen, LSt frei",0,8,1,
-43,SKR49,101518206,8232,Abgeführte Lohnsteuer,0,8,1,
-43,SKR49,101518207,8233,Aufwendungen aus der Veränderung von Urlaubsrückstellungen,0,8,1,
-43,SKR49,101518208,8235,Abgaben für Altersversorgung,0,8,1,
-43,SKR49,101518209,8236,Beiträge zur Berufsgenossenschaft,0,8,1,
-43,SKR49,101518210,8237,Soziale Abgaben für Minijobber,0,8,1,
-43,SKR49,101518211,8238,Pauschale Steuer auf sonstige Bezüge,0,8,1,
-43,SKR49,101518212,8239,Aufwendungen für Unterstützung,0,8,1,
-43,SKR49,101518213,8240,Abschreibungen Anlagevermögen,0,8,1,
-43,SKR49,101518214,8242,Abschreibungen GWG,0,8,1,
-43,SKR49,101518215,8243,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,8,1,
-43,SKR49,101518216,8244,Anlagenabgänge/Restbuchwerte,0,8,1,
-43,SKR49,101518217,8246,Kalkulatorische Abschreibungen,0,8,1,
-43,SKR49,101518218,8270,Abschr.auf Umlaufvermögen (unüblich),0,8,1,
-43,SKR49,101518219,8300,Anteilige Raumkosten,0,8,1,
-43,SKR49,101518220,8302,"Miete, Pacht",0,8,1,
-43,SKR49,101518221,8303,Strom,0,8,1,
-43,SKR49,101518222,8304,Wasser,0,8,1,
-43,SKR49,101518223,8305,"Gas, Heizung",0,8,1,
-43,SKR49,101518224,8306,Reinigungskosten,0,8,1,
-43,SKR49,101518225,8308,Verwaltungskosten,0,8,1,
-43,SKR49,101518226,8310,Büromaterial,0,8,1,
-43,SKR49,101518227,8312,Porto,0,8,1,
-43,SKR49,101518228,8313,Telefon,0,8,1,
-43,SKR49,101518229,8314,"Zinsen, Bankspesen",0,8,1,
-43,SKR49,101518230,8318,"Versicherungen, Beiträge",0,8,1,
-43,SKR49,101518231,8320,Sonstige Abgaben,0,8,1,
-43,SKR49,101518232,8322,Fahrzeugkosten,0,8,1,
-43,SKR49,101518233,8324,Pkw-Kosten,0,8,1,
-43,SKR49,101518234,8326,Garagenmieten,0,8,1,
-43,SKR49,101518235,8328,Fremdfahrzeuge,0,8,1,
-43,SKR49,101518236,8330,Werbe- und Reisekosten,0,8,1,
-43,SKR49,101518237,8332,Geschenke bis 35 EUR,0,8,1,
-43,SKR49,101518238,8334,Bewirtungskosten (abzugsfähig),0,8,1,
-43,SKR49,101518239,8336,Reisekosten Arbeitnehmer,0,8,1,
-43,SKR49,101518240,8338,Reisekosten AN Verpflegungsmehraufwand,0,8,1,
-43,SKR49,101518241,8340,Reisekosten Arbeitnehmer,0,8,1,
-43,SKR49,101518242,8342,Km-Geld-Erstattung,0,8,1,
-43,SKR49,101518243,8370,Einstellungen in steuerliche Rücklagen,0,8,1,
-43,SKR49,101518244,8378,Anteilige Umsatzsteuerzahlungen,0,8,1,
-43,SKR49,101518245,8380,Aufzuteilende Vorsteuer,0,8,1,
-43,SKR49,101518246,8382,Abziehbare Vorsteuer,0,8,1,
-43,SKR49,101518247,8384,Nicht abziehbare Vorsteuer,0,8,1,
-43,SKR49,101518248,8410,Erträge aus anderen Wertpapieren,0,8,1,
-43,SKR49,101518249,8420,sonstige Zinsen und ähnl.Erträge,0,8,1,
-43,SKR49,101518250,8430,Abschreibungen auf Finanzanlagen,0,8,1,
-43,SKR49,101518251,8440,Zinsen und ähnl.Aufwendungen,0,8,1,
-43,SKR49,101518252,8470,Steuern vom Einkommen und vom Ertrag,0,8,1,
-43,SKR49,101518253,8480,sonstige Steuern,0,8,1,
-43,SKR49,101518254,8500,Umsatzerlöse,0,8,1,
-43,SKR49,101518255,8545,Direkt mit dem Umsatz verbundene Steuern,0,8,1,
-43,SKR49,101518256,8590,Bestandsveränderungen,0,8,1,
-43,SKR49,101518257,8595,andere aktivierte Eigenleistungen,0,8,1,
-43,SKR49,101518258,8599,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),0,8,1,
-43,SKR49,101518259,8600,sonstige betriebliche Erträge,0,8,1,
-43,SKR49,101518260,8630,Erträge aus der Auflösung einer steuerlichen Rücklage,0,8,1,
-43,SKR49,101518261,8640,Zuschreibungen,0,8,1,
-43,SKR49,101518262,8700,Aufwendungen für bezogene Leistungen,0,8,1,
-43,SKR49,101518263,8710,Löhne und Gehälter,0,8,1,
-43,SKR49,101518264,8720,soziale Abgaben,0,8,1,
-43,SKR49,101518265,8735,Abgaben für Altersversorgung,0,8,1,
-43,SKR49,101518266,8736,Beiträge zur Berufsgenossenschaft,0,8,1,
-43,SKR49,101518267,8740,Abschreibungen Anlagevermögen,0,8,1,
-43,SKR49,101518268,8745,Abschreibungen GWG,0,8,1,
-43,SKR49,101518269,8746,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,0,8,1,
-43,SKR49,101518270,8770,Abschr.auf Umlaufvermögen (unüblich),0,8,1,
-43,SKR49,101518271,8800,sonstige betriebliche Aufwendungen,0,8,1,
-43,SKR49,101518272,8830,Einstellungen in steuerliche Rücklagen,0,8,1,
-43,SKR49,101518273,8838,Anteilige Umsatzsteuerzahlungen,0,8,1,
-43,SKR49,101518274,8840,Aufzuteilende Vorsteuer,0,8,1,
-43,SKR49,101518275,8842,Abziehbare Vorsteuer,0,8,1,
-43,SKR49,101518276,8844,Nicht abziehbare Vorsteuer,0,8,1,
-43,SKR49,101518277,8860,Erträge aus anderen Wertpapieren,0,8,1,
-43,SKR49,101518278,8870,sonstige Zinsen und ähnl.Erträge,0,8,1,
-43,SKR49,101518279,8880,Abschreibungen auf Finanzanlagen,0,8,1,
-43,SKR49,101518280,8890,Zinsen und ähnl. Aufwendungen,0,8,1,
-43,SKR49,101518281,8920,Steuern vom Einkommen und vom Ertrag,0,8,1,
-43,SKR49,101518282,8930,sonstige Steuern,0,8,1,
-43,SKR49,101518283,8980,Umgebuchte Einnahmen bisheriger Zweckbet,0,8,1,
-43,SKR49,101518284,8990,Umgebuchte Ausgaben bisheriger Zweckbetr,0,8,1,
-43,SKR49,101518285,9000,Saldovorträge Sachkonten,0,8,1,
-43,SKR49,101518286,9008,Saldovorträge Debitoren,0,8,1,
-43,SKR49,101518287,9009,Saldovorträge Kreditoren,0,8,1,
-43,SKR49,101518288,9090,Summenvortrag,0,8,1,
+Kontenplan ID,Kontenplan,ID,Buchungskonto,Bezeichnung,Ãœbergeordnetes Konto,Kontenklasse,Benutzerdefinierte Kontengruppe,Status
+43,SKR49,101517258,0010,Konzessionen und gewerbl.Schutzrechte,0010,Aktiva,,0
+43,SKR49,101517259,0015,Konzessionen,0010,Aktiva,,0
+43,SKR49,101517260,0016,AblÃ¶se bezahlte Sportler,0010,Aktiva,,0
+43,SKR49,101517261,0017,AblÃ¶se unbezahlte Sportler bis 2.556 Euro,0010,Aktiva,,0
+43,SKR49,101517262,0018,AblÃ¶se unbezahlte Sportler Ã¼ber 2.556 Euro,0010,Aktiva,,0
+43,SKR49,101517263,0020,Gewerbliche Schutzrechte,0020,Aktiva,,0
+43,SKR49,101517264,0025,Ã„hnliche Rechte und Werte,0020,Aktiva,,0
+43,SKR49,101517265,0026,Rechtswerte,0020,Aktiva,,0
+43,SKR49,101517266,0027,EDV-Software,0020,Aktiva,,0
+43,SKR49,101517267,0030,Lizenzen an gewerblichen Schutzrechten und Ã¤hnlichen Rechten und Werten,0030,Aktiva,,0
+43,SKR49,101517268,0035,GeschÃ¤fts- oder Firmenwert,0030,Aktiva,,0
+43,SKR49,101517269,0050,Unbebaute GrundstÃ¼cke,0050,Aktiva,,0
+43,SKR49,101517270,0055,GrundstÃ¼ckswerte eigener GrundstÃ¼cke babaut mit GebÃ¤uden,0050,Aktiva,,0
+43,SKR49,101517271,0060,GrundstÃ¼ckswerte eigener GrundstÃ¼cke bebaut mit Anlagen,0060,Aktiva,,0
+43,SKR49,101517272,0070,"GrundstÃ¼cksgleiche Rechte (Erbbaurecht, Dauerwohnrecht, unbebaute GrundstÃ¼cke)",0070,Aktiva,,0
+43,SKR49,101517273,0100,GebÃ¤ude,0100,Aktiva,,0
+43,SKR49,101517274,0110,Vereinsheim,0110,Aktiva,,0
+43,SKR49,101517275,0111,Sporthallen,0110,Aktiva,,0
+43,SKR49,101517276,0112,Sportanlagen,0110,Aktiva,,0
+43,SKR49,101517277,0120,VereinsgastÃ¤tte ,0120,Aktiva,,0
+43,SKR49,101517278,0125,Sonstige VereinsgebÃ¤ude,0120,Aktiva,,0
+43,SKR49,101517279,0130,GeschÃ¤ftsbauten,0130,Aktiva,,0
+43,SKR49,101517280,0155,AuÃŸenanlagen,0150,Aktiva,,0
+43,SKR49,101517281,0160,Hof- und Wegebefestigungen,0160,Aktiva,,0
+43,SKR49,101517282,0170,Einrichtungen fÃ¼r GebÃ¤ude,0170,Aktiva,,0
+43,SKR49,101517283,0175,"Ausbauten, Anbauten und Zubauten",0170,Aktiva,,0
+43,SKR49,101517284,0200,Technische Anlagen,0200,Aktiva,,0
+43,SKR49,101517285,0205,Maschinen,0200,Aktiva,,0
+43,SKR49,101517286,0210,Betriebsvorrichtungen,0210,Aktiva,,0
+43,SKR49,101517287,0215,Sportvorrichtungen,0210,Aktiva,,0
+43,SKR49,101517288,0220,Vereinsheimausstattung,0220,Aktiva,,0
+43,SKR49,101517289,0250,"Kraftfahrzeuge, Transportmittel",0250,Aktiva,,0
+43,SKR49,101517290,0255,Pkw,0250,Aktiva,,0
+43,SKR49,101517291,0260,AnhÃ¤nger,0260,Aktiva,,0
+43,SKR49,101517292,0265,Pflegemaschinen,0260,Aktiva,,0
+43,SKR49,101517293,0300,Vereinsausstattung,0300,Aktiva,,0
+43,SKR49,101517294,0305,Vereinskleidung,0300,Aktiva,,0
+43,SKR49,101517295,0310,SportgerÃ¤te,0310,Aktiva,,0
+43,SKR49,101517296,0315,Werkzeuge,0310,Aktiva,,0
+43,SKR49,101517297,0320,BÃ¼roeinrichtung,0320,Aktiva,,0
+43,SKR49,101517298,0330,Einrichtung Vereinsheim,0330,Aktiva,,0
+43,SKR49,101517299,0335,Sonstiges Inventar,0330,Aktiva,,0
+43,SKR49,101517300,0340,Geringwertige WirtschaftsgÃ¼ter,0340,Aktiva,,0
+43,SKR49,101517301,0341,Geringwertige WirtschaftsgÃ¼ter (Sammelposten),0340,Aktiva,,0
+43,SKR49,101517302,0400,Sonstige Anlagen und Ausstattung,0400,Aktiva,,0
+43,SKR49,101517303,0405,Betriebsausstattung,0400,Aktiva,,0
+43,SKR49,101517304,0410,GeschÃ¤ftsausstattung,0410,Aktiva,,0
+43,SKR49,101517305,0415,BÃ¼roeinrichtung,0410,Aktiva,,0
+43,SKR49,101517306,0420,Ladeneinrichtung,0420,Aktiva,,0
+43,SKR49,101517307,0425,Werkzeuge,0420,Aktiva,,0
+43,SKR49,101517308,0475,Geringwertige WirtschaftsgÃ¼ter,0470,Aktiva,,0
+43,SKR49,101517309,0476,Geringwertige WirtschaftsgÃ¼ter (Sammelposten),0470,Aktiva,,0
+43,SKR49,101517310,0485,GebÃ¤ude im Bau,0480,Aktiva,,0
+43,SKR49,101517311,0495,Sonstige Sachanlagen im Bau,0490,Aktiva,,0
+43,SKR49,101517312,0530,Rechtswerte,0530,Aktiva,,0
+43,SKR49,101517313,0531,AblÃ¶se bezahlter Sportler,0530,Aktiva,,0
+43,SKR49,101517314,0533,AblÃ¶se unbez.Sportler bis 2556 Euro,0530,Aktiva,,0
+43,SKR49,101517315,0534,AblÃ¶se unbez.Sportler Ã¼ber 2556 Euro,0530,Aktiva,,0
+43,SKR49,101517316,0545,Wertpapiere des AnlagevermÃ¶gens,0540,Aktiva,,0
+43,SKR49,101517317,0555,Geleistete Kautionen,0550,Aktiva,,1
+43,SKR49,101517318,0560,Darlehen,0560,Aktiva,,0
+43,SKR49,101517319,0630,Geleistete Anzahlungen auf VorrÃ¤te,0630,Aktiva,,0
+43,SKR49,101517320,0650,Forderungen aus Lieferungen/Leistungen,0650,Aktiva,,1
+43,SKR49,101517321,0655,Forderungen aus Vereinsbereichen,0650,Aktiva,,0
+43,SKR49,101517322,0660,"Forderungen zu Einnahmen 11/1,S2EStG",0660,Aktiva,,0
+43,SKR49,101517323,0665,Wertberichtigungen Forderungen ,0660,Aktiva,,0
+43,SKR49,101517324,0680,Forderungen gg. verbund.Untern.,0680,Aktiva,,0
+43,SKR49,101517325,0700,Sonstige VermÃ¶gensgegenstÃ¤nde,0700,Aktiva,,0
+43,SKR49,101517326,0703,Forderungen gegenÃ¼ber Krankenkassen aus AAG,0700,Aktiva,,0
+43,SKR49,101517327,0705,Geldtransit,0700,Aktiva,,1
+43,SKR49,101517328,0710,Verrech.kto.Gewinnermittlung 4/3 EStG,0710,Aktiva,,0
+43,SKR49,101517329,0715,Ãœberleitungskonto Kostenstellen,0710,Aktiva,,0
+43,SKR49,101517330,0720,Verrechnungskonto Ist-Versteuerung,0720,Aktiva,,0
+43,SKR49,101517331,0725,Sonstige Forderungen,0720,Aktiva,,0
+43,SKR49,101517332,0730,Gegenkonto Bruttovorumsatz,0730,Aktiva,,0
+43,SKR49,101517333,0745,Umsatzsteuerforderungen laufendes Jahr,0740,Aktiva,,0
+43,SKR49,101517334,0746,Forderungen aus Umsatzsteuer-Vorauszahlungen,0740,Aktiva,,0
+43,SKR49,101517335,0747,Umsatzsteuerforderungen Vorjahr,0740,Aktiva,,0
+43,SKR49,101517336,0748,Umsatzsteuerforderungen frÃ¼here Jahre,0740,Aktiva,,0
+43,SKR49,101517337,0755,"ZurÃ¼ckzuzahlende Vorsteuer gem. Â§ 15a Abs. 1 UStG, unbewegliche WirtschaftsgÃ¼ter",0750,Aktiva,,0
+43,SKR49,101517338,0756,ZurÃ¼ckzuzahlende Vorsteuer gem. Â§ 15a Abs. 2 UStG,0750,Aktiva,,0
+43,SKR49,101517339,0757,"ZurÃ¼ckzuzahlende Vorsteuer gem. Â§ 15a Abs. 1 UStG, bewegliche WirtschaftsgÃ¼ter",0750,Aktiva,,0
+43,SKR49,101517340,0758,"NachtrÃ¤glich abziehbare Vorsteuer, Â§ 15a Abs. 2 UStG",0750,Aktiva,,0
+43,SKR49,101517341,0759,"NachtrÃ¤glich abziehbare Vorsteuer, Â§ 15a Abs. 1 UStG, unbewegl. WirtschaftsgÃ¼ter",0750,Aktiva,,0
+43,SKR49,101517342,0760,"NachtrÃ¤glich abziehbare Vorsteuer, Â§ 15a Abs. 1 UStG, bewegl. WirtschaftsgÃ¼ter",0760,Aktiva,,0
+43,SKR49,101517343,0761,Abziehbare Vorsteuer aus der Auslagerung von GegenstÃ¤nden aus einem USt-Lager,0760,Aktiva,,0
+43,SKR49,101517344,0770,Abziehbare Vorsteuer,0770,Aktiva,,0
+43,SKR49,101517345,0775,Abziehbare Vorsteuer 7 %,0770,Aktiva,,0
+43,SKR49,101517346,0780,Abziehbare Vorsteuer 19 %,0780,Aktiva,,0
+43,SKR49,101517347,0781,Abziehbare Vorsteuer 5 %,0780,Aktiva,,0
+43,SKR49,101517348,0782,Abziehbare Vorsteuer 16 %,0780,Aktiva,,0
+43,SKR49,101517349,0785,Pauschalierte Vorsteuer,0780,Aktiva,,0
+43,SKR49,101517350,0810,Abziehbare Vorsteuer i.g.Erwerb,0810,Aktiva,,0
+43,SKR49,101517351,0811,Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 19 %,0810,Aktiva,,0
+43,SKR49,101517352,0814,Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 16 %,0810,Aktiva,,0
+43,SKR49,101517353,0815,Abziehb.Vorst.i.g.Erwerb Neufzg. ohne ID,0810,Aktiva,,0
+43,SKR49,101517354,0825,Aufzuteilende Vorsteuer,0820,Aktiva,,0
+43,SKR49,101517355,0830,Aufzuteilende Vorsteuer 7 %,0830,Aktiva,,0
+43,SKR49,101517356,0835,Aufzuteilende Vorsteuer 19 %,0830,Aktiva,,0
+43,SKR49,101517357,0838,Aufzuteilende Vorsteuer nach Â§Â§ 13a/13b UStG 19 %,0830,Aktiva,,0
+43,SKR49,101517358,0839,Aufzuteilende Vorsteuer nach Â§Â§ 13a/13b UStG,0830,Aktiva,,0
+43,SKR49,101517359,0840,Aufzuteilende Vorsteuer aus i.g.Erw.,0840,Aktiva,,0
+43,SKR49,101517360,0841,Aufzuteilende Vorsteuer AnlagevemÃ¶gen,0840,Aktiva,,0
+43,SKR49,101517361,0844,Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb 19 %,0840,Aktiva,,0
+43,SKR49,101517362,0845,Aufzuteilende Vorst. Ausgaben B4000-8000,0840,Aktiva,,0
+43,SKR49,101517363,0849,Abziehbare Vorsteuer Â§13b UStG,0840,Aktiva,,0
+43,SKR49,101517364,0850,Abziehbare Vorsteuer Â§13b UStG 19 %,0850,Aktiva,,0
+43,SKR49,101517365,0852,Abziehbare Vorsteuer Â§13b UStG 16 %,0850,Aktiva,,0
+43,SKR49,101517366,0853,Vorsteuer in Folgeperiode/im Folgejahr abziehbar,0850,Aktiva,,0
+43,SKR49,101517367,0855,AuflÃ¶sung Vorst.aus Vorjahr 4/3 EStG,0850,Aktiva,,0
+43,SKR49,101517368,0860,Entstandene Einfuhrumsatzsteuer,0860,Aktiva,,0
+43,SKR49,101517369,0865,Vorst.nach allgem.DurchschnittsÃ¤tzen,0860,Aktiva,,0
+43,SKR49,101517370,0870,Durchlaufende Posten Einnahmen,0870,Aktiva,,0
+43,SKR49,101517371,0875,Durchlaufende Posten Ausgaben,0870,Aktiva,,0
+43,SKR49,101517372,0885,Sammelkonto aufzuteilende Ausgaben,0880,Aktiva,,1
+43,SKR49,101517373,0890,Sammelkonto aufzuteilende Einnahmen,0890,Aktiva,,0
+43,SKR49,101517374,0910,Finanzwechsel,0910,Aktiva,,0
+43,SKR49,101517375,0920,Kasse,0920,Aktiva,,1
+43,SKR49,101517376,0925,Hauptkasse,0920,Aktiva,,1
+43,SKR49,101517377,0930,Nebenkasse 1,0930,Aktiva,,1
+43,SKR49,101517378,0935,Nebenkasse 2,0930,Aktiva,,1
+43,SKR49,101517379,0940,Bank (Postbank),0940,Aktiva,,1
+43,SKR49,101517380,0945,Bank,0940,Aktiva,,1
+43,SKR49,101517381,0950,Bank 1,0950,Aktiva,,1
+43,SKR49,101517382,0955,Bank 2,0950,Aktiva,,1
+43,SKR49,101517383,0960,Schecks,0960,Aktiva,,1
+43,SKR49,101517384,0965,Bank 3,0960,Aktiva,,1
+43,SKR49,101517385,0970,Bank 4,0970,Aktiva,,1
+43,SKR49,101517386,0975,Bank 5,0970,Aktiva,,1
+43,SKR49,101517387,1180,Ãœbrige andere Sonderposten,1180,Passiva,,0
+43,SKR49,101517388,1181,Steuerfreie RÃ¼cklagen nach Â§ 6b EStG,1180,Passiva,,0
+43,SKR49,101517389,1182,RÃ¼cklage fÃ¼r Ersatzbeschaffung,1180,Passiva,,0
+43,SKR49,101517390,1183,Ausgleichsposten bei Entnahmen Â§ 4g EStG,1180,Passiva,,0
+43,SKR49,101517391,1184,RÃ¼cklage fÃ¼r ZuschÃ¼sse,1180,Passiva,,0
+43,SKR49,101517392,1200,RÃ¼ckstellungen fÃ¼r Pensionen und Ã¤hnliche Verpflichtungen,1200,Passiva,,0
+43,SKR49,101517393,1210,SteuerrÃ¼ckstellungen,1210,Passiva,,0
+43,SKR49,101517394,1220,Sonstige RÃ¼ckstellungen,1220,Passiva,,0
+43,SKR49,101517395,1221,UrlaubsrÃ¼ckstellungen,1220,Passiva,,0
+43,SKR49,101517396,1222,RÃ¼ckstellungen fÃ¼r Personalkosten,1220,Passiva,,0
+43,SKR49,101517397,1320,Verbindlichkeiten gg.Kreditinstituten,1320,Passiva,,0
+43,SKR49,101517398,1334,Erhaltene Anzahlung - Nachsteuer,1330,Passiva,,0
+43,SKR49,101517399,1340,Verbindlichkeiten aus Lief./Leist.,1340,Passiva,,1
+43,SKR49,101517400,1345,Verbindlichk.aus Investitionen 4/3EStG,1340,Passiva,,0
+43,SKR49,101517401,1350,Wechselverbindlichkeiten,1350,Passiva,,0
+43,SKR49,101517402,1360,Verbindlichk.gg. verbundenen Untern.,1360,Passiva,,0
+43,SKR49,101517403,1380,Verbindl.f.satzungsgemÃ¤ÃŸe Leistungen,1380,Passiva,,0
+43,SKR49,101517404,1385,Verbindl. aus erteilten Zusagen,1380,Passiva,,0
+43,SKR49,101517405,1390,Verbindl.noch nicht zweckentspr.verw.Mit,1390,Passiva,,0
+43,SKR49,101517406,1395,Verbindlichkeiten aus bedingt rÃ¼ckzahlungspflichtigen Spenden,1390,Passiva,,0
+43,SKR49,101517407,1700,Verbindlichkeiten aus Lohn- und Kirchensteuer,1700,Passiva,,0
+43,SKR49,101517408,1705,Verbindlichkeiten im Rahmen der sozialen Sicherheit,1700,Passiva,,0
+43,SKR49,101517409,1710,Voraussichtliche Beitragsschuld gegenÃ¼ber den SozialversicherungstrÃ¤gern,1710,Passiva,,0
+43,SKR49,101517410,1712,Lohnverbindlichkeiten,1710,Passiva,,0
+43,SKR49,101517411,1715,"Verbindlichkeiten aus Einbehaltungen (KapESt u. SolZ, KiSt auf KapESt)",1710,Passiva,,0
+43,SKR49,101517412,1720,Verbindlichkeiten aus VermÃ¶gensbildung,1720,Passiva,,0
+43,SKR49,101517413,1724,Ausgegebene Geschenkgutscheine,1720,Passiva,,0
+43,SKR49,101517414,1730,Lohn- und Gehaltsverrechnungskonto,1730,Passiva,,0
+43,SKR49,101517415,1731,Lohn- und Gehaltsverrechnung Â§ 11 Abs. 2 S.2 EStG fÃ¼r Â§ 4 Abs. 3 EStG,1730,Passiva,,0
+43,SKR49,101517416,1732,Verbindlichkeiten im Rahmen der sozialen Sicherheit fÃ¼r Â§ 4 Abs. 3 EStG,1730,Passiva,,0
+43,SKR49,101517417,1798,Verbindlichkeiten fÃ¼r Einbehaltung von Arbeitnehmern,1790,Passiva,,0
+43,SKR49,101517418,1799,Verbindlichkeiten an das Finanzamt aus abzufÃ¼hrendem Bauabzugsbetrag,1790,Passiva,,0
+43,SKR49,101517419,1800,Sonstige Verbindlichkeiten,1800,Passiva,,1
+43,SKR49,101517420,1803,Sonstige Verbindlichkeiten Restlaufzeit grÃ¶ÃŸer 5 Jahre,1800,Passiva,,0
+43,SKR49,101517421,1804,Sonstige Verbindlichkeiten nach Â§ 11 Abs. 2 Satz 2 EStG fÃ¼r Â§ 4 Abs. 3 EStG,1800,Passiva,,0
+43,SKR49,101517422,1806,Verbindlichkeiten aus Steuern und Abgaben,1800,Passiva,,0
+43,SKR49,101517423,1809,Verbindlichkeiten aus Steuern und Abgaben Restlaufzeit grÃ¶ÃŸer 5 Jahre,1800,Passiva,,0
+43,SKR49,101517424,1813,Voraussichtl. Beitragsschuld ggÃ¼. SozialversicherungstrÃ¤ger,1810,Passiva,,0
+43,SKR49,101517425,1815,Gegenkonto BruttoerlÃ¶se,1810,Passiva,,0
+43,SKR49,101517426,1840,Umsatzsteuer,1840,Passiva,,0
+43,SKR49,101517427,1845,Umsatzsteuer 7 %,1840,Passiva,,0
+43,SKR49,101517428,1850,Umsatzsteuer 19 %,1850,Passiva,,0
+43,SKR49,101517429,1851,Umsatzsteuer 5 %,1850,Passiva,,0
+43,SKR49,101517430,1852,Umsatzsteuer 16%,1850,Passiva,,0
+43,SKR49,101517431,1860,USt aus i.g. Erwerb,1860,Passiva,,0
+43,SKR49,101517432,1861,USt i.g. Erwerb Neufahrzeuge ohne ID,1860,Passiva,,0
+43,SKR49,101517433,1864,USt a.i.Inland steuerpfl.Leistungen 7 %,1860,Passiva,,0
+43,SKR49,101517434,1865,USt a.i.Inland steuerpfl.Leistungen 19 %,1860,Passiva,,0
+43,SKR49,101517435,1866,USt a.i.Inland steuerpfl.EG-Lieferungen,1860,Passiva,,0
+43,SKR49,101517436,1869,Umsatzsteuer aus im anderen EU-Land steuerpflichtigen elektr. Dienstleistungen,1860,Passiva,,0
+43,SKR49,101517437,1870,USt a.i.anderen EG-Land stpfl.Lieferung,1870,Passiva,,0
+43,SKR49,101517438,1871,USt a.i.and.EG-Land stpfl.sonst.Leistung,1870,Passiva,,0
+43,SKR49,101517439,1873,Umsatzsteuer aus innermeinschaftlichem Erwerb 19 %,1870,Passiva,,0
+43,SKR49,101517440,1874,Umsatzsteuer aus innermeinschaftlichem Erwerb 16 %,1870,Passiva,,0
+43,SKR49,101517441,1880,Umsatzsteuer nicht fÃ¤llig,1880,Passiva,,0
+43,SKR49,101517442,1885,Umsatzsteuer nicht fÃ¤llig 7 %,1880,Passiva,,0
+43,SKR49,101517443,1890,Umsatzsteuer nicht fÃ¤llig 19 %,1890,Passiva,,0
+43,SKR49,101517444,1891,Umsatzsteuer nicht fÃ¤llig 5 %,1890,Passiva,,0
+43,SKR49,101517445,1892,Umsatzsteuer nicht fÃ¤llig 16 %,1890,Passiva,,0
+43,SKR49,101517446,1895,USt nicht fÃ¤llig aus EG-Lieferungen,1890,Passiva,,0
+43,SKR49,101517447,1896,USt nicht fÃ¤llig aus EU-Lieferungen 19 %,1890,Passiva,,0
+43,SKR49,101517448,1898,USt nicht fÃ¤llig aus EU-Lieferungen 16 %,1890,Passiva,,0
+43,SKR49,101517449,1899,USt-Abzugsverfahren 7 % USt,1890,Passiva,,0
+43,SKR49,101517450,1900,"USt-Abzugsverf.oder USt Â§ 13b UStG, 16 %",1900,Passiva,,0
+43,SKR49,101517451,1901,Umsatzsteuer nach Â§ 13b UStG,1900,Passiva,,0
+43,SKR49,101517452,1902,"Umsatzsteuer nach Â§ 13b UStG, 19 %",1900,Passiva,,0
+43,SKR49,101517453,1904,"Umsatzsteuer nach Â§ 13b UStG, 16 %",1900,Passiva,,0
+43,SKR49,101517454,1910,Sammelkonto USt-Vorauszahlung/-Erstattung,1910,Passiva,,0
+43,SKR49,101517455,1911,Umsatzsteuer-Vorauszahlung 1/11,1910,Passiva,,0
+43,SKR49,101517456,1912,Sammelkonto in Rechng. unrichtig od. unberecht. ausgew. Steuer UStVA Kz. 69,1910,Passiva,,0
+43,SKR49,101517457,1913,Sammelkonto Umsatzsteuer Vorjahre,1910,Passiva,,0
+43,SKR49,101517458,1914,Sammelkto.unberecht. ausgewiesene Ust,1910,Passiva,,0
+43,SKR49,101517459,1915,Steuerzahlungen an andere EG-LÃ¤nder,1910,Passiva,,0
+43,SKR49,101517460,1916,Verbindlichkeiten aus Umsatzsteuer-Vorauszahlungen,1910,Passiva,,0
+43,SKR49,101517461,1918,"Umsatzsteuer in Folgeperiode fÃ¤llig (Â§Â§ 13 Abs. 1 Nr. 6, 13b Abs. 2 UStG)",1910,Passiva,,0
+43,SKR49,101517462,1919,Umsatzsteuer Vorjahr,1910,Passiva,,0
+43,SKR49,101517463,1920,Umsatzsteuer laufendes Jahr,1920,Passiva,,0
+43,SKR49,101517464,1930,Einfuhrumsatzsteuer aufgeschoben,1930,Passiva,,0
+43,SKR49,101517465,2000,Sonstige Einnahmen Bereich 2000,2000,Ertrag,EINNAHMENIB,1
+43,SKR49,101517466,2110,Echte MitgliedsbeitrÃ¤ge bis 300 Euro,2110,Ertrag,EINNAHMENIB,1
+43,SKR49,101517467,2120,Echte MitgliedsbeitrÃ¤ge 300-1023 Euro,2120,Ertrag,EINNAHMENIB,0
+43,SKR49,101517468,2150,AufnahmegebÃ¼hren bis 300 Euro,2150,Ertrag,EINNAHMENIB,0
+43,SKR49,101517469,2160,AufnahmegebÃ¼hren 300-1534 Euro,2160,Ertrag,EINNAHMENIB,0
+43,SKR49,101517470,2170,Umlagen,2170,Ertrag,EINNAHMENIB,0
+43,SKR49,101517471,2300,Erhaltene nicht steuerbare ZuschÃ¼sse,2300,Ertrag,EINNAHMENIB,0
+43,SKR49,101517472,2301,ZuschÃ¼sse von VerbÃ¤nden,2300,Ertrag,EINNAHMENIB,0
+43,SKR49,101517473,2302,ZuschÃ¼sse von BehÃ¶rden,2300,Ertrag,EINNAHMENIB,1
+43,SKR49,101517474,2303,Sonstige ZuschÃ¼sse,2300,Ertrag,EINNAHMENIB,0
+43,SKR49,101517475,2400,Sonstige Einnahmen ideeller Bereich,2400,Ertrag,EINNAHMENIB,0
+43,SKR49,101517476,2410,Stfr.Einnahmen nicht gemeinnÃ¼tz.Vereine,2410,Ertrag,EINNAHMENIB,0
+43,SKR49,101517477,2412,Zuwendungen Dritter (Sponsoren),2410,Ertrag,EINNAHMENIB,0
+43,SKR49,101517478,2420,Stfr.Einnahmen gemeinnÃ¼tziger Vereine,2420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517479,2421,ErlÃ¶se auf VerkÃ¤ufen SachanlagevermÃ¶gen (bei Buchgewinn),2420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517480,2423,ErtrÃ¤ge aus der AuflÃ¶sung sonstiger steuerlicher RÃ¼cklagen,2420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517481,2450,Verrechnete/aufget. Einnahmen ideel.Ber.,2450,Ertrag,EINNAHMENIB,0
+43,SKR49,101517482,2451,Verrechnete SachbezÃ¼ge Arbeitnehmer,2450,Ertrag,EINNAHMENIB,0
+43,SKR49,101517483,2490,Zuschreibungen,2490,Ertrag,EINNAHMENIB,0
+43,SKR49,101517484,2500,Abschreibungen AnlagevermÃ¶gen,2500,Aufwand,AUSGABENIB,0
+43,SKR49,101517485,2501,Abschreibungen GWG,2500,Aufwand,AUSGABENIB,0
+43,SKR49,101517486,2502,Kalkulatorische Abschreibungen,2500,Aufwand,AUSGABENIB,0
+43,SKR49,101517487,2503,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,2500,Aufwand,AUSGABENIB,0
+43,SKR49,101517488,2510,Ausgaben Bereich 2000,2510,Aufwand,AUSGABENIB,1
+43,SKR49,101517489,2550,Anteilige Personalkosten,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517490,2551,LÃ¶hne und GehÃ¤lter,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517491,2552,Ehrenamtspauschale,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517492,2553,AbgefÃ¼hrte Lohnsteuer,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517493,2554,AufwandsentschÃ¤digungen Ãœbungsleiter,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517494,2555,SozialversicherungsbeitrÃ¤ge,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517495,2556,AushilfslÃ¶hne,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517496,2557,SachbezÃ¼ge Arbeitnehmer,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517497,2558,BeitrÃ¤ge zur Berufsgenossenschaft,2550,Aufwand,AUSGABENIB,0
+43,SKR49,101517498,2560,Reisekostenerstattungen,2560,Aufwand,AUSGABENIB,1
+43,SKR49,101517499,2561,Reisekosten Arbeitnehmer,2560,Aufwand,AUSGABENIB,0
+43,SKR49,101517500,2562,Reisekosten Arbeitnehmer Ãœbernachtungsaufwand,2560,Aufwand,AUSGABENIB,0
+43,SKR49,101517501,2563,Reisekosten Arbeitnehmer Fahrtkosten,2560,Aufwand,AUSGABENIB,0
+43,SKR49,101517502,2564,Kilometergelderstattung Arbeitnehmer,2560,Aufwand,AUSGABENIB,0
+43,SKR49,101517503,2660,Anteilige Raumkosten,2660,Aufwand,AUSGABENIB,1
+43,SKR49,101517504,2661,Miete und Pacht,2660,Aufwand,AUSGABENIB,1
+43,SKR49,101517505,2663,Raumnebenkosten,2660,Aufwand,AUSGABENIB,1
+43,SKR49,101517506,2664,Reparaturen,2660,Aufwand,AUSGABENIB,1
+43,SKR49,101517507,2700,Kosten der Mitgliederverwaltung,2700,Aufwand,AUSGABENIB,1
+43,SKR49,101517508,2701,BÃ¼romaterial,2700,Aufwand,AUSGABENIB,1
+43,SKR49,101517509,2702,"Porto, Telefon",2700,Aufwand,AUSGABENIB,1
+43,SKR49,101517510,2703,Einzugskosten,2700,Aufwand,AUSGABENIB,0
+43,SKR49,101517511,2704,Sonstige Kosten,2700,Aufwand,AUSGABENIB,1
+43,SKR49,101517512,2750,Verbrauchsabgaben u.sonstige BeitrÃ¤ge,2750,Aufwand,AUSGABENIB,1
+43,SKR49,101517513,2751,Abgaben Landesverband,2750,Aufwand,AUSGABENIB,0
+43,SKR49,101517514,2752,Abgaben Fachverband,2750,Aufwand,AUSGABENIB,1
+43,SKR49,101517515,2753,VersicherungsbeitrÃ¤ge,2750,Aufwand,AUSGABENIB,1
+43,SKR49,101517516,2800,Mitgliederpflege,2800,Aufwand,AUSGABENIB,1
+43,SKR49,101517517,2801,Vereinsmitteilungen,2800,Aufwand,AUSGABENIB,0
+43,SKR49,101517518,2802,"Geschenke, JubilÃ¤en, Ehrungen",2800,Aufwand,AUSGABENIB,0
+43,SKR49,101517519,2803,Ausbildungskosten,2800,Aufwand,AUSGABENIB,0
+43,SKR49,101517520,2804,Lehr- und Jugendarbeit,2800,Aufwand,AUSGABENIB,0
+43,SKR49,101517521,2810,ReprÃ¤sentationskosten,2810,Aufwand,AUSGABENIB,1
+43,SKR49,101517522,2892,Einstellungen in sonstige steuerliche RÃ¼cklagen,2890,Aufwand,AUSGABENIB,0
+43,SKR49,,2894,Rechts- und Beratungskosten,2890,Aufwand,AUSGABENIB,1
+43,SKR49,101517523,2900,Sonstige Kosten ideeller Bereich,2900,Aufwand,AUSGABENIB,1
+43,SKR49,101517524,2901,Nicht abziehbare Ausgaben,2900,Aufwand,AUSGABENIB,0
+43,SKR49,101517525,2902,Verrechnete/aufgeteilte Kosten,2900,Aufwand,AUSGABENIB,0
+43,SKR49,101517526,2903,Nicht abziehbare Vorsteuer,2900,Aufwand,AUSGABENIB,0
+43,SKR49,101517527,3200,Steuerneutrale Einnahmen Bereich 2000,3200,Ertrag,EINNAHMENIB,0
+43,SKR49,101517528,3210,Schenkungen,3210,Ertrag,EINNAHMENIB,0
+43,SKR49,101517529,3211,Erbschaften,3210,Ertrag,EINNAHMENIB,0
+43,SKR49,101517530,3212,VermÃ¤chtnisse,3210,Ertrag,EINNAHMENIB,0
+43,SKR49,101517531,3215,Sonstige Einnahmen,3210,Ertrag,EINNAHMENIB,0
+43,SKR49,101517532,3220,Erhaltene Spenden / Zuwendungen,3220,Ertrag,EINNAHMENIB,1
+43,SKR49,101517533,3221,Geldspenden/-zuwendungen gg. Quittung,3220,Ertrag,EINNAHMENIB,0
+43,SKR49,101517534,3223,Geldspenden/-zuwendungen ohne Quittung,3220,Ertrag,EINNAHMENIB,0
+43,SKR49,101517535,3225,Sachspenden/-zuwendungen gg. Quittung,3220,Ertrag,EINNAHMENIB,0
+43,SKR49,101517536,3227,Sachspenden/-zuwendungen ohne Quittung,3220,Ertrag,EINNAHMENIB,0
+43,SKR49,101517537,3230,Aufwandszuwendungen gegen ZuwendungsbestÃ¤tigung,3230,Ertrag,EINNAHMENIB,0
+43,SKR49,101517538,3232,Aufwandszuwendungen ohne ZuwendungsbestÃ¤tigung,3230,Ertrag,EINNAHMENIB,0
+43,SKR49,101517539,3240,Ertrag aus Spendenverbrauch,3240,Ertrag,EINNAHMENIB,0
+43,SKR49,101517540,3250,Nicht abziehbare Ausgaben Bereich2000,3250,Aufwand,AUSGABENIB,0
+43,SKR49,101517541,3251,Gezahlte Spenden / Zuwendungen,3250,Aufwand,AUSGABENIB,0
+43,SKR49,101517542,3252,Hingegebene Sachspenden/-zuwendungen,3250,Aufwand,AUSGABENIB,0
+43,SKR49,101517543,3260,"Erbschaft-,Schenkungsteuer",3260,Aufwand,AUSGABENIB,0
+43,SKR49,101517544,3400,Steuerneutrale Einnahmen Bereich 4000,3400,Ertrag,EINNAHMENIB,0
+43,SKR49,101517545,3401,Investitionszulage,3400,Ertrag,EINNAHMENIB,0
+43,SKR49,101517546,3402,Erstattete Kapitalertragsteuer,3400,Ertrag,EINNAHMENIB,0
+43,SKR49,101517547,3403,Erstattete und vergÃ¼tete KÃ¶rperschaftsteuer,3400,Ertrag,EINNAHMENIB,0
+43,SKR49,101517548,3404,SolidaritÃ¤tszuschlagerstattungen fÃ¼r Vorjahre,3400,Ertrag,EINNAHMENIB,0
+43,SKR49,101517549,3410,Nicht stb.Kursgewin.Wertpap.(Ã¼.12 M.) 0%,3410,Ertrag,EINNAHMENIB,0
+43,SKR49,101517550,3415,Ertrag aus pauschal.Vorsteuer Â§23a UStG,3410,Ertrag,EINNAHMENIB,0
+43,SKR49,101517551,3420,VerkaufserlÃ¶se VermÃ¶gensverwaltung,3420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517552,3421,VerkaufserlÃ¶se AnlagevermÃ¶gen 0% USt,3420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517553,3422,VerkaufserlÃ¶se AnlagevermÃ¶gen 7 % USt,3420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517554,3423,VerkaufserlÃ¶se AnlagevermÃ¶gen 19 % USt,3420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517555,3424,VerkaufserlÃ¶se Wertpapiere,3420,Ertrag,EINNAHMENIB,0
+43,SKR49,101517556,3450,Nicht abziehbare Ausgaben Bereich 4000,3450,Aufwand,AUSGABENIB,0
+43,SKR49,101517557,3451,Abgezogene Kapitalertragsteuer,3450,Aufwand,AUSGABENIB,0
+43,SKR49,101517558,3452,Abgezogene KÃ¶rperschaftsteuer,3450,Aufwand,AUSGABENIB,0
+43,SKR49,101517559,3453,SolidaritÃ¤tszuschlag zur KSt,3450,Aufwand,AUSGABENIB,0
+43,SKR49,101517560,3455,Nich abzugsfÃ¤hige Bewirtungskosten,3450,Aufwand,AUSGABENIB,0
+43,SKR49,101517561,3500,Steuerneutrale Einnahmen Bereich 5000,3500,Ertrag,EINNAHMENIB,0
+43,SKR49,101517562,3515,Ertrag a.pauschaler Vorsteuer Â§23a UStG,3510,Ertrag,EINNAHMENIB,0
+43,SKR49,101517563,3550,Nicht abziehbare Ausgaben Bereich 5000,3550,Aufwand,AUSGABENIB,0
+43,SKR49,101517564,3551,Ausgaben i.S.v. Â§4 Abs.5 EStG,3550,Aufwand,AUSGABENIB,0
+43,SKR49,101517565,3552,Geschenke Ã¼ber 35 Euro,3550,Aufwand,AUSGABENIB,0
+43,SKR49,101517566,3553,Nicht abzugsfÃ¤hige Bewirtungskosten,3550,Aufwand,AUSGABENIB,0
+43,SKR49,101517567,3590,USt unentgeltl.WertabgabeÂ§3/1b.9a UStG,3590,Aufwand,AUSGABENIB,0
+43,SKR49,101517568,3600,Steuerneutrale Einnahmen Bereich 6000,3600,Aufwand,AUSGABENIB,0
+43,SKR49,101517569,3615,Ertrag aus pauschal. Vorsteuer Â§23a UStG,3610,Aufwand,AUSGABENIB,0
+43,SKR49,101517570,3650,Nicht abziehbare Ausgaben Bereich 6000,3650,Aufwand,AUSGABENIB,0
+43,SKR49,101517571,3651,Ausgaben i.S.v. Â§4 Abs. 5 EStG,3650,Aufwand,AUSGABENIB,0
+43,SKR49,101517572,3652,Geschenke Ã¼ber 35 Euro,3650,Aufwand,AUSGABENIB,0
+43,SKR49,101517573,3653,Nicht abzugsfÃ¤hige Bewirtungskosten,3650,Aufwand,AUSGABENIB,0
+43,SKR49,101517574,3690,USt unentgeltl.Wertabgabe Â§3/1b.9a UStG,3690,Aufwand,AUSGABENIB,0
+43,SKR49,101517575,3700,Steuerneutrale Einnahmen Bereich 7000,3700,Ertrag,EINNAHMENIB,0
+43,SKR49,101517576,3710,Steuerfreie Einn.z. Verlustausgl.TB 7001,3710,Ertrag,EINNAHMENIB,0
+43,SKR49,101517577,3711,Mitgliederuml.z.Verlustausgleich TB7001,3710,Ertrag,EINNAHMENIB,0
+43,SKR49,101517578,3712,Mitgliederzusch.z. Verlustausgl.TB 7001,3710,Ertrag,EINNAHMENIB,0
+43,SKR49,101517579,3715,Ertrag a. pauschaler Vorsteuer Â§23a UStG,3710,Ertrag,EINNAHMENIB,0
+43,SKR49,101517580,3750,Nicht abziehbare Ausgaben B 7000,3750,Aufwand,AUSGABENIB,0
+43,SKR49,101517581,3754,Gewerbesteuer,3750,Aufwand,AUSGABENIB,0
+43,SKR49,101517582,3755,KÃ¶rperschaftsteuer,3750,Aufwand,AUSGABENIB,0
+43,SKR49,101517583,3756,SolidaritÃ¤tszuschlag zur KSt,3750,Aufwand,AUSGABENIB,0
+43,SKR49,101517584,3770,SÃ¤umnis-/VerspÃ¤tungszuschlÃ¤ge,3770,Aufwand,AUSGABENIB,0
+43,SKR49,101517585,3780,GewÃ¤hrte Spenden / Zuwendungen,3780,Aufwand,AUSGABENIB,0
+43,SKR49,101517586,3781,Ausgaben i.S.v. Â§4 Abs. 5 EStG,3780,Aufwand,AUSGABENIB,0
+43,SKR49,101517587,3782,Geschenke Ã¼ber 35 Euro,3780,Aufwand,AUSGABENIB,0
+43,SKR49,101517588,3783,Nicht abzugsfÃ¤hige Bewirtungskosten,3780,Aufwand,AUSGABENIB,0
+43,SKR49,101517589,3790,USt unentgeltl.Wertabgabe Â§3/1b.9a UstG,3790,Aufwand,AUSGABENIB,0
+43,SKR49,101517590,3795,Aufw.a.Verr.posten (Gkto.z.7518/7520..),3790,Aufwand,AUSGABENIB,0
+43,SKR49,101517591,3800,Steuerneutrale Einnahmen Bereich 8000,3800,Aufwand,AUSGABENIB,0
+43,SKR49,101517592,3801,Investitionszulage,3800,Aufwand,AUSGABENIB,0
+43,SKR49,101517593,3815,Ertrag a.pauschaler Vorsteuer Â§23a UStG,3810,Aufwand,AUSGABENIB,0
+43,SKR49,101517594,3820,"ZinsertrÃ¤ge Â§ 233a AO, steuerfrei (Anlage GK KSt)",3820,Aufwand,AUSGABENIB,0
+43,SKR49,101517595,3850,Nicht abziehbare Ausgaben Bereich 8000,3850,Aufwand,AUSGABENIB,0
+43,SKR49,101517596,3853,Gewerbesteuer,3850,Aufwand,AUSGABENIB,0
+43,SKR49,101517597,3854,SolidaritÃ¤tszuschlag zur KSt,3850,Aufwand,AUSGABENIB,0
+43,SKR49,101517598,3855,KÃ¶rperschaftsteuer,3850,Aufwand,AUSGABENIB,0
+43,SKR49,101517599,3856,VermÃ¶gensteuer,3850,Aufwand,AUSGABENIB,0
+43,SKR49,101517600,3857,SÃ¤umnis-/VerspÃ¤tungszuschlÃ¤ge,3850,Aufwand,AUSGABENIB,0
+43,SKR49,101517601,3860,"Pauschale Steuer fÃ¼r Geschenke, nicht abzugsfÃ¤hig",3860,Aufwand,AUSGABENIB,0
+43,SKR49,101517602,3861,Ausgaben i.S.v. Â§4 Abs.5 EStG,3860,Aufwand,AUSGABENIB,0
+43,SKR49,101517603,3862,Geschenke Ã¼ber 35 Euro,3860,Aufwand,AUSGABENIB,0
+43,SKR49,101517604,3863,Nicht abzugsfÃ¤hige Bewirtungskosten,3860,Aufwand,AUSGABENIB,0
+43,SKR49,101517605,3864,Gezahlte Zinsen auf hinterzogene Steuern,3860,Aufwand,AUSGABENIB,0
+43,SKR49,101517606,3870,Gezahlte Zinsen auf KSt/VermSt,3870,Aufwand,AUSGABENIB,0
+43,SKR49,101517607,3871,Gezahlte Zinsen auf KSt-Nachforderungen,3870,Aufwand,AUSGABENIB,0
+43,SKR49,101517608,3872,Gezahlte Stundungszinsen KSt,3870,Aufwand,AUSGABENIB,0
+43,SKR49,101517609,3873,Gezahlte Aussetzungszinsen KSt,3870,Aufwand,AUSGABENIB,0
+43,SKR49,101517610,3890,USt unentgelt.Wertabgabe Â§3/1b.9a UStG,3890,Aufwand,AUSGABENIB,0
+43,SKR49,101517611,3895,Aufw.a.Verr.posten (Gkto.z.8158-8166),3890,Aufwand,AUSGABENIB,0
+43,SKR49,101517612,4000,Steuerfreie Einnahm.gemeinnÃ¼tzig.Vereine,4000,Ertrag,EINNAHMENVW,0
+43,SKR49,101517613,4100,Einnahmen aus VermÃ¶gensverwaltung,4100,Ertrag,EINNAHMENVW,0
+43,SKR49,101517614,4109,ErlÃ¶se als Kleinunternehmer Â§ 19 Abs. 1 UStG (gemeinnÃ¼tzige Vereine),4100,Ertrag,EINNAHMENVW,0
+43,SKR49,101517615,4110,Miet-und PachtertrÃ¤ge 0 % USt,4110,Ertrag,EINNAHMENVW,0
+43,SKR49,101517616,4111,Miet-und PachtertrÃ¤ge 7 % USt,4110,Ertrag,EINNAHMENVW,0
+43,SKR49,101517617,4120,Einnahmen Vermietung SportstÃ¤t.langfrist,4120,Ertrag,EINNAHMENVW,0
+43,SKR49,101517618,4121,Vermiet.langfristig Mitglieder 0% USt,4120,Ertrag,EINNAHMENVW,0
+43,SKR49,101517619,4122,Vermiet. Betriebsvorrichtung langfr. 7 % USt,4120,Ertrag,EINNAHMENVW,0
+43,SKR49,101517620,4150,ZinsertrÃ¤ge 0 % USt,4150,Ertrag,EINNAHMENVW,0
+43,SKR49,101517621,4151,ErtrÃ¤ge aus Wertpapieren 0 % USt,4150,Ertrag,EINNAHMENVW,0
+43,SKR49,101517622,4152,Kursgewinne a.Wertpap.(unt.12Mon.) 0 %,4150,Ertrag,EINNAHMENVW,0
+43,SKR49,101517623,4153,Zuschreibungen,4150,Ertrag,EINNAHMENVW,0
+43,SKR49,101517624,4200,ErlÃ¶se von Werbeunternehmen,4200,Ertrag,EINNAHMENVW,0
+43,SKR49,101517625,4201,ErlÃ¶se Werbeunternehmen 7 % USt,4200,Ertrag,EINNAHMENVW,0
+43,SKR49,101517626,4202,Ãœbertragene WerbeflÃ¤chenrechte,4200,Ertrag,EINNAHMENVW,0
+43,SKR49,101517627,4203,Ãœbertragene Lautsprecherwerbung,4200,Ertrag,EINNAHMENVW,0
+43,SKR49,101517628,4220,VerkaufserlÃ¶se VermÃ¶gensverwaltung,4220,Ertrag,EINNAHMENVW,0
+43,SKR49,101517629,4221,VerkaufserlÃ¶se AnlagevermÃ¶gen 7 %,4220,Ertrag,EINNAHMENVW,0
+43,SKR49,101517630,4222,VerkaufserlÃ¶se Wertpapiere,4220,Ertrag,EINNAHMENVW,0
+43,SKR49,101517631,4230,Sonstige Einnahmen,4230,Ertrag,EINNAHMENVW,0
+43,SKR49,101517632,4239,Verrechn./aufgeteilte Einnahmen,4230,Ertrag,EINNAHMENVW,0
+43,SKR49,101517633,4342,ErlÃ¶se aus VerkÃ¤ufen Finanzanlagen (bei Buchgewinn),4340,Ertrag,EINNAHMENVW,0
+43,SKR49,101517634,4343,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,4340,Ertrag,EINNAHMENVW,0
+43,SKR49,101517635,4347,AnlagenabgÃ¤nge Finanzanlagen (Restbuchwert bei Buchgewinn),4340,Ertrag,EINNAHMENVW,0
+43,SKR49,101517636,4390,Zuschreibungen,4390,Ertrag,EINNAHMENVW,0
+43,SKR49,101517637,4400,Stpfl.Einnahmen n.gemeinnÃ¼tzg.Vereine,4400,Ertrag,EINNAHMENVW,0
+43,SKR49,101517638,4409,ErlÃ¶se als Kleinunternehmer Â§ 19 Abs. 1 UStG (nicht gemeinnÃ¼tzige Vereine),4400,Ertrag,EINNAHMENVW,0
+43,SKR49,101517639,4410,Miet-u.PachtertrÃ¤ge 0 % USt,4410,Ertrag,EINNAHMENVW,0
+43,SKR49,101517640,4411,Miet-u.PachtertrÃ¤ge 19 % USt,4410,Ertrag,EINNAHMENVW,0
+43,SKR49,101517641,4415,Sonstige MietertrÃ¤ge,4410,Ertrag,EINNAHMENVW,0
+43,SKR49,101517642,4420,ZinsertrÃ¤ge 0 % USt,4420,Ertrag,EINNAHMENVW,0
+43,SKR49,101517643,4421,WertpapierertrÃ¤ge,4420,Ertrag,EINNAHMENVW,0
+43,SKR49,101517644,4422,Sonstige KapitalertrÃ¤ge,4420,Ertrag,EINNAHMENVW,0
+43,SKR49,101517645,4430,VerkaufserlÃ¶se AnlagevermÃ¶gen 0 %,4430,Ertrag,EINNAHMENVW,0
+43,SKR49,101517646,4431,VerkaufserlÃ¶se AnlagevermÃ¶gen 19 % USt,4430,Ertrag,EINNAHMENVW,0
+43,SKR49,101517647,4440,Sonstige Einnahmen,4440,Ertrag,EINNAHMENVW,0
+43,SKR49,101517648,4441,Sonstige Einnahmen 0 % USt,4440,Ertrag,EINNAHMENVW,0
+43,SKR49,101517649,4442,Sonstige Einnahmen 19 % USt,4440,Ertrag,EINNAHMENVW,0
+43,SKR49,101517650,4443,Steuerpflichtige Kursgewinne aus Wertpapieren 0% USt,4440,Ertrag,EINNAHMENVW,0
+43,SKR49,101517651,4489,Verrechnete/aufgeteillte Einnahmen,4480,Ertrag,EINNAHMENVW,0
+43,SKR49,101517652,4490,Zuschreibungen,4490,Ertrag,EINNAHMENVW,0
+43,SKR49,101517653,4492,ErlÃ¶se aus VerkÃ¤ufen Finanzanlagen (bei Buchgewinn),4490,Ertrag,EINNAHMENVW,0
+43,SKR49,101517654,4493,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,4490,Ertrag,EINNAHMENVW,0
+43,SKR49,101517655,4496,AnlagenabgÃ¤nge Finanzanlagen (Restbuchwert bei Buchgewinn),4490,Ertrag,EINNAHMENVW,0
+43,SKR49,101517656,4498,Umgeb.Einnahmen wg.Verlust GemeinnÃ¼tz.,4490,Ertrag,EINNAHMENVW,0
+43,SKR49,101517657,4500,Abschreibungen AnlagevermÃ¶gen,4500,Aufwand,AUSGABENVW,0
+43,SKR49,101517658,4501,Abschreibungen GWG,4500,Aufwand,AUSGABENVW,0
+43,SKR49,101517659,4502,Kalkulatorische Abschreibungen,4500,Aufwand,AUSGABENVW,0
+43,SKR49,101517660,4503,Abschreibungen auf Finanzanlagen,4500,Aufwand,AUSGABENVW,0
+43,SKR49,101517661,4504,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,4500,Aufwand,AUSGABENVW,0
+43,SKR49,101517662,4510,Ausgaben Bereich 4000,4510,Aufwand,AUSGABENVW,0
+43,SKR49,101517663,4531,Sonstige Kosten,4530,Aufwand,AUSGABENVW,0
+43,SKR49,101517664,4597,ErlÃ¶se aus VerkÃ¤ufen Finanzanlagen (bei Buchverlust),4590,Aufwand,AUSGABENVW,0
+43,SKR49,101517665,4600,AnlageabgÃ¤nge/Restbuchwerte,4600,Aufwand,AUSGABENVW,0
+43,SKR49,101517666,4602,AnlagenabgÃ¤nge Finanzanlagen (Restbuchwert bei Buchverlust),4600,Aufwand,AUSGABENVW,0
+43,SKR49,101517667,4700,Zinsen VermÃ¶gensverwaltung,4700,Aufwand,AUSGABENVW,0
+43,SKR49,101517668,4710,Kosten Wertpapierverwaltung,4710,Aufwand,AUSGABENVW,0
+43,SKR49,101517669,4711,Geldbeschaffungskosten,4710,Aufwand,AUSGABENVW,0
+43,SKR49,101517670,4712,Nebenkosten des Geldverkehrs,4710,Aufwand,AUSGABENVW,0
+43,SKR49,101517671,4750,GrundstÃ¼cksaufwendungen,4750,Aufwand,AUSGABENVW,0
+43,SKR49,101517672,4751,GrundstÃ¼cksreparaturen,4750,Aufwand,AUSGABENVW,0
+43,SKR49,101517673,4752,Versicherungen,4750,Aufwand,AUSGABENVW,0
+43,SKR49,101517674,4892,Einstellungen in steuerliche RÃ¼cklagen,4890,Aufwand,AUSGABENVW,0
+43,SKR49,101517675,4900,Sonstige Kosten VermÃ¶gensverwaltung,4900,Aufwand,AUSGABENVW,0
+43,SKR49,101517676,4901,Sonstige Kosten,4900,Aufwand,AUSGABENVW,0
+43,SKR49,101517677,4902,Verrechnete/aufgeteillte Kosten,4900,Aufwand,AUSGABENVW,0
+43,SKR49,101517678,4904,Anteilige Umsatzsteuerzahlungen,4900,Aufwand,AUSGABENVW,0
+43,SKR49,101517679,4905,Aufzuteilende Vorsteuer Klasse 4,4900,Aufwand,AUSGABENVW,0
+43,SKR49,101517680,4906,Abziehbare Vorsteuer,4900,Aufwand,AUSGABENVW,0
+43,SKR49,101517681,4907,Nicht abziehbare Vorsteuer,4900,Aufwand,AUSGABENVW,0
+43,SKR49,101517682,4965,Anteilige Raumkosten,4960,Aufwand,AUSGABENVW,0
+43,SKR49,101517683,4966,"Miete, Pacht",4960,Aufwand,AUSGABENVW,0
+43,SKR49,101517684,4967,Raumnebenkosten,4960,Aufwand,AUSGABENVW,0
+43,SKR49,101517685,4968,Bewirtungskosten (abzugsfÃ¤hig),4960,Aufwand,AUSGABENVW,0
+43,SKR49,101517686,4970,Reisekosten Arbeitnehmer,4970,Aufwand,AUSGABENVW,0
+43,SKR49,101517687,4971,Reisekosten Arbeitnehmer Verpflegungsmehraufwand,4970,Aufwand,AUSGABENVW,0
+43,SKR49,101517688,4972,Reisekosten Arbeitnehmer Ãœbernachtungsaufwand,4970,Aufwand,AUSGABENVW,0
+43,SKR49,101517689,4973,Reisekosten Arbeitnehmer Fahrtkosten,4970,Aufwand,AUSGABENVW,0
+43,SKR49,101517690,4974,Kilometergelderstattung Arbeitnehmer,4970,Aufwand,AUSGABENVW,0
+43,SKR49,101517691,4980,LÃ¶hne und GehÃ¤lter,4980,Aufwand,AUSGABENVW,0
+43,SKR49,101517692,4981,AbgefÃ¼hrte Lohnsteuer,4980,Aufwand,AUSGABENVW,0
+43,SKR49,101517693,4982,"Freiwillige soziale Aufwendungen, lohnsteuerpflichtig",4980,Aufwand,AUSGABENVW,0
+43,SKR49,101517694,4990,Gesetzliche soziale Aufwendungen,4990,Aufwand,AUSGABENVW,0
+43,SKR49,101517695,4991,Aufwendungen fÃ¼r Altersversorgung,4990,Aufwand,AUSGABENVW,0
+43,SKR49,101517696,4992,BeitrÃ¤ge zur Berufsgenossenschaft,4990,Aufwand,AUSGABENVW,0
+43,SKR49,101517697,5000,Eintrittsgelder Sport 1,5000,Ertrag,EINNAHMENZB,0
+43,SKR49,101517698,5005,Eintrittsgelder aus WettkÃ¤mpfen 7 % USt,5000,Ertrag,EINNAHMENZB,0
+43,SKR49,101517699,5010,Eintrittsgelder aus FuÃŸballspielen 7 %,5010,Ertrag,EINNAHMENZB,0
+43,SKR49,101517700,5015,Eintrittsgelder aus Sportturnen 7 % USt,5010,Ertrag,EINNAHMENZB,0
+43,SKR49,101517701,5020,Eintr.geld.a.sonst.sportl.Veranst. 7 %,5020,Ertrag,EINNAHMENZB,0
+43,SKR49,101517702,5021,Eintrittsgelder aus Sport 1 (7 % USt),5020,Ertrag,EINNAHMENZB,0
+43,SKR49,101517703,5022,Eintrittsgelder aus Sport 2 (7 % USt),5020,Ertrag,EINNAHMENZB,0
+43,SKR49,101517704,5023,Eintrittsgelder aus Sport 3 (7 % USt),5020,Ertrag,EINNAHMENZB,0
+43,SKR49,101517705,5050,Einnahmen aus Sportreisen,5050,Ertrag,EINNAHMENZB,0
+43,SKR49,101517706,5055,Einnahmen nicht steuerbar nach UStG,5050,Ertrag,EINNAHMENZB,0
+43,SKR49,101517707,5060,Einnahmen 0 % USt,5060,Ertrag,EINNAHMENZB,0
+43,SKR49,101517708,5065,Einnahmen 7 % USt,5060,Ertrag,EINNAHMENZB,0
+43,SKR49,101517709,5070,Einnahmen a.sonst.sportl.Veranstaltg.,5070,Ertrag,EINNAHMENZB,0
+43,SKR49,101517710,5075,Einnahmen aus Leist. gg.Nichtmitglied.7 %,5070,Ertrag,EINNAHMENZB,0
+43,SKR49,101517711,5079,Startgelder,5070,Ertrag,EINNAHMENZB,0
+43,SKR49,101517712,5080,Erstattungen der Gastmannschaften,5080,Ertrag,EINNAHMENZB,0
+43,SKR49,101517713,5085,Einnahmen aus Auswahlspielen 7 % USt,5080,Ertrag,EINNAHMENZB,0
+43,SKR49,101517714,5090,Einnahm.Sportkurs o.bezahlte Sportler,5090,Ertrag,EINNAHMENZB,0
+43,SKR49,101517715,5100,Einn.aus Leistungen gegenÃ¼b.Mitgliedern,5100,Ertrag,EINNAHMENZB,0
+43,SKR49,101517716,5105,PlatzgebÃ¼hren 7 % USt,5100,Ertrag,EINNAHMENZB,0
+43,SKR49,101517717,5110,HallengebÃ¼hren 7 % USt,5110,Ertrag,EINNAHMENZB,0
+43,SKR49,101517718,5115,ChartergebÃ¼hren 7 % USt,5110,Ertrag,EINNAHMENZB,0
+43,SKR49,101517719,5120,Unechte MitgliedsbeitrÃ¤ge,5120,Ertrag,EINNAHMENZB,0
+43,SKR49,101517720,5200,Einn.steuerb.Zusch. f. Zweckbetr. Sport,5200,Ertrag,EINNAHMENZB,0
+43,SKR49,101517721,5205,Zusch.von VerbÃ¤nden und Organisationen,5200,Ertrag,EINNAHMENZB,0
+43,SKR49,101517722,5210,Ausbild.zuschÃ¼sse v.VerbÃ¤nd.u.Organisat.,5210,Ertrag,EINNAHMENZB,0
+43,SKR49,101517723,5215,ZuschÃ¼sse von BehÃ¶rden,5210,Ertrag,EINNAHMENZB,0
+43,SKR49,101517724,5220,AusbildungszuschÃ¼sse v.BehÃ¶rden,5220,Ertrag,EINNAHMENZB,0
+43,SKR49,101517725,5225,Sonstige ZuschÃ¼sse,5220,Ertrag,EINNAHMENZB,0
+43,SKR49,101517726,5250,Sonstige Einnahmen Zweckbetrieb Sport,5250,Ertrag,EINNAHMENZB,0
+43,SKR49,101517727,5255,Anteilig verrechnete Einnahmen/Umlagen,5250,Ertrag,EINNAHMENZB,0
+43,SKR49,101517728,5260,Einnahm.AblÃ¶se unbezahlter Sportler 7 %,5260,Ertrag,EINNAHMENZB,0
+43,SKR49,101517729,5265,AblÃ¶sesummen Ã¼ber 2556 Euro 7 % USt,5260,Ertrag,EINNAHMENZB,0
+43,SKR49,101517730,5269,ErlÃ¶se als Kleinunternehmer Â§ 19 Abs. 1 UStG ,5260,Ertrag,EINNAHMENZB,0
+43,SKR49,101517731,5270,VerkaufserlÃ¶se Anlageverm.Zweckbet.7 %,5270,Ertrag,EINNAHMENZB,0
+43,SKR49,101517732,5273,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,5270,Ertrag,EINNAHMENZB,0
+43,SKR49,101517733,5275,Einnahmen aus Nebenleistungen,5270,Ertrag,EINNAHMENZB,0
+43,SKR49,101517734,5279,Zuschreibungen,5270,Ertrag,EINNAHMENZB,0
+43,SKR49,101517735,5280,Aufwendungen fÃ¼r RHB/bezogene Waren,5280,Aufwand,AUSGABENZB,0
+43,SKR49,101517736,5290,Aufwendungen fÃ¼r bezogene Leistungen,5290,Aufwand,AUSGABENZB,0
+43,SKR49,101517737,5300,LÃ¶hne und GehÃ¤lter,5300,Aufwand,AUSGABENZB,0
+43,SKR49,101517738,5305,Personalkosten Trainer/Ãœbungsleiter,5300,Aufwand,AUSGABENZB,0
+43,SKR49,101517739,5310,AufwandsentschÃ¤dig. i.S.v.Â§3 Nr.26 EStG,5310,Aufwand,AUSGABENZB,0
+43,SKR49,101517740,5315,Aufw.entschÃ¤d.pausch an akt.Vereinsmitgl,5310,Aufwand,AUSGABENZB,0
+43,SKR49,101517741,5320,AushilfslÃ¶hne,5320,Aufwand,AUSGABENZB,0
+43,SKR49,101517742,5350,soziale Abgaben allgemein,5350,Aufwand,AUSGABENZB,0
+43,SKR49,101517743,5351,BeitrÃ¤ge zur Berufsgenossenschaft,5350,Aufwand,AUSGABENZB,0
+43,SKR49,101517744,5355,abgefÃ¼hrte Lohnsteuer,5350,Aufwand,AUSGABENZB,0
+43,SKR49,101517745,5360,freiwillige soziale Aufwendungen,5360,Aufwand,AUSGABENZB,0
+43,SKR49,101517746,5400,Abgaben fÃ¼r Altersversorgung,5400,Aufwand,AUSGABENZB,0
+43,SKR49,101517747,5450,Abschreibung AnlagevermÃ¶gen TB 5001,5450,Aufwand,AUSGABENZB,0
+43,SKR49,101517748,5455,Abschreibungen GWG,5450,Aufwand,AUSGABENZB,0
+43,SKR49,101517749,5456,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,5450,Aufwand,AUSGABENZB,0
+43,SKR49,101517750,5460,AnlagenabgÃ¤nge Restbuchwerte,5460,Aufwand,AUSGABENZB,0
+43,SKR49,101517751,5465,Kalkulatorische Abschreibungen,5460,Aufwand,AUSGABENZB,0
+43,SKR49,101517752,5470,Abschreib.auf Sportler-AblÃ¶sezahlungen,5470,Aufwand,AUSGABENZB,0
+43,SKR49,101517753,5490,"Abschr. auf UmlaufvermÃ¶gen, unÃ¼blich",5490,Aufwand,AUSGABENZB,0
+43,SKR49,101517754,5500,Reisekosten f.aktive Vereinsmitglieder,5500,Aufwand,AUSGABENZB,0
+43,SKR49,101517755,5503,Reisekosten AN Verpflegungsmehraufwand,5500,Aufwand,AUSGABENZB,0
+43,SKR49,101517756,5506,Reisekosten Arbeitnehmer,5500,Aufwand,AUSGABENZB,0
+43,SKR49,101517757,5509,Km-Geld-Erstattung,5500,Aufwand,AUSGABENZB,0
+43,SKR49,101517758,5512,Spesenersatz an akt.Sportler Kostennachw,5510,Aufwand,AUSGABENZB,0
+43,SKR49,101517759,5515,Speseners.an aktiv.Nichtmitgl.Kostenn.,5510,Aufwand,AUSGABENZB,0
+43,SKR49,101517760,5518,Sonst.veranstaltungsabhÃ¤ng.Kosten Sport1,5510,Aufwand,AUSGABENZB,0
+43,SKR49,101517761,5521,EntschÃ¤digungen an Nichtaktive,5520,Aufwand,AUSGABENZB,0
+43,SKR49,101517762,5524,Reisekosten AN Verpflegungsmehraufwand,5520,Aufwand,AUSGABENZB,0
+43,SKR49,101517763,5527,Reisekosten Arbeitnehmer,5520,Aufwand,AUSGABENZB,0
+43,SKR49,101517764,5533,Reisekost.erstatt.an Nicht-Arbeitnehmer,5530,Aufwand,AUSGABENZB,0
+43,SKR49,101517765,5536,Transportkosten,5530,Aufwand,AUSGABENZB,0
+43,SKR49,101517766,5539,Kostenerstattung der Gastmannschaften,5530,Aufwand,AUSGABENZB,0
+43,SKR49,101517767,5542,Abgaben,5540,Aufwand,AUSGABENZB,0
+43,SKR49,101517768,5545,Sonstige Kosten der Veranstaltung,5540,Aufwand,AUSGABENZB,0
+43,SKR49,101517769,5550,Kosten der Sportanlagen,5550,Aufwand,AUSGABENZB,0
+43,SKR49,101517770,5555,"Miete, Pacht",5550,Aufwand,AUSGABENZB,0
+43,SKR49,101517771,5560,Strom,5560,Aufwand,AUSGABENZB,0
+43,SKR49,101517772,5561,Wasser,5560,Aufwand,AUSGABENZB,0
+43,SKR49,101517773,5562,"Gas, Heizung",5560,Aufwand,AUSGABENZB,0
+43,SKR49,101517774,5565,Reparaturen,5560,Aufwand,AUSGABENZB,0
+43,SKR49,101517775,5570,Allgemeine Kosten des Sportbetriebs,5570,Aufwand,AUSGABENZB,0
+43,SKR49,101517776,5575,Verwaltungskosten,5570,Aufwand,AUSGABENZB,0
+43,SKR49,101517777,5580,Reisekostenerstattungen,5580,Aufwand,AUSGABENZB,0
+43,SKR49,101517778,5585,Reisekosten AN Verpflegungsmehraufwand,5580,Aufwand,AUSGABENZB,0
+43,SKR49,101517779,5590,Reisekosten Arbeitnehmer,5590,Aufwand,AUSGABENZB,0
+43,SKR49,101517780,5595,Km-Geld-Erstattung,5590,Aufwand,AUSGABENZB,0
+43,SKR49,101517781,5600,Versicherungen,5600,Aufwand,AUSGABENZB,0
+43,SKR49,101517782,5605,Sportkleidung,5600,Aufwand,AUSGABENZB,0
+43,SKR49,101517783,5610,Ausbildungskostenersatz,5610,Aufwand,AUSGABENZB,0
+43,SKR49,101517784,5620,"Betriebskosten Fahrzeuge,Transportmitt.",5620,Aufwand,AUSGABENZB,0
+43,SKR49,101517785,5621,Kfz-Steuern,5620,Aufwand,AUSGABENZB,0
+43,SKR49,101517786,5622,Kfz-Versicherungen,5620,Aufwand,AUSGABENZB,0
+43,SKR49,101517787,5623,Laufende Kfz-Kosten,5620,Aufwand,AUSGABENZB,0
+43,SKR49,101517788,5624,Kfz-Reparaturen,5620,Aufwand,AUSGABENZB,0
+43,SKR49,101517789,5625,Sonstige Kfz-Kosten,5620,Aufwand,AUSGABENZB,0
+43,SKR49,101517790,5630,Betriebskosten Ausstattung SportgerÃ¤te,5630,Aufwand,AUSGABENZB,0
+43,SKR49,101517791,5635,Betr.kosten Ausstattung Zweckbetrieb,5630,Aufwand,AUSGABENZB,0
+43,SKR49,101517792,5640,Betriebskosten SportgerÃ¤te,5640,Aufwand,AUSGABENZB,0
+43,SKR49,101517793,5645,Reparaturen SportgerÃ¤te,5640,Aufwand,AUSGABENZB,0
+43,SKR49,101517794,5650,Sonstige Kosten Zweckbetrieb Sport 1,5650,Aufwand,AUSGABENZB,0
+43,SKR49,101517795,5670,Verrechnete/aufgeteilte Kosten,5670,Aufwand,AUSGABENZB,0
+43,SKR49,101517796,5672,Einstellungen in steuerliche RÃ¼cklagen,5670,Aufwand,AUSGABENZB,0
+43,SKR49,101517797,5675,Anteilige Umsatzsteuerzahlungen,5670,Aufwand,AUSGABENZB,0
+43,SKR49,101517798,5680,Aufzuteilende Vorsteuer Teilber.5001,5680,Aufwand,AUSGABENZB,0
+43,SKR49,101517799,5685,Abziehbare Vorsteuer,5680,Aufwand,AUSGABENZB,0
+43,SKR49,101517800,5690,Nicht abziehbare Vorsteuer,5690,Aufwand,AUSGABENZB,0
+43,SKR49,101517801,5695,Aufzuteilende Posten Teilbereich 5001,5690,Aufwand,AUSGABENZB,0
+43,SKR49,101517802,5700,ErlÃ¶se Sport 2 0% i.S.v.Â§4 Nr.22a UStG,5700,Ertrag,EINNAHMENZB,0
+43,SKR49,101517803,5702,Einnahmen aus VortrÃ¤gen/Sport 0% USt,5700,Ertrag,EINNAHMENZB,0
+43,SKR49,101517804,5704,Einnahmen aus Kursen/Sport 0 % USt,5700,Ertrag,EINNAHMENZB,0
+43,SKR49,101517805,5706,Einnahmen aus sonst.Veranstaltungen 0%,5700,Ertrag,EINNAHMENZB,0
+43,SKR49,101517806,5720,Sport-ErlÃ¶se 0% i.S.v. Â§4 Nr. 22b UStG,5720,Ertrag,EINNAHMENZB,0
+43,SKR49,101517807,5722,TeilnehmergebÃ¼hren 0 % USt,5720,Ertrag,EINNAHMENZB,0
+43,SKR49,101517808,5724,Startgelder 0 % USt,5720,Ertrag,EINNAHMENZB,0
+43,SKR49,101517809,5726,MeldegebÃ¼hren 0 % USt,5720,Ertrag,EINNAHMENZB,0
+43,SKR49,101517810,5728,TeilnehmergebÃ¼hren 0% SportwettkÃ¤mpfe,5720,Ertrag,EINNAHMENZB,0
+43,SKR49,101517811,5740,Sport Jugendhilfe 0% Â§4 Nr.25a+b UStG,5740,Ertrag,EINNAHMENZB,0
+43,SKR49,101517812,5742,Einn.a.LehrgÃ¤ng.Jugendhilfe Sport 0 %,5740,Ertrag,EINNAHMENZB,0
+43,SKR49,101517813,5744,Einn.a.Sportunterricht Jugendhilfe 0%,5740,Ertrag,EINNAHMENZB,0
+43,SKR49,101517814,5750,Sport Jugendhilfe 0%i.S.v. Â§4Nr.25c UStG,5750,Ertrag,EINNAHMENZB,0
+43,SKR49,101517815,5752,Einn.a.Darbietungen Jugendlicher 0% USt,5750,Ertrag,EINNAHMENZB,0
+43,SKR49,101517816,5754,Einn.a.Darbietungen Jugendl.u.Erwachs.0%,5750,Ertrag,EINNAHMENZB,0
+43,SKR49,101517817,5760,Sonst.Einnahmen 0% Zweckbetrieb Sport 2,5760,Ertrag,EINNAHMENZB,0
+43,SKR49,101517818,5762,Anteilig verrechnete Einnahmen/ErlÃ¶se,5760,Ertrag,EINNAHMENZB,0
+43,SKR49,101517819,5780,Sonstige betriebliche ErtrÃ¤ge,5780,Ertrag,EINNAHMENZB,0
+43,SKR49,101517820,5782,VerÃ¤uÃŸerungserlÃ¶se 0% Â§4 Nr.12 UStG,5780,Ertrag,EINNAHMENZB,0
+43,SKR49,101517821,5783,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,5780,Ertrag,EINNAHMENZB,0
+43,SKR49,101517822,5784,Einnahmen aus Nebenleistungen,5780,Ertrag,EINNAHMENZB,0
+43,SKR49,101517823,5790,Zuschreibungen,5790,Ertrag,EINNAHMENZB,0
+43,SKR49,101517824,5800,Aufwendungen fÃ¼r RHB/bezogene Waren,5800,Aufwand,AUSGABENZB,0
+43,SKR49,101517825,5810,Aufwendungen fÃ¼r bezogene Leistungen,5810,Aufwand,AUSGABENZB,0
+43,SKR49,101517826,5820,"Personalkosten Ãœbungsleiter,Trainer",5820,Aufwand,AUSGABENZB,0
+43,SKR49,101517827,5822,Sonstige Personalkosten,5820,Aufwand,AUSGABENZB,0
+43,SKR49,101517828,5830,Soziale Abgaben allgmein,5830,Aufwand,AUSGABENZB,0
+43,SKR49,101517829,5835,Abgaben fÃ¼r Altersversorgung,5830,Aufwand,AUSGABENZB,0
+43,SKR49,101517830,5836,BeitrÃ¤ge zur Berufsgenossenschaft,5830,Aufwand,AUSGABENZB,0
+43,SKR49,101517831,5840,Abschreibungen AnlagevermÃ¶gen B 5000,5840,Aufwand,AUSGABENZB,0
+43,SKR49,101517832,5844,Abschreibungen GWG,5840,Aufwand,AUSGABENZB,0
+43,SKR49,101517833,5845,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,5840,Aufwand,AUSGABENZB,0
+43,SKR49,101517834,5846,AnlagenabgÃ¤nge Restbuchwerte,5840,Aufwand,AUSGABENZB,0
+43,SKR49,101517835,5848,Kalkulatorische Abschreibungen,5840,Aufwand,AUSGABENZB,0
+43,SKR49,101517836,5850,Abschreib.geleistete AblÃ¶sezahlungen,5850,Aufwand,AUSGABENZB,0
+43,SKR49,101517837,5855,"Abschr. auf UmlaufvermÃ¶gen, unÃ¼blich",5850,Aufwand,AUSGABENZB,0
+43,SKR49,101517838,5860,Unmittelbare Kosten des Sportunterrichts,5860,Aufwand,AUSGABENZB,0
+43,SKR49,101517839,5865,Unmittelb.Kost.Darbiet.Jugend/Erwachs.,5860,Aufwand,AUSGABENZB,0
+43,SKR49,101517840,5870,Sonstige Kosten Teilbereich 5700,5870,Aufwand,AUSGABENZB,0
+43,SKR49,101517841,5872,Sonstige Kosten sportl.Veranstaltg.,5870,Aufwand,AUSGABENZB,0
+43,SKR49,101517842,5874,Sonstige Kosten Jugendhilfe,5870,Aufwand,AUSGABENZB,0
+43,SKR49,101517843,5875,Einstellungen in steuerliche RÃ¼cklagen,5870,Aufwand,AUSGABENZB,0
+43,SKR49,101517844,5876,Reisekostenerstattung Arbeitnehmer,5870,Aufwand,AUSGABENZB,0
+43,SKR49,101517845,5878,"Betriebskosten Ausstattung, GerÃ¤te",5870,Aufwand,AUSGABENZB,0
+43,SKR49,101517846,5880,Nicht abziehbare Vorsteuer,5880,Aufwand,AUSGABENZB,0
+43,SKR49,101517847,5882,Verrechnungskto.aufzuteil.Posten TB5700,5880,Aufwand,AUSGABENZB,0
+43,SKR49,101517848,5990,Umgebuchte Einnahmen B 5000 (Gkto.8980),5990,Aufwand,AUSGABENZB,0
+43,SKR49,101517849,5992,Umgebuchte Ausgaben  B 5000 (Gkto.8990),5990,Aufwand,AUSGABENZB,0
+43,SKR49,101517850,6000,UmsatzerlÃ¶se,6000,Ertrag,EINNAHMENZB,0
+43,SKR49,101517851,6005,UmsatzerlÃ¶se 7 %,6000,Ertrag,EINNAHMENZB,0
+43,SKR49,101517852,6008,Vermietung Sportanlagen an Mitglieder,6000,Ertrag,EINNAHMENZB,0
+43,SKR49,101517853,6010,Eintrittsgelder 7 %,6010,Ertrag,EINNAHMENZB,0
+43,SKR49,101517854,6012,Zuwendungen Dritter (Sponsoren) 7 %,6010,Ertrag,EINNAHMENZB,0
+43,SKR49,101517855,6015,Einnahmen aus Programmverkauf,6010,Ertrag,EINNAHMENZB,0
+43,SKR49,101517856,6045,Direkt mit dem Umsatz verbundene Steuern,6040,Ertrag,EINNAHMENZB,0
+43,SKR49,101517857,6050,BestandsverÃ¤nderung,6050,Ertrag,EINNAHMENZB,0
+43,SKR49,101517858,6055,andere aktivierte Eigenleistungen,6050,Ertrag,EINNAHMENZB,0
+43,SKR49,101517859,6059,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),6050,Ertrag,EINNAHMENZB,0
+43,SKR49,101517860,6060,sonstige betriebliche ErtrÃ¤ge,6060,Ertrag,EINNAHMENZB,0
+43,SKR49,101517861,6065,Einnahmen aus Nebenleistungen,6060,Ertrag,EINNAHMENZB,0
+43,SKR49,101517862,6069,ErlÃ¶se als Kleinunternehmer Â§ 19 Abs. 1 UStG ,6060,Ertrag,EINNAHMENZB,0
+43,SKR49,101517863,6070,Veranstaltungsgebundene ZuschÃ¼sse,6070,Ertrag,EINNAHMENZB,0
+43,SKR49,101517864,6075,Anteilige verrechnete Einnahmen/Umlagen,6070,Ertrag,EINNAHMENZB,0
+43,SKR49,101517865,6080,VerkaufserlÃ¶se Anlageverm.Zweckbetr.7 %,6080,Ertrag,EINNAHMENZB,0
+43,SKR49,101517866,6082,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,6080,Ertrag,EINNAHMENZB,0
+43,SKR49,101517867,6085,Unentgeltliche Wertabgaben 7 % USt,6080,Ertrag,EINNAHMENZB,0
+43,SKR49,101517868,6090,Zuschreibungen,6090,Ertrag,EINNAHMENZB,0
+43,SKR49,101517869,6170,Aufwendungen fÃ¼r RHB,6170,Aufwand,AUSGABENZB,0
+43,SKR49,101517870,6180,Aufwendungen fÃ¼r bezogene Leistungen,6180,Aufwand,AUSGABENZB,0
+43,SKR49,101517871,6200,LÃ¶hne und GehÃ¤lter,6200,Aufwand,AUSGABENZB,0
+43,SKR49,101517872,6205,Personalkosten Ãœbungsleiter,6200,Aufwand,AUSGABENZB,0
+43,SKR49,101517873,6210,AufwandsentschÃ¤digung Â§3 Nr.26 EStG,6210,Aufwand,AUSGABENZB,0
+43,SKR49,101517874,6215,AushilfslÃ¶hne,6210,Aufwand,AUSGABENZB,0
+43,SKR49,101517875,6250,soziale Abgaben,6250,Aufwand,AUSGABENZB,0
+43,SKR49,101517876,6251,BeitrÃ¤ge zur Berufsgenossenschaft,6250,Aufwand,AUSGABENZB,0
+43,SKR49,101517877,6255,abgefÃ¼hrte Lohnsteuer,6250,Aufwand,AUSGABENZB,0
+43,SKR49,101517878,6260,freiwillige soziale Aufwendungen,6260,Aufwand,AUSGABENZB,0
+43,SKR49,101517879,6275,Abgaben fÃ¼r Altersversorgung,6270,Aufwand,AUSGABENZB,0
+43,SKR49,101517880,6280,Abschreibungen AnlagevermÃ¶gen,6280,Aufwand,AUSGABENZB,0
+43,SKR49,101517881,6285,Abschreibungen GWG,6280,Aufwand,AUSGABENZB,0
+43,SKR49,101517882,6286,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,6280,Aufwand,AUSGABENZB,0
+43,SKR49,101517883,6290,Abschr.auf UmlaufvermÃ¶gen (unÃ¼blich),6290,Aufwand,AUSGABENZB,0
+43,SKR49,101517884,6300,sonstige betriebliche Aufwendungen,6300,Aufwand,AUSGABENZB,0
+43,SKR49,101517885,6301,Werbekosten,6300,Aufwand,AUSGABENZB,0
+43,SKR49,101517886,6302,Reparaturkosten Ausstattung,6300,Aufwand,AUSGABENZB,0
+43,SKR49,101517887,6303,Transportkosten,6300,Aufwand,AUSGABENZB,0
+43,SKR49,101517888,6305,Bewirtungskosten (abzugsfÃ¤hig),6300,Aufwand,AUSGABENZB,0
+43,SKR49,101517889,6310,Reisekosten,6310,Aufwand,AUSGABENZB,0
+43,SKR49,101517890,6315,Reisekosten AN Verpflegungsmehraufwand,6310,Aufwand,AUSGABENZB,0
+43,SKR49,101517891,6320,Reisekosten Arbeitnehmer,6320,Aufwand,AUSGABENZB,0
+43,SKR49,101517892,6325,Km-Geld-Erstattung,6320,Aufwand,AUSGABENZB,0
+43,SKR49,101517893,6328,VeranstaltungsabhÃ¤ngige Kosten,6320,Aufwand,AUSGABENZB,0
+43,SKR49,101517894,6329,Reinigungskosten,6320,Aufwand,AUSGABENZB,0
+43,SKR49,101517895,6330,GebÃ¤udekosten,6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517896,6331,Strom,6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517897,6332,Wasser,6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517898,6333,"Gas, Heizung",6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517899,6334,Sonstige Raumkosten,6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517900,6335,Gema-GebÃ¼hren,6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517901,6336,Musikkosten,6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517902,6339,"Miete, Pacht",6330,Aufwand,AUSGABENZB,0
+43,SKR49,101517903,6340,Verwaltungskosten,6340,Aufwand,AUSGABENZB,0
+43,SKR49,101517904,6341,"Porto, Telefon, BÃ¼robedarf",6340,Aufwand,AUSGABENZB,0
+43,SKR49,101517905,6342,"Zeitschriften, BÃ¼cher (Fachliteratur)",6340,Aufwand,AUSGABENZB,0
+43,SKR49,101517906,6345,Geschenke unter 35 EUR,6340,Aufwand,AUSGABENZB,0
+43,SKR49,101517907,6346,ReprÃ¤sentationskosten,6340,Aufwand,AUSGABENZB,0
+43,SKR49,101517908,6350,"Fahrzeuge, Transportmittel",6350,Aufwand,AUSGABENZB,0
+43,SKR49,101517909,6353,Versicherungen,6350,Aufwand,AUSGABENZB,0
+43,SKR49,101517910,6354,Geringwertige WirtschaftsgÃ¼ter,6350,Aufwand,AUSGABENZB,0
+43,SKR49,101517911,6355,Verrechnete/aufgeteilte Kosten,6350,Aufwand,AUSGABENZB,0
+43,SKR49,101517912,6360,Anteilige Zinsaufwendungen,6360,Aufwand,AUSGABENZB,0
+43,SKR49,101517913,6362,Einstellungen in steuerliche RÃ¼cklagen,6360,Aufwand,AUSGABENZB,0
+43,SKR49,101517914,6365,Anteilige Umsatzsteuerzahlungen,6360,Aufwand,AUSGABENZB,0
+43,SKR49,101517915,6375,Abziehbare Vorsteuer,6370,Aufwand,AUSGABENZB,0
+43,SKR49,101517916,6377,Nicht abziehbare Vorsteuer,6370,Aufwand,AUSGABENZB,0
+43,SKR49,101517917,6380,Aufzuteilende Vorsteuer,6380,Aufwand,AUSGABENZB,0
+43,SKR49,101517918,6385,Aufzuteilende Posten Teilbereich 6000,6380,Aufwand,AUSGABENZB,0
+43,SKR49,101517919,6410,ErtrÃ¤ge aus Beteiligungen,6410,Aufwand,AUSGABENZB,0
+43,SKR49,101517920,6420,ErtrÃ¤ge aus anderen Wertpapieren,6420,Aufwand,AUSGABENZB,0
+43,SKR49,101517921,6430,sonstige Zinsen und Ã¤hnl.ErtrÃ¤ge,6430,Aufwand,AUSGABENZB,0
+43,SKR49,101517922,6440,Abschreibungen auf Finanzanlagen,6440,Aufwand,AUSGABENZB,0
+43,SKR49,101517923,6450,Zinsen und Ã¤hnl.Aufwendungen,6450,Aufwand,AUSGABENZB,0
+43,SKR49,101517924,6470,Steuern vom Einkommen und vom Ertrag,6470,Aufwand,AUSGABENZB,0
+43,SKR49,101517925,6475,sonstige Steuern,6470,Aufwand,AUSGABENZB,0
+43,SKR49,101517926,6500,UmsatzerlÃ¶se,6500,Ertrag,EINNAHMENZB,0
+43,SKR49,101517927,6505,UmsatzerlÃ¶se 0 %,6500,Ertrag,EINNAHMENZB,1
+43,SKR49,101517928,6510,Eintrittsgelder 0%,6510,Ertrag,EINNAHMENZB,0
+43,SKR49,101517929,6515,Einnahmen aus Programmverkauf,6510,Ertrag,EINNAHMENZB,0
+43,SKR49,101517930,6520,Einnahmen aus Unterricht Â§4 Nr.22a UStG,6520,Ertrag,EINNAHMENZB,0
+43,SKR49,101517931,6525,Einnahmen kulturell.Veranst.Jugendhilfe,6520,Ertrag,EINNAHMENZB,0
+43,SKR49,101517932,6545,Direkt mit dem Umsatz verbundene Steuern,6540,Ertrag,EINNAHMENZB,0
+43,SKR49,101517933,6550,BestandsverÃ¤nderung,6550,Ertrag,EINNAHMENZB,0
+43,SKR49,101517934,6555,andere aktivierte Eigenleistungen,6550,Ertrag,EINNAHMENZB,0
+43,SKR49,101517935,6559,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),6550,Ertrag,EINNAHMENZB,0
+43,SKR49,101517936,6560,sonstige betriebliche ErtrÃ¤ge,6560,Ertrag,EINNAHMENZB,0
+43,SKR49,101517937,6565,Einnahmen aus Nebenleistungen,6560,Ertrag,EINNAHMENZB,0
+43,SKR49,101517938,6570,veranstaltungsgebundene ZuschÃ¼sse,6570,Ertrag,EINNAHMENZB,0
+43,SKR49,101517939,6575,Anteilige verrechnete Einnahmen/Umlagen,6570,Ertrag,EINNAHMENZB,0
+43,SKR49,101517940,6580,VerkaufserlÃ¶se Anlageverm.Zweckbetr.0 %,6580,Ertrag,EINNAHMENZB,0
+43,SKR49,101517941,6582,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,6580,Ertrag,EINNAHMENZB,0
+43,SKR49,101517942,6585,Unentgeltliche Wertabgaben 0 % USt,6580,Ertrag,EINNAHMENZB,0
+43,SKR49,101517943,6590,Zuschreibungen,6590,Ertrag,EINNAHMENZB,0
+43,SKR49,101517944,6670,Aufwendungen fÃ¼r RHB,6670,Aufwand,AUSGABENZB,0
+43,SKR49,101517945,6680,Aufwendungen fÃ¼r bezogene Leistungen,6680,Aufwand,AUSGABENZB,0
+43,SKR49,101517946,6700,LÃ¶hne und GehÃ¤lter,6700,Aufwand,AUSGABENZB,0
+43,SKR49,101517947,6705,Personalkosten Ãœbungsleiter,6700,Aufwand,AUSGABENZB,0
+43,SKR49,101517948,6710,AufwandsentschÃ¤digung Â§3 Nr.26 EStG,6710,Aufwand,AUSGABENZB,0
+43,SKR49,101517949,6715,AushilfslÃ¶hne,6710,Aufwand,AUSGABENZB,0
+43,SKR49,101517950,6750,soziale Abgaben,6750,Aufwand,AUSGABENZB,0
+43,SKR49,101517951,6751,BeitrÃ¤ge zur Berufsgenossenschaft,6750,Aufwand,AUSGABENZB,0
+43,SKR49,101517952,6755,abgefÃ¼hrte Lohnsteuer,6750,Aufwand,AUSGABENZB,0
+43,SKR49,101517953,6760,freiwillige soziale Aufwendungen,6760,Aufwand,AUSGABENZB,0
+43,SKR49,101517954,6775,Abgaben fÃ¼r Altersversorgung,6770,Aufwand,AUSGABENZB,0
+43,SKR49,101517955,6780,Abschreibungen AnlagevermÃ¶gen,6780,Aufwand,AUSGABENZB,0
+43,SKR49,101517956,6785,Abschreibungen GWG,6780,Aufwand,AUSGABENZB,0
+43,SKR49,101517957,6786,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,6780,Aufwand,AUSGABENZB,0
+43,SKR49,101517958,6790,Abschr.auf UmlaufvermÃ¶gen (unÃ¼blich),6790,Aufwand,AUSGABENZB,0
+43,SKR49,101517959,6800,sonstige betriebliche Aufwendungen,6800,Aufwand,AUSGABENZB,0
+43,SKR49,101517960,6805,Bewirtungskosten (abzugsfÃ¤hig),6800,Aufwand,AUSGABENZB,0
+43,SKR49,101517961,6810,Reisekosten,6810,Aufwand,AUSGABENZB,0
+43,SKR49,101517962,6815,Reisekosten AN Verpflegungsmehraufwand,6810,Aufwand,AUSGABENZB,0
+43,SKR49,101517963,6820,Reisekosten Arbeitnehmer,6820,Aufwand,AUSGABENZB,0
+43,SKR49,101517964,6825,Km-Geld-Erstattung,6820,Aufwand,AUSGABENZB,0
+43,SKR49,101517965,6830,GebÃ¤udekosten,6830,Aufwand,AUSGABENZB,0
+43,SKR49,101517966,6831,Strom,6830,Aufwand,AUSGABENZB,0
+43,SKR49,101517967,6832,Wasser,6830,Aufwand,AUSGABENZB,0
+43,SKR49,101517968,6833,"Gas, Heizung",6830,Aufwand,AUSGABENZB,0
+43,SKR49,101517969,6834,Sonstige Raumkosten,6830,Aufwand,AUSGABENZB,1
+43,SKR49,101517970,6835,Gema-GebÃ¼hren,6830,Aufwand,AUSGABENZB,0
+43,SKR49,101517971,6839,"Miete, Pacht",6830,Aufwand,AUSGABENZB,1
+43,SKR49,101517972,6840,Verwaltungskosten,6840,Aufwand,AUSGABENZB,0
+43,SKR49,101517973,6841,"Porto, Telefon",6840,Aufwand,AUSGABENZB,0
+43,SKR49,101517974,6842,BÃ¼robedarf,6840,Aufwand,AUSGABENZB,1
+43,SKR49,101517975,6845,Geschenke unter 35 EUR,6840,Aufwand,AUSGABENZB,0
+43,SKR49,101517976,6848,Versicherungen,6840,Aufwand,AUSGABENZB,0
+43,SKR49,101517977,6850,"Fahrzeuge, Transportmittel",6850,Aufwand,AUSGABENZB,0
+43,SKR49,101517978,6855,Verrechnete/aufgeteilte Kosten,6850,Aufwand,AUSGABENZB,0
+43,SKR49,101517979,6860,Anteilige Zinsaufwendungen,6860,Aufwand,AUSGABENZB,0
+43,SKR49,101517980,6862,Einstellungen in steuerliche RÃ¼cklagen,6860,Aufwand,AUSGABENZB,0
+43,SKR49,101517981,6865,Anteilige Umsatzsteuerzahlungen,6860,Aufwand,AUSGABENZB,0
+43,SKR49,101517982,6875,Abziehbare Vorsteuer,6870,Aufwand,AUSGABENZB,0
+43,SKR49,101517983,6877,Nicht abziehbare Vorsteuer,6870,Aufwand,AUSGABENZB,0
+43,SKR49,101517984,6880,Aufzuteilende Vorsteuer,6880,Aufwand,AUSGABENZB,0
+43,SKR49,101517985,6885,Aufzuteilende Posten Teilbereich 6500,6880,Aufwand,AUSGABENZB,0
+43,SKR49,101517986,6890,Unmittelbare Kosten des Unterrichts,6890,Aufwand,AUSGABENZB,0
+43,SKR49,101517987,6895,Unm.Kost.Darbietung.Jugendl.u.Erwachsene,6890,Aufwand,AUSGABENZB,0
+43,SKR49,101517988,6910,ErtrÃ¤ge aus Beteiligungen,6910,Aufwand,AUSGABENZB,0
+43,SKR49,101517989,6930,sonstige Zinsen und Ã¤hnl.ErtrÃ¤ge,6930,Aufwand,AUSGABENZB,0
+43,SKR49,101517990,6940,Abschreibungen auf Finanzanlagen,6940,Aufwand,AUSGABENZB,0
+43,SKR49,101517991,6950,Zinsen und Ã¤hnl.Aufwendungen,6950,Aufwand,AUSGABENZB,1
+43,SKR49,101517992,6970,Steuern vom Einkommen und vom Ertrag,6970,Aufwand,AUSGABENZB,0
+43,SKR49,101517993,6975,sonstige Steuern,6970,Aufwand,AUSGABENZB,0
+43,SKR49,101517994,6990,Umgebuchte Einnahmen B 6000 (Gkto.8980),6990,Ertrag,EINNAHMENZB,0
+43,SKR49,101517995,6992,Umgebuchte Ausgaben B 5000 (Gkto. 8990),6990,Aufwand,AUSGABENZB,0
+43,SKR49,101517996,7000,Einnahmen aus GeschÃ¤ftsbetrieb.Sport,7000,Ertrag,EINNAHMENGB,0
+43,SKR49,101517997,7002,Einnahmen 19 % USt Sport 3,7000,Ertrag,EINNAHMENGB,0
+43,SKR49,101517998,7004,Eintritt aus WettkÃ¤mpfen 19 % USt,7000,Ertrag,EINNAHMENGB,0
+43,SKR49,101517999,7006,Eintritt a.FuÃŸballspielen 19 % USt,7000,Ertrag,EINNAHMENGB,0
+43,SKR49,101518000,7008,Eintritt aus Sportturnieren 19 % USt,7000,Ertrag,EINNAHMENGB,0
+43,SKR49,101518001,7010,Eintritt aus sonst.Sportveranst. 19 % USt,7010,Ertrag,EINNAHMENGB,0
+43,SKR49,101518002,7012,Zuwendungen Dritter (Sponsoren) 19 % USt,7010,Ertrag,EINNAHMENGB,0
+43,SKR49,101518003,7021,Eintrittsgelder aus Sport 1 (19 % USt),7020,Ertrag,EINNAHMENGB,0
+43,SKR49,101518004,7022,Eintrittsgelder aus Sport 2 (19 % USt),7020,Ertrag,EINNAHMENGB,0
+43,SKR49,101518005,7023,Eintrittsgelder aus Sport 3 (19 % USt),7020,Ertrag,EINNAHMENGB,0
+43,SKR49,101518006,7050,Einn.a.FuÃŸballspiel.mit Lizenzspielern,7050,Ertrag,EINNAHMENGB,0
+43,SKR49,101518007,7052,Eintrittsgelder 19 % USt,7050,Ertrag,EINNAHMENGB,0
+43,SKR49,101518008,7054,Einnahmen aus AblÃ¶sesummen 19 % USt,7050,Ertrag,EINNAHMENGB,0
+43,SKR49,101518009,7100,Sonst.Einnahmen GeschÃ¤ftsbetr.Sport 3,7100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518010,7102,Anteilige/verrechnete Einnahmen,7100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518011,7104,Sonstige ErtrÃ¤ge,7100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518012,7106,Einn.a.Sportkursen/-lehrg.m.bez.Sportl.,7100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518013,7150,Einnahmen a.AblÃ¶se bez.Sportler 19 % USt,7150,Ertrag,EINNAHMENGB,0
+43,SKR49,101518014,7152,Verkaufserl.Anlagev.TB 7001 19 % USt,7150,Ertrag,EINNAHMENGB,0
+43,SKR49,101518015,7154,Einnahmen aus Nebenleistungen,7150,Ertrag,EINNAHMENGB,0
+43,SKR49,101518016,7160,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,7160,Ertrag,EINNAHMENGB,0
+43,SKR49,101518017,7190,ErtrÃ¤ge aus Zuschreibungen des AnlagevermÃ¶gens,7190,Ertrag,EINNAHMENGB,0
+43,SKR49,101518018,7200,Aufwendungen fÃ¼r RHB/bezogene Waren,7200,Aufwand,AUSGABENGB,0
+43,SKR49,101518019,7210,Aufwendungen fÃ¼r bezogene Leistungen,7210,Aufwand,AUSGABENGB,0
+43,SKR49,101518020,7220,LÃ¶hne und GehÃ¤lter,7220,Aufwand,AUSGABENGB,0
+43,SKR49,101518021,7222,VergÃ¼tungen an Sportler,7220,Aufwand,AUSGABENGB,0
+43,SKR49,101518022,7224,VergÃ¼tungen i.S.v. Â§67a Abs.3 Satz 3 AO,7220,Aufwand,AUSGABENGB,0
+43,SKR49,101518023,7226,SportlervergÃ¼tungen an aktive Mitglieder,7220,Aufwand,AUSGABENGB,0
+43,SKR49,101518024,7228,Sonstige VergÃ¼tung.an aktive Mitglieder,7220,Aufwand,AUSGABENGB,0
+43,SKR49,101518025,7230,SportlervergÃ¼t.aktive Nichtmitglieder,7230,Aufwand,AUSGABENGB,0
+43,SKR49,101518026,7232,"Personalkosten Trainer,Ãœbungsleiter",7230,Aufwand,AUSGABENGB,0
+43,SKR49,101518027,7234,Sonstige Personalkosten,7230,Aufwand,AUSGABENGB,0
+43,SKR49,101518028,7236,AushilfslÃ¶hne,7230,Aufwand,AUSGABENGB,0
+43,SKR49,101518029,7250,SozialversicherungsbeitrÃ¤ge,7250,Aufwand,AUSGABENGB,0
+43,SKR49,101518030,7251,BeitrÃ¤ge zur Berufsgenossenschaft,7250,Aufwand,AUSGABENGB,0
+43,SKR49,101518031,7252,AbgefÃ¼hrte Lohnsteuer,7250,Aufwand,AUSGABENGB,0
+43,SKR49,101518032,7265,Abgaben fÃ¼r Altersversorgung,7260,Aufwand,AUSGABENGB,0
+43,SKR49,101518033,7270,Abschreibung AnlagevermÃ¶gen TB 7000,7270,Aufwand,AUSGABENGB,0
+43,SKR49,101518034,7272,Abschreibungen,7270,Aufwand,AUSGABENGB,0
+43,SKR49,101518035,7274,Abschreibungen GWG,7270,Aufwand,AUSGABENGB,0
+43,SKR49,101518036,7275,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,7270,Aufwand,AUSGABENGB,0
+43,SKR49,101518037,7278,Kalkulatorische Abschreibungen,7270,Aufwand,AUSGABENGB,0
+43,SKR49,101518038,7280,"Abschr. auf UmlaufvermÃ¶gen, unÃ¼blich",7280,Aufwand,AUSGABENGB,0
+43,SKR49,101518039,7300,Reisekosten,7300,Aufwand,AUSGABENGB,0
+43,SKR49,101518040,7302,Reisekosten AN Verpflegungsmehraufwand,7300,Aufwand,AUSGABENGB,0
+43,SKR49,101518041,7304,Reisekosten Arbeitnehmer,7300,Aufwand,AUSGABENGB,0
+43,SKR49,101518042,7306,Km-Geld-Erstattung,7300,Aufwand,AUSGABENGB,0
+43,SKR49,101518043,7308,Sonstiger Reisekostenersatz,7300,Aufwand,AUSGABENGB,0
+43,SKR49,101518044,7310,Kostenerstattung an Gastmannschaften,7310,Aufwand,AUSGABENGB,0
+43,SKR49,101518045,7312,Sonstige VergÃ¼tungen,7310,Aufwand,AUSGABENGB,0
+43,SKR49,101518046,7314,Aufwand fÃ¼r andere Vorteile,7310,Aufwand,AUSGABENGB,0
+43,SKR49,101518047,7316,Gezahlte Preisgelder an bezahlt.Sportler,7310,Aufwand,AUSGABENGB,0
+43,SKR49,101518048,7318,Aufwandsersatz,7310,Aufwand,AUSGABENGB,0
+43,SKR49,101518049,7320,Anteilige Aufwandspauschale TB 7001,7320,Aufwand,AUSGABENGB,0
+43,SKR49,101518050,7350,Sonstige veranstaltungsabhÃ¤ngig.Kosten,7350,Aufwand,AUSGABENGB,0
+43,SKR49,101518051,7352,Reisekostenerstattung an Nichtaktive,7350,Aufwand,AUSGABENGB,0
+43,SKR49,101518052,7354,Transportkosten,7350,Aufwand,AUSGABENGB,0
+43,SKR49,101518053,7356,Abgaben,7350,Aufwand,AUSGABENGB,0
+43,SKR49,101518054,7358,Sonstige Kosten,7350,Aufwand,AUSGABENGB,0
+43,SKR49,101518055,7380,Kosten der Sportanlagen,7380,Aufwand,AUSGABENGB,0
+43,SKR49,101518056,7382,Personalkosten,7380,Aufwand,AUSGABENGB,0
+43,SKR49,101518057,7384,"Miete, Pacht",7380,Aufwand,AUSGABENGB,0
+43,SKR49,101518058,7385,Strom,7380,Aufwand,AUSGABENGB,0
+43,SKR49,101518059,7386,Wasser,7380,Aufwand,AUSGABENGB,0
+43,SKR49,101518060,7387,"Gas, Heizung",7380,Aufwand,AUSGABENGB,0
+43,SKR49,101518061,7388,Reparaturen,7380,Aufwand,AUSGABENGB,0
+43,SKR49,101518062,7400,Allgemeine Kosten des Sportbetriebs,7400,Aufwand,AUSGABENGB,0
+43,SKR49,101518063,7402,Anteilige Personalkosten,7400,Aufwand,AUSGABENGB,0
+43,SKR49,101518064,7404,Verwaltungskosten,7400,Aufwand,AUSGABENGB,0
+43,SKR49,101518065,7406,Reisekostenerstattung,7400,Aufwand,AUSGABENGB,0
+43,SKR49,101518066,7408,Reisekosten AN Verpflegungsmehraufwand,7400,Aufwand,AUSGABENGB,0
+43,SKR49,101518067,7410,Reisekosten Arbeitnehmer,7410,Aufwand,AUSGABENGB,0
+43,SKR49,101518068,7412,Km-Geld-Erstattung,7410,Aufwand,AUSGABENGB,0
+43,SKR49,101518069,7414,Versicherungen,7410,Aufwand,AUSGABENGB,0
+43,SKR49,101518070,7416,Sportkleidung,7410,Aufwand,AUSGABENGB,0
+43,SKR49,101518071,7418,Ausbildungskostenersatz,7410,Aufwand,AUSGABENGB,0
+43,SKR49,101518072,7430,"Betriebskosten Fahrzeuge,Transportmitt.",7430,Aufwand,AUSGABENGB,0
+43,SKR49,101518073,7432,Kfz-Kosten,7430,Aufwand,AUSGABENGB,0
+43,SKR49,101518074,7440,"Betriebskosten Ausstattung,SportgerÃ¤te",7440,Aufwand,AUSGABENGB,0
+43,SKR49,101518075,7442,Betriebskosten Ausstattung TB 7001,7440,Aufwand,AUSGABENGB,0
+43,SKR49,101518076,7444,Betriebskosten SportgerÃ¤te TB 7001,7440,Aufwand,AUSGABENGB,0
+43,SKR49,101518077,7446,Reparaturkosten Ausstattung/GerÃ¤te,7440,Aufwand,AUSGABENGB,0
+43,SKR49,101518078,7462,"Sonstige Steuern, Abgaben",7460,Aufwand,AUSGABENGB,0
+43,SKR49,101518079,7500,Verschiedene Kosten Teilbereich 7001,7500,Aufwand,AUSGABENGB,0
+43,SKR49,101518080,7502,Verrechnete/aufgeteilte Kosten,7500,Aufwand,AUSGABENGB,0
+43,SKR49,101518081,7504,Anteilige Umsatzsteuerzahlungen,7500,Aufwand,AUSGABENGB,0
+43,SKR49,101518082,7506,Aufzuteilende Vorsteuer,7500,Aufwand,AUSGABENGB,0
+43,SKR49,101518083,7508,Abziehbare Vorsteuer,7500,Aufwand,AUSGABENGB,0
+43,SKR49,101518084,7510,Nicht abziehbare Vorsteuer,7510,Aufwand,AUSGABENGB,0
+43,SKR49,101518085,7512,BeitrÃ¤ge,7510,Aufwand,AUSGABENGB,0
+43,SKR49,101518086,7514,Anteilige Verwaltungskosten,7510,Aufwand,AUSGABENGB,0
+43,SKR49,101518087,7516,Aufzuteilende Posten Teilbereich 7001,7510,Aufwand,AUSGABENGB,0
+43,SKR49,101518088,7517,Einstellungen in steuerliche RÃ¼cklagen,7510,Aufwand,AUSGABENGB,0
+43,SKR49,101518089,7518,Ertr.a.Storno Aufw.pauschal.(Gkto.3795),7510,Aufwand,AUSGABENGB,0
+43,SKR49,101518090,7520,Ertr.a.Storno Trainingskst.(Gkto.3795),7520,Aufwand,AUSGABENGB,0
+43,SKR49,101518091,7800,Werbeeinnahmen i.eigener Regie b.Sport,7800,Ertrag,EINNAHMENGB,0
+43,SKR49,101518092,7801,Einnahmen ReklameflÃ¤chen 19% USt in Eigenregie,7800,Ertrag,EINNAHMENGB,0
+43,SKR49,101518093,7802,Einnahmen Trikotwerbung 19% USt in Eigenregie,7800,Ertrag,EINNAHMENGB,0
+43,SKR49,101518094,7803,Einnahmen SportgerÃ¤tewerbung 19% USt in Eigenregie,7800,Ertrag,EINNAHMENGB,0
+43,SKR49,101518095,7804,Einnahmen Bandenwerbung 19% USt in Eigenregie,7800,Ertrag,EINNAHMENGB,0
+43,SKR49,101518096,7805,Einnahmen aus Plakatwerbung und Ã¤hnliches 19% USt in Eigenregie,7800,Ertrag,EINNAHMENGB,0
+43,SKR49,101518097,7806,Einnahmen Lautsprecherwerbung 19% USt in Eigenregie,7800,Ertrag,EINNAHMENGB,0
+43,SKR49,101518098,7810,Einnahmen aus Ã¼bertragenen Werberechten im wirtschaftlichen GeschÃ¤ftsbetrieb,7810,Ertrag,EINNAHMENGB,0
+43,SKR49,101518099,7811,Einnahmen Trikotwerberechte 19% USt im wirtschaftlichen GeschÃ¤ftsbetrieb,7810,Ertrag,EINNAHMENGB,0
+43,SKR49,101518100,7812,Einnahmen SportgerÃ¤te-Werberechte 19% USt im wirtschaftlichen GeschÃ¤ftsbetrieb,7810,Ertrag,EINNAHMENGB,0
+43,SKR49,101518101,7813,Einnahmen a. sonst. Ã¼bertr. Werberechten im wirtschaftlichen GeschÃ¤ftsbetrieb,7810,Ertrag,EINNAHMENGB,0
+43,SKR49,101518102,7820,Einnahmen Inserate/Werbeanzeigen in Eigenregie,7820,Ertrag,EINNAHMENGB,0
+43,SKR49,101518103,7821,Einnahmen Verkauf Embleme/Abzeichen in Eigenregie,7820,Ertrag,EINNAHMENGB,0
+43,SKR49,101518104,7830,Kurzfr.Vermiet.SportstÃ¤tten a.Nichtmitgl,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518105,7831,Kurzfr.Vermietung a.Nichtmitgl.,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518106,7832,Stundenw.Vermietung v.Spielfeld. 19 % USt,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518107,7833,Stundenw.Vermietung v.Tennispl. 19 % USt,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518108,7834,Stundenw.Vermiet.v.Schwimmhallen 19 %USt,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518109,7835,Stundenw.Vermiet.v.Kegelbahnen 19 % USt,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518110,7836,Stundenw.Vermiet.v.GerÃ¤ten 19 % USt,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518111,7837,Einnahmen Greenfee 19 % USt,7830,Ertrag,EINNAHMENGB,0
+43,SKR49,101518112,7840,Sonstige Einnahmen Teilbereich 7800,7840,Ertrag,EINNAHMENGB,0
+43,SKR49,101518113,7842,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,7840,Ertrag,EINNAHMENGB,0
+43,SKR49,101518114,7850,Unmittelbare Ausgaben zur Werbung,7850,Aufwand,AUSGABENGB,0
+43,SKR49,101518115,7851,Werbekostenpauschbetrag 85% (Gkto.3795),7850,Aufwand,AUSGABENGB,0
+43,SKR49,101518116,7852,TatsÃ¤chliche Kosten Werbung,7850,Aufwand,AUSGABENGB,0
+43,SKR49,101518117,7854,Anteilige Druckkosten,7850,Aufwand,AUSGABENGB,0
+43,SKR49,101518118,7855,Anteilige Versandkosten,7850,Aufwand,AUSGABENGB,0
+43,SKR49,101518119,7856,Werbemittlungskosten,7850,Aufwand,AUSGABENGB,0
+43,SKR49,101518120,7858,Ertr.Storno tatsÃ¤ch.Werbekost.(Gkt.3795),7850,Aufwand,AUSGABENGB,0
+43,SKR49,101518121,7860,Unmittelb.Ausgaben SportstÃ¤ttenvermiet.,7860,Aufwand,AUSGABENGB,0
+43,SKR49,101518122,7861,Anteilige Kostenumlage f.SportstÃ¤tten,7860,Aufwand,AUSGABENGB,0
+43,SKR49,101518123,7870,Verschiedene Kosten Teilbereich 7800,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518124,7871,Verrechnete/aufgeteilte Kosten TB7800,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518125,7874,Einstellungen in steuerliche RÃ¼cklagen,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518126,7875,Anteilige Umsatzsteuerzahlungen,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518127,7876,Aufzuteilende Vorsteuer,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518128,7877,Abziehbare Vorsteuer,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518129,7878,Nicht abziehbare Vorsteuer,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518130,7879,Aufzuteilende Posten Teilbereich 7800,7870,Aufwand,AUSGABENGB,0
+43,SKR49,101518131,8000,Einnahmen aus UmsatzerlÃ¶sen,8000,Ertrag,EINNAHMENGB,0
+43,SKR49,101518132,8002,Eintr.gelder aus geselligen Veranstalt.,8000,Ertrag,EINNAHMENGB,0
+43,SKR49,101518133,8004,ErlÃ¶se aus Handelswaren,8000,Ertrag,EINNAHMENGB,0
+43,SKR49,101518134,8006,ErlÃ¶se aus Leistungen,8000,Ertrag,EINNAHMENGB,0
+43,SKR49,101518135,8008,ErlÃ¶se aus LeihgebÃ¼hren,8000,Ertrag,EINNAHMENGB,0
+43,SKR49,101518136,8010,ErlÃ¶se aus Geldspielautomaten,8010,Ertrag,EINNAHMENGB,0
+43,SKR49,101518137,8012,Einnahmen aus Werbung ReklameflÃ¤chen,8010,Ertrag,EINNAHMENGB,0
+43,SKR49,101518138,8014,AnzeigengeschÃ¤fte (Vereinszeitschr...),8010,Ertrag,EINNAHMENGB,0
+43,SKR49,101518139,8016,Sonstige Werbeeinnahmen,8010,Ertrag,EINNAHMENGB,0
+43,SKR49,101518140,8018,Kurzfr.Benutzungsgeb.v.Nichtmitglied.,8010,Ertrag,EINNAHMENGB,0
+43,SKR49,101518141,8020,ErlÃ¶se USt-frei Â§4 Nr.7 ff UStG,8020,Ertrag,EINNAHMENGB,1
+43,SKR49,101518142,8022,Einn.a.steuerschÃ¤dl.Lotterien/Ausspiel.,8020,Ertrag,EINNAHMENGB,0
+43,SKR49,101518143,8024,ErlÃ¶se USt-frei Â§4 Nr.1-6 UStG,8020,Ertrag,EINNAHMENGB,0
+43,SKR49,101518144,8025,ErlÃ¶se als Kleinunternehmer Â§ 19 Abs. 1 UStG ,8020,Ertrag,EINNAHMENGB,1
+43,SKR49,101518145,8026,ErlÃ¶se 7 % Umsatzsteuer,8020,Ertrag,EINNAHMENGB,0
+43,SKR49,101518146,8028,Erl.Speis./Getr. 7 % (kein Verzehr a.Ort),8020,Ertrag,EINNAHMENGB,0
+43,SKR49,101518147,8030,ErlÃ¶se 19 % USt,8030,Ertrag,EINNAHMENGB,0
+43,SKR49,101518148,8032,ErlÃ¶se 19 % USt Vereinsgastst. u.Ã¤.,8030,Ertrag,EINNAHMENGB,0
+43,SKR49,101518149,8034,Erl.Speise/Getr.ausserh.Gastst. 19 % USt,8030,Ertrag,EINNAHMENGB,0
+43,SKR49,101518150,8036,ErlÃ¶se Festzeltbetrieb 19 % USt,8030,Ertrag,EINNAHMENGB,0
+43,SKR49,101518151,8038,GetrÃ¤nkeumsatz alkoholfrei,8030,Ertrag,EINNAHMENGB,0
+43,SKR49,101518152,8040,GetrÃ¤nkeumsatz alkoholisch,8040,Ertrag,EINNAHMENGB,0
+43,SKR49,101518153,8042,Verrechnungskonto Geldspielautomaten,8040,Ertrag,EINNAHMENGB,0
+43,SKR49,101518154,8044,ProvisionserlÃ¶se,8040,Ertrag,EINNAHMENGB,0
+43,SKR49,101518155,8045,Direkt mit dem Umsatz verbundene Steuern,8040,Ertrag,EINNAHMENGB,0
+43,SKR49,101518156,8046,ErlÃ¶sschmÃ¤lerungen,8040,Ertrag,EINNAHMENGB,0
+43,SKR49,101518157,8048,Nicht steuerbare UmsÃ¤tze (InnenumsÃ¤tze),8040,Ertrag,EINNAHMENGB,0
+43,SKR49,101518158,8050,UmsatzsteuervergÃ¼tungen,8050,Ertrag,EINNAHMENGB,0
+43,SKR49,101518159,8052,Unentgeltliche Wertabgaben,8050,Ertrag,EINNAHMENGB,0
+43,SKR49,101518160,8054,Entnahme v.Gegenst.3/1b/1 UStG (Waren),8050,Ertrag,EINNAHMENGB,0
+43,SKR49,101518161,8056,Unentgelt.Zuwend.Gegenst.3/1b/2.3 UStG,8050,Ertrag,EINNAHMENGB,0
+43,SKR49,101518162,8090,BestandsverÃ¤nderung,8090,Ertrag,EINNAHMENGB,0
+43,SKR49,101518163,8095,andere aktivierte Eigenleistungen,8090,Ertrag,EINNAHMENGB,0
+43,SKR49,101518164,8099,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),8090,Ertrag,EINNAHMENGB,0
+43,SKR49,101518165,8100,Sonstige betriebliche ErtrÃ¤ge,8100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518166,8102,ErlÃ¶se Verkauf AnlagevermÃ¶gen TB 8001,8100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518167,8104,Verwend.v.Gegenst. Â§3/9a/1 UStG,8100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518168,8106,Unentgeltl.Leistungserbring.3/9a/1 UStG,8100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518169,8108,ErlÃ¶se Abfallverwertung,8100,Ertrag,EINNAHMENGB,0
+43,SKR49,101518170,8110,ErlÃ¶se Leergut,8110,Ertrag,EINNAHMENGB,0
+43,SKR49,101518171,8112,Anteilige/verrechnete Einnahmen,8110,Ertrag,EINNAHMENGB,0
+43,SKR49,101518172,8114,Erhaltene Zinsen auf Betriebsteuern,8110,Ertrag,EINNAHMENGB,0
+43,SKR49,101518173,8130,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,8130,Ertrag,EINNAHMENGB,0
+43,SKR49,101518174,8131,Sonstige ErtrÃ¤ge unregelmÃ¤ÃŸig,8130,Ertrag,EINNAHMENGB,0
+43,SKR49,101518175,8132,Sonstige ErtrÃ¤ge betrieblich und regelmÃ¤ÃŸig,8130,Ertrag,EINNAHMENGB,0
+43,SKR49,101518176,8133,Erstattungen nach AAG,8130,Ertrag,EINNAHMENGB,0
+43,SKR49,101518177,8134,Verrechnete sonstige SachbezÃ¼ge (keine Waren),8130,Ertrag,EINNAHMENGB,0
+43,SKR49,101518178,8140,Zuschreibungen,8140,Ertrag,EINNAHMENGB,0
+43,SKR49,101518179,8150,Wareneinkauf,8150,Aufwand,AUSGABENGB,0
+43,SKR49,101518180,8152,Wareneingang 7 % Vorsteuer,8150,Aufwand,AUSGABENGB,0
+43,SKR49,101518181,8154,Wareneingang 19 % Vorsteuer,8150,Aufwand,AUSGABENGB,0
+43,SKR49,101518182,8156,Handelswaren,8150,Aufwand,AUSGABENGB,0
+43,SKR49,101518183,8158,TatsÃ¤chliche Kosten Altpapiersammlungen,8150,Aufwand,AUSGABENGB,0
+43,SKR49,101518184,8160,TatsÃ¤chl.Kosten Altmaterialsammlungen,8160,Aufwand,AUSGABENGB,0
+43,SKR49,101518185,8162,Ausgabenpausch.95%  Altpap.(Gkto.3895),8160,Aufwand,AUSGABENGB,0
+43,SKR49,101518186,8164,Ausgabenpausch.80%  Altmat.(Gkto.3895),8160,Aufwand,AUSGABENGB,0
+43,SKR49,101518187,8166,Ertrag aus Stornokost.Altpap./Altmat.,8160,Aufwand,AUSGABENGB,0
+43,SKR49,101518188,8172,Bezugs- und Nebenkosten,8170,Aufwand,AUSGABENGB,0
+43,SKR49,101518189,8200,Fremdleistungen,8200,Aufwand,AUSGABENGB,0
+43,SKR49,101518190,8210,LÃ¶hne und GehÃ¤lter,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518191,8212,AushilfslÃ¶hne,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518192,8213,LÃ¶hne fÃ¼r Minijobs,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518193,8214,Bedienungsgelder,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518194,8215,Freiwillige Zuwendungen an Minijobber,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518195,8216,VermÃ¶genswirksame Leistungen,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518196,8217,Sachzuwendungen an Arbeitnehmer,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518197,8218,Sachzuwendungen an Minijobber,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518198,8219,Fahrtkostenerstattung Wohnung/ArbeitsstÃ¤tte,8210,Aufwand,AUSGABENGB,0
+43,SKR49,101518199,8220,ZuschÃ¼sse der Agenturen fÃ¼r Arbeit (Haben),8220,Aufwand,AUSGABENGB,0
+43,SKR49,101518200,8221,Pauschale Steuer auf sonstige BezÃ¼ge,8220,Aufwand,AUSGABENGB,0
+43,SKR49,101518201,8222,Pauschale Steuer fÃ¼r Arbeitnehmer,8220,Aufwand,AUSGABENGB,0
+43,SKR49,101518202,8223,Pauschale Steuer fÃ¼r Aushilfen,8220,Aufwand,AUSGABENGB,0
+43,SKR49,101518203,8226,Pauschale Steuer fÃ¼r Minijobber,8220,Aufwand,AUSGABENGB,0
+43,SKR49,101518204,8230,SozialversicherungsbeitrÃ¤ge,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518205,8231,"Freiwillige soziale Aufwendungen, LSt frei",8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518206,8232,AbgefÃ¼hrte Lohnsteuer,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518207,8233,Aufwendungen aus der VerÃ¤nderung von UrlaubsrÃ¼ckstellungen,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518208,8235,Abgaben fÃ¼r Altersversorgung,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518209,8236,BeitrÃ¤ge zur Berufsgenossenschaft,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518210,8237,Soziale Abgaben fÃ¼r Minijobber,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518211,8238,Pauschale Steuer auf sonstige BezÃ¼ge,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518212,8239,Aufwendungen fÃ¼r UnterstÃ¼tzung,8230,Aufwand,AUSGABENGB,0
+43,SKR49,101518213,8240,Abschreibungen AnlagevermÃ¶gen,8240,Aufwand,AUSGABENGB,0
+43,SKR49,101518214,8242,Abschreibungen GWG,8240,Aufwand,AUSGABENGB,0
+43,SKR49,101518215,8243,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,8240,Aufwand,AUSGABENGB,0
+43,SKR49,101518216,8244,AnlagenabgÃ¤nge/Restbuchwerte,8240,Aufwand,AUSGABENGB,0
+43,SKR49,101518217,8246,Kalkulatorische Abschreibungen,8240,Aufwand,AUSGABENGB,0
+43,SKR49,101518218,8270,Abschr.auf UmlaufvermÃ¶gen (unÃ¼blich),8270,Aufwand,AUSGABENGB,0
+43,SKR49,101518219,8300,Anteilige Raumkosten,8300,Aufwand,AUSGABENGB,1
+43,SKR49,101518220,8302,"Miete, Pacht",8300,Aufwand,AUSGABENGB,1
+43,SKR49,101518221,8303,Strom,8300,Aufwand,AUSGABENGB,0
+43,SKR49,101518222,8304,Wasser,8300,Aufwand,AUSGABENGB,0
+43,SKR49,101518223,8305,"Gas, Heizung",8300,Aufwand,AUSGABENGB,0
+43,SKR49,101518224,8306,Reinigungskosten,8300,Aufwand,AUSGABENGB,0
+43,SKR49,101518225,8308,Verwaltungskosten,8300,Aufwand,AUSGABENGB,0
+43,SKR49,101518226,8310,BÃ¼romaterial,8310,Aufwand,AUSGABENGB,1
+43,SKR49,101518227,8312,Porto,8310,Aufwand,AUSGABENGB,0
+43,SKR49,101518228,8313,Telefon,8310,Aufwand,AUSGABENGB,0
+43,SKR49,101518229,8314,"Zinsen, Bankspesen",8310,Aufwand,AUSGABENGB,0
+43,SKR49,101518230,8318,"Versicherungen, BeitrÃ¤ge",8310,Aufwand,AUSGABENGB,0
+43,SKR49,101518231,8320,Sonstige Abgaben,8320,Aufwand,AUSGABENGB,0
+43,SKR49,101518232,8322,Fahrzeugkosten,8320,Aufwand,AUSGABENGB,0
+43,SKR49,101518233,8324,Pkw-Kosten,8320,Aufwand,AUSGABENGB,0
+43,SKR49,101518234,8326,Garagenmieten,8320,Aufwand,AUSGABENGB,0
+43,SKR49,101518235,8328,Fremdfahrzeuge,8320,Aufwand,AUSGABENGB,0
+43,SKR49,101518236,8330,Werbe- und Reisekosten,8330,Aufwand,AUSGABENGB,0
+43,SKR49,101518237,8332,Geschenke bis 35 EUR,8330,Aufwand,AUSGABENGB,0
+43,SKR49,101518238,8334,Bewirtungskosten (abzugsfÃ¤hig),8330,Aufwand,AUSGABENGB,0
+43,SKR49,101518239,8336,Reisekosten Arbeitnehmer,8330,Aufwand,AUSGABENGB,0
+43,SKR49,101518240,8338,Reisekosten AN Verpflegungsmehraufwand,8330,Aufwand,AUSGABENGB,0
+43,SKR49,101518241,8340,Reisekosten Arbeitnehmer,8340,Aufwand,AUSGABENGB,0
+43,SKR49,101518242,8342,Km-Geld-Erstattung,8340,Aufwand,AUSGABENGB,0
+43,SKR49,101518243,8370,Einstellungen in steuerliche RÃ¼cklagen,8370,Aufwand,AUSGABENGB,0
+43,SKR49,101518244,8378,Anteilige Umsatzsteuerzahlungen,8370,Aufwand,AUSGABENGB,0
+43,SKR49,101518245,8380,Aufzuteilende Vorsteuer,8380,Aufwand,AUSGABENGB,0
+43,SKR49,101518246,8382,Abziehbare Vorsteuer,8380,Aufwand,AUSGABENGB,0
+43,SKR49,101518247,8384,Nicht abziehbare Vorsteuer,8380,Aufwand,AUSGABENGB,0
+43,SKR49,101518248,8410,ErtrÃ¤ge aus anderen Wertpapieren,8410,Aufwand,AUSGABENGB,0
+43,SKR49,101518249,8420,sonstige Zinsen und Ã¤hnl.ErtrÃ¤ge,8420,Aufwand,AUSGABENGB,0
+43,SKR49,101518250,8430,Abschreibungen auf Finanzanlagen,8430,Aufwand,AUSGABENGB,0
+43,SKR49,101518251,8440,Zinsen und Ã¤hnl.Aufwendungen,8440,Aufwand,AUSGABENGB,1
+43,SKR49,101518252,8470,Steuern vom Einkommen und vom Ertrag,8470,Aufwand,AUSGABENGB,0
+43,SKR49,101518253,8480,sonstige Steuern,8480,Aufwand,AUSGABENGB,0
+43,SKR49,101518254,8500,UmsatzerlÃ¶se,8500,Ertrag,EINNAHMENGB,0
+43,SKR49,101518255,8545,Direkt mit dem Umsatz verbundene Steuern,8540,Ertrag,EINNAHMENGB,0
+43,SKR49,101518256,8590,BestandsverÃ¤nderungen,8590,Ertrag,EINNAHMENGB,0
+43,SKR49,101518257,8595,andere aktivierte Eigenleistungen,8590,Ertrag,EINNAHMENGB,0
+43,SKR49,101518258,8599,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),8590,Ertrag,EINNAHMENGB,0
+43,SKR49,101518259,8600,sonstige betriebliche ErtrÃ¤ge,8600,Ertrag,EINNAHMENGB,0
+43,SKR49,101518260,8630,ErtrÃ¤ge aus der AuflÃ¶sung einer steuerlichen RÃ¼cklage,8630,Ertrag,EINNAHMENGB,0
+43,SKR49,101518261,8640,Zuschreibungen,8640,Ertrag,EINNAHMENGB,0
+43,SKR49,101518262,8700,Aufwendungen fÃ¼r bezogene Leistungen,8700,Aufwand,AUSGABENGB,0
+43,SKR49,101518263,8710,LÃ¶hne und GehÃ¤lter,8710,Aufwand,AUSGABENGB,0
+43,SKR49,101518264,8720,soziale Abgaben,8720,Aufwand,AUSGABENGB,0
+43,SKR49,101518265,8735,Abgaben fÃ¼r Altersversorgung,8730,Aufwand,AUSGABENGB,0
+43,SKR49,101518266,8736,BeitrÃ¤ge zur Berufsgenossenschaft,8730,Aufwand,AUSGABENGB,0
+43,SKR49,101518267,8740,Abschreibungen AnlagevermÃ¶gen,8740,Aufwand,AUSGABENGB,0
+43,SKR49,101518268,8745,Abschreibungen GWG,8740,Aufwand,AUSGABENGB,0
+43,SKR49,101518269,8746,Abschreibungen auf den Sammelposten geringwertige WirtschaftsgÃ¼ter,8740,Aufwand,AUSGABENGB,0
+43,SKR49,101518270,8770,Abschr.auf UmlaufvermÃ¶gen (unÃ¼blich),8770,Aufwand,AUSGABENGB,0
+43,SKR49,101518271,8800,sonstige betriebliche Aufwendungen,8800,Aufwand,AUSGABENGB,0
+43,SKR49,101518272,8830,Einstellungen in steuerliche RÃ¼cklagen,8830,Aufwand,AUSGABENGB,0
+43,SKR49,101518273,8838,Anteilige Umsatzsteuerzahlungen,8830,Aufwand,AUSGABENGB,0
+43,SKR49,101518274,8840,Aufzuteilende Vorsteuer,8840,Aufwand,AUSGABENGB,0
+43,SKR49,101518275,8842,Abziehbare Vorsteuer,8840,Aufwand,AUSGABENGB,0
+43,SKR49,101518276,8844,Nicht abziehbare Vorsteuer,8840,Aufwand,AUSGABENGB,0
+43,SKR49,101518277,8860,ErtrÃ¤ge aus anderen Wertpapieren,8860,Aufwand,AUSGABENGB,0
+43,SKR49,101518278,8870,sonstige Zinsen und Ã¤hnl.ErtrÃ¤ge,8870,Aufwand,AUSGABENGB,0
+43,SKR49,101518279,8880,Abschreibungen auf Finanzanlagen,8880,Aufwand,AUSGABENGB,0
+43,SKR49,101518280,8890,Zinsen und Ã¤hnl. Aufwendungen,8890,Aufwand,AUSGABENGB,0
+43,SKR49,101518281,8920,Steuern vom Einkommen und vom Ertrag,8920,Aufwand,AUSGABENGB,0
+43,SKR49,101518282,8930,sonstige Steuern,8930,Aufwand,AUSGABENGB,0
+43,SKR49,101518283,8980,Umgebuchte Einnahmen bisheriger Zweckbet,8980,Ertrag,EINNAHMENGB,0
+43,SKR49,101518284,8990,Umgebuchte Ausgaben bisheriger Zweckbetr,8990,Aufwand,AUSGABENGB,0
+43,SKR49,101518285,9000,SaldovortrÃ¤ge Sachkonten,9000,Statistik,,0
+43,SKR49,101518286,9008,SaldovortrÃ¤ge Debitoren,9000,Statistik,,0
+43,SKR49,101518287,9009,SaldovortrÃ¤ge Kreditoren,9000,Statistik,,0
+43,SKR49,101518288,9090,Summenvortrag,9090,Statistik,,0

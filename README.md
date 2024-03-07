@@ -18,11 +18,15 @@ Zunächst müssen die für die Einnahmen-Überschuss-Rechnung genutzten benutzer
 
 Die benötigten Kontengruppen befinden sich in der Datei [kontengruppen.csv](kontengruppen.csv) oder in der Excel-Tabelle im zweiten Tab.
 
-*HINWEIS: Die Reihenfolge der Kontengruppen bzw. der Position ist wichtig! Die Formeln funktionieren nur, wenn sie in der Position hinter den zu berechnende Feldern stehen*
+_HINWEIS: Die Reihenfolge der Kontengruppen bzw. der Position ist wichtig! Die Formeln funktionieren nur, wenn sie in der Position hinter den zu berechnende Feldern stehen_
 
 ### Import in Dolibarr
 
-Der Import des Kontenplan funktioniert in Dolibarr über Tools - Import-Assistent - Neuer Import - Buchhaltung (erweitert) / Kontenplan. Dort unter csv die Datei [dolibarr-skr49.csv](dolibarr-skr49.csv) hochladen. Im 4. Schritt müssen jeweils die Spalten der Tabelle den (in der Frontend-Übersetzung) gleichnamigen Datenbankfeldern zugeordnet werden. Die Spalte "EUeR Zuordung" braucht keine Zuordnung. Wenn das hinzufügen der benutzerdefinierten Kontengruppen übersprungen wurden, darf diese Spalte nicht Zugeordnet werden, sonst kommt es zu einem Problem beim Import.
+Unter Buchhaltung - Einstellungen - Allgemein sollte die Funktion "Beibehalten der Nullen am Ende eines Buchungskontos ("1200")" aktiviert werden.
+
+Der Import des Kontenplan funktioniert in Dolibarr über Tools - Import-Assistent - Neuer Import - Buchhaltung (erweitert) / Kontenplan. Dort unter csv die Datei [dolibarr-skr49.csv](dolibarr-skr49.csv) hochladen. Im 4. Schritt müssen jeweils die Spalten der Tabelle den (in der Frontend-Übersetzung) gleichnamigen Datenbankfeldern zugeordnet werden. Die Spalte "EUeR Zuordung" braucht keine Zuordnung. Wenn das Hinzufügen der benutzerdefinierten Kontengruppen übersprungen wurden, darf diese Spalte nicht Zugeordnet werden, sonst kommt es zu einem Problem beim Import.
+
+Wenn du den Kontenplan erneut importierst, wähle in Schritt 5 einen oder mehrere Werte in der Option "Schlüssel (Spalte), der zum Aktualisieren der vorhandenen Daten von verwendet wird" aus.
 
 Standardmäßig sind alle Konten deaktiviert! Die benötigten Konten müssen also zuerst aktiviert werden, bevor sie genutzt werden können.
 

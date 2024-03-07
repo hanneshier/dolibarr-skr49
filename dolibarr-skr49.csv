@@ -1,1033 +1,1033 @@
-Kontenplan,Buchungskonto,Bezeichnung,Übergeordnetes Konto,Kontenklasse,Benutzerdefinierte Kontengruppe,Status
-SKR49,0010,Konzessionen und gewerbl.Schutzrechte,ref:0010,Aktiva,,0
-SKR49,0015,Konzessionen,ref:0015,Aktiva,,0
-SKR49,0016,Ablöse bezahlte Sportler,ref:0016,Aktiva,,0
-SKR49,0017,Ablöse unbezahlte Sportler bis 2.556 Euro,ref:0017,Aktiva,,0
-SKR49,0018,Ablöse unbezahlte Sportler über 2.556 Euro,ref:0018,Aktiva,,0
-SKR49,0020,Gewerbliche Schutzrechte,ref:0020,Aktiva,,0
-SKR49,0025,Ähnliche Rechte und Werte,ref:0025,Aktiva,,0
-SKR49,0026,Rechtswerte,ref:0026,Aktiva,,0
-SKR49,0027,EDV-Software,ref:0027,Aktiva,,0
-SKR49,0030,Lizenzen an gewerblichen Schutzrechten und ähnlichen Rechten und Werten,ref:0030,Aktiva,,0
-SKR49,0035,Geschäfts- oder Firmenwert,ref:0035,Aktiva,,0
-SKR49,0050,Unbebaute Grundstücke,ref:0050,Aktiva,,0
-SKR49,0055,Grundstückswerte eigener Grundstücke babaut mit Gebäuden,ref:0055,Aktiva,,0
-SKR49,0060,Grundstückswerte eigener Grundstücke bebaut mit Anlagen,ref:0060,Aktiva,,0
-SKR49,0070,"Grundstücksgleiche Rechte (Erbbaurecht, Dauerwohnrecht, unbebaute Grundstücke)",ref:0070,Aktiva,,0
-SKR49,0100,Gebäude,ref:0100,Aktiva,,0
-SKR49,0110,Vereinsheim,ref:0110,Aktiva,,0
-SKR49,0111,Sporthallen,ref:0111,Aktiva,,0
-SKR49,0112,Sportanlagen,ref:0112,Aktiva,,0
-SKR49,0120,Vereinsgastätte ,ref:0120,Aktiva,,0
-SKR49,0125,Sonstige Vereinsgebäude,ref:0125,Aktiva,,0
-SKR49,0130,Geschäftsbauten,ref:0130,Aktiva,,0
-SKR49,0155,Außenanlagen,ref:0155,Aktiva,,0
-SKR49,0160,Hof- und Wegebefestigungen,ref:0160,Aktiva,,0
-SKR49,0170,Einrichtungen für Gebäude,ref:0170,Aktiva,,0
-SKR49,0175,"Ausbauten, Anbauten und Zubauten",ref:0175,Aktiva,,0
-SKR49,0200,Technische Anlagen,ref:0200,Aktiva,,0
-SKR49,0205,Maschinen,ref:0205,Aktiva,,0
-SKR49,0210,Betriebsvorrichtungen,ref:0210,Aktiva,,0
-SKR49,0215,Sportvorrichtungen,ref:0215,Aktiva,,0
-SKR49,0220,Vereinsheimausstattung,ref:0220,Aktiva,,0
-SKR49,0250,"Kraftfahrzeuge, Transportmittel",ref:0250,Aktiva,,0
-SKR49,0255,Pkw,ref:0255,Aktiva,,0
-SKR49,0260,Anhänger,ref:0260,Aktiva,,0
-SKR49,0265,Pflegemaschinen,ref:0265,Aktiva,,0
-SKR49,0300,Vereinsausstattung,ref:0300,Aktiva,,0
-SKR49,0305,Vereinskleidung,ref:0305,Aktiva,,0
-SKR49,0310,Sportgeräte,ref:0310,Aktiva,,0
-SKR49,0315,Werkzeuge,ref:0315,Aktiva,,0
-SKR49,0320,Büroeinrichtung,ref:0320,Aktiva,,0
-SKR49,0330,Einrichtung Vereinsheim,ref:0330,Aktiva,,0
-SKR49,0335,Sonstiges Inventar,ref:0335,Aktiva,,0
-SKR49,0340,Geringwertige Wirtschaftsgüter,ref:0340,Aktiva,,0
-SKR49,0341,Geringwertige Wirtschaftsgüter (Sammelposten),ref:0341,Aktiva,,0
-SKR49,0400,Sonstige Anlagen und Ausstattung,ref:0400,Aktiva,,0
-SKR49,0405,Betriebsausstattung,ref:0405,Aktiva,,0
-SKR49,0410,Geschäftsausstattung,ref:0410,Aktiva,,0
-SKR49,0415,Büroeinrichtung,ref:0415,Aktiva,,0
-SKR49,0420,Ladeneinrichtung,ref:0420,Aktiva,,0
-SKR49,0425,Werkzeuge,ref:0425,Aktiva,,0
-SKR49,0475,Geringwertige Wirtschaftsgüter,ref:0475,Aktiva,,0
-SKR49,0476,Geringwertige Wirtschaftsgüter (Sammelposten),ref:0476,Aktiva,,0
-SKR49,0485,Gebäude im Bau,ref:0485,Aktiva,,0
-SKR49,0495,Sonstige Sachanlagen im Bau,ref:0495,Aktiva,,0
-SKR49,0530,Rechtswerte,ref:0530,Aktiva,,0
-SKR49,0531,Ablöse bezahlter Sportler,ref:0531,Aktiva,,0
-SKR49,0533,Ablöse unbez.Sportler bis 2556 Euro,ref:0533,Aktiva,,0
-SKR49,0534,Ablöse unbez.Sportler über 2556 Euro,ref:0534,Aktiva,,0
-SKR49,0545,Wertpapiere des Anlagevermögens,ref:0545,Aktiva,,0
-SKR49,0555,Geleistete Kautionen,ref:0555,Aktiva,,1
-SKR49,0560,Darlehen,ref:0560,Aktiva,,0
-SKR49,0630,Geleistete Anzahlungen auf Vorräte,ref:0630,Aktiva,,0
-SKR49,0650,Forderungen aus Lieferungen/Leistungen,ref:0650,Aktiva,,1
-SKR49,0655,Forderungen aus Vereinsbereichen,ref:0655,Aktiva,,0
-SKR49,0660,"Forderungen zu Einnahmen 11/1,S2EStG",ref:0660,Aktiva,,0
-SKR49,0665,Wertberichtigungen Forderungen ,ref:0665,Aktiva,,0
-SKR49,0680,Forderungen gg. verbund.Untern.,ref:0680,Aktiva,,0
-SKR49,0700,Sonstige Vermögensgegenstände,ref:0700,Aktiva,,0
-SKR49,0703,Forderungen gegenüber Krankenkassen aus AAG,ref:0703,Aktiva,,0
-SKR49,0705,Geldtransit,ref:0705,Aktiva,,1
-SKR49,0710,Verrech.kto.Gewinnermittlung 4/3 EStG,ref:0710,Aktiva,,0
-SKR49,0715,Überleitungskonto Kostenstellen,ref:0715,Aktiva,,0
-SKR49,0720,Verrechnungskonto Ist-Versteuerung,ref:0720,Aktiva,,0
-SKR49,0725,Sonstige Forderungen,ref:0725,Aktiva,,0
-SKR49,0730,Gegenkonto Bruttovorumsatz,ref:0730,Aktiva,,0
-SKR49,0745,Umsatzsteuerforderungen laufendes Jahr,ref:0745,Aktiva,,0
-SKR49,0746,Forderungen aus Umsatzsteuer-Vorauszahlungen,ref:0746,Aktiva,,0
-SKR49,0747,Umsatzsteuerforderungen Vorjahr,ref:0747,Aktiva,,0
-SKR49,0748,Umsatzsteuerforderungen frühere Jahre,ref:0748,Aktiva,,0
-SKR49,0755,"Zurückzuzahlende Vorsteuer gem. § 15a Abs. 1 UStG, unbewegliche Wirtschaftsgüter",ref:0755,Aktiva,,0
-SKR49,0756,Zurückzuzahlende Vorsteuer gem. § 15a Abs. 2 UStG,ref:0756,Aktiva,,0
-SKR49,0757,"Zurückzuzahlende Vorsteuer gem. § 15a Abs. 1 UStG, bewegliche Wirtschaftsgüter",ref:0757,Aktiva,,0
-SKR49,0758,"Nachträglich abziehbare Vorsteuer, § 15a Abs. 2 UStG",ref:0758,Aktiva,,0
-SKR49,0759,"Nachträglich abziehbare Vorsteuer, § 15a Abs. 1 UStG, unbewegl. Wirtschaftsgüter",ref:0759,Aktiva,,0
-SKR49,0760,"Nachträglich abziehbare Vorsteuer, § 15a Abs. 1 UStG, bewegl. Wirtschaftsgüter",ref:0760,Aktiva,,0
-SKR49,0761,Abziehbare Vorsteuer aus der Auslagerung von Gegenständen aus einem USt-Lager,ref:0761,Aktiva,,0
-SKR49,0770,Abziehbare Vorsteuer,ref:0770,Aktiva,,0
-SKR49,0775,Abziehbare Vorsteuer 7 %,ref:0775,Aktiva,,0
-SKR49,0780,Abziehbare Vorsteuer 19 %,ref:0780,Aktiva,,0
-SKR49,0781,Abziehbare Vorsteuer 5 %,ref:0781,Aktiva,,0
-SKR49,0782,Abziehbare Vorsteuer 16 %,ref:0782,Aktiva,,0
-SKR49,0785,Pauschalierte Vorsteuer,ref:0785,Aktiva,,0
-SKR49,0810,Abziehbare Vorsteuer i.g.Erwerb,ref:0810,Aktiva,,0
-SKR49,0811,Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 19 %,ref:0811,Aktiva,,0
-SKR49,0814,Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 16 %,ref:0814,Aktiva,,0
-SKR49,0815,Abziehb.Vorst.i.g.Erwerb Neufzg. ohne ID,ref:0815,Aktiva,,0
-SKR49,0825,Aufzuteilende Vorsteuer,ref:0825,Aktiva,,0
-SKR49,0830,Aufzuteilende Vorsteuer 7 %,ref:0830,Aktiva,,0
-SKR49,0835,Aufzuteilende Vorsteuer 19 %,ref:0835,Aktiva,,0
-SKR49,0838,Aufzuteilende Vorsteuer nach §§ 13a/13b UStG 19 %,ref:0838,Aktiva,,0
-SKR49,0839,Aufzuteilende Vorsteuer nach §§ 13a/13b UStG,ref:0839,Aktiva,,0
-SKR49,0840,Aufzuteilende Vorsteuer aus i.g.Erw.,ref:0840,Aktiva,,0
-SKR49,0841,Aufzuteilende Vorsteuer Anlagevemögen,ref:0841,Aktiva,,0
-SKR49,0844,Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb 19 %,ref:0844,Aktiva,,0
-SKR49,0845,Aufzuteilende Vorst. Ausgaben B4000-8000,ref:0845,Aktiva,,0
-SKR49,0849,Abziehbare Vorsteuer §13b UStG,ref:0849,Aktiva,,0
-SKR49,0850,Abziehbare Vorsteuer §13b UStG 19 %,ref:0850,Aktiva,,0
-SKR49,0852,Abziehbare Vorsteuer §13b UStG 16 %,ref:0852,Aktiva,,0
-SKR49,0853,Vorsteuer in Folgeperiode/im Folgejahr abziehbar,ref:0853,Aktiva,,0
-SKR49,0855,Auflösung Vorst.aus Vorjahr 4/3 EStG,ref:0855,Aktiva,,0
-SKR49,0860,Entstandene Einfuhrumsatzsteuer,ref:0860,Aktiva,,0
-SKR49,0865,Vorst.nach allgem.Durchschnittsätzen,ref:0865,Aktiva,,0
-SKR49,0870,Durchlaufende Posten Einnahmen,ref:0870,Aktiva,,0
-SKR49,0875,Durchlaufende Posten Ausgaben,ref:0875,Aktiva,,0
-SKR49,0885,Sammelkonto aufzuteilende Ausgaben,ref:0885,Aktiva,,1
-SKR49,0890,Sammelkonto aufzuteilende Einnahmen,ref:0890,Aktiva,,0
-SKR49,0910,Finanzwechsel,ref:0910,Aktiva,,0
-SKR49,0920,Kasse,ref:0920,Aktiva,,1
-SKR49,0925,Hauptkasse,ref:0925,Aktiva,,1
-SKR49,0930,Nebenkasse 1,ref:0930,Aktiva,,1
-SKR49,0935,Nebenkasse 2,ref:0935,Aktiva,,1
-SKR49,0940,Bank (Postbank),ref:0940,Aktiva,,1
-SKR49,0945,Bank,ref:0945,Aktiva,,1
-SKR49,0950,Bank 1,ref:0950,Aktiva,,1
-SKR49,0955,Bank 2,ref:0955,Aktiva,,1
-SKR49,0960,Schecks,ref:0960,Aktiva,,1
-SKR49,0965,Bank 3,ref:0965,Aktiva,,1
-SKR49,0970,Bank 4,ref:0970,Aktiva,,1
-SKR49,0975,Bank 5,ref:0975,Aktiva,,1
-SKR49,1180,Übrige andere Sonderposten,ref:1180,Passiva,,0
-SKR49,1181,Steuerfreie Rücklagen nach § 6b EStG,ref:1181,Passiva,,0
-SKR49,1182,Rücklage für Ersatzbeschaffung,ref:1182,Passiva,,0
-SKR49,1183,Ausgleichsposten bei Entnahmen § 4g EStG,ref:1183,Passiva,,0
-SKR49,1184,Rücklage für Zuschüsse,ref:1184,Passiva,,0
-SKR49,1200,Rückstellungen für Pensionen und ähnliche Verpflichtungen,ref:1200,Passiva,,0
-SKR49,1210,Steuerrückstellungen,ref:1210,Passiva,,0
-SKR49,1220,Sonstige Rückstellungen,ref:1220,Passiva,,0
-SKR49,1221,Urlaubsrückstellungen,ref:1221,Passiva,,0
-SKR49,1222,Rückstellungen für Personalkosten,ref:1222,Passiva,,0
-SKR49,1320,Verbindlichkeiten gg.Kreditinstituten,ref:1320,Passiva,,0
-SKR49,1334,Erhaltene Anzahlung - Nachsteuer,ref:1334,Passiva,,0
-SKR49,1340,Verbindlichkeiten aus Lief./Leist.,ref:1340,Passiva,,1
-SKR49,1345,Verbindlichk.aus Investitionen 4/3EStG,ref:1345,Passiva,,0
-SKR49,1350,Wechselverbindlichkeiten,ref:1350,Passiva,,0
-SKR49,1360,Verbindlichk.gg. verbundenen Untern.,ref:1360,Passiva,,0
-SKR49,1380,Verbindl.f.satzungsgemäße Leistungen,ref:1380,Passiva,,0
-SKR49,1385,Verbindl. aus erteilten Zusagen,ref:1385,Passiva,,0
-SKR49,1390,Verbindl.noch nicht zweckentspr.verw.Mit,ref:1390,Passiva,,0
-SKR49,1395,Verbindlichkeiten aus bedingt rückzahlungspflichtigen Spenden,ref:1395,Passiva,,0
-SKR49,1700,Verbindlichkeiten aus Lohn- und Kirchensteuer,ref:1700,Passiva,,0
-SKR49,1705,Verbindlichkeiten im Rahmen der sozialen Sicherheit,ref:1705,Passiva,,0
-SKR49,1710,Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern,ref:1710,Passiva,,0
-SKR49,1712,Lohnverbindlichkeiten,ref:1712,Passiva,,0
-SKR49,1715,"Verbindlichkeiten aus Einbehaltungen (KapESt u. SolZ, KiSt auf KapESt)",ref:1715,Passiva,,0
-SKR49,1720,Verbindlichkeiten aus Vermögensbildung,ref:1720,Passiva,,0
-SKR49,1724,Ausgegebene Geschenkgutscheine,ref:1724,Passiva,,0
-SKR49,1730,Lohn- und Gehaltsverrechnungskonto,ref:1730,Passiva,,0
-SKR49,1731,Lohn- und Gehaltsverrechnung § 11 Abs. 2 S.2 EStG für § 4 Abs. 3 EStG,ref:1731,Passiva,,0
-SKR49,1732,Verbindlichkeiten im Rahmen der sozialen Sicherheit für § 4 Abs. 3 EStG,ref:1732,Passiva,,0
-SKR49,1798,Verbindlichkeiten für Einbehaltung von Arbeitnehmern,ref:1798,Passiva,,0
-SKR49,1799,Verbindlichkeiten an das Finanzamt aus abzuführendem Bauabzugsbetrag,ref:1799,Passiva,,0
-SKR49,1800,Sonstige Verbindlichkeiten,ref:1800,Passiva,,1
-SKR49,1803,Sonstige Verbindlichkeiten Restlaufzeit größer 5 Jahre,ref:1803,Passiva,,0
-SKR49,1804,Sonstige Verbindlichkeiten nach § 11 Abs. 2 Satz 2 EStG für § 4 Abs. 3 EStG,ref:1804,Passiva,,0
-SKR49,1806,Verbindlichkeiten aus Steuern und Abgaben,ref:1806,Passiva,,0
-SKR49,1809,Verbindlichkeiten aus Steuern und Abgaben Restlaufzeit größer 5 Jahre,ref:1809,Passiva,,0
-SKR49,1813,Voraussichtl. Beitragsschuld ggü. Sozialversicherungsträger,ref:1813,Passiva,,0
-SKR49,1815,Gegenkonto Bruttoerlöse,ref:1815,Passiva,,0
-SKR49,1840,Umsatzsteuer,ref:1840,Passiva,,0
-SKR49,1845,Umsatzsteuer 7 %,ref:1845,Passiva,,0
-SKR49,1850,Umsatzsteuer 19 %,ref:1850,Passiva,,0
-SKR49,1851,Umsatzsteuer 5 %,ref:1851,Passiva,,0
-SKR49,1852,Umsatzsteuer 16%,ref:1852,Passiva,,0
-SKR49,1860,USt aus i.g. Erwerb,ref:1860,Passiva,,0
-SKR49,1861,USt i.g. Erwerb Neufahrzeuge ohne ID,ref:1861,Passiva,,0
-SKR49,1864,USt a.i.Inland steuerpfl.Leistungen 7 %,ref:1864,Passiva,,0
-SKR49,1865,USt a.i.Inland steuerpfl.Leistungen 19 %,ref:1865,Passiva,,0
-SKR49,1866,USt a.i.Inland steuerpfl.EG-Lieferungen,ref:1866,Passiva,,0
-SKR49,1869,Umsatzsteuer aus im anderen EU-Land steuerpflichtigen elektr. Dienstleistungen,ref:1869,Passiva,,0
-SKR49,1870,USt a.i.anderen EG-Land stpfl.Lieferung,ref:1870,Passiva,,0
-SKR49,1871,USt a.i.and.EG-Land stpfl.sonst.Leistung,ref:1871,Passiva,,0
-SKR49,1873,Umsatzsteuer aus innermeinschaftlichem Erwerb 19 %,ref:1873,Passiva,,0
-SKR49,1874,Umsatzsteuer aus innermeinschaftlichem Erwerb 16 %,ref:1874,Passiva,,0
-SKR49,1880,Umsatzsteuer nicht fällig,ref:1880,Passiva,,0
-SKR49,1885,Umsatzsteuer nicht fällig 7 %,ref:1885,Passiva,,0
-SKR49,1890,Umsatzsteuer nicht fällig 19 %,ref:1890,Passiva,,0
-SKR49,1891,Umsatzsteuer nicht fällig 5 %,ref:1891,Passiva,,0
-SKR49,1892,Umsatzsteuer nicht fällig 16 %,ref:1892,Passiva,,0
-SKR49,1895,USt nicht fällig aus EG-Lieferungen,ref:1895,Passiva,,0
-SKR49,1896,USt nicht fällig aus EU-Lieferungen 19 %,ref:1896,Passiva,,0
-SKR49,1898,USt nicht fällig aus EU-Lieferungen 16 %,ref:1898,Passiva,,0
-SKR49,1899,USt-Abzugsverfahren 7 % USt,ref:1899,Passiva,,0
-SKR49,1900,"USt-Abzugsverf.oder USt § 13b UStG, 16 %",ref:1900,Passiva,,0
-SKR49,1901,Umsatzsteuer nach § 13b UStG,ref:1901,Passiva,,0
-SKR49,1902,"Umsatzsteuer nach § 13b UStG, 19 %",ref:1902,Passiva,,0
-SKR49,1904,"Umsatzsteuer nach § 13b UStG, 16 %",ref:1904,Passiva,,0
-SKR49,1910,Sammelkonto USt-Vorauszahlung/-Erstattung,ref:1910,Passiva,,0
-SKR49,1911,Umsatzsteuer-Vorauszahlung 1/11,ref:1911,Passiva,,0
-SKR49,1912,Sammelkonto in Rechng. unrichtig od. unberecht. ausgew. Steuer UStVA Kz. 69,ref:1912,Passiva,,0
-SKR49,1913,Sammelkonto Umsatzsteuer Vorjahre,ref:1913,Passiva,,0
-SKR49,1914,Sammelkto.unberecht. ausgewiesene Ust,ref:1914,Passiva,,0
-SKR49,1915,Steuerzahlungen an andere EG-Länder,ref:1915,Passiva,,0
-SKR49,1916,Verbindlichkeiten aus Umsatzsteuer-Vorauszahlungen,ref:1916,Passiva,,0
-SKR49,1918,"Umsatzsteuer in Folgeperiode fällig (§§ 13 Abs. 1 Nr. 6, 13b Abs. 2 UStG)",ref:1918,Passiva,,0
-SKR49,1919,Umsatzsteuer Vorjahr,ref:1919,Passiva,,0
-SKR49,1920,Umsatzsteuer laufendes Jahr,ref:1920,Passiva,,0
-SKR49,1930,Einfuhrumsatzsteuer aufgeschoben,ref:1930,Passiva,,0
-SKR49,2000,Sonstige Einnahmen Bereich 2000,ref:2000,INCOME,EINNAHMENIB,1
-SKR49,2110,Echte Mitgliedsbeiträge bis 300 Euro,ref:2110,INCOME,EINNAHMENIB,1
-SKR49,2120,Echte Mitgliedsbeiträge 300-1023 Euro,ref:2120,INCOME,EINNAHMENIB,0
-SKR49,2150,Aufnahmegebühren bis 300 Euro,ref:2150,INCOME,EINNAHMENIB,0
-SKR49,2160,Aufnahmegebühren 300-1534 Euro,ref:2160,INCOME,EINNAHMENIB,0
-SKR49,2170,Umlagen,ref:2170,INCOME,EINNAHMENIB,0
-SKR49,2300,Erhaltene nicht steuerbare Zuschüsse,ref:2300,INCOME,EINNAHMENIB,0
-SKR49,2301,Zuschüsse von Verbänden,ref:2301,INCOME,EINNAHMENIB,0
-SKR49,2302,Zuschüsse von Behörden,ref:2302,INCOME,EINNAHMENIB,1
-SKR49,2303,Sonstige Zuschüsse,ref:2303,INCOME,EINNAHMENIB,0
-SKR49,2400,Sonstige Einnahmen ideeller Bereich,ref:2400,INCOME,EINNAHMENIB,0
-SKR49,2410,Stfr.Einnahmen nicht gemeinnütz.Vereine,ref:2410,INCOME,EINNAHMENIB,0
-SKR49,2412,Zuwendungen Dritter (Sponsoren),ref:2412,INCOME,EINNAHMENIB,0
-SKR49,2420,Stfr.Einnahmen gemeinnütziger Vereine,ref:2420,INCOME,EINNAHMENIB,0
-SKR49,2421,Erlöse auf Verkäufen Sachanlagevermögen (bei Buchgewinn),ref:2421,INCOME,EINNAHMENIB,0
-SKR49,2423,Erträge aus der Auflösung sonstiger steuerlicher Rücklagen,ref:2423,INCOME,EINNAHMENIB,0
-SKR49,2450,Verrechnete/aufget. Einnahmen ideel.Ber.,ref:2450,INCOME,EINNAHMENIB,0
-SKR49,2451,Verrechnete Sachbezüge Arbeitnehmer,ref:2451,INCOME,EINNAHMENIB,0
-SKR49,2490,Zuschreibungen,ref:2490,INCOME,EINNAHMENIB,0
-SKR49,2500,Abschreibungen Anlagevermögen,ref:2500,EXPENSE,AUSGABENIB,0
-SKR49,2501,Abschreibungen GWG,ref:2501,EXPENSE,AUSGABENIB,0
-SKR49,2502,Kalkulatorische Abschreibungen,ref:2502,EXPENSE,AUSGABENIB,0
-SKR49,2503,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:2503,EXPENSE,AUSGABENIB,0
-SKR49,2510,Ausgaben Bereich 2000,ref:2510,EXPENSE,AUSGABENIB,1
-SKR49,2550,Anteilige Personalkosten,ref:2550,EXPENSE,AUSGABENIB,0
-SKR49,2551,Löhne und Gehälter,ref:2551,EXPENSE,AUSGABENIB,0
-SKR49,2552,Ehrenamtspauschale,ref:2552,EXPENSE,AUSGABENIB,0
-SKR49,2553,Abgeführte Lohnsteuer,ref:2553,EXPENSE,AUSGABENIB,0
-SKR49,2554,Aufwandsentschädigungen Übungsleiter,ref:2554,EXPENSE,AUSGABENIB,0
-SKR49,2555,Sozialversicherungsbeiträge,ref:2555,EXPENSE,AUSGABENIB,0
-SKR49,2556,Aushilfslöhne,ref:2556,EXPENSE,AUSGABENIB,0
-SKR49,2557,Sachbezüge Arbeitnehmer,ref:2557,EXPENSE,AUSGABENIB,0
-SKR49,2558,Beiträge zur Berufsgenossenschaft,ref:2558,EXPENSE,AUSGABENIB,0
-SKR49,2560,Reisekostenerstattungen,ref:2560,EXPENSE,AUSGABENIB,1
-SKR49,2561,Reisekosten Arbeitnehmer,ref:2561,EXPENSE,AUSGABENIB,0
-SKR49,2562,Reisekosten Arbeitnehmer Übernachtungsaufwand,ref:2562,EXPENSE,AUSGABENIB,0
-SKR49,2563,Reisekosten Arbeitnehmer Fahrtkosten,ref:2563,EXPENSE,AUSGABENIB,0
-SKR49,2564,Kilometergelderstattung Arbeitnehmer,ref:2564,EXPENSE,AUSGABENIB,0
-SKR49,2660,Anteilige Raumkosten,ref:2660,EXPENSE,AUSGABENIB,1
-SKR49,2661,Miete und Pacht,ref:2661,EXPENSE,AUSGABENIB,1
-SKR49,2663,Raumnebenkosten,ref:2663,EXPENSE,AUSGABENIB,1
-SKR49,2664,Reparaturen,ref:2664,EXPENSE,AUSGABENIB,1
-SKR49,2700,Kosten der Mitgliederverwaltung,ref:2700,EXPENSE,AUSGABENIB,1
-SKR49,2701,Büromaterial,ref:2701,EXPENSE,AUSGABENIB,1
-SKR49,2702,"Porto, Telefon",ref:2702,EXPENSE,AUSGABENIB,1
-SKR49,2703,Einzugskosten,ref:2703,EXPENSE,AUSGABENIB,0
-SKR49,2704,Sonstige Kosten,ref:2704,EXPENSE,AUSGABENIB,1
-SKR49,2750,Verbrauchsabgaben u.sonstige Beiträge,ref:2750,EXPENSE,AUSGABENIB,1
-SKR49,2751,Abgaben Landesverband,ref:2751,EXPENSE,AUSGABENIB,0
-SKR49,2752,Abgaben Fachverband,ref:2752,EXPENSE,AUSGABENIB,1
-SKR49,2753,Versicherungsbeiträge,ref:2753,EXPENSE,AUSGABENIB,1
-SKR49,2800,Mitgliederpflege,ref:2800,EXPENSE,AUSGABENIB,1
-SKR49,2801,Vereinsmitteilungen,ref:2801,EXPENSE,AUSGABENIB,0
-SKR49,2802,"Geschenke, Jubiläen, Ehrungen",ref:2802,EXPENSE,AUSGABENIB,0
-SKR49,2803,Ausbildungskosten,ref:2803,EXPENSE,AUSGABENIB,0
-SKR49,2804,Lehr- und Jugendarbeit,ref:2804,EXPENSE,AUSGABENIB,0
-SKR49,2810,Repräsentationskosten,ref:2810,EXPENSE,AUSGABENIB,1
-SKR49,2892,Einstellungen in sonstige steuerliche Rücklagen,ref:2892,EXPENSE,AUSGABENIB,0
-SKR49,2894,Rechts- und Beratungskosten,ref:2894,EXPENSE,AUSGABENIB,1
-SKR49,2900,Sonstige Kosten ideeller Bereich,ref:2900,EXPENSE,AUSGABENIB,1
-SKR49,2901,Nicht abziehbare Ausgaben,ref:2901,EXPENSE,AUSGABENIB,0
-SKR49,2902,Verrechnete/aufgeteilte Kosten,ref:2902,EXPENSE,AUSGABENIB,0
-SKR49,2903,Nicht abziehbare Vorsteuer,ref:2903,EXPENSE,AUSGABENIB,0
-SKR49,3200,Steuerneutrale Einnahmen Bereich 2000,ref:3200,INCOME,EINNAHMENIB,0
-SKR49,3210,Schenkungen,ref:3210,INCOME,EINNAHMENIB,0
-SKR49,3211,Erbschaften,ref:3211,INCOME,EINNAHMENIB,0
-SKR49,3212,Vermächtnisse,ref:3212,INCOME,EINNAHMENIB,0
-SKR49,3215,Sonstige Einnahmen,ref:3215,INCOME,EINNAHMENIB,0
-SKR49,3220,Erhaltene Spenden / Zuwendungen,ref:3220,INCOME,EINNAHMENIB,1
-SKR49,3221,Geldspenden/-zuwendungen gg. Quittung,ref:3221,INCOME,EINNAHMENIB,0
-SKR49,3223,Geldspenden/-zuwendungen ohne Quittung,ref:3223,INCOME,EINNAHMENIB,0
-SKR49,3225,Sachspenden/-zuwendungen gg. Quittung,ref:3225,INCOME,EINNAHMENIB,0
-SKR49,3227,Sachspenden/-zuwendungen ohne Quittung,ref:3227,INCOME,EINNAHMENIB,0
-SKR49,3230,Aufwandszuwendungen gegen Zuwendungsbestätigung,ref:3230,INCOME,EINNAHMENIB,0
-SKR49,3232,Aufwandszuwendungen ohne Zuwendungsbestätigung,ref:3232,INCOME,EINNAHMENIB,0
-SKR49,3240,Ertrag aus Spendenverbrauch,ref:3240,INCOME,EINNAHMENIB,0
-SKR49,3250,Nicht abziehbare Ausgaben Bereich2000,ref:3250,EXPENSE,AUSGABENIB,0
-SKR49,3251,Gezahlte Spenden / Zuwendungen,ref:3251,EXPENSE,AUSGABENIB,0
-SKR49,3252,Hingegebene Sachspenden/-zuwendungen,ref:3252,EXPENSE,AUSGABENIB,0
-SKR49,3260,"Erbschaft-,Schenkungsteuer",ref:3260,EXPENSE,AUSGABENIB,0
-SKR49,3400,Steuerneutrale Einnahmen Bereich 4000,ref:3400,INCOME,EINNAHMENIB,0
-SKR49,3401,Investitionszulage,ref:3401,INCOME,EINNAHMENIB,0
-SKR49,3402,Erstattete Kapitalertragsteuer,ref:3402,INCOME,EINNAHMENIB,0
-SKR49,3403,Erstattete und vergütete Körperschaftsteuer,ref:3403,INCOME,EINNAHMENIB,0
-SKR49,3404,Solidaritätszuschlagerstattungen für Vorjahre,ref:3404,INCOME,EINNAHMENIB,0
-SKR49,3410,Nicht stb.Kursgewin.Wertpap.(ü.12 M.) 0%,ref:3410,INCOME,EINNAHMENIB,0
-SKR49,3415,Ertrag aus pauschal.Vorsteuer §23a UStG,ref:3415,INCOME,EINNAHMENIB,0
-SKR49,3420,Verkaufserlöse Vermögensverwaltung,ref:3420,INCOME,EINNAHMENIB,0
-SKR49,3421,Verkaufserlöse Anlagevermögen 0% USt,ref:3421,INCOME,EINNAHMENIB,0
-SKR49,3422,Verkaufserlöse Anlagevermögen 7 % USt,ref:3422,INCOME,EINNAHMENIB,0
-SKR49,3423,Verkaufserlöse Anlagevermögen 19 % USt,ref:3423,INCOME,EINNAHMENIB,0
-SKR49,3424,Verkaufserlöse Wertpapiere,ref:3424,INCOME,EINNAHMENIB,0
-SKR49,3450,Nicht abziehbare Ausgaben Bereich 4000,ref:3450,EXPENSE,AUSGABENIB,0
-SKR49,3451,Abgezogene Kapitalertragsteuer,ref:3451,EXPENSE,AUSGABENIB,0
-SKR49,3452,Abgezogene Körperschaftsteuer,ref:3452,EXPENSE,AUSGABENIB,0
-SKR49,3453,Solidaritätszuschlag zur KSt,ref:3453,EXPENSE,AUSGABENIB,0
-SKR49,3455,Nich abzugsfähige Bewirtungskosten,ref:3455,EXPENSE,AUSGABENIB,0
-SKR49,3500,Steuerneutrale Einnahmen Bereich 5000,ref:3500,INCOME,EINNAHMENIB,0
-SKR49,3515,Ertrag a.pauschaler Vorsteuer §23a UStG,ref:3515,INCOME,EINNAHMENIB,0
-SKR49,3550,Nicht abziehbare Ausgaben Bereich 5000,ref:3550,EXPENSE,AUSGABENIB,0
-SKR49,3551,Ausgaben i.S.v. §4 Abs.5 EStG,ref:3551,EXPENSE,AUSGABENIB,0
-SKR49,3552,Geschenke über 35 Euro,ref:3552,EXPENSE,AUSGABENIB,0
-SKR49,3553,Nicht abzugsfähige Bewirtungskosten,ref:3553,EXPENSE,AUSGABENIB,0
-SKR49,3590,USt unentgeltl.Wertabgabe§3/1b.9a UStG,ref:3590,EXPENSE,AUSGABENIB,0
-SKR49,3600,Steuerneutrale Einnahmen Bereich 6000,ref:3600,EXPENSE,AUSGABENIB,0
-SKR49,3615,Ertrag aus pauschal. Vorsteuer §23a UStG,ref:3615,EXPENSE,AUSGABENIB,0
-SKR49,3650,Nicht abziehbare Ausgaben Bereich 6000,ref:3650,EXPENSE,AUSGABENIB,0
-SKR49,3651,Ausgaben i.S.v. §4 Abs. 5 EStG,ref:3651,EXPENSE,AUSGABENIB,0
-SKR49,3652,Geschenke über 35 Euro,ref:3652,EXPENSE,AUSGABENIB,0
-SKR49,3653,Nicht abzugsfähige Bewirtungskosten,ref:3653,EXPENSE,AUSGABENIB,0
-SKR49,3690,USt unentgeltl.Wertabgabe §3/1b.9a UStG,ref:3690,EXPENSE,AUSGABENIB,0
-SKR49,3700,Steuerneutrale Einnahmen Bereich 7000,ref:3700,INCOME,EINNAHMENIB,0
-SKR49,3710,Steuerfreie Einn.z. Verlustausgl.TB 7001,ref:3710,INCOME,EINNAHMENIB,0
-SKR49,3711,Mitgliederuml.z.Verlustausgleich TB7001,ref:3711,INCOME,EINNAHMENIB,0
-SKR49,3712,Mitgliederzusch.z. Verlustausgl.TB 7001,ref:3712,INCOME,EINNAHMENIB,0
-SKR49,3715,Ertrag a. pauschaler Vorsteuer §23a UStG,ref:3715,INCOME,EINNAHMENIB,0
-SKR49,3750,Nicht abziehbare Ausgaben B 7000,ref:3750,EXPENSE,AUSGABENIB,0
-SKR49,3754,Gewerbesteuer,ref:3754,EXPENSE,AUSGABENIB,0
-SKR49,3755,Körperschaftsteuer,ref:3755,EXPENSE,AUSGABENIB,0
-SKR49,3756,Solidaritätszuschlag zur KSt,ref:3756,EXPENSE,AUSGABENIB,0
-SKR49,3770,Säumnis-/Verspätungszuschläge,ref:3770,EXPENSE,AUSGABENIB,0
-SKR49,3780,Gewährte Spenden / Zuwendungen,ref:3780,EXPENSE,AUSGABENIB,0
-SKR49,3781,Ausgaben i.S.v. §4 Abs. 5 EStG,ref:3781,EXPENSE,AUSGABENIB,0
-SKR49,3782,Geschenke über 35 Euro,ref:3782,EXPENSE,AUSGABENIB,0
-SKR49,3783,Nicht abzugsfähige Bewirtungskosten,ref:3783,EXPENSE,AUSGABENIB,0
-SKR49,3790,USt unentgeltl.Wertabgabe §3/1b.9a UstG,ref:3790,EXPENSE,AUSGABENIB,0
-SKR49,3795,Aufw.a.Verr.posten (Gkto.z.7518/7520..),ref:3795,EXPENSE,AUSGABENIB,0
-SKR49,3800,Steuerneutrale Einnahmen Bereich 8000,ref:3800,EXPENSE,AUSGABENIB,0
-SKR49,3801,Investitionszulage,ref:3801,EXPENSE,AUSGABENIB,0
-SKR49,3815,Ertrag a.pauschaler Vorsteuer §23a UStG,ref:3815,EXPENSE,AUSGABENIB,0
-SKR49,3820,"Zinserträge § 233a AO, steuerfrei (Anlage GK KSt)",ref:3820,EXPENSE,AUSGABENIB,0
-SKR49,3850,Nicht abziehbare Ausgaben Bereich 8000,ref:3850,EXPENSE,AUSGABENIB,0
-SKR49,3853,Gewerbesteuer,ref:3853,EXPENSE,AUSGABENIB,0
-SKR49,3854,Solidaritätszuschlag zur KSt,ref:3854,EXPENSE,AUSGABENIB,0
-SKR49,3855,Körperschaftsteuer,ref:3855,EXPENSE,AUSGABENIB,0
-SKR49,3856,Vermögensteuer,ref:3856,EXPENSE,AUSGABENIB,0
-SKR49,3857,Säumnis-/Verspätungszuschläge,ref:3857,EXPENSE,AUSGABENIB,0
-SKR49,3860,"Pauschale Steuer für Geschenke, nicht abzugsfähig",ref:3860,EXPENSE,AUSGABENIB,0
-SKR49,3861,Ausgaben i.S.v. §4 Abs.5 EStG,ref:3861,EXPENSE,AUSGABENIB,0
-SKR49,3862,Geschenke über 35 Euro,ref:3862,EXPENSE,AUSGABENIB,0
-SKR49,3863,Nicht abzugsfähige Bewirtungskosten,ref:3863,EXPENSE,AUSGABENIB,0
-SKR49,3864,Gezahlte Zinsen auf hinterzogene Steuern,ref:3864,EXPENSE,AUSGABENIB,0
-SKR49,3870,Gezahlte Zinsen auf KSt/VermSt,ref:3870,EXPENSE,AUSGABENIB,0
-SKR49,3871,Gezahlte Zinsen auf KSt-Nachforderungen,ref:3871,EXPENSE,AUSGABENIB,0
-SKR49,3872,Gezahlte Stundungszinsen KSt,ref:3872,EXPENSE,AUSGABENIB,0
-SKR49,3873,Gezahlte Aussetzungszinsen KSt,ref:3873,EXPENSE,AUSGABENIB,0
-SKR49,3890,USt unentgelt.Wertabgabe §3/1b.9a UStG,ref:3890,EXPENSE,AUSGABENIB,0
-SKR49,3895,Aufw.a.Verr.posten (Gkto.z.8158-8166),ref:3895,EXPENSE,AUSGABENIB,0
-SKR49,4000,Steuerfreie Einnahm.gemeinnützig.Vereine,ref:4000,INCOME,EINNAHMENVW,0
-SKR49,4100,Einnahmen aus Vermögensverwaltung,ref:4100,INCOME,EINNAHMENVW,0
-SKR49,4109,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG (gemeinnützige Vereine),ref:4109,INCOME,EINNAHMENVW,0
-SKR49,4110,Miet-und Pachterträge 0 % USt,ref:4110,INCOME,EINNAHMENVW,0
-SKR49,4111,Miet-und Pachterträge 7 % USt,ref:4111,INCOME,EINNAHMENVW,0
-SKR49,4120,Einnahmen Vermietung Sportstät.langfrist,ref:4120,INCOME,EINNAHMENVW,0
-SKR49,4121,Vermiet.langfristig Mitglieder 0% USt,ref:4121,INCOME,EINNAHMENVW,0
-SKR49,4122,Vermiet. Betriebsvorrichtung langfr. 7 % USt,ref:4122,INCOME,EINNAHMENVW,0
-SKR49,4150,Zinserträge 0 % USt,ref:4150,INCOME,EINNAHMENVW,0
-SKR49,4151,Erträge aus Wertpapieren 0 % USt,ref:4151,INCOME,EINNAHMENVW,0
-SKR49,4152,Kursgewinne a.Wertpap.(unt.12Mon.) 0 %,ref:4152,INCOME,EINNAHMENVW,0
-SKR49,4153,Zuschreibungen,ref:4153,INCOME,EINNAHMENVW,0
-SKR49,4200,Erlöse von Werbeunternehmen,ref:4200,INCOME,EINNAHMENVW,0
-SKR49,4201,Erlöse Werbeunternehmen 7 % USt,ref:4201,INCOME,EINNAHMENVW,0
-SKR49,4202,Übertragene Werbeflächenrechte,ref:4202,INCOME,EINNAHMENVW,0
-SKR49,4203,Übertragene Lautsprecherwerbung,ref:4203,INCOME,EINNAHMENVW,0
-SKR49,4220,Verkaufserlöse Vermögensverwaltung,ref:4220,INCOME,EINNAHMENVW,0
-SKR49,4221,Verkaufserlöse Anlagevermögen 7 %,ref:4221,INCOME,EINNAHMENVW,0
-SKR49,4222,Verkaufserlöse Wertpapiere,ref:4222,INCOME,EINNAHMENVW,0
-SKR49,4230,Sonstige Einnahmen,ref:4230,INCOME,EINNAHMENVW,0
-SKR49,4239,Verrechn./aufgeteilte Einnahmen,ref:4239,INCOME,EINNAHMENVW,0
-SKR49,4342,Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn),ref:4342,INCOME,EINNAHMENVW,0
-SKR49,4343,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:4343,INCOME,EINNAHMENVW,0
-SKR49,4347,Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn),ref:4347,INCOME,EINNAHMENVW,0
-SKR49,4390,Zuschreibungen,ref:4390,INCOME,EINNAHMENVW,0
-SKR49,4400,Stpfl.Einnahmen n.gemeinnützg.Vereine,ref:4400,INCOME,EINNAHMENVW,0
-SKR49,4409,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG (nicht gemeinnützige Vereine),ref:4409,INCOME,EINNAHMENVW,0
-SKR49,4410,Miet-u.Pachterträge 0 % USt,ref:4410,INCOME,EINNAHMENVW,0
-SKR49,4411,Miet-u.Pachterträge 19 % USt,ref:4411,INCOME,EINNAHMENVW,0
-SKR49,4415,Sonstige Mieterträge,ref:4415,INCOME,EINNAHMENVW,0
-SKR49,4420,Zinserträge 0 % USt,ref:4420,INCOME,EINNAHMENVW,0
-SKR49,4421,Wertpapiererträge,ref:4421,INCOME,EINNAHMENVW,0
-SKR49,4422,Sonstige Kapitalerträge,ref:4422,INCOME,EINNAHMENVW,0
-SKR49,4430,Verkaufserlöse Anlagevermögen 0 %,ref:4430,INCOME,EINNAHMENVW,0
-SKR49,4431,Verkaufserlöse Anlagevermögen 19 % USt,ref:4431,INCOME,EINNAHMENVW,0
-SKR49,4440,Sonstige Einnahmen,ref:4440,INCOME,EINNAHMENVW,0
-SKR49,4441,Sonstige Einnahmen 0 % USt,ref:4441,INCOME,EINNAHMENVW,0
-SKR49,4442,Sonstige Einnahmen 19 % USt,ref:4442,INCOME,EINNAHMENVW,0
-SKR49,4443,Steuerpflichtige Kursgewinne aus Wertpapieren 0% USt,ref:4443,INCOME,EINNAHMENVW,0
-SKR49,4489,Verrechnete/aufgeteillte Einnahmen,ref:4489,INCOME,EINNAHMENVW,0
-SKR49,4490,Zuschreibungen,ref:4490,INCOME,EINNAHMENVW,0
-SKR49,4492,Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn),ref:4492,INCOME,EINNAHMENVW,0
-SKR49,4493,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:4493,INCOME,EINNAHMENVW,0
-SKR49,4496,Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn),ref:4496,INCOME,EINNAHMENVW,0
-SKR49,4498,Umgeb.Einnahmen wg.Verlust Gemeinnütz.,ref:4498,INCOME,EINNAHMENVW,0
-SKR49,4500,Abschreibungen Anlagevermögen,ref:4500,EXPENSE,AUSGABENVW,0
-SKR49,4501,Abschreibungen GWG,ref:4501,EXPENSE,AUSGABENVW,0
-SKR49,4502,Kalkulatorische Abschreibungen,ref:4502,EXPENSE,AUSGABENVW,0
-SKR49,4503,Abschreibungen auf Finanzanlagen,ref:4503,EXPENSE,AUSGABENVW,0
-SKR49,4504,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:4504,EXPENSE,AUSGABENVW,0
-SKR49,4510,Ausgaben Bereich 4000,ref:4510,EXPENSE,AUSGABENVW,0
-SKR49,4531,Sonstige Kosten,ref:4531,EXPENSE,AUSGABENVW,0
-SKR49,4597,Erlöse aus Verkäufen Finanzanlagen (bei Buchverlust),ref:4597,EXPENSE,AUSGABENVW,0
-SKR49,4600,Anlageabgänge/Restbuchwerte,ref:4600,EXPENSE,AUSGABENVW,0
-SKR49,4602,Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchverlust),ref:4602,EXPENSE,AUSGABENVW,0
-SKR49,4700,Zinsen Vermögensverwaltung,ref:4700,EXPENSE,AUSGABENVW,0
-SKR49,4710,Kosten Wertpapierverwaltung,ref:4710,EXPENSE,AUSGABENVW,0
-SKR49,4711,Geldbeschaffungskosten,ref:4711,EXPENSE,AUSGABENVW,0
-SKR49,4712,Nebenkosten des Geldverkehrs,ref:4712,EXPENSE,AUSGABENVW,0
-SKR49,4750,Grundstücksaufwendungen,ref:4750,EXPENSE,AUSGABENVW,0
-SKR49,4751,Grundstücksreparaturen,ref:4751,EXPENSE,AUSGABENVW,0
-SKR49,4752,Versicherungen,ref:4752,EXPENSE,AUSGABENVW,0
-SKR49,4892,Einstellungen in steuerliche Rücklagen,ref:4892,EXPENSE,AUSGABENVW,0
-SKR49,4900,Sonstige Kosten Vermögensverwaltung,ref:4900,EXPENSE,AUSGABENVW,0
-SKR49,4901,Sonstige Kosten,ref:4901,EXPENSE,AUSGABENVW,0
-SKR49,4902,Verrechnete/aufgeteillte Kosten,ref:4902,EXPENSE,AUSGABENVW,0
-SKR49,4904,Anteilige Umsatzsteuerzahlungen,ref:4904,EXPENSE,AUSGABENVW,0
-SKR49,4905,Aufzuteilende Vorsteuer Klasse 4,ref:4905,EXPENSE,AUSGABENVW,0
-SKR49,4906,Abziehbare Vorsteuer,ref:4906,EXPENSE,AUSGABENVW,0
-SKR49,4907,Nicht abziehbare Vorsteuer,ref:4907,EXPENSE,AUSGABENVW,0
-SKR49,4965,Anteilige Raumkosten,ref:4965,EXPENSE,AUSGABENVW,0
-SKR49,4966,"Miete, Pacht",ref:4966,EXPENSE,AUSGABENVW,0
-SKR49,4967,Raumnebenkosten,ref:4967,EXPENSE,AUSGABENVW,0
-SKR49,4968,Bewirtungskosten (abzugsfähig),ref:4968,EXPENSE,AUSGABENVW,0
-SKR49,4970,Reisekosten Arbeitnehmer,ref:4970,EXPENSE,AUSGABENVW,0
-SKR49,4971,Reisekosten Arbeitnehmer Verpflegungsmehraufwand,ref:4971,EXPENSE,AUSGABENVW,0
-SKR49,4972,Reisekosten Arbeitnehmer Übernachtungsaufwand,ref:4972,EXPENSE,AUSGABENVW,0
-SKR49,4973,Reisekosten Arbeitnehmer Fahrtkosten,ref:4973,EXPENSE,AUSGABENVW,0
-SKR49,4974,Kilometergelderstattung Arbeitnehmer,ref:4974,EXPENSE,AUSGABENVW,0
-SKR49,4980,Löhne und Gehälter,ref:4980,EXPENSE,AUSGABENVW,0
-SKR49,4981,Abgeführte Lohnsteuer,ref:4981,EXPENSE,AUSGABENVW,0
-SKR49,4982,"Freiwillige soziale Aufwendungen, lohnsteuerpflichtig",ref:4982,EXPENSE,AUSGABENVW,0
-SKR49,4990,Gesetzliche soziale Aufwendungen,ref:4990,EXPENSE,AUSGABENVW,0
-SKR49,4991,Aufwendungen für Altersversorgung,ref:4991,EXPENSE,AUSGABENVW,0
-SKR49,4992,Beiträge zur Berufsgenossenschaft,ref:4992,EXPENSE,AUSGABENVW,0
-SKR49,5000,Eintrittsgelder Sport 1,ref:5000,INCOME,EINNAHMENZB,0
-SKR49,5005,Eintrittsgelder aus Wettkämpfen 7 % USt,ref:5005,INCOME,EINNAHMENZB,0
-SKR49,5010,Eintrittsgelder aus Fußballspielen 7 %,ref:5010,INCOME,EINNAHMENZB,0
-SKR49,5015,Eintrittsgelder aus Sportturnen 7 % USt,ref:5015,INCOME,EINNAHMENZB,0
-SKR49,5020,Eintr.geld.a.sonst.sportl.Veranst. 7 %,ref:5020,INCOME,EINNAHMENZB,0
-SKR49,5021,Eintrittsgelder aus Sport 1 (7 % USt),ref:5021,INCOME,EINNAHMENZB,0
-SKR49,5022,Eintrittsgelder aus Sport 2 (7 % USt),ref:5022,INCOME,EINNAHMENZB,0
-SKR49,5023,Eintrittsgelder aus Sport 3 (7 % USt),ref:5023,INCOME,EINNAHMENZB,0
-SKR49,5050,Einnahmen aus Sportreisen,ref:5050,INCOME,EINNAHMENZB,0
-SKR49,5055,Einnahmen nicht steuerbar nach UStG,ref:5055,INCOME,EINNAHMENZB,0
-SKR49,5060,Einnahmen 0 % USt,ref:5060,INCOME,EINNAHMENZB,0
-SKR49,5065,Einnahmen 7 % USt,ref:5065,INCOME,EINNAHMENZB,0
-SKR49,5070,Einnahmen a.sonst.sportl.Veranstaltg.,ref:5070,INCOME,EINNAHMENZB,0
-SKR49,5075,Einnahmen aus Leist. gg.Nichtmitglied.7 %,ref:5075,INCOME,EINNAHMENZB,0
-SKR49,5079,Startgelder,ref:5079,INCOME,EINNAHMENZB,0
-SKR49,5080,Erstattungen der Gastmannschaften,ref:5080,INCOME,EINNAHMENZB,0
-SKR49,5085,Einnahmen aus Auswahlspielen 7 % USt,ref:5085,INCOME,EINNAHMENZB,0
-SKR49,5090,Einnahm.Sportkurs o.bezahlte Sportler,ref:5090,INCOME,EINNAHMENZB,0
-SKR49,5100,Einn.aus Leistungen gegenüb.Mitgliedern,ref:5100,INCOME,EINNAHMENZB,0
-SKR49,5105,Platzgebühren 7 % USt,ref:5105,INCOME,EINNAHMENZB,0
-SKR49,5110,Hallengebühren 7 % USt,ref:5110,INCOME,EINNAHMENZB,0
-SKR49,5115,Chartergebühren 7 % USt,ref:5115,INCOME,EINNAHMENZB,0
-SKR49,5120,Unechte Mitgliedsbeiträge,ref:5120,INCOME,EINNAHMENZB,0
-SKR49,5200,Einn.steuerb.Zusch. f. Zweckbetr. Sport,ref:5200,INCOME,EINNAHMENZB,0
-SKR49,5205,Zusch.von Verbänden und Organisationen,ref:5205,INCOME,EINNAHMENZB,0
-SKR49,5210,Ausbild.zuschüsse v.Verbänd.u.Organisat.,ref:5210,INCOME,EINNAHMENZB,0
-SKR49,5215,Zuschüsse von Behörden,ref:5215,INCOME,EINNAHMENZB,0
-SKR49,5220,Ausbildungszuschüsse v.Behörden,ref:5220,INCOME,EINNAHMENZB,0
-SKR49,5225,Sonstige Zuschüsse,ref:5225,INCOME,EINNAHMENZB,0
-SKR49,5250,Sonstige Einnahmen Zweckbetrieb Sport,ref:5250,INCOME,EINNAHMENZB,0
-SKR49,5255,Anteilig verrechnete Einnahmen/Umlagen,ref:5255,INCOME,EINNAHMENZB,0
-SKR49,5260,Einnahm.Ablöse unbezahlter Sportler 7 %,ref:5260,INCOME,EINNAHMENZB,0
-SKR49,5265,Ablösesummen über 2556 Euro 7 % USt,ref:5265,INCOME,EINNAHMENZB,0
-SKR49,5269,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ,ref:5269,INCOME,EINNAHMENZB,0
-SKR49,5270,Verkaufserlöse Anlageverm.Zweckbet.7 %,ref:5270,INCOME,EINNAHMENZB,0
-SKR49,5273,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:5273,INCOME,EINNAHMENZB,0
-SKR49,5275,Einnahmen aus Nebenleistungen,ref:5275,INCOME,EINNAHMENZB,0
-SKR49,5279,Zuschreibungen,ref:5279,INCOME,EINNAHMENZB,0
-SKR49,5280,Aufwendungen für RHB/bezogene Waren,ref:5280,EXPENSE,AUSGABENZB,0
-SKR49,5290,Aufwendungen für bezogene Leistungen,ref:5290,EXPENSE,AUSGABENZB,0
-SKR49,5300,Löhne und Gehälter,ref:5300,EXPENSE,AUSGABENZB,0
-SKR49,5305,Personalkosten Trainer/Übungsleiter,ref:5305,EXPENSE,AUSGABENZB,0
-SKR49,5310,Aufwandsentschädig. i.S.v.§3 Nr.26 EStG,ref:5310,EXPENSE,AUSGABENZB,0
-SKR49,5315,Aufw.entschäd.pausch an akt.Vereinsmitgl,ref:5315,EXPENSE,AUSGABENZB,0
-SKR49,5320,Aushilfslöhne,ref:5320,EXPENSE,AUSGABENZB,0
-SKR49,5350,soziale Abgaben allgemein,ref:5350,EXPENSE,AUSGABENZB,0
-SKR49,5351,Beiträge zur Berufsgenossenschaft,ref:5351,EXPENSE,AUSGABENZB,0
-SKR49,5355,abgeführte Lohnsteuer,ref:5355,EXPENSE,AUSGABENZB,0
-SKR49,5360,freiwillige soziale Aufwendungen,ref:5360,EXPENSE,AUSGABENZB,0
-SKR49,5400,Abgaben für Altersversorgung,ref:5400,EXPENSE,AUSGABENZB,0
-SKR49,5450,Abschreibung Anlagevermögen TB 5001,ref:5450,EXPENSE,AUSGABENZB,0
-SKR49,5455,Abschreibungen GWG,ref:5455,EXPENSE,AUSGABENZB,0
-SKR49,5456,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:5456,EXPENSE,AUSGABENZB,0
-SKR49,5460,Anlagenabgänge Restbuchwerte,ref:5460,EXPENSE,AUSGABENZB,0
-SKR49,5465,Kalkulatorische Abschreibungen,ref:5465,EXPENSE,AUSGABENZB,0
-SKR49,5470,Abschreib.auf Sportler-Ablösezahlungen,ref:5470,EXPENSE,AUSGABENZB,0
-SKR49,5490,"Abschr. auf Umlaufvermögen, unüblich",ref:5490,EXPENSE,AUSGABENZB,0
-SKR49,5500,Reisekosten f.aktive Vereinsmitglieder,ref:5500,EXPENSE,AUSGABENZB,0
-SKR49,5503,Reisekosten AN Verpflegungsmehraufwand,ref:5503,EXPENSE,AUSGABENZB,0
-SKR49,5506,Reisekosten Arbeitnehmer,ref:5506,EXPENSE,AUSGABENZB,0
-SKR49,5509,Km-Geld-Erstattung,ref:5509,EXPENSE,AUSGABENZB,0
-SKR49,5512,Spesenersatz an akt.Sportler Kostennachw,ref:5512,EXPENSE,AUSGABENZB,0
-SKR49,5515,Speseners.an aktiv.Nichtmitgl.Kostenn.,ref:5515,EXPENSE,AUSGABENZB,0
-SKR49,5518,Sonst.veranstaltungsabhäng.Kosten Sport1,ref:5518,EXPENSE,AUSGABENZB,0
-SKR49,5521,Entschädigungen an Nichtaktive,ref:5521,EXPENSE,AUSGABENZB,0
-SKR49,5524,Reisekosten AN Verpflegungsmehraufwand,ref:5524,EXPENSE,AUSGABENZB,0
-SKR49,5527,Reisekosten Arbeitnehmer,ref:5527,EXPENSE,AUSGABENZB,0
-SKR49,5533,Reisekost.erstatt.an Nicht-Arbeitnehmer,ref:5533,EXPENSE,AUSGABENZB,0
-SKR49,5536,Transportkosten,ref:5536,EXPENSE,AUSGABENZB,0
-SKR49,5539,Kostenerstattung der Gastmannschaften,ref:5539,EXPENSE,AUSGABENZB,0
-SKR49,5542,Abgaben,ref:5542,EXPENSE,AUSGABENZB,0
-SKR49,5545,Sonstige Kosten der Veranstaltung,ref:5545,EXPENSE,AUSGABENZB,0
-SKR49,5550,Kosten der Sportanlagen,ref:5550,EXPENSE,AUSGABENZB,0
-SKR49,5555,"Miete, Pacht",ref:5555,EXPENSE,AUSGABENZB,0
-SKR49,5560,Strom,ref:5560,EXPENSE,AUSGABENZB,0
-SKR49,5561,Wasser,ref:5561,EXPENSE,AUSGABENZB,0
-SKR49,5562,"Gas, Heizung",ref:5562,EXPENSE,AUSGABENZB,0
-SKR49,5565,Reparaturen,ref:5565,EXPENSE,AUSGABENZB,0
-SKR49,5570,Allgemeine Kosten des Sportbetriebs,ref:5570,EXPENSE,AUSGABENZB,0
-SKR49,5575,Verwaltungskosten,ref:5575,EXPENSE,AUSGABENZB,0
-SKR49,5580,Reisekostenerstattungen,ref:5580,EXPENSE,AUSGABENZB,0
-SKR49,5585,Reisekosten AN Verpflegungsmehraufwand,ref:5585,EXPENSE,AUSGABENZB,0
-SKR49,5590,Reisekosten Arbeitnehmer,ref:5590,EXPENSE,AUSGABENZB,0
-SKR49,5595,Km-Geld-Erstattung,ref:5595,EXPENSE,AUSGABENZB,0
-SKR49,5600,Versicherungen,ref:5600,EXPENSE,AUSGABENZB,0
-SKR49,5605,Sportkleidung,ref:5605,EXPENSE,AUSGABENZB,0
-SKR49,5610,Ausbildungskostenersatz,ref:5610,EXPENSE,AUSGABENZB,0
-SKR49,5620,"Betriebskosten Fahrzeuge,Transportmitt.",ref:5620,EXPENSE,AUSGABENZB,0
-SKR49,5621,Kfz-Steuern,ref:5621,EXPENSE,AUSGABENZB,0
-SKR49,5622,Kfz-Versicherungen,ref:5622,EXPENSE,AUSGABENZB,0
-SKR49,5623,Laufende Kfz-Kosten,ref:5623,EXPENSE,AUSGABENZB,0
-SKR49,5624,Kfz-Reparaturen,ref:5624,EXPENSE,AUSGABENZB,0
-SKR49,5625,Sonstige Kfz-Kosten,ref:5625,EXPENSE,AUSGABENZB,0
-SKR49,5630,Betriebskosten Ausstattung Sportgeräte,ref:5630,EXPENSE,AUSGABENZB,0
-SKR49,5635,Betr.kosten Ausstattung Zweckbetrieb,ref:5635,EXPENSE,AUSGABENZB,0
-SKR49,5640,Betriebskosten Sportgeräte,ref:5640,EXPENSE,AUSGABENZB,0
-SKR49,5645,Reparaturen Sportgeräte,ref:5645,EXPENSE,AUSGABENZB,0
-SKR49,5650,Sonstige Kosten Zweckbetrieb Sport 1,ref:5650,EXPENSE,AUSGABENZB,0
-SKR49,5670,Verrechnete/aufgeteilte Kosten,ref:5670,EXPENSE,AUSGABENZB,0
-SKR49,5672,Einstellungen in steuerliche Rücklagen,ref:5672,EXPENSE,AUSGABENZB,0
-SKR49,5675,Anteilige Umsatzsteuerzahlungen,ref:5675,EXPENSE,AUSGABENZB,0
-SKR49,5680,Aufzuteilende Vorsteuer Teilber.5001,ref:5680,EXPENSE,AUSGABENZB,0
-SKR49,5685,Abziehbare Vorsteuer,ref:5685,EXPENSE,AUSGABENZB,0
-SKR49,5690,Nicht abziehbare Vorsteuer,ref:5690,EXPENSE,AUSGABENZB,0
-SKR49,5695,Aufzuteilende Posten Teilbereich 5001,ref:5695,EXPENSE,AUSGABENZB,0
-SKR49,5700,Erlöse Sport 2 0% i.S.v.§4 Nr.22a UStG,ref:5700,INCOME,EINNAHMENZB,0
-SKR49,5702,Einnahmen aus Vorträgen/Sport 0% USt,ref:5702,INCOME,EINNAHMENZB,0
-SKR49,5704,Einnahmen aus Kursen/Sport 0 % USt,ref:5704,INCOME,EINNAHMENZB,0
-SKR49,5706,Einnahmen aus sonst.Veranstaltungen 0%,ref:5706,INCOME,EINNAHMENZB,0
-SKR49,5720,Sport-Erlöse 0% i.S.v. §4 Nr. 22b UStG,ref:5720,INCOME,EINNAHMENZB,0
-SKR49,5722,Teilnehmergebühren 0 % USt,ref:5722,INCOME,EINNAHMENZB,0
-SKR49,5724,Startgelder 0 % USt,ref:5724,INCOME,EINNAHMENZB,0
-SKR49,5726,Meldegebühren 0 % USt,ref:5726,INCOME,EINNAHMENZB,0
-SKR49,5728,Teilnehmergebühren 0% Sportwettkämpfe,ref:5728,INCOME,EINNAHMENZB,0
-SKR49,5740,Sport Jugendhilfe 0% §4 Nr.25a+b UStG,ref:5740,INCOME,EINNAHMENZB,0
-SKR49,5742,Einn.a.Lehrgäng.Jugendhilfe Sport 0 %,ref:5742,INCOME,EINNAHMENZB,0
-SKR49,5744,Einn.a.Sportunterricht Jugendhilfe 0%,ref:5744,INCOME,EINNAHMENZB,0
-SKR49,5750,Sport Jugendhilfe 0%i.S.v. §4Nr.25c UStG,ref:5750,INCOME,EINNAHMENZB,0
-SKR49,5752,Einn.a.Darbietungen Jugendlicher 0% USt,ref:5752,INCOME,EINNAHMENZB,0
-SKR49,5754,Einn.a.Darbietungen Jugendl.u.Erwachs.0%,ref:5754,INCOME,EINNAHMENZB,0
-SKR49,5760,Sonst.Einnahmen 0% Zweckbetrieb Sport 2,ref:5760,INCOME,EINNAHMENZB,0
-SKR49,5762,Anteilig verrechnete Einnahmen/Erlöse,ref:5762,INCOME,EINNAHMENZB,0
-SKR49,5780,Sonstige betriebliche Erträge,ref:5780,INCOME,EINNAHMENZB,0
-SKR49,5782,Veräußerungserlöse 0% §4 Nr.12 UStG,ref:5782,INCOME,EINNAHMENZB,0
-SKR49,5783,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:5783,INCOME,EINNAHMENZB,0
-SKR49,5784,Einnahmen aus Nebenleistungen,ref:5784,INCOME,EINNAHMENZB,0
-SKR49,5790,Zuschreibungen,ref:5790,INCOME,EINNAHMENZB,0
-SKR49,5800,Aufwendungen für RHB/bezogene Waren,ref:5800,EXPENSE,AUSGABENZB,0
-SKR49,5810,Aufwendungen für bezogene Leistungen,ref:5810,EXPENSE,AUSGABENZB,0
-SKR49,5820,"Personalkosten Übungsleiter,Trainer",ref:5820,EXPENSE,AUSGABENZB,0
-SKR49,5822,Sonstige Personalkosten,ref:5822,EXPENSE,AUSGABENZB,0
-SKR49,5830,Soziale Abgaben allgmein,ref:5830,EXPENSE,AUSGABENZB,0
-SKR49,5835,Abgaben für Altersversorgung,ref:5835,EXPENSE,AUSGABENZB,0
-SKR49,5836,Beiträge zur Berufsgenossenschaft,ref:5836,EXPENSE,AUSGABENZB,0
-SKR49,5840,Abschreibungen Anlagevermögen B 5000,ref:5840,EXPENSE,AUSGABENZB,0
-SKR49,5844,Abschreibungen GWG,ref:5844,EXPENSE,AUSGABENZB,0
-SKR49,5845,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:5845,EXPENSE,AUSGABENZB,0
-SKR49,5846,Anlagenabgänge Restbuchwerte,ref:5846,EXPENSE,AUSGABENZB,0
-SKR49,5848,Kalkulatorische Abschreibungen,ref:5848,EXPENSE,AUSGABENZB,0
-SKR49,5850,Abschreib.geleistete Ablösezahlungen,ref:5850,EXPENSE,AUSGABENZB,0
-SKR49,5855,"Abschr. auf Umlaufvermögen, unüblich",ref:5855,EXPENSE,AUSGABENZB,0
-SKR49,5860,Unmittelbare Kosten des Sportunterrichts,ref:5860,EXPENSE,AUSGABENZB,0
-SKR49,5865,Unmittelb.Kost.Darbiet.Jugend/Erwachs.,ref:5865,EXPENSE,AUSGABENZB,0
-SKR49,5870,Sonstige Kosten Teilbereich 5700,ref:5870,EXPENSE,AUSGABENZB,0
-SKR49,5872,Sonstige Kosten sportl.Veranstaltg.,ref:5872,EXPENSE,AUSGABENZB,0
-SKR49,5874,Sonstige Kosten Jugendhilfe,ref:5874,EXPENSE,AUSGABENZB,0
-SKR49,5875,Einstellungen in steuerliche Rücklagen,ref:5875,EXPENSE,AUSGABENZB,0
-SKR49,5876,Reisekostenerstattung Arbeitnehmer,ref:5876,EXPENSE,AUSGABENZB,0
-SKR49,5878,"Betriebskosten Ausstattung, Geräte",ref:5878,EXPENSE,AUSGABENZB,0
-SKR49,5880,Nicht abziehbare Vorsteuer,ref:5880,EXPENSE,AUSGABENZB,0
-SKR49,5882,Verrechnungskto.aufzuteil.Posten TB5700,ref:5882,EXPENSE,AUSGABENZB,0
-SKR49,5990,Umgebuchte Einnahmen B 5000 (Gkto.8980),ref:5990,EXPENSE,AUSGABENZB,0
-SKR49,5992,Umgebuchte Ausgaben  B 5000 (Gkto.8990),ref:5992,EXPENSE,AUSGABENZB,0
-SKR49,6000,Umsatzerlöse,ref:6000,INCOME,EINNAHMENZB,0
-SKR49,6005,Umsatzerlöse 7 %,ref:6005,INCOME,EINNAHMENZB,0
-SKR49,6008,Vermietung Sportanlagen an Mitglieder,ref:6008,INCOME,EINNAHMENZB,0
-SKR49,6010,Eintrittsgelder 7 %,ref:6010,INCOME,EINNAHMENZB,0
-SKR49,6012,Zuwendungen Dritter (Sponsoren) 7 %,ref:6012,INCOME,EINNAHMENZB,0
-SKR49,6015,Einnahmen aus Programmverkauf,ref:6015,INCOME,EINNAHMENZB,0
-SKR49,6045,Direkt mit dem Umsatz verbundene Steuern,ref:6045,INCOME,EINNAHMENZB,0
-SKR49,6050,Bestandsveränderung,ref:6050,INCOME,EINNAHMENZB,0
-SKR49,6055,andere aktivierte Eigenleistungen,ref:6055,INCOME,EINNAHMENZB,0
-SKR49,6059,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),ref:6059,INCOME,EINNAHMENZB,0
-SKR49,6060,sonstige betriebliche Erträge,ref:6060,INCOME,EINNAHMENZB,0
-SKR49,6065,Einnahmen aus Nebenleistungen,ref:6065,INCOME,EINNAHMENZB,0
-SKR49,6069,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ,ref:6069,INCOME,EINNAHMENZB,0
-SKR49,6070,Veranstaltungsgebundene Zuschüsse,ref:6070,INCOME,EINNAHMENZB,0
-SKR49,6075,Anteilige verrechnete Einnahmen/Umlagen,ref:6075,INCOME,EINNAHMENZB,0
-SKR49,6080,Verkaufserlöse Anlageverm.Zweckbetr.7 %,ref:6080,INCOME,EINNAHMENZB,0
-SKR49,6082,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:6082,INCOME,EINNAHMENZB,0
-SKR49,6085,Unentgeltliche Wertabgaben 7 % USt,ref:6085,INCOME,EINNAHMENZB,0
-SKR49,6090,Zuschreibungen,ref:6090,INCOME,EINNAHMENZB,0
-SKR49,6170,Aufwendungen für RHB,ref:6170,EXPENSE,AUSGABENZB,0
-SKR49,6180,Aufwendungen für bezogene Leistungen,ref:6180,EXPENSE,AUSGABENZB,0
-SKR49,6200,Löhne und Gehälter,ref:6200,EXPENSE,AUSGABENZB,0
-SKR49,6205,Personalkosten Übungsleiter,ref:6205,EXPENSE,AUSGABENZB,0
-SKR49,6210,Aufwandsentschädigung §3 Nr.26 EStG,ref:6210,EXPENSE,AUSGABENZB,0
-SKR49,6215,Aushilfslöhne,ref:6215,EXPENSE,AUSGABENZB,0
-SKR49,6250,soziale Abgaben,ref:6250,EXPENSE,AUSGABENZB,0
-SKR49,6251,Beiträge zur Berufsgenossenschaft,ref:6251,EXPENSE,AUSGABENZB,0
-SKR49,6255,abgeführte Lohnsteuer,ref:6255,EXPENSE,AUSGABENZB,0
-SKR49,6260,freiwillige soziale Aufwendungen,ref:6260,EXPENSE,AUSGABENZB,0
-SKR49,6275,Abgaben für Altersversorgung,ref:6275,EXPENSE,AUSGABENZB,0
-SKR49,6280,Abschreibungen Anlagevermögen,ref:6280,EXPENSE,AUSGABENZB,0
-SKR49,6285,Abschreibungen GWG,ref:6285,EXPENSE,AUSGABENZB,0
-SKR49,6286,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:6286,EXPENSE,AUSGABENZB,0
-SKR49,6290,Abschr.auf Umlaufvermögen (unüblich),ref:6290,EXPENSE,AUSGABENZB,0
-SKR49,6300,sonstige betriebliche Aufwendungen,ref:6300,EXPENSE,AUSGABENZB,0
-SKR49,6301,Werbekosten,ref:6301,EXPENSE,AUSGABENZB,0
-SKR49,6302,Reparaturkosten Ausstattung,ref:6302,EXPENSE,AUSGABENZB,0
-SKR49,6303,Transportkosten,ref:6303,EXPENSE,AUSGABENZB,0
-SKR49,6305,Bewirtungskosten (abzugsfähig),ref:6305,EXPENSE,AUSGABENZB,0
-SKR49,6310,Reisekosten,ref:6310,EXPENSE,AUSGABENZB,0
-SKR49,6315,Reisekosten AN Verpflegungsmehraufwand,ref:6315,EXPENSE,AUSGABENZB,0
-SKR49,6320,Reisekosten Arbeitnehmer,ref:6320,EXPENSE,AUSGABENZB,0
-SKR49,6325,Km-Geld-Erstattung,ref:6325,EXPENSE,AUSGABENZB,0
-SKR49,6328,Veranstaltungsabhängige Kosten,ref:6328,EXPENSE,AUSGABENZB,0
-SKR49,6329,Reinigungskosten,ref:6329,EXPENSE,AUSGABENZB,0
-SKR49,6330,Gebäudekosten,ref:6330,EXPENSE,AUSGABENZB,0
-SKR49,6331,Strom,ref:6331,EXPENSE,AUSGABENZB,0
-SKR49,6332,Wasser,ref:6332,EXPENSE,AUSGABENZB,0
-SKR49,6333,"Gas, Heizung",ref:6333,EXPENSE,AUSGABENZB,0
-SKR49,6334,Sonstige Raumkosten,ref:6334,EXPENSE,AUSGABENZB,0
-SKR49,6335,Gema-Gebühren,ref:6335,EXPENSE,AUSGABENZB,0
-SKR49,6336,Musikkosten,ref:6336,EXPENSE,AUSGABENZB,0
-SKR49,6339,"Miete, Pacht",ref:6339,EXPENSE,AUSGABENZB,0
-SKR49,6340,Verwaltungskosten,ref:6340,EXPENSE,AUSGABENZB,0
-SKR49,6341,"Porto, Telefon, Bürobedarf",ref:6341,EXPENSE,AUSGABENZB,0
-SKR49,6342,"Zeitschriften, Bücher (Fachliteratur)",ref:6342,EXPENSE,AUSGABENZB,0
-SKR49,6345,Geschenke unter 35 EUR,ref:6345,EXPENSE,AUSGABENZB,0
-SKR49,6346,Repräsentationskosten,ref:6346,EXPENSE,AUSGABENZB,0
-SKR49,6350,"Fahrzeuge, Transportmittel",ref:6350,EXPENSE,AUSGABENZB,0
-SKR49,6353,Versicherungen,ref:6353,EXPENSE,AUSGABENZB,0
-SKR49,6354,Geringwertige Wirtschaftsgüter,ref:6354,EXPENSE,AUSGABENZB,0
-SKR49,6355,Verrechnete/aufgeteilte Kosten,ref:6355,EXPENSE,AUSGABENZB,0
-SKR49,6360,Anteilige Zinsaufwendungen,ref:6360,EXPENSE,AUSGABENZB,0
-SKR49,6362,Einstellungen in steuerliche Rücklagen,ref:6362,EXPENSE,AUSGABENZB,0
-SKR49,6365,Anteilige Umsatzsteuerzahlungen,ref:6365,EXPENSE,AUSGABENZB,0
-SKR49,6375,Abziehbare Vorsteuer,ref:6375,EXPENSE,AUSGABENZB,0
-SKR49,6377,Nicht abziehbare Vorsteuer,ref:6377,EXPENSE,AUSGABENZB,0
-SKR49,6380,Aufzuteilende Vorsteuer,ref:6380,EXPENSE,AUSGABENZB,0
-SKR49,6385,Aufzuteilende Posten Teilbereich 6000,ref:6385,EXPENSE,AUSGABENZB,0
-SKR49,6410,Erträge aus Beteiligungen,ref:6410,EXPENSE,AUSGABENZB,0
-SKR49,6420,Erträge aus anderen Wertpapieren,ref:6420,EXPENSE,AUSGABENZB,0
-SKR49,6430,sonstige Zinsen und ähnl.Erträge,ref:6430,EXPENSE,AUSGABENZB,0
-SKR49,6440,Abschreibungen auf Finanzanlagen,ref:6440,EXPENSE,AUSGABENZB,0
-SKR49,6450,Zinsen und ähnl.Aufwendungen,ref:6450,EXPENSE,AUSGABENZB,0
-SKR49,6470,Steuern vom Einkommen und vom Ertrag,ref:6470,EXPENSE,AUSGABENZB,0
-SKR49,6475,sonstige Steuern,ref:6475,EXPENSE,AUSGABENZB,0
-SKR49,6500,Umsatzerlöse,ref:6500,INCOME,EINNAHMENZB,0
-SKR49,6505,Umsatzerlöse 0 %,ref:6505,INCOME,EINNAHMENZB,1
-SKR49,6510,Eintrittsgelder 0%,ref:6510,INCOME,EINNAHMENZB,0
-SKR49,6515,Einnahmen aus Programmverkauf,ref:6515,INCOME,EINNAHMENZB,0
-SKR49,6520,Einnahmen aus Unterricht §4 Nr.22a UStG,ref:6520,INCOME,EINNAHMENZB,0
-SKR49,6525,Einnahmen kulturell.Veranst.Jugendhilfe,ref:6525,INCOME,EINNAHMENZB,0
-SKR49,6545,Direkt mit dem Umsatz verbundene Steuern,ref:6545,INCOME,EINNAHMENZB,0
-SKR49,6550,Bestandsveränderung,ref:6550,INCOME,EINNAHMENZB,0
-SKR49,6555,andere aktivierte Eigenleistungen,ref:6555,INCOME,EINNAHMENZB,0
-SKR49,6559,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),ref:6559,INCOME,EINNAHMENZB,0
-SKR49,6560,sonstige betriebliche Erträge,ref:6560,INCOME,EINNAHMENZB,0
-SKR49,6565,Einnahmen aus Nebenleistungen,ref:6565,INCOME,EINNAHMENZB,0
-SKR49,6570,veranstaltungsgebundene Zuschüsse,ref:6570,INCOME,EINNAHMENZB,0
-SKR49,6575,Anteilige verrechnete Einnahmen/Umlagen,ref:6575,INCOME,EINNAHMENZB,0
-SKR49,6580,Verkaufserlöse Anlageverm.Zweckbetr.0 %,ref:6580,INCOME,EINNAHMENZB,0
-SKR49,6582,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:6582,INCOME,EINNAHMENZB,0
-SKR49,6585,Unentgeltliche Wertabgaben 0 % USt,ref:6585,INCOME,EINNAHMENZB,0
-SKR49,6590,Zuschreibungen,ref:6590,INCOME,EINNAHMENZB,0
-SKR49,6670,Aufwendungen für RHB,ref:6670,EXPENSE,AUSGABENZB,0
-SKR49,6680,Aufwendungen für bezogene Leistungen,ref:6680,EXPENSE,AUSGABENZB,0
-SKR49,6700,Löhne und Gehälter,ref:6700,EXPENSE,AUSGABENZB,0
-SKR49,6705,Personalkosten Übungsleiter,ref:6705,EXPENSE,AUSGABENZB,0
-SKR49,6710,Aufwandsentschädigung §3 Nr.26 EStG,ref:6710,EXPENSE,AUSGABENZB,0
-SKR49,6715,Aushilfslöhne,ref:6715,EXPENSE,AUSGABENZB,0
-SKR49,6750,soziale Abgaben,ref:6750,EXPENSE,AUSGABENZB,0
-SKR49,6751,Beiträge zur Berufsgenossenschaft,ref:6751,EXPENSE,AUSGABENZB,0
-SKR49,6755,abgeführte Lohnsteuer,ref:6755,EXPENSE,AUSGABENZB,0
-SKR49,6760,freiwillige soziale Aufwendungen,ref:6760,EXPENSE,AUSGABENZB,0
-SKR49,6775,Abgaben für Altersversorgung,ref:6775,EXPENSE,AUSGABENZB,0
-SKR49,6780,Abschreibungen Anlagevermögen,ref:6780,EXPENSE,AUSGABENZB,0
-SKR49,6785,Abschreibungen GWG,ref:6785,EXPENSE,AUSGABENZB,0
-SKR49,6786,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:6786,EXPENSE,AUSGABENZB,0
-SKR49,6790,Abschr.auf Umlaufvermögen (unüblich),ref:6790,EXPENSE,AUSGABENZB,0
-SKR49,6800,sonstige betriebliche Aufwendungen,ref:6800,EXPENSE,AUSGABENZB,0
-SKR49,6805,Bewirtungskosten (abzugsfähig),ref:6805,EXPENSE,AUSGABENZB,0
-SKR49,6810,Reisekosten,ref:6810,EXPENSE,AUSGABENZB,0
-SKR49,6815,Reisekosten AN Verpflegungsmehraufwand,ref:6815,EXPENSE,AUSGABENZB,0
-SKR49,6820,Reisekosten Arbeitnehmer,ref:6820,EXPENSE,AUSGABENZB,0
-SKR49,6825,Km-Geld-Erstattung,ref:6825,EXPENSE,AUSGABENZB,0
-SKR49,6830,Gebäudekosten,ref:6830,EXPENSE,AUSGABENZB,0
-SKR49,6831,Strom,ref:6831,EXPENSE,AUSGABENZB,0
-SKR49,6832,Wasser,ref:6832,EXPENSE,AUSGABENZB,0
-SKR49,6833,"Gas, Heizung",ref:6833,EXPENSE,AUSGABENZB,0
-SKR49,6834,Sonstige Raumkosten,ref:6834,EXPENSE,AUSGABENZB,1
-SKR49,6835,Gema-Gebühren,ref:6835,EXPENSE,AUSGABENZB,0
-SKR49,6839,"Miete, Pacht",ref:6839,EXPENSE,AUSGABENZB,1
-SKR49,6840,Verwaltungskosten,ref:6840,EXPENSE,AUSGABENZB,0
-SKR49,6841,"Porto, Telefon",ref:6841,EXPENSE,AUSGABENZB,0
-SKR49,6842,Bürobedarf,ref:6842,EXPENSE,AUSGABENZB,1
-SKR49,6845,Geschenke unter 35 EUR,ref:6845,EXPENSE,AUSGABENZB,0
-SKR49,6848,Versicherungen,ref:6848,EXPENSE,AUSGABENZB,0
-SKR49,6850,"Fahrzeuge, Transportmittel",ref:6850,EXPENSE,AUSGABENZB,0
-SKR49,6855,Verrechnete/aufgeteilte Kosten,ref:6855,EXPENSE,AUSGABENZB,0
-SKR49,6860,Anteilige Zinsaufwendungen,ref:6860,EXPENSE,AUSGABENZB,0
-SKR49,6862,Einstellungen in steuerliche Rücklagen,ref:6862,EXPENSE,AUSGABENZB,0
-SKR49,6865,Anteilige Umsatzsteuerzahlungen,ref:6865,EXPENSE,AUSGABENZB,0
-SKR49,6875,Abziehbare Vorsteuer,ref:6875,EXPENSE,AUSGABENZB,0
-SKR49,6877,Nicht abziehbare Vorsteuer,ref:6877,EXPENSE,AUSGABENZB,0
-SKR49,6880,Aufzuteilende Vorsteuer,ref:6880,EXPENSE,AUSGABENZB,0
-SKR49,6885,Aufzuteilende Posten Teilbereich 6500,ref:6885,EXPENSE,AUSGABENZB,0
-SKR49,6890,Unmittelbare Kosten des Unterrichts,ref:6890,EXPENSE,AUSGABENZB,0
-SKR49,6895,Unm.Kost.Darbietung.Jugendl.u.Erwachsene,ref:6895,EXPENSE,AUSGABENZB,0
-SKR49,6910,Erträge aus Beteiligungen,ref:6910,EXPENSE,AUSGABENZB,0
-SKR49,6930,sonstige Zinsen und ähnl.Erträge,ref:6930,EXPENSE,AUSGABENZB,0
-SKR49,6940,Abschreibungen auf Finanzanlagen,ref:6940,EXPENSE,AUSGABENZB,0
-SKR49,6950,Zinsen und ähnl.Aufwendungen,ref:6950,EXPENSE,AUSGABENZB,1
-SKR49,6970,Steuern vom Einkommen und vom Ertrag,ref:6970,EXPENSE,AUSGABENZB,0
-SKR49,6975,sonstige Steuern,ref:6975,EXPENSE,AUSGABENZB,0
-SKR49,6990,Umgebuchte Einnahmen B 6000 (Gkto.8980),ref:6990,INCOME,EINNAHMENZB,0
-SKR49,6992,Umgebuchte Ausgaben B 5000 (Gkto. 8990),ref:6992,EXPENSE,AUSGABENZB,0
-SKR49,7000,Einnahmen aus Geschäftsbetrieb.Sport,ref:7000,INCOME,EINNAHMENGB,0
-SKR49,7002,Einnahmen 19 % USt Sport 3,ref:7002,INCOME,EINNAHMENGB,0
-SKR49,7004,Eintritt aus Wettkämpfen 19 % USt,ref:7004,INCOME,EINNAHMENGB,0
-SKR49,7006,Eintritt a.Fußballspielen 19 % USt,ref:7006,INCOME,EINNAHMENGB,0
-SKR49,7008,Eintritt aus Sportturnieren 19 % USt,ref:7008,INCOME,EINNAHMENGB,0
-SKR49,7010,Eintritt aus sonst.Sportveranst. 19 % USt,ref:7010,INCOME,EINNAHMENGB,0
-SKR49,7012,Zuwendungen Dritter (Sponsoren) 19 % USt,ref:7012,INCOME,EINNAHMENGB,0
-SKR49,7021,Eintrittsgelder aus Sport 1 (19 % USt),ref:7021,INCOME,EINNAHMENGB,0
-SKR49,7022,Eintrittsgelder aus Sport 2 (19 % USt),ref:7022,INCOME,EINNAHMENGB,0
-SKR49,7023,Eintrittsgelder aus Sport 3 (19 % USt),ref:7023,INCOME,EINNAHMENGB,0
-SKR49,7050,Einn.a.Fußballspiel.mit Lizenzspielern,ref:7050,INCOME,EINNAHMENGB,0
-SKR49,7052,Eintrittsgelder 19 % USt,ref:7052,INCOME,EINNAHMENGB,0
-SKR49,7054,Einnahmen aus Ablösesummen 19 % USt,ref:7054,INCOME,EINNAHMENGB,0
-SKR49,7100,Sonst.Einnahmen Geschäftsbetr.Sport 3,ref:7100,INCOME,EINNAHMENGB,0
-SKR49,7102,Anteilige/verrechnete Einnahmen,ref:7102,INCOME,EINNAHMENGB,0
-SKR49,7104,Sonstige Erträge,ref:7104,INCOME,EINNAHMENGB,0
-SKR49,7106,Einn.a.Sportkursen/-lehrg.m.bez.Sportl.,ref:7106,INCOME,EINNAHMENGB,0
-SKR49,7150,Einnahmen a.Ablöse bez.Sportler 19 % USt,ref:7150,INCOME,EINNAHMENGB,0
-SKR49,7152,Verkaufserl.Anlagev.TB 7001 19 % USt,ref:7152,INCOME,EINNAHMENGB,0
-SKR49,7154,Einnahmen aus Nebenleistungen,ref:7154,INCOME,EINNAHMENGB,0
-SKR49,7160,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:7160,INCOME,EINNAHMENGB,0
-SKR49,7190,Erträge aus Zuschreibungen des Anlagevermögens,ref:7190,INCOME,EINNAHMENGB,0
-SKR49,7200,Aufwendungen für RHB/bezogene Waren,ref:7200,EXPENSE,AUSGABENGB,0
-SKR49,7210,Aufwendungen für bezogene Leistungen,ref:7210,EXPENSE,AUSGABENGB,0
-SKR49,7220,Löhne und Gehälter,ref:7220,EXPENSE,AUSGABENGB,0
-SKR49,7222,Vergütungen an Sportler,ref:7222,EXPENSE,AUSGABENGB,0
-SKR49,7224,Vergütungen i.S.v. §67a Abs.3 Satz 3 AO,ref:7224,EXPENSE,AUSGABENGB,0
-SKR49,7226,Sportlervergütungen an aktive Mitglieder,ref:7226,EXPENSE,AUSGABENGB,0
-SKR49,7228,Sonstige Vergütung.an aktive Mitglieder,ref:7228,EXPENSE,AUSGABENGB,0
-SKR49,7230,Sportlervergüt.aktive Nichtmitglieder,ref:7230,EXPENSE,AUSGABENGB,0
-SKR49,7232,"Personalkosten Trainer,Übungsleiter",ref:7232,EXPENSE,AUSGABENGB,0
-SKR49,7234,Sonstige Personalkosten,ref:7234,EXPENSE,AUSGABENGB,0
-SKR49,7236,Aushilfslöhne,ref:7236,EXPENSE,AUSGABENGB,0
-SKR49,7250,Sozialversicherungsbeiträge,ref:7250,EXPENSE,AUSGABENGB,0
-SKR49,7251,Beiträge zur Berufsgenossenschaft,ref:7251,EXPENSE,AUSGABENGB,0
-SKR49,7252,Abgeführte Lohnsteuer,ref:7252,EXPENSE,AUSGABENGB,0
-SKR49,7265,Abgaben für Altersversorgung,ref:7265,EXPENSE,AUSGABENGB,0
-SKR49,7270,Abschreibung Anlagevermögen TB 7000,ref:7270,EXPENSE,AUSGABENGB,0
-SKR49,7272,Abschreibungen,ref:7272,EXPENSE,AUSGABENGB,0
-SKR49,7274,Abschreibungen GWG,ref:7274,EXPENSE,AUSGABENGB,0
-SKR49,7275,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:7275,EXPENSE,AUSGABENGB,0
-SKR49,7278,Kalkulatorische Abschreibungen,ref:7278,EXPENSE,AUSGABENGB,0
-SKR49,7280,"Abschr. auf Umlaufvermögen, unüblich",ref:7280,EXPENSE,AUSGABENGB,0
-SKR49,7300,Reisekosten,ref:7300,EXPENSE,AUSGABENGB,0
-SKR49,7302,Reisekosten AN Verpflegungsmehraufwand,ref:7302,EXPENSE,AUSGABENGB,0
-SKR49,7304,Reisekosten Arbeitnehmer,ref:7304,EXPENSE,AUSGABENGB,0
-SKR49,7306,Km-Geld-Erstattung,ref:7306,EXPENSE,AUSGABENGB,0
-SKR49,7308,Sonstiger Reisekostenersatz,ref:7308,EXPENSE,AUSGABENGB,0
-SKR49,7310,Kostenerstattung an Gastmannschaften,ref:7310,EXPENSE,AUSGABENGB,0
-SKR49,7312,Sonstige Vergütungen,ref:7312,EXPENSE,AUSGABENGB,0
-SKR49,7314,Aufwand für andere Vorteile,ref:7314,EXPENSE,AUSGABENGB,0
-SKR49,7316,Gezahlte Preisgelder an bezahlt.Sportler,ref:7316,EXPENSE,AUSGABENGB,0
-SKR49,7318,Aufwandsersatz,ref:7318,EXPENSE,AUSGABENGB,0
-SKR49,7320,Anteilige Aufwandspauschale TB 7001,ref:7320,EXPENSE,AUSGABENGB,0
-SKR49,7350,Sonstige veranstaltungsabhängig.Kosten,ref:7350,EXPENSE,AUSGABENGB,0
-SKR49,7352,Reisekostenerstattung an Nichtaktive,ref:7352,EXPENSE,AUSGABENGB,0
-SKR49,7354,Transportkosten,ref:7354,EXPENSE,AUSGABENGB,0
-SKR49,7356,Abgaben,ref:7356,EXPENSE,AUSGABENGB,0
-SKR49,7358,Sonstige Kosten,ref:7358,EXPENSE,AUSGABENGB,0
-SKR49,7380,Kosten der Sportanlagen,ref:7380,EXPENSE,AUSGABENGB,0
-SKR49,7382,Personalkosten,ref:7382,EXPENSE,AUSGABENGB,0
-SKR49,7384,"Miete, Pacht",ref:7384,EXPENSE,AUSGABENGB,0
-SKR49,7385,Strom,ref:7385,EXPENSE,AUSGABENGB,0
-SKR49,7386,Wasser,ref:7386,EXPENSE,AUSGABENGB,0
-SKR49,7387,"Gas, Heizung",ref:7387,EXPENSE,AUSGABENGB,0
-SKR49,7388,Reparaturen,ref:7388,EXPENSE,AUSGABENGB,0
-SKR49,7400,Allgemeine Kosten des Sportbetriebs,ref:7400,EXPENSE,AUSGABENGB,0
-SKR49,7402,Anteilige Personalkosten,ref:7402,EXPENSE,AUSGABENGB,0
-SKR49,7404,Verwaltungskosten,ref:7404,EXPENSE,AUSGABENGB,0
-SKR49,7406,Reisekostenerstattung,ref:7406,EXPENSE,AUSGABENGB,0
-SKR49,7408,Reisekosten AN Verpflegungsmehraufwand,ref:7408,EXPENSE,AUSGABENGB,0
-SKR49,7410,Reisekosten Arbeitnehmer,ref:7410,EXPENSE,AUSGABENGB,0
-SKR49,7412,Km-Geld-Erstattung,ref:7412,EXPENSE,AUSGABENGB,0
-SKR49,7414,Versicherungen,ref:7414,EXPENSE,AUSGABENGB,0
-SKR49,7416,Sportkleidung,ref:7416,EXPENSE,AUSGABENGB,0
-SKR49,7418,Ausbildungskostenersatz,ref:7418,EXPENSE,AUSGABENGB,0
-SKR49,7430,"Betriebskosten Fahrzeuge,Transportmitt.",ref:7430,EXPENSE,AUSGABENGB,0
-SKR49,7432,Kfz-Kosten,ref:7432,EXPENSE,AUSGABENGB,0
-SKR49,7440,"Betriebskosten Ausstattung,Sportgeräte",ref:7440,EXPENSE,AUSGABENGB,0
-SKR49,7442,Betriebskosten Ausstattung TB 7001,ref:7442,EXPENSE,AUSGABENGB,0
-SKR49,7444,Betriebskosten Sportgeräte TB 7001,ref:7444,EXPENSE,AUSGABENGB,0
-SKR49,7446,Reparaturkosten Ausstattung/Geräte,ref:7446,EXPENSE,AUSGABENGB,0
-SKR49,7462,"Sonstige Steuern, Abgaben",ref:7462,EXPENSE,AUSGABENGB,0
-SKR49,7500,Verschiedene Kosten Teilbereich 7001,ref:7500,EXPENSE,AUSGABENGB,0
-SKR49,7502,Verrechnete/aufgeteilte Kosten,ref:7502,EXPENSE,AUSGABENGB,0
-SKR49,7504,Anteilige Umsatzsteuerzahlungen,ref:7504,EXPENSE,AUSGABENGB,0
-SKR49,7506,Aufzuteilende Vorsteuer,ref:7506,EXPENSE,AUSGABENGB,0
-SKR49,7508,Abziehbare Vorsteuer,ref:7508,EXPENSE,AUSGABENGB,0
-SKR49,7510,Nicht abziehbare Vorsteuer,ref:7510,EXPENSE,AUSGABENGB,0
-SKR49,7512,Beiträge,ref:7512,EXPENSE,AUSGABENGB,0
-SKR49,7514,Anteilige Verwaltungskosten,ref:7514,EXPENSE,AUSGABENGB,0
-SKR49,7516,Aufzuteilende Posten Teilbereich 7001,ref:7516,EXPENSE,AUSGABENGB,0
-SKR49,7517,Einstellungen in steuerliche Rücklagen,ref:7517,EXPENSE,AUSGABENGB,0
-SKR49,7518,Ertr.a.Storno Aufw.pauschal.(Gkto.3795),ref:7518,EXPENSE,AUSGABENGB,0
-SKR49,7520,Ertr.a.Storno Trainingskst.(Gkto.3795),ref:7520,EXPENSE,AUSGABENGB,0
-SKR49,7800,Werbeeinnahmen i.eigener Regie b.Sport,ref:7800,INCOME,EINNAHMENGB,0
-SKR49,7801,Einnahmen Reklameflächen 19% USt in Eigenregie,ref:7801,INCOME,EINNAHMENGB,0
-SKR49,7802,Einnahmen Trikotwerbung 19% USt in Eigenregie,ref:7802,INCOME,EINNAHMENGB,0
-SKR49,7803,Einnahmen Sportgerätewerbung 19% USt in Eigenregie,ref:7803,INCOME,EINNAHMENGB,0
-SKR49,7804,Einnahmen Bandenwerbung 19% USt in Eigenregie,ref:7804,INCOME,EINNAHMENGB,0
-SKR49,7805,Einnahmen aus Plakatwerbung und ähnliches 19% USt in Eigenregie,ref:7805,INCOME,EINNAHMENGB,0
-SKR49,7806,Einnahmen Lautsprecherwerbung 19% USt in Eigenregie,ref:7806,INCOME,EINNAHMENGB,0
-SKR49,7810,Einnahmen aus übertragenen Werberechten im wirtschaftlichen Geschäftsbetrieb,ref:7810,INCOME,EINNAHMENGB,0
-SKR49,7811,Einnahmen Trikotwerberechte 19% USt im wirtschaftlichen Geschäftsbetrieb,ref:7811,INCOME,EINNAHMENGB,0
-SKR49,7812,Einnahmen Sportgeräte-Werberechte 19% USt im wirtschaftlichen Geschäftsbetrieb,ref:7812,INCOME,EINNAHMENGB,0
-SKR49,7813,Einnahmen a. sonst. übertr. Werberechten im wirtschaftlichen Geschäftsbetrieb,ref:7813,INCOME,EINNAHMENGB,0
-SKR49,7820,Einnahmen Inserate/Werbeanzeigen in Eigenregie,ref:7820,INCOME,EINNAHMENGB,0
-SKR49,7821,Einnahmen Verkauf Embleme/Abzeichen in Eigenregie,ref:7821,INCOME,EINNAHMENGB,0
-SKR49,7830,Kurzfr.Vermiet.Sportstätten a.Nichtmitgl,ref:7830,INCOME,EINNAHMENGB,0
-SKR49,7831,Kurzfr.Vermietung a.Nichtmitgl.,ref:7831,INCOME,EINNAHMENGB,0
-SKR49,7832,Stundenw.Vermietung v.Spielfeld. 19 % USt,ref:7832,INCOME,EINNAHMENGB,0
-SKR49,7833,Stundenw.Vermietung v.Tennispl. 19 % USt,ref:7833,INCOME,EINNAHMENGB,0
-SKR49,7834,Stundenw.Vermiet.v.Schwimmhallen 19 %USt,ref:7834,INCOME,EINNAHMENGB,0
-SKR49,7835,Stundenw.Vermiet.v.Kegelbahnen 19 % USt,ref:7835,INCOME,EINNAHMENGB,0
-SKR49,7836,Stundenw.Vermiet.v.Geräten 19 % USt,ref:7836,INCOME,EINNAHMENGB,0
-SKR49,7837,Einnahmen Greenfee 19 % USt,ref:7837,INCOME,EINNAHMENGB,0
-SKR49,7840,Sonstige Einnahmen Teilbereich 7800,ref:7840,INCOME,EINNAHMENGB,0
-SKR49,7842,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:7842,INCOME,EINNAHMENGB,0
-SKR49,7850,Unmittelbare Ausgaben zur Werbung,ref:7850,EXPENSE,AUSGABENGB,0
-SKR49,7851,Werbekostenpauschbetrag 85% (Gkto.3795),ref:7851,EXPENSE,AUSGABENGB,0
-SKR49,7852,Tatsächliche Kosten Werbung,ref:7852,EXPENSE,AUSGABENGB,0
-SKR49,7854,Anteilige Druckkosten,ref:7854,EXPENSE,AUSGABENGB,0
-SKR49,7855,Anteilige Versandkosten,ref:7855,EXPENSE,AUSGABENGB,0
-SKR49,7856,Werbemittlungskosten,ref:7856,EXPENSE,AUSGABENGB,0
-SKR49,7858,Ertr.Storno tatsäch.Werbekost.(Gkt.3795),ref:7858,EXPENSE,AUSGABENGB,0
-SKR49,7860,Unmittelb.Ausgaben Sportstättenvermiet.,ref:7860,EXPENSE,AUSGABENGB,0
-SKR49,7861,Anteilige Kostenumlage f.Sportstätten,ref:7861,EXPENSE,AUSGABENGB,0
-SKR49,7870,Verschiedene Kosten Teilbereich 7800,ref:7870,EXPENSE,AUSGABENGB,0
-SKR49,7871,Verrechnete/aufgeteilte Kosten TB7800,ref:7871,EXPENSE,AUSGABENGB,0
-SKR49,7874,Einstellungen in steuerliche Rücklagen,ref:7874,EXPENSE,AUSGABENGB,0
-SKR49,7875,Anteilige Umsatzsteuerzahlungen,ref:7875,EXPENSE,AUSGABENGB,0
-SKR49,7876,Aufzuteilende Vorsteuer,ref:7876,EXPENSE,AUSGABENGB,0
-SKR49,7877,Abziehbare Vorsteuer,ref:7877,EXPENSE,AUSGABENGB,0
-SKR49,7878,Nicht abziehbare Vorsteuer,ref:7878,EXPENSE,AUSGABENGB,0
-SKR49,7879,Aufzuteilende Posten Teilbereich 7800,ref:7879,EXPENSE,AUSGABENGB,0
-SKR49,8000,Einnahmen aus Umsatzerlösen,ref:8000,INCOME,EINNAHMENGB,0
-SKR49,8002,Eintr.gelder aus geselligen Veranstalt.,ref:8002,INCOME,EINNAHMENGB,0
-SKR49,8004,Erlöse aus Handelswaren,ref:8004,INCOME,EINNAHMENGB,0
-SKR49,8006,Erlöse aus Leistungen,ref:8006,INCOME,EINNAHMENGB,0
-SKR49,8008,Erlöse aus Leihgebühren,ref:8008,INCOME,EINNAHMENGB,0
-SKR49,8010,Erlöse aus Geldspielautomaten,ref:8010,INCOME,EINNAHMENGB,0
-SKR49,8012,Einnahmen aus Werbung Reklameflächen,ref:8012,INCOME,EINNAHMENGB,0
-SKR49,8014,Anzeigengeschäfte (Vereinszeitschr...),ref:8014,INCOME,EINNAHMENGB,0
-SKR49,8016,Sonstige Werbeeinnahmen,ref:8016,INCOME,EINNAHMENGB,0
-SKR49,8018,Kurzfr.Benutzungsgeb.v.Nichtmitglied.,ref:8018,INCOME,EINNAHMENGB,0
-SKR49,8020,Erlöse USt-frei §4 Nr.7 ff UStG,ref:8020,INCOME,EINNAHMENGB,1
-SKR49,8022,Einn.a.steuerschädl.Lotterien/Ausspiel.,ref:8022,INCOME,EINNAHMENGB,0
-SKR49,8024,Erlöse USt-frei §4 Nr.1-6 UStG,ref:8024,INCOME,EINNAHMENGB,0
-SKR49,8025,Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ,ref:8025,INCOME,EINNAHMENGB,1
-SKR49,8026,Erlöse 7 % Umsatzsteuer,ref:8026,INCOME,EINNAHMENGB,0
-SKR49,8028,Erl.Speis./Getr. 7 % (kein Verzehr a.Ort),ref:8028,INCOME,EINNAHMENGB,0
-SKR49,8030,Erlöse 19 % USt,ref:8030,INCOME,EINNAHMENGB,0
-SKR49,8032,Erlöse 19 % USt Vereinsgastst. u.ä.,ref:8032,INCOME,EINNAHMENGB,0
-SKR49,8034,Erl.Speise/Getr.ausserh.Gastst. 19 % USt,ref:8034,INCOME,EINNAHMENGB,0
-SKR49,8036,Erlöse Festzeltbetrieb 19 % USt,ref:8036,INCOME,EINNAHMENGB,0
-SKR49,8038,Getränkeumsatz alkoholfrei,ref:8038,INCOME,EINNAHMENGB,0
-SKR49,8040,Getränkeumsatz alkoholisch,ref:8040,INCOME,EINNAHMENGB,0
-SKR49,8042,Verrechnungskonto Geldspielautomaten,ref:8042,INCOME,EINNAHMENGB,0
-SKR49,8044,Provisionserlöse,ref:8044,INCOME,EINNAHMENGB,0
-SKR49,8045,Direkt mit dem Umsatz verbundene Steuern,ref:8045,INCOME,EINNAHMENGB,0
-SKR49,8046,Erlösschmälerungen,ref:8046,INCOME,EINNAHMENGB,0
-SKR49,8048,Nicht steuerbare Umsätze (Innenumsätze),ref:8048,INCOME,EINNAHMENGB,0
-SKR49,8050,Umsatzsteuervergütungen,ref:8050,INCOME,EINNAHMENGB,0
-SKR49,8052,Unentgeltliche Wertabgaben,ref:8052,INCOME,EINNAHMENGB,0
-SKR49,8054,Entnahme v.Gegenst.3/1b/1 UStG (Waren),ref:8054,INCOME,EINNAHMENGB,0
-SKR49,8056,Unentgelt.Zuwend.Gegenst.3/1b/2.3 UStG,ref:8056,INCOME,EINNAHMENGB,0
-SKR49,8090,Bestandsveränderung,ref:8090,INCOME,EINNAHMENGB,0
-SKR49,8095,andere aktivierte Eigenleistungen,ref:8095,INCOME,EINNAHMENGB,0
-SKR49,8099,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),ref:8099,INCOME,EINNAHMENGB,0
-SKR49,8100,Sonstige betriebliche Erträge,ref:8100,INCOME,EINNAHMENGB,0
-SKR49,8102,Erlöse Verkauf Anlagevermögen TB 8001,ref:8102,INCOME,EINNAHMENGB,0
-SKR49,8104,Verwend.v.Gegenst. §3/9a/1 UStG,ref:8104,INCOME,EINNAHMENGB,0
-SKR49,8106,Unentgeltl.Leistungserbring.3/9a/1 UStG,ref:8106,INCOME,EINNAHMENGB,0
-SKR49,8108,Erlöse Abfallverwertung,ref:8108,INCOME,EINNAHMENGB,0
-SKR49,8110,Erlöse Leergut,ref:8110,INCOME,EINNAHMENGB,0
-SKR49,8112,Anteilige/verrechnete Einnahmen,ref:8112,INCOME,EINNAHMENGB,0
-SKR49,8114,Erhaltene Zinsen auf Betriebsteuern,ref:8114,INCOME,EINNAHMENGB,0
-SKR49,8130,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:8130,INCOME,EINNAHMENGB,0
-SKR49,8131,Sonstige Erträge unregelmäßig,ref:8131,INCOME,EINNAHMENGB,0
-SKR49,8132,Sonstige Erträge betrieblich und regelmäßig,ref:8132,INCOME,EINNAHMENGB,0
-SKR49,8133,Erstattungen nach AAG,ref:8133,INCOME,EINNAHMENGB,0
-SKR49,8134,Verrechnete sonstige Sachbezüge (keine Waren),ref:8134,INCOME,EINNAHMENGB,0
-SKR49,8140,Zuschreibungen,ref:8140,INCOME,EINNAHMENGB,0
-SKR49,8150,Wareneinkauf,ref:8150,EXPENSE,AUSGABENGB,0
-SKR49,8152,Wareneingang 7 % Vorsteuer,ref:8152,EXPENSE,AUSGABENGB,0
-SKR49,8154,Wareneingang 19 % Vorsteuer,ref:8154,EXPENSE,AUSGABENGB,0
-SKR49,8156,Handelswaren,ref:8156,EXPENSE,AUSGABENGB,0
-SKR49,8158,Tatsächliche Kosten Altpapiersammlungen,ref:8158,EXPENSE,AUSGABENGB,0
-SKR49,8160,Tatsächl.Kosten Altmaterialsammlungen,ref:8160,EXPENSE,AUSGABENGB,0
-SKR49,8162,Ausgabenpausch.95%  Altpap.(Gkto.3895),ref:8162,EXPENSE,AUSGABENGB,0
-SKR49,8164,Ausgabenpausch.80%  Altmat.(Gkto.3895),ref:8164,EXPENSE,AUSGABENGB,0
-SKR49,8166,Ertrag aus Stornokost.Altpap./Altmat.,ref:8166,EXPENSE,AUSGABENGB,0
-SKR49,8172,Bezugs- und Nebenkosten,ref:8172,EXPENSE,AUSGABENGB,0
-SKR49,8200,Fremdleistungen,ref:8200,EXPENSE,AUSGABENGB,0
-SKR49,8210,Löhne und Gehälter,ref:8210,EXPENSE,AUSGABENGB,0
-SKR49,8212,Aushilfslöhne,ref:8212,EXPENSE,AUSGABENGB,0
-SKR49,8213,Löhne für Minijobs,ref:8213,EXPENSE,AUSGABENGB,0
-SKR49,8214,Bedienungsgelder,ref:8214,EXPENSE,AUSGABENGB,0
-SKR49,8215,Freiwillige Zuwendungen an Minijobber,ref:8215,EXPENSE,AUSGABENGB,0
-SKR49,8216,Vermögenswirksame Leistungen,ref:8216,EXPENSE,AUSGABENGB,0
-SKR49,8217,Sachzuwendungen an Arbeitnehmer,ref:8217,EXPENSE,AUSGABENGB,0
-SKR49,8218,Sachzuwendungen an Minijobber,ref:8218,EXPENSE,AUSGABENGB,0
-SKR49,8219,Fahrtkostenerstattung Wohnung/Arbeitsstätte,ref:8219,EXPENSE,AUSGABENGB,0
-SKR49,8220,Zuschüsse der Agenturen für Arbeit (Haben),ref:8220,EXPENSE,AUSGABENGB,0
-SKR49,8221,Pauschale Steuer auf sonstige Bezüge,ref:8221,EXPENSE,AUSGABENGB,0
-SKR49,8222,Pauschale Steuer für Arbeitnehmer,ref:8222,EXPENSE,AUSGABENGB,0
-SKR49,8223,Pauschale Steuer für Aushilfen,ref:8223,EXPENSE,AUSGABENGB,0
-SKR49,8226,Pauschale Steuer für Minijobber,ref:8226,EXPENSE,AUSGABENGB,0
-SKR49,8230,Sozialversicherungsbeiträge,ref:8230,EXPENSE,AUSGABENGB,0
-SKR49,8231,"Freiwillige soziale Aufwendungen, LSt frei",ref:8231,EXPENSE,AUSGABENGB,0
-SKR49,8232,Abgeführte Lohnsteuer,ref:8232,EXPENSE,AUSGABENGB,0
-SKR49,8233,Aufwendungen aus der Veränderung von Urlaubsrückstellungen,ref:8233,EXPENSE,AUSGABENGB,0
-SKR49,8235,Abgaben für Altersversorgung,ref:8235,EXPENSE,AUSGABENGB,0
-SKR49,8236,Beiträge zur Berufsgenossenschaft,ref:8236,EXPENSE,AUSGABENGB,0
-SKR49,8237,Soziale Abgaben für Minijobber,ref:8237,EXPENSE,AUSGABENGB,0
-SKR49,8238,Pauschale Steuer auf sonstige Bezüge,ref:8238,EXPENSE,AUSGABENGB,0
-SKR49,8239,Aufwendungen für Unterstützung,ref:8239,EXPENSE,AUSGABENGB,0
-SKR49,8240,Abschreibungen Anlagevermögen,ref:8240,EXPENSE,AUSGABENGB,0
-SKR49,8242,Abschreibungen GWG,ref:8242,EXPENSE,AUSGABENGB,0
-SKR49,8243,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:8243,EXPENSE,AUSGABENGB,0
-SKR49,8244,Anlagenabgänge/Restbuchwerte,ref:8244,EXPENSE,AUSGABENGB,0
-SKR49,8246,Kalkulatorische Abschreibungen,ref:8246,EXPENSE,AUSGABENGB,0
-SKR49,8270,Abschr.auf Umlaufvermögen (unüblich),ref:8270,EXPENSE,AUSGABENGB,0
-SKR49,8300,Anteilige Raumkosten,ref:8300,EXPENSE,AUSGABENGB,1
-SKR49,8302,"Miete, Pacht",ref:8302,EXPENSE,AUSGABENGB,1
-SKR49,8303,Strom,ref:8303,EXPENSE,AUSGABENGB,0
-SKR49,8304,Wasser,ref:8304,EXPENSE,AUSGABENGB,0
-SKR49,8305,"Gas, Heizung",ref:8305,EXPENSE,AUSGABENGB,0
-SKR49,8306,Reinigungskosten,ref:8306,EXPENSE,AUSGABENGB,0
-SKR49,8308,Verwaltungskosten,ref:8308,EXPENSE,AUSGABENGB,0
-SKR49,8310,Büromaterial,ref:8310,EXPENSE,AUSGABENGB,1
-SKR49,8312,Porto,ref:8312,EXPENSE,AUSGABENGB,0
-SKR49,8313,Telefon,ref:8313,EXPENSE,AUSGABENGB,0
-SKR49,8314,"Zinsen, Bankspesen",ref:8314,EXPENSE,AUSGABENGB,0
-SKR49,8318,"Versicherungen, Beiträge",ref:8318,EXPENSE,AUSGABENGB,0
-SKR49,8320,Sonstige Abgaben,ref:8320,EXPENSE,AUSGABENGB,0
-SKR49,8322,Fahrzeugkosten,ref:8322,EXPENSE,AUSGABENGB,0
-SKR49,8324,Pkw-Kosten,ref:8324,EXPENSE,AUSGABENGB,0
-SKR49,8326,Garagenmieten,ref:8326,EXPENSE,AUSGABENGB,0
-SKR49,8328,Fremdfahrzeuge,ref:8328,EXPENSE,AUSGABENGB,0
-SKR49,8330,Werbe- und Reisekosten,ref:8330,EXPENSE,AUSGABENGB,0
-SKR49,8332,Geschenke bis 35 EUR,ref:8332,EXPENSE,AUSGABENGB,0
-SKR49,8334,Bewirtungskosten (abzugsfähig),ref:8334,EXPENSE,AUSGABENGB,0
-SKR49,8336,Reisekosten Arbeitnehmer,ref:8336,EXPENSE,AUSGABENGB,0
-SKR49,8338,Reisekosten AN Verpflegungsmehraufwand,ref:8338,EXPENSE,AUSGABENGB,0
-SKR49,8340,Reisekosten Arbeitnehmer,ref:8340,EXPENSE,AUSGABENGB,0
-SKR49,8342,Km-Geld-Erstattung,ref:8342,EXPENSE,AUSGABENGB,0
-SKR49,8370,Einstellungen in steuerliche Rücklagen,ref:8370,EXPENSE,AUSGABENGB,0
-SKR49,8378,Anteilige Umsatzsteuerzahlungen,ref:8378,EXPENSE,AUSGABENGB,0
-SKR49,8380,Aufzuteilende Vorsteuer,ref:8380,EXPENSE,AUSGABENGB,0
-SKR49,8382,Abziehbare Vorsteuer,ref:8382,EXPENSE,AUSGABENGB,0
-SKR49,8384,Nicht abziehbare Vorsteuer,ref:8384,EXPENSE,AUSGABENGB,0
-SKR49,8410,Erträge aus anderen Wertpapieren,ref:8410,EXPENSE,AUSGABENGB,0
-SKR49,8420,sonstige Zinsen und ähnl.Erträge,ref:8420,EXPENSE,AUSGABENGB,0
-SKR49,8430,Abschreibungen auf Finanzanlagen,ref:8430,EXPENSE,AUSGABENGB,0
-SKR49,8440,Zinsen und ähnl.Aufwendungen,ref:8440,EXPENSE,AUSGABENGB,1
-SKR49,8470,Steuern vom Einkommen und vom Ertrag,ref:8470,EXPENSE,AUSGABENGB,0
-SKR49,8480,sonstige Steuern,ref:8480,EXPENSE,AUSGABENGB,0
-SKR49,8500,Umsatzerlöse,ref:8500,INCOME,EINNAHMENGB,0
-SKR49,8545,Direkt mit dem Umsatz verbundene Steuern,ref:8545,INCOME,EINNAHMENGB,0
-SKR49,8590,Bestandsveränderungen,ref:8590,INCOME,EINNAHMENGB,0
-SKR49,8595,andere aktivierte Eigenleistungen,ref:8595,INCOME,EINNAHMENGB,0
-SKR49,8599,Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen),ref:8599,INCOME,EINNAHMENGB,0
-SKR49,8600,sonstige betriebliche Erträge,ref:8600,INCOME,EINNAHMENGB,0
-SKR49,8630,Erträge aus der Auflösung einer steuerlichen Rücklage,ref:8630,INCOME,EINNAHMENGB,0
-SKR49,8640,Zuschreibungen,ref:8640,INCOME,EINNAHMENGB,0
-SKR49,8700,Aufwendungen für bezogene Leistungen,ref:8700,EXPENSE,AUSGABENGB,0
-SKR49,8710,Löhne und Gehälter,ref:8710,EXPENSE,AUSGABENGB,0
-SKR49,8720,soziale Abgaben,ref:8720,EXPENSE,AUSGABENGB,0
-SKR49,8735,Abgaben für Altersversorgung,ref:8735,EXPENSE,AUSGABENGB,0
-SKR49,8736,Beiträge zur Berufsgenossenschaft,ref:8736,EXPENSE,AUSGABENGB,0
-SKR49,8740,Abschreibungen Anlagevermögen,ref:8740,EXPENSE,AUSGABENGB,0
-SKR49,8745,Abschreibungen GWG,ref:8745,EXPENSE,AUSGABENGB,0
-SKR49,8746,Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter,ref:8746,EXPENSE,AUSGABENGB,0
-SKR49,8770,Abschr.auf Umlaufvermögen (unüblich),ref:8770,EXPENSE,AUSGABENGB,0
-SKR49,8800,sonstige betriebliche Aufwendungen,ref:8800,EXPENSE,AUSGABENGB,0
-SKR49,8830,Einstellungen in steuerliche Rücklagen,ref:8830,EXPENSE,AUSGABENGB,0
-SKR49,8838,Anteilige Umsatzsteuerzahlungen,ref:8838,EXPENSE,AUSGABENGB,0
-SKR49,8840,Aufzuteilende Vorsteuer,ref:8840,EXPENSE,AUSGABENGB,0
-SKR49,8842,Abziehbare Vorsteuer,ref:8842,EXPENSE,AUSGABENGB,0
-SKR49,8844,Nicht abziehbare Vorsteuer,ref:8844,EXPENSE,AUSGABENGB,0
-SKR49,8860,Erträge aus anderen Wertpapieren,ref:8860,EXPENSE,AUSGABENGB,0
-SKR49,8870,sonstige Zinsen und ähnl.Erträge,ref:8870,EXPENSE,AUSGABENGB,0
-SKR49,8880,Abschreibungen auf Finanzanlagen,ref:8880,EXPENSE,AUSGABENGB,0
-SKR49,8890,Zinsen und ähnl. Aufwendungen,ref:8890,EXPENSE,AUSGABENGB,0
-SKR49,8920,Steuern vom Einkommen und vom Ertrag,ref:8920,EXPENSE,AUSGABENGB,0
-SKR49,8930,sonstige Steuern,ref:8930,EXPENSE,AUSGABENGB,0
-SKR49,8980,Umgebuchte Einnahmen bisheriger Zweckbet,ref:8980,INCOME,EINNAHMENGB,0
-SKR49,8990,Umgebuchte Ausgaben bisheriger Zweckbetr,ref:8990,EXPENSE,AUSGABENGB,0
-SKR49,9000,Saldovorträge Sachkonten,ref:9000,Statistik,,0
-SKR49,9008,Saldovorträge Debitoren,ref:9008,Statistik,,0
-SKR49,9009,Saldovorträge Kreditoren,ref:9009,Statistik,,0
-SKR49,9090,Summenvortrag,ref:9090,Statistik,,0
+﻿Kontenplan;Buchungskonto;Bezeichnung;Übergeordnetes Konto;Kontenklasse;Benutzerdefinierte Kontengruppe;Status;EUeR Zuordung;
+SKR49;0010;Konzessionen und gewerbl.Schutzrechte;ref:0010;Aktiva;;0;;
+SKR49;0015;Konzessionen;ref:0015;Aktiva;;0;;
+SKR49;0016;Ablöse bezahlte Sportler;ref:0016;Aktiva;;0;;
+SKR49;0017;Ablöse unbezahlte Sportler bis 2.556 Euro;ref:0017;Aktiva;;0;;
+SKR49;0018;Ablöse unbezahlte Sportler über 2.556 Euro;ref:0018;Aktiva;;0;;
+SKR49;0020;Gewerbliche Schutzrechte;ref:0020;Aktiva;;0;;
+SKR49;0025;Ähnliche Rechte und Werte;ref:0025;Aktiva;;0;;
+SKR49;0026;Rechtswerte;ref:0026;Aktiva;;0;;
+SKR49;0027;EDV-Software;ref:0027;Aktiva;;0;;
+SKR49;0030;Lizenzen an gewerblichen Schutzrechten und ähnlichen Rechten und Werten;ref:0030;Aktiva;;0;;
+SKR49;0035;Geschäfts- oder Firmenwert;ref:0035;Aktiva;;0;;
+SKR49;0050;Unbebaute Grundstücke;ref:0050;Aktiva;;0;;
+SKR49;0055;Grundstückswerte eigener Grundstücke babaut mit Gebäuden;ref:0055;Aktiva;;0;;
+SKR49;0060;Grundstückswerte eigener Grundstücke bebaut mit Anlagen;ref:0060;Aktiva;;0;;
+SKR49;0070;Grundstücksgleiche Rechte (Erbbaurecht, Dauerwohnrecht, unbebaute Grundstücke);ref:0070;Aktiva;;0;;
+SKR49;0100;Gebäude;ref:0100;Aktiva;;0;;
+SKR49;0110;Vereinsheim;ref:0110;Aktiva;;0;;
+SKR49;0111;Sporthallen;ref:0111;Aktiva;;0;;
+SKR49;0112;Sportanlagen;ref:0112;Aktiva;;0;;
+SKR49;0120;Vereinsgastätte ;ref:0120;Aktiva;;0;;
+SKR49;0125;Sonstige Vereinsgebäude;ref:0125;Aktiva;;0;;
+SKR49;0130;Geschäftsbauten;ref:0130;Aktiva;;0;;
+SKR49;0155;Außenanlagen;ref:0155;Aktiva;;0;;
+SKR49;0160;Hof- und Wegebefestigungen;ref:0160;Aktiva;;0;;
+SKR49;0170;Einrichtungen für Gebäude;ref:0170;Aktiva;;0;;
+SKR49;0175;Ausbauten, Anbauten und Zubauten;ref:0175;Aktiva;;0;;
+SKR49;0200;Technische Anlagen;ref:0200;Aktiva;;0;;
+SKR49;0205;Maschinen;ref:0205;Aktiva;;0;;
+SKR49;0210;Betriebsvorrichtungen;ref:0210;Aktiva;;0;;
+SKR49;0215;Sportvorrichtungen;ref:0215;Aktiva;;0;;
+SKR49;0220;Vereinsheimausstattung;ref:0220;Aktiva;;0;;
+SKR49;0250;Kraftfahrzeuge, Transportmittel;ref:0250;Aktiva;;0;;
+SKR49;0255;Pkw;ref:0255;Aktiva;;0;;
+SKR49;0260;Anhänger;ref:0260;Aktiva;;0;;
+SKR49;0265;Pflegemaschinen;ref:0265;Aktiva;;0;;
+SKR49;0300;Vereinsausstattung;ref:0300;Aktiva;;0;;
+SKR49;0305;Vereinskleidung;ref:0305;Aktiva;;0;;
+SKR49;0310;Sportgeräte;ref:0310;Aktiva;;0;;
+SKR49;0315;Werkzeuge;ref:0315;Aktiva;;0;;
+SKR49;0320;Büroeinrichtung;ref:0320;Aktiva;;0;;
+SKR49;0330;Einrichtung Vereinsheim;ref:0330;Aktiva;;0;;
+SKR49;0335;Sonstiges Inventar;ref:0335;Aktiva;;0;;
+SKR49;0340;Geringwertige Wirtschaftsgüter;ref:0340;Aktiva;;0;;
+SKR49;0341;Geringwertige Wirtschaftsgüter (Sammelposten);ref:0341;Aktiva;;0;;
+SKR49;0400;Sonstige Anlagen und Ausstattung;ref:0400;Aktiva;;0;;
+SKR49;0405;Betriebsausstattung;ref:0405;Aktiva;;0;;
+SKR49;0410;Geschäftsausstattung;ref:0410;Aktiva;;0;;
+SKR49;0415;Büroeinrichtung;ref:0415;Aktiva;;0;;
+SKR49;0420;Ladeneinrichtung;ref:0420;Aktiva;;0;;
+SKR49;0425;Werkzeuge;ref:0425;Aktiva;;0;;
+SKR49;0475;Geringwertige Wirtschaftsgüter;ref:0475;Aktiva;;0;;
+SKR49;0476;Geringwertige Wirtschaftsgüter (Sammelposten);ref:0476;Aktiva;;0;;
+SKR49;0485;Gebäude im Bau;ref:0485;Aktiva;;0;;
+SKR49;0495;Sonstige Sachanlagen im Bau;ref:0495;Aktiva;;0;;
+SKR49;0530;Rechtswerte;ref:0530;Aktiva;;0;;
+SKR49;0531;Ablöse bezahlter Sportler;ref:0531;Aktiva;;0;;
+SKR49;0533;Ablöse unbez.Sportler bis 2556 Euro;ref:0533;Aktiva;;0;;
+SKR49;0534;Ablöse unbez.Sportler über 2556 Euro;ref:0534;Aktiva;;0;;
+SKR49;0545;Wertpapiere des Anlagevermögens;ref:0545;Aktiva;;0;;
+SKR49;0555;Geleistete Kautionen;ref:0555;Aktiva;;0;;
+SKR49;0560;Darlehen;ref:0560;Aktiva;;0;;
+SKR49;0630;Geleistete Anzahlungen auf Vorräte;ref:0630;Aktiva;;0;;
+SKR49;0650;Forderungen aus Lieferungen/Leistungen;ref:0650;Aktiva;;0;;
+SKR49;0655;Forderungen aus Vereinsbereichen;ref:0655;Aktiva;;0;;
+SKR49;0660;Forderungen zu Einnahmen 11/1,S2EStG;ref:0660;Aktiva;;0;;
+SKR49;0665;Wertberichtigungen Forderungen ;ref:0665;Aktiva;;0;;
+SKR49;0680;Forderungen gg. verbund.Untern.;ref:0680;Aktiva;;0;;
+SKR49;0700;Sonstige Vermögensgegenstände;ref:0700;Aktiva;;0;;
+SKR49;0703;Forderungen gegenüber Krankenkassen aus AAG;ref:0703;Aktiva;;0;;
+SKR49;0705;Geldtransit;ref:0705;Aktiva;;0;;
+SKR49;0710;Verrech.kto.Gewinnermittlung 4/3 EStG;ref:0710;Aktiva;;0;;
+SKR49;0715;Überleitungskonto Kostenstellen;ref:0715;Aktiva;;0;;
+SKR49;0720;Verrechnungskonto Ist-Versteuerung;ref:0720;Aktiva;;0;;
+SKR49;0725;Sonstige Forderungen;ref:0725;Aktiva;;0;;
+SKR49;0730;Gegenkonto Bruttovorumsatz;ref:0730;Aktiva;;0;;
+SKR49;0745;Umsatzsteuerforderungen laufendes Jahr;ref:0745;Aktiva;;0;;
+SKR49;0746;Forderungen aus Umsatzsteuer-Vorauszahlungen;ref:0746;Aktiva;;0;;
+SKR49;0747;Umsatzsteuerforderungen Vorjahr;ref:0747;Aktiva;;0;;
+SKR49;0748;Umsatzsteuerforderungen frühere Jahre;ref:0748;Aktiva;;0;;
+SKR49;0755;Zurückzuzahlende Vorsteuer gem. § 15a Abs. 1 UStG, unbewegliche Wirtschaftsgüter;ref:0755;Aktiva;;0;;
+SKR49;0756;Zurückzuzahlende Vorsteuer gem. § 15a Abs. 2 UStG;ref:0756;Aktiva;;0;;
+SKR49;0757;Zurückzuzahlende Vorsteuer gem. § 15a Abs. 1 UStG, bewegliche Wirtschaftsgüter;ref:0757;Aktiva;;0;;
+SKR49;0758;Nachträglich abziehbare Vorsteuer, § 15a Abs. 2 UStG;ref:0758;Aktiva;;0;;
+SKR49;0759;Nachträglich abziehbare Vorsteuer, § 15a Abs. 1 UStG, unbewegl. Wirtschaftsgüter;ref:0759;Aktiva;;0;;
+SKR49;0760;Nachträglich abziehbare Vorsteuer, § 15a Abs. 1 UStG, bewegl. Wirtschaftsgüter;ref:0760;Aktiva;;0;;
+SKR49;0761;Abziehbare Vorsteuer aus der Auslagerung von Gegenständen aus einem USt-Lager;ref:0761;Aktiva;;0;;
+SKR49;0770;Abziehbare Vorsteuer;ref:0770;Aktiva;;0;;
+SKR49;0775;Abziehbare Vorsteuer 7 %;ref:0775;Aktiva;;0;;
+SKR49;0780;Abziehbare Vorsteuer 19 %;ref:0780;Aktiva;;0;;
+SKR49;0781;Abziehbare Vorsteuer 5 %;ref:0781;Aktiva;;0;;
+SKR49;0782;Abziehbare Vorsteuer 16 %;ref:0782;Aktiva;;0;;
+SKR49;0785;Pauschalierte Vorsteuer;ref:0785;Aktiva;;0;;
+SKR49;0810;Abziehbare Vorsteuer i.g.Erwerb;ref:0810;Aktiva;;0;;
+SKR49;0811;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 19 %;ref:0811;Aktiva;;0;;
+SKR49;0814;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 16 %;ref:0814;Aktiva;;0;;
+SKR49;0815;Abziehb.Vorst.i.g.Erwerb Neufzg. ohne ID;ref:0815;Aktiva;;0;;
+SKR49;0825;Aufzuteilende Vorsteuer;ref:0825;Aktiva;;0;;
+SKR49;0830;Aufzuteilende Vorsteuer 7 %;ref:0830;Aktiva;;0;;
+SKR49;0835;Aufzuteilende Vorsteuer 19 %;ref:0835;Aktiva;;0;;
+SKR49;0838;Aufzuteilende Vorsteuer nach §§ 13a/13b UStG 19 %;ref:0838;Aktiva;;0;;
+SKR49;0839;Aufzuteilende Vorsteuer nach §§ 13a/13b UStG;ref:0839;Aktiva;;0;;
+SKR49;0840;Aufzuteilende Vorsteuer aus i.g.Erw.;ref:0840;Aktiva;;0;;
+SKR49;0841;Aufzuteilende Vorsteuer Anlagevemögen;ref:0841;Aktiva;;0;;
+SKR49;0844;Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb 19 %;ref:0844;Aktiva;;0;;
+SKR49;0845;Aufzuteilende Vorst. Ausgaben B4000-8000;ref:0845;Aktiva;;0;;
+SKR49;0849;Abziehbare Vorsteuer §13b UStG;ref:0849;Aktiva;;0;;
+SKR49;0850;Abziehbare Vorsteuer §13b UStG 19 %;ref:0850;Aktiva;;0;;
+SKR49;0852;Abziehbare Vorsteuer §13b UStG 16 %;ref:0852;Aktiva;;0;;
+SKR49;0853;Vorsteuer in Folgeperiode/im Folgejahr abziehbar;ref:0853;Aktiva;;0;;
+SKR49;0855;Auflösung Vorst.aus Vorjahr 4/3 EStG;ref:0855;Aktiva;;0;;
+SKR49;0860;Entstandene Einfuhrumsatzsteuer;ref:0860;Aktiva;;0;;
+SKR49;0865;Vorst.nach allgem.Durchschnittsätzen;ref:0865;Aktiva;;0;;
+SKR49;0870;Durchlaufende Posten Einnahmen;ref:0870;Aktiva;;0;;
+SKR49;0875;Durchlaufende Posten Ausgaben;ref:0875;Aktiva;;0;;
+SKR49;0885;Sammelkonto aufzuteilende Ausgaben;ref:0885;Aktiva;;0;;
+SKR49;0890;Sammelkonto aufzuteilende Einnahmen;ref:0890;Aktiva;;0;;
+SKR49;0910;Finanzwechsel;ref:0910;Aktiva;;0;;
+SKR49;0920;Kasse;ref:0920;Aktiva;;0;;
+SKR49;0925;Hauptkasse;ref:0925;Aktiva;;0;;
+SKR49;0930;Nebenkasse 1;ref:0930;Aktiva;;0;;
+SKR49;0935;Nebenkasse 2;ref:0935;Aktiva;;0;;
+SKR49;0940;Bank (Postbank);ref:0940;Aktiva;;0;;
+SKR49;0945;Bank;ref:0945;Aktiva;;0;;
+SKR49;0950;Bank 1;ref:0950;Aktiva;;0;;
+SKR49;0955;Bank 2;ref:0955;Aktiva;;0;;
+SKR49;0960;Schecks;ref:0960;Aktiva;;0;;
+SKR49;0965;Bank 3;ref:0965;Aktiva;;0;;
+SKR49;0970;Bank 4;ref:0970;Aktiva;;0;;
+SKR49;0975;Bank 5;ref:0975;Aktiva;;0;;
+SKR49;1180;Übrige andere Sonderposten;ref:1180;Passiva;;0;;
+SKR49;1181;Steuerfreie Rücklagen nach § 6b EStG;ref:1181;Passiva;;0;;
+SKR49;1182;Rücklage für Ersatzbeschaffung;ref:1182;Passiva;;0;;
+SKR49;1183;Ausgleichsposten bei Entnahmen § 4g EStG;ref:1183;Passiva;;0;;
+SKR49;1184;Rücklage für Zuschüsse;ref:1184;Passiva;;0;;
+SKR49;1200;Rückstellungen für Pensionen und ähnliche Verpflichtungen;ref:1200;Passiva;;0;;
+SKR49;1210;Steuerrückstellungen;ref:1210;Passiva;;0;;
+SKR49;1220;Sonstige Rückstellungen;ref:1220;Passiva;;0;;
+SKR49;1221;Urlaubsrückstellungen;ref:1221;Passiva;;0;;
+SKR49;1222;Rückstellungen für Personalkosten;ref:1222;Passiva;;0;;
+SKR49;1320;Verbindlichkeiten gg.Kreditinstituten;ref:1320;Passiva;;0;;
+SKR49;1334;Erhaltene Anzahlung - Nachsteuer;ref:1334;Passiva;;0;;
+SKR49;1340;Verbindlichkeiten aus Lief./Leist.;ref:1340;Passiva;;0;;
+SKR49;1345;Verbindlichk.aus Investitionen 4/3EStG;ref:1345;Passiva;;0;;
+SKR49;1350;Wechselverbindlichkeiten;ref:1350;Passiva;;0;;
+SKR49;1360;Verbindlichk.gg. verbundenen Untern.;ref:1360;Passiva;;0;;
+SKR49;1380;Verbindl.f.satzungsgemäße Leistungen;ref:1380;Passiva;;0;;
+SKR49;1385;Verbindl. aus erteilten Zusagen;ref:1385;Passiva;;0;;
+SKR49;1390;Verbindl.noch nicht zweckentspr.verw.Mit;ref:1390;Passiva;;0;;
+SKR49;1395;Verbindlichkeiten aus bedingt rückzahlungspflichtigen Spenden;ref:1395;Passiva;;0;;
+SKR49;1700;Verbindlichkeiten aus Lohn- und Kirchensteuer;ref:1700;Passiva;;0;;
+SKR49;1705;Verbindlichkeiten im Rahmen der sozialen Sicherheit;ref:1705;Passiva;;0;;
+SKR49;1710;Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern;ref:1710;Passiva;;0;;
+SKR49;1712;Lohnverbindlichkeiten;ref:1712;Passiva;;0;;
+SKR49;1715;Verbindlichkeiten aus Einbehaltungen (KapESt u. SolZ, KiSt auf KapESt);ref:1715;Passiva;;0;;
+SKR49;1720;Verbindlichkeiten aus Vermögensbildung;ref:1720;Passiva;;0;;
+SKR49;1724;Ausgegebene Geschenkgutscheine;ref:1724;Passiva;;0;;
+SKR49;1730;Lohn- und Gehaltsverrechnungskonto;ref:1730;Passiva;;0;;
+SKR49;1731;Lohn- und Gehaltsverrechnung § 11 Abs. 2 S.2 EStG für § 4 Abs. 3 EStG;ref:1731;Passiva;;0;;
+SKR49;1732;Verbindlichkeiten im Rahmen der sozialen Sicherheit für § 4 Abs. 3 EStG;ref:1732;Passiva;;0;;
+SKR49;1798;Verbindlichkeiten für Einbehaltung von Arbeitnehmern;ref:1798;Passiva;;0;;
+SKR49;1799;Verbindlichkeiten an das Finanzamt aus abzuführendem Bauabzugsbetrag;ref:1799;Passiva;;0;;
+SKR49;1800;Sonstige Verbindlichkeiten;ref:1800;Passiva;;0;;
+SKR49;1803;Sonstige Verbindlichkeiten Restlaufzeit größer 5 Jahre;ref:1803;Passiva;;0;;
+SKR49;1804;Sonstige Verbindlichkeiten nach § 11 Abs. 2 Satz 2 EStG für § 4 Abs. 3 EStG;ref:1804;Passiva;;0;;
+SKR49;1806;Verbindlichkeiten aus Steuern und Abgaben;ref:1806;Passiva;;0;;
+SKR49;1809;Verbindlichkeiten aus Steuern und Abgaben Restlaufzeit größer 5 Jahre;ref:1809;Passiva;;0;;
+SKR49;1813;Voraussichtl. Beitragsschuld ggü. Sozialversicherungsträger;ref:1813;Passiva;;0;;
+SKR49;1815;Gegenkonto Bruttoerlöse;ref:1815;Passiva;;0;;
+SKR49;1840;Umsatzsteuer;ref:1840;Passiva;;0;;
+SKR49;1845;Umsatzsteuer 7 %;ref:1845;Passiva;;0;;
+SKR49;1850;Umsatzsteuer 19 %;ref:1850;Passiva;;0;;
+SKR49;1851;Umsatzsteuer 5 %;ref:1851;Passiva;;0;;
+SKR49;1852;Umsatzsteuer 16%;ref:1852;Passiva;;0;;
+SKR49;1860;USt aus i.g. Erwerb;ref:1860;Passiva;;0;;
+SKR49;1861;USt i.g. Erwerb Neufahrzeuge ohne ID;ref:1861;Passiva;;0;;
+SKR49;1864;USt a.i.Inland steuerpfl.Leistungen 7 %;ref:1864;Passiva;;0;;
+SKR49;1865;USt a.i.Inland steuerpfl.Leistungen 19 %;ref:1865;Passiva;;0;;
+SKR49;1866;USt a.i.Inland steuerpfl.EG-Lieferungen;ref:1866;Passiva;;0;;
+SKR49;1869;Umsatzsteuer aus im anderen EU-Land steuerpflichtigen elektr. Dienstleistungen;ref:1869;Passiva;;0;;
+SKR49;1870;USt a.i.anderen EG-Land stpfl.Lieferung;ref:1870;Passiva;;0;;
+SKR49;1871;USt a.i.and.EG-Land stpfl.sonst.Leistung;ref:1871;Passiva;;0;;
+SKR49;1873;Umsatzsteuer aus innermeinschaftlichem Erwerb 19 %;ref:1873;Passiva;;0;;
+SKR49;1874;Umsatzsteuer aus innermeinschaftlichem Erwerb 16 %;ref:1874;Passiva;;0;;
+SKR49;1880;Umsatzsteuer nicht fällig;ref:1880;Passiva;;0;;
+SKR49;1885;Umsatzsteuer nicht fällig 7 %;ref:1885;Passiva;;0;;
+SKR49;1890;Umsatzsteuer nicht fällig 19 %;ref:1890;Passiva;;0;;
+SKR49;1891;Umsatzsteuer nicht fällig 5 %;ref:1891;Passiva;;0;;
+SKR49;1892;Umsatzsteuer nicht fällig 16 %;ref:1892;Passiva;;0;;
+SKR49;1895;USt nicht fällig aus EG-Lieferungen;ref:1895;Passiva;;0;;
+SKR49;1896;USt nicht fällig aus EU-Lieferungen 19 %;ref:1896;Passiva;;0;;
+SKR49;1898;USt nicht fällig aus EU-Lieferungen 16 %;ref:1898;Passiva;;0;;
+SKR49;1899;USt-Abzugsverfahren 7 % USt;ref:1899;Passiva;;0;;
+SKR49;1900;USt-Abzugsverf.oder USt § 13b UStG, 16 %;ref:1900;Passiva;;0;;
+SKR49;1901;Umsatzsteuer nach § 13b UStG;ref:1901;Passiva;;0;;
+SKR49;1902;Umsatzsteuer nach § 13b UStG, 19 %;ref:1902;Passiva;;0;;
+SKR49;1904;Umsatzsteuer nach § 13b UStG, 16 %;ref:1904;Passiva;;0;;
+SKR49;1910;Sammelkonto USt-Vorauszahlung/-Erstattung;ref:1910;Passiva;;0;;
+SKR49;1911;Umsatzsteuer-Vorauszahlung 1/11;ref:1911;Passiva;;0;;
+SKR49;1912;Sammelkonto in Rechng. unrichtig od. unberecht. ausgew. Steuer UStVA Kz. 69;ref:1912;Passiva;;0;;
+SKR49;1913;Sammelkonto Umsatzsteuer Vorjahre;ref:1913;Passiva;;0;;
+SKR49;1914;Sammelkto.unberecht. ausgewiesene Ust;ref:1914;Passiva;;0;;
+SKR49;1915;Steuerzahlungen an andere EG-Länder;ref:1915;Passiva;;0;;
+SKR49;1916;Verbindlichkeiten aus Umsatzsteuer-Vorauszahlungen;ref:1916;Passiva;;0;;
+SKR49;1918;Umsatzsteuer in Folgeperiode fällig (§§ 13 Abs. 1 Nr. 6, 13b Abs. 2 UStG);ref:1918;Passiva;;0;;
+SKR49;1919;Umsatzsteuer Vorjahr;ref:1919;Passiva;;0;;
+SKR49;1920;Umsatzsteuer laufendes Jahr;ref:1920;Passiva;;0;;
+SKR49;1930;Einfuhrumsatzsteuer aufgeschoben;ref:1930;Passiva;;0;;
+SKR49;2000;Sonstige Einnahmen Bereich 2000;ref:2000;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2110;Echte Mitgliedsbeiträge bis 300 Euro;ref:2110;INCOME;IBEIN-2;0;Mitgliedsbeiträge (Ideeler Bereich - Einnahmen);
+SKR49;2120;Echte Mitgliedsbeiträge 300-1023 Euro;ref:2120;INCOME;IBEIN-2;0;Mitgliedsbeiträge (Ideeler Bereich - Einnahmen);
+SKR49;2150;Aufnahmegebühren bis 300 Euro;ref:2150;INCOME;IBEIN-3;0;Aufnahmegebühren (Ideeler Bereich - Einnahmen);
+SKR49;2160;Aufnahmegebühren 300-1534 Euro;ref:2160;INCOME;IBEIN-3;0;Aufnahmegebühren (Ideeler Bereich - Einnahmen);
+SKR49;2170;Umlagen;ref:2170;INCOME;IBEIN-3;0;Aufnahmegebühren (Ideeler Bereich - Einnahmen);
+SKR49;2300;Erhaltene nicht steuerbare Zuschüsse;ref:2300;INCOME;IBEIN-4;0;Zuschüsse (Ideeler Bereich - Einnahmen);
+SKR49;2301;Zuschüsse von Verbänden;ref:2301;INCOME;IBEIN-4;0;Zuschüsse (Ideeler Bereich - Einnahmen);
+SKR49;2302;Zuschüsse von Behörden;ref:2302;INCOME;IBEIN-4;0;Zuschüsse (Ideeler Bereich - Einnahmen);
+SKR49;2303;Sonstige Zuschüsse;ref:2303;INCOME;IBEIN-4;0;Zuschüsse (Ideeler Bereich - Einnahmen);
+SKR49;2400;Sonstige Einnahmen ideeller Bereich;ref:2400;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2410;Stfr.Einnahmen nicht gemeinnütz.Vereine;ref:2410;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2412;Zuwendungen Dritter (Sponsoren);ref:2412;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2420;Stfr.Einnahmen gemeinnütziger Vereine;ref:2420;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2421;Erlöse auf Verkäufen Sachanlagevermögen (bei Buchgewinn);ref:2421;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2423;Erträge aus der Auflösung sonstiger steuerlicher Rücklagen;ref:2423;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2450;Verrechnete/aufget. Einnahmen ideel.Ber.;ref:2450;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2451;Verrechnete Sachbezüge Arbeitnehmer;ref:2451;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2490;Zuschreibungen;ref:2490;INCOME;IBEIN-1;0;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);
+SKR49;2500;Abschreibungen Anlagevermögen;ref:2500;EXPENSE;IBAUS-1;0;Abschreibungen (Ideeler Bereich - Ausgaben);
+SKR49;2501;Abschreibungen GWG;ref:2501;EXPENSE;IBAUS-1;0;Abschreibungen (Ideeler Bereich - Ausgaben);
+SKR49;2502;Kalkulatorische Abschreibungen;ref:2502;EXPENSE;IBAUS-1;0;Abschreibungen (Ideeler Bereich - Ausgaben);
+SKR49;2503;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:2503;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2510;Ausgaben Bereich 2000;ref:2510;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2550;Anteilige Personalkosten;ref:2550;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2551;Löhne und Gehälter;ref:2551;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2552;Ehrenamtspauschale;ref:2552;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2553;Abgeführte Lohnsteuer;ref:2553;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2554;Aufwandsentschädigungen Übungsleiter;ref:2554;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2555;Sozialversicherungsbeiträge;ref:2555;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2556;Aushilfslöhne;ref:2556;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2557;Sachbezüge Arbeitnehmer;ref:2557;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2558;Beiträge zur Berufsgenossenschaft;ref:2558;EXPENSE;IBAUS-3;0;Personalkosten (Ideeler Bereich - Ausgaben);
+SKR49;2560;Reisekostenerstattungen;ref:2560;EXPENSE;IBAUS-4;0;Reisekosten (Ideeler Bereich - Ausgaben);
+SKR49;2561;Reisekosten Arbeitnehmer;ref:2561;EXPENSE;IBAUS-4;0;Reisekosten (Ideeler Bereich - Ausgaben);
+SKR49;2562;Reisekosten Arbeitnehmer Übernachtungsaufwand;ref:2562;EXPENSE;IBAUS-4;0;Reisekosten (Ideeler Bereich - Ausgaben);
+SKR49;2563;Reisekosten Arbeitnehmer Fahrtkosten;ref:2563;EXPENSE;IBAUS-4;0;Reisekosten (Ideeler Bereich - Ausgaben);
+SKR49;2564;Kilometergelderstattung Arbeitnehmer;ref:2564;EXPENSE;IBAUS-4;0;Reisekosten (Ideeler Bereich - Ausgaben);
+SKR49;2660;Anteilige Raumkosten;ref:2660;EXPENSE;IBAUS-5;0;Raumkosten (Ideeler Bereich - Ausgaben);
+SKR49;2661;Miete und Pacht;ref:2661;EXPENSE;IBAUS-5;0;Raumkosten (Ideeler Bereich - Ausgaben);
+SKR49;2663;Raumnebenkosten;ref:2663;EXPENSE;IBAUS-5;0;Raumkosten (Ideeler Bereich - Ausgaben);
+SKR49;2664;Reparaturen;ref:2664;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2700;Kosten der Mitgliederverwaltung;ref:2700;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2701;Büromaterial;ref:2701;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2702;Porto, Telefon;ref:2702;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2703;Einzugskosten;ref:2703;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2704;Sonstige Kosten;ref:2704;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2750;Verbrauchsabgaben u.sonstige Beiträge;ref:2750;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2751;Abgaben Landesverband;ref:2751;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2752;Abgaben Fachverband;ref:2752;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2753;Versicherungsbeiträge;ref:2753;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2800;Mitgliederpflege;ref:2800;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2801;Vereinsmitteilungen;ref:2801;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2802;Geschenke, Jubiläen, Ehrungen;ref:2802;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2803;Ausbildungskosten;ref:2803;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2804;Lehr- und Jugendarbeit;ref:2804;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2810;Repräsentationskosten;ref:2810;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2892;Einstellungen in sonstige steuerliche Rücklagen;ref:2892;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2894;Rechts- und Beratungskosten;ref:2894;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2900;Sonstige Kosten ideeller Bereich;ref:2900;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2901;Nicht abziehbare Ausgaben;ref:2901;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2902;Verrechnete/aufgeteilte Kosten;ref:2902;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;2903;Nicht abziehbare Vorsteuer;ref:2903;EXPENSE;IBAUS-2;0;Übrige Ausgaben (Ideeler Bereich - Ausgaben);
+SKR49;3200;Steuerneutrale Einnahmen Bereich 2000;ref:3200;INCOME;;0;;
+SKR49;3210;Schenkungen;ref:3210;INCOME;;0;;
+SKR49;3211;Erbschaften;ref:3211;INCOME;;0;;
+SKR49;3212;Vermächtnisse;ref:3212;INCOME;;0;;
+SKR49;3215;Sonstige Einnahmen;ref:3215;INCOME;;0;;
+SKR49;3220;Erhaltene Spenden / Zuwendungen;ref:3220;INCOME;;0;;
+SKR49;3221;Geldspenden/-zuwendungen gg. Quittung;ref:3221;INCOME;;0;;
+SKR49;3223;Geldspenden/-zuwendungen ohne Quittung;ref:3223;INCOME;;0;;
+SKR49;3225;Sachspenden/-zuwendungen gg. Quittung;ref:3225;INCOME;;0;;
+SKR49;3227;Sachspenden/-zuwendungen ohne Quittung;ref:3227;INCOME;;0;;
+SKR49;3230;Aufwandszuwendungen gegen Zuwendungsbestätigung;ref:3230;INCOME;;0;;
+SKR49;3232;Aufwandszuwendungen ohne Zuwendungsbestätigung;ref:3232;INCOME;;0;;
+SKR49;3240;Ertrag aus Spendenverbrauch;ref:3240;INCOME;;0;;
+SKR49;3250;Nicht abziehbare Ausgaben Bereich2000;ref:3250;EXPENSE;;0;;
+SKR49;3251;Gezahlte Spenden / Zuwendungen;ref:3251;EXPENSE;;0;;
+SKR49;3252;Hingegebene Sachspenden/-zuwendungen;ref:3252;EXPENSE;;0;;
+SKR49;3260;Erbschaft-,Schenkungsteuer;ref:3260;EXPENSE;;0;;
+SKR49;3400;Steuerneutrale Einnahmen Bereich 4000;ref:3400;INCOME;;0;;
+SKR49;3401;Investitionszulage;ref:3401;INCOME;;0;;
+SKR49;3402;Erstattete Kapitalertragsteuer;ref:3402;INCOME;;0;;
+SKR49;3403;Erstattete und vergütete Körperschaftsteuer;ref:3403;INCOME;;0;;
+SKR49;3404;Solidaritätszuschlagerstattungen für Vorjahre;ref:3404;INCOME;;0;;
+SKR49;3410;Nicht stb.Kursgewin.Wertpap.(ü.12 M.) 0%;ref:3410;INCOME;;0;;
+SKR49;3415;Ertrag aus pauschal.Vorsteuer §23a UStG;ref:3415;INCOME;;0;;
+SKR49;3420;Verkaufserlöse Vermögensverwaltung;ref:3420;INCOME;;0;;
+SKR49;3421;Verkaufserlöse Anlagevermögen 0% USt;ref:3421;INCOME;;0;;
+SKR49;3422;Verkaufserlöse Anlagevermögen 7 % USt;ref:3422;INCOME;;0;;
+SKR49;3423;Verkaufserlöse Anlagevermögen 19 % USt;ref:3423;INCOME;;0;;
+SKR49;3424;Verkaufserlöse Wertpapiere;ref:3424;INCOME;;0;;
+SKR49;3450;Nicht abziehbare Ausgaben Bereich 4000;ref:3450;EXPENSE;;0;;
+SKR49;3451;Abgezogene Kapitalertragsteuer;ref:3451;EXPENSE;;0;;
+SKR49;3452;Abgezogene Körperschaftsteuer;ref:3452;EXPENSE;;0;;
+SKR49;3453;Solidaritätszuschlag zur KSt;ref:3453;EXPENSE;;0;;
+SKR49;3455;Nich abzugsfähige Bewirtungskosten;ref:3455;EXPENSE;;0;;
+SKR49;3500;Steuerneutrale Einnahmen Bereich 5000;ref:3500;INCOME;;0;;
+SKR49;3515;Ertrag a.pauschaler Vorsteuer §23a UStG;ref:3515;INCOME;;0;;
+SKR49;3550;Nicht abziehbare Ausgaben Bereich 5000;ref:3550;EXPENSE;;0;;
+SKR49;3551;Ausgaben i.S.v. §4 Abs.5 EStG;ref:3551;EXPENSE;;0;;
+SKR49;3552;Geschenke über 35 Euro;ref:3552;EXPENSE;;0;;
+SKR49;3553;Nicht abzugsfähige Bewirtungskosten;ref:3553;EXPENSE;;0;;
+SKR49;3590;USt unentgeltl.Wertabgabe§3/1b.9a UStG;ref:3590;EXPENSE;;0;;
+SKR49;3600;Steuerneutrale Einnahmen Bereich 6000;ref:3600;EXPENSE;;0;;
+SKR49;3615;Ertrag aus pauschal. Vorsteuer §23a UStG;ref:3615;EXPENSE;;0;;
+SKR49;3650;Nicht abziehbare Ausgaben Bereich 6000;ref:3650;EXPENSE;;0;;
+SKR49;3651;Ausgaben i.S.v. §4 Abs. 5 EStG;ref:3651;EXPENSE;;0;;
+SKR49;3652;Geschenke über 35 Euro;ref:3652;EXPENSE;;0;;
+SKR49;3653;Nicht abzugsfähige Bewirtungskosten;ref:3653;EXPENSE;;0;;
+SKR49;3690;USt unentgeltl.Wertabgabe §3/1b.9a UStG;ref:3690;EXPENSE;;0;;
+SKR49;3700;Steuerneutrale Einnahmen Bereich 7000;ref:3700;INCOME;;0;;
+SKR49;3710;Steuerfreie Einn.z. Verlustausgl.TB 7001;ref:3710;INCOME;;0;;
+SKR49;3711;Mitgliederuml.z.Verlustausgleich TB7001;ref:3711;INCOME;;0;;
+SKR49;3712;Mitgliederzusch.z. Verlustausgl.TB 7001;ref:3712;INCOME;;0;;
+SKR49;3715;Ertrag a. pauschaler Vorsteuer §23a UStG;ref:3715;INCOME;;0;;
+SKR49;3750;Nicht abziehbare Ausgaben B 7000;ref:3750;EXPENSE;;0;;
+SKR49;3754;Gewerbesteuer;ref:3754;EXPENSE;;0;;
+SKR49;3755;Körperschaftsteuer;ref:3755;EXPENSE;;0;;
+SKR49;3756;Solidaritätszuschlag zur KSt;ref:3756;EXPENSE;;0;;
+SKR49;3770;Säumnis-/Verspätungszuschläge;ref:3770;EXPENSE;;0;;
+SKR49;3780;Gewährte Spenden / Zuwendungen;ref:3780;EXPENSE;;0;;
+SKR49;3781;Ausgaben i.S.v. §4 Abs. 5 EStG;ref:3781;EXPENSE;;0;;
+SKR49;3782;Geschenke über 35 Euro;ref:3782;EXPENSE;;0;;
+SKR49;3783;Nicht abzugsfähige Bewirtungskosten;ref:3783;EXPENSE;;0;;
+SKR49;3790;USt unentgeltl.Wertabgabe §3/1b.9a UstG;ref:3790;EXPENSE;;0;;
+SKR49;3795;Aufw.a.Verr.posten (Gkto.z.7518/7520..);ref:3795;EXPENSE;;0;;
+SKR49;3800;Steuerneutrale Einnahmen Bereich 8000;ref:3800;EXPENSE;;0;;
+SKR49;3801;Investitionszulage;ref:3801;EXPENSE;;0;;
+SKR49;3815;Ertrag a.pauschaler Vorsteuer §23a UStG;ref:3815;EXPENSE;;0;;
+SKR49;3820;Zinserträge § 233a AO, steuerfrei (Anlage GK KSt);ref:3820;EXPENSE;;0;;
+SKR49;3850;Nicht abziehbare Ausgaben Bereich 8000;ref:3850;EXPENSE;;0;;
+SKR49;3853;Gewerbesteuer;ref:3853;EXPENSE;;0;;
+SKR49;3854;Solidaritätszuschlag zur KSt;ref:3854;EXPENSE;;0;;
+SKR49;3855;Körperschaftsteuer;ref:3855;EXPENSE;;0;;
+SKR49;3856;Vermögensteuer;ref:3856;EXPENSE;;0;;
+SKR49;3857;Säumnis-/Verspätungszuschläge;ref:3857;EXPENSE;;0;;
+SKR49;3860;Pauschale Steuer für Geschenke, nicht abzugsfähig;ref:3860;EXPENSE;;0;;
+SKR49;3861;Ausgaben i.S.v. §4 Abs.5 EStG;ref:3861;EXPENSE;;0;;
+SKR49;3862;Geschenke über 35 Euro;ref:3862;EXPENSE;;0;;
+SKR49;3863;Nicht abzugsfähige Bewirtungskosten;ref:3863;EXPENSE;;0;;
+SKR49;3864;Gezahlte Zinsen auf hinterzogene Steuern;ref:3864;EXPENSE;;0;;
+SKR49;3870;Gezahlte Zinsen auf KSt/VermSt;ref:3870;EXPENSE;;0;;
+SKR49;3871;Gezahlte Zinsen auf KSt-Nachforderungen;ref:3871;EXPENSE;;0;;
+SKR49;3872;Gezahlte Stundungszinsen KSt;ref:3872;EXPENSE;;0;;
+SKR49;3873;Gezahlte Aussetzungszinsen KSt;ref:3873;EXPENSE;;0;;
+SKR49;3890;USt unentgelt.Wertabgabe §3/1b.9a UStG;ref:3890;EXPENSE;;0;;
+SKR49;3895;Aufw.a.Verr.posten (Gkto.z.8158-8166);ref:3895;EXPENSE;;0;;
+SKR49;4000;Steuerfreie Einnahm.gemeinnützig.Vereine;ref:4000;INCOME;;0;;
+SKR49;4100;Einnahmen aus Vermögensverwaltung;ref:4100;INCOME;;0;;
+SKR49;4109;Erlöse als Kleinunternehmer § 19 Abs. 1 UStG (gemeinnützige Vereine);ref:4109;INCOME;;0;;
+SKR49;4110;Miet-und Pachterträge 0 % USt;ref:4110;INCOME;;0;;
+SKR49;4111;Miet-und Pachterträge 7 % USt;ref:4111;INCOME;;0;;
+SKR49;4120;Einnahmen Vermietung Sportstät.langfrist;ref:4120;INCOME;;0;;
+SKR49;4121;Vermiet.langfristig Mitglieder 0% USt;ref:4121;INCOME;;0;;
+SKR49;4122;Vermiet. Betriebsvorrichtung langfr. 7 % USt;ref:4122;INCOME;;0;;
+SKR49;4150;Zinserträge 0 % USt;ref:4150;INCOME;;0;;
+SKR49;4151;Erträge aus Wertpapieren 0 % USt;ref:4151;INCOME;;0;;
+SKR49;4152;Kursgewinne a.Wertpap.(unt.12Mon.) 0 %;ref:4152;INCOME;;0;;
+SKR49;4153;Zuschreibungen;ref:4153;INCOME;;0;;
+SKR49;4200;Erlöse von Werbeunternehmen;ref:4200;INCOME;;0;;
+SKR49;4201;Erlöse Werbeunternehmen 7 % USt;ref:4201;INCOME;;0;;
+SKR49;4202;Übertragene Werbeflächenrechte;ref:4202;INCOME;;0;;
+SKR49;4203;Übertragene Lautsprecherwerbung;ref:4203;INCOME;;0;;
+SKR49;4220;Verkaufserlöse Vermögensverwaltung;ref:4220;INCOME;;0;;
+SKR49;4221;Verkaufserlöse Anlagevermögen 7 %;ref:4221;INCOME;;0;;
+SKR49;4222;Verkaufserlöse Wertpapiere;ref:4222;INCOME;;0;;
+SKR49;4230;Sonstige Einnahmen;ref:4230;INCOME;;0;;
+SKR49;4239;Verrechn./aufgeteilte Einnahmen;ref:4239;INCOME;;0;;
+SKR49;4342;Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn);ref:4342;INCOME;;0;;
+SKR49;4343;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:4343;INCOME;;0;;
+SKR49;4347;Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn);ref:4347;INCOME;;0;;
+SKR49;4390;Zuschreibungen;ref:4390;INCOME;;0;;
+SKR49;4400;Stpfl.Einnahmen n.gemeinnützg.Vereine;ref:4400;INCOME;;0;;
+SKR49;4409;Erlöse als Kleinunternehmer § 19 Abs. 1 UStG (nicht gemeinnützige Vereine);ref:4409;INCOME;;0;;
+SKR49;4410;Miet-u.Pachterträge 0 % USt;ref:4410;INCOME;;0;;
+SKR49;4411;Miet-u.Pachterträge 19 % USt;ref:4411;INCOME;;0;;
+SKR49;4415;Sonstige Mieterträge;ref:4415;INCOME;;0;;
+SKR49;4420;Zinserträge 0 % USt;ref:4420;INCOME;;0;;
+SKR49;4421;Wertpapiererträge;ref:4421;INCOME;;0;;
+SKR49;4422;Sonstige Kapitalerträge;ref:4422;INCOME;;0;;
+SKR49;4430;Verkaufserlöse Anlagevermögen 0 %;ref:4430;INCOME;;0;;
+SKR49;4431;Verkaufserlöse Anlagevermögen 19 % USt;ref:4431;INCOME;;0;;
+SKR49;4440;Sonstige Einnahmen;ref:4440;INCOME;;0;;
+SKR49;4441;Sonstige Einnahmen 0 % USt;ref:4441;INCOME;;0;;
+SKR49;4442;Sonstige Einnahmen 19 % USt;ref:4442;INCOME;;0;;
+SKR49;4443;Steuerpflichtige Kursgewinne aus Wertpapieren 0% USt;ref:4443;INCOME;;0;;
+SKR49;4489;Verrechnete/aufgeteillte Einnahmen;ref:4489;INCOME;;0;;
+SKR49;4490;Zuschreibungen;ref:4490;INCOME;;0;;
+SKR49;4492;Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn);ref:4492;INCOME;;0;;
+SKR49;4493;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:4493;INCOME;;0;;
+SKR49;4496;Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn);ref:4496;INCOME;;0;;
+SKR49;4498;Umgeb.Einnahmen wg.Verlust Gemeinnütz.;ref:4498;INCOME;;0;;
+SKR49;4500;Abschreibungen Anlagevermögen;ref:4500;EXPENSE;;0;;
+SKR49;4501;Abschreibungen GWG;ref:4501;EXPENSE;;0;;
+SKR49;4502;Kalkulatorische Abschreibungen;ref:4502;EXPENSE;;0;;
+SKR49;4503;Abschreibungen auf Finanzanlagen;ref:4503;EXPENSE;;0;;
+SKR49;4504;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:4504;EXPENSE;;0;;
+SKR49;4510;Ausgaben Bereich 4000;ref:4510;EXPENSE;;0;;
+SKR49;4531;Sonstige Kosten;ref:4531;EXPENSE;;0;;
+SKR49;4597;Erlöse aus Verkäufen Finanzanlagen (bei Buchverlust);ref:4597;EXPENSE;;0;;
+SKR49;4600;Anlageabgänge/Restbuchwerte;ref:4600;EXPENSE;;0;;
+SKR49;4602;Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchverlust);ref:4602;EXPENSE;;0;;
+SKR49;4700;Zinsen Vermögensverwaltung;ref:4700;EXPENSE;;0;;
+SKR49;4710;Kosten Wertpapierverwaltung;ref:4710;EXPENSE;;0;;
+SKR49;4711;Geldbeschaffungskosten;ref:4711;EXPENSE;;0;;
+SKR49;4712;Nebenkosten des Geldverkehrs;ref:4712;EXPENSE;;0;;
+SKR49;4750;Grundstücksaufwendungen;ref:4750;EXPENSE;;0;;
+SKR49;4751;Grundstücksreparaturen;ref:4751;EXPENSE;;0;;
+SKR49;4752;Versicherungen;ref:4752;EXPENSE;;0;;
+SKR49;4892;Einstellungen in steuerliche Rücklagen;ref:4892;EXPENSE;;0;;
+SKR49;4900;Sonstige Kosten Vermögensverwaltung;ref:4900;EXPENSE;;0;;
+SKR49;4901;Sonstige Kosten;ref:4901;EXPENSE;;0;;
+SKR49;4902;Verrechnete/aufgeteillte Kosten;ref:4902;EXPENSE;;0;;
+SKR49;4904;Anteilige Umsatzsteuerzahlungen;ref:4904;EXPENSE;;0;;
+SKR49;4905;Aufzuteilende Vorsteuer Klasse 4;ref:4905;EXPENSE;;0;;
+SKR49;4906;Abziehbare Vorsteuer;ref:4906;EXPENSE;;0;;
+SKR49;4907;Nicht abziehbare Vorsteuer;ref:4907;EXPENSE;;0;;
+SKR49;4965;Anteilige Raumkosten;ref:4965;EXPENSE;;0;;
+SKR49;4966;Miete, Pacht;ref:4966;EXPENSE;;0;;
+SKR49;4967;Raumnebenkosten;ref:4967;EXPENSE;;0;;
+SKR49;4968;Bewirtungskosten (abzugsfähig);ref:4968;EXPENSE;;0;;
+SKR49;4970;Reisekosten Arbeitnehmer;ref:4970;EXPENSE;;0;;
+SKR49;4971;Reisekosten Arbeitnehmer Verpflegungsmehraufwand;ref:4971;EXPENSE;;0;;
+SKR49;4972;Reisekosten Arbeitnehmer Übernachtungsaufwand;ref:4972;EXPENSE;;0;;
+SKR49;4973;Reisekosten Arbeitnehmer Fahrtkosten;ref:4973;EXPENSE;;0;;
+SKR49;4974;Kilometergelderstattung Arbeitnehmer;ref:4974;EXPENSE;;0;;
+SKR49;4980;Löhne und Gehälter;ref:4980;EXPENSE;;0;;
+SKR49;4981;Abgeführte Lohnsteuer;ref:4981;EXPENSE;;0;;
+SKR49;4982;Freiwillige soziale Aufwendungen, lohnsteuerpflichtig;ref:4982;EXPENSE;;0;;
+SKR49;4990;Gesetzliche soziale Aufwendungen;ref:4990;EXPENSE;;0;;
+SKR49;4991;Aufwendungen für Altersversorgung;ref:4991;EXPENSE;;0;;
+SKR49;4992;Beiträge zur Berufsgenossenschaft;ref:4992;EXPENSE;;0;;
+SKR49;5000;Eintrittsgelder Sport 1;ref:5000;INCOME;;0;;
+SKR49;5005;Eintrittsgelder aus Wettkämpfen 7 % USt;ref:5005;INCOME;;0;;
+SKR49;5010;Eintrittsgelder aus Fußballspielen 7 %;ref:5010;INCOME;;0;;
+SKR49;5015;Eintrittsgelder aus Sportturnen 7 % USt;ref:5015;INCOME;;0;;
+SKR49;5020;Eintr.geld.a.sonst.sportl.Veranst. 7 %;ref:5020;INCOME;;0;;
+SKR49;5021;Eintrittsgelder aus Sport 1 (7 % USt);ref:5021;INCOME;;0;;
+SKR49;5022;Eintrittsgelder aus Sport 2 (7 % USt);ref:5022;INCOME;;0;;
+SKR49;5023;Eintrittsgelder aus Sport 3 (7 % USt);ref:5023;INCOME;;0;;
+SKR49;5050;Einnahmen aus Sportreisen;ref:5050;INCOME;;0;;
+SKR49;5055;Einnahmen nicht steuerbar nach UStG;ref:5055;INCOME;;0;;
+SKR49;5060;Einnahmen 0 % USt;ref:5060;INCOME;;0;;
+SKR49;5065;Einnahmen 7 % USt;ref:5065;INCOME;;0;;
+SKR49;5070;Einnahmen a.sonst.sportl.Veranstaltg.;ref:5070;INCOME;;0;;
+SKR49;5075;Einnahmen aus Leist. gg.Nichtmitglied.7 %;ref:5075;INCOME;;0;;
+SKR49;5079;Startgelder;ref:5079;INCOME;;0;;
+SKR49;5080;Erstattungen der Gastmannschaften;ref:5080;INCOME;;0;;
+SKR49;5085;Einnahmen aus Auswahlspielen 7 % USt;ref:5085;INCOME;;0;;
+SKR49;5090;Einnahm.Sportkurs o.bezahlte Sportler;ref:5090;INCOME;;0;;
+SKR49;5100;Einn.aus Leistungen gegenüb.Mitgliedern;ref:5100;INCOME;;0;;
+SKR49;5105;Platzgebühren 7 % USt;ref:5105;INCOME;;0;;
+SKR49;5110;Hallengebühren 7 % USt;ref:5110;INCOME;;0;;
+SKR49;5115;Chartergebühren 7 % USt;ref:5115;INCOME;;0;;
+SKR49;5120;Unechte Mitgliedsbeiträge;ref:5120;INCOME;;0;;
+SKR49;5200;Einn.steuerb.Zusch. f. Zweckbetr. Sport;ref:5200;INCOME;;0;;
+SKR49;5205;Zusch.von Verbänden und Organisationen;ref:5205;INCOME;;0;;
+SKR49;5210;Ausbild.zuschüsse v.Verbänd.u.Organisat.;ref:5210;INCOME;;0;;
+SKR49;5215;Zuschüsse von Behörden;ref:5215;INCOME;;0;;
+SKR49;5220;Ausbildungszuschüsse v.Behörden;ref:5220;INCOME;;0;;
+SKR49;5225;Sonstige Zuschüsse;ref:5225;INCOME;;0;;
+SKR49;5250;Sonstige Einnahmen Zweckbetrieb Sport;ref:5250;INCOME;;0;;
+SKR49;5255;Anteilig verrechnete Einnahmen/Umlagen;ref:5255;INCOME;;0;;
+SKR49;5260;Einnahm.Ablöse unbezahlter Sportler 7 %;ref:5260;INCOME;;0;;
+SKR49;5265;Ablösesummen über 2556 Euro 7 % USt;ref:5265;INCOME;;0;;
+SKR49;5269;Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ;ref:5269;INCOME;;0;;
+SKR49;5270;Verkaufserlöse Anlageverm.Zweckbet.7 %;ref:5270;INCOME;;0;;
+SKR49;5273;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:5273;INCOME;;0;;
+SKR49;5275;Einnahmen aus Nebenleistungen;ref:5275;INCOME;;0;;
+SKR49;5279;Zuschreibungen;ref:5279;INCOME;;0;;
+SKR49;5280;Aufwendungen für RHB/bezogene Waren;ref:5280;EXPENSE;;0;;
+SKR49;5290;Aufwendungen für bezogene Leistungen;ref:5290;EXPENSE;;0;;
+SKR49;5300;Löhne und Gehälter;ref:5300;EXPENSE;;0;;
+SKR49;5305;Personalkosten Trainer/Übungsleiter;ref:5305;EXPENSE;;0;;
+SKR49;5310;Aufwandsentschädig. i.S.v.§3 Nr.26 EStG;ref:5310;EXPENSE;;0;;
+SKR49;5315;Aufw.entschäd.pausch an akt.Vereinsmitgl;ref:5315;EXPENSE;;0;;
+SKR49;5320;Aushilfslöhne;ref:5320;EXPENSE;;0;;
+SKR49;5350;soziale Abgaben allgemein;ref:5350;EXPENSE;;0;;
+SKR49;5351;Beiträge zur Berufsgenossenschaft;ref:5351;EXPENSE;;0;;
+SKR49;5355;abgeführte Lohnsteuer;ref:5355;EXPENSE;;0;;
+SKR49;5360;freiwillige soziale Aufwendungen;ref:5360;EXPENSE;;0;;
+SKR49;5400;Abgaben für Altersversorgung;ref:5400;EXPENSE;;0;;
+SKR49;5450;Abschreibung Anlagevermögen TB 5001;ref:5450;EXPENSE;;0;;
+SKR49;5455;Abschreibungen GWG;ref:5455;EXPENSE;;0;;
+SKR49;5456;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:5456;EXPENSE;;0;;
+SKR49;5460;Anlagenabgänge Restbuchwerte;ref:5460;EXPENSE;;0;;
+SKR49;5465;Kalkulatorische Abschreibungen;ref:5465;EXPENSE;;0;;
+SKR49;5470;Abschreib.auf Sportler-Ablösezahlungen;ref:5470;EXPENSE;;0;;
+SKR49;5490;Abschr. auf Umlaufvermögen, unüblich;ref:5490;EXPENSE;;0;;
+SKR49;5500;Reisekosten f.aktive Vereinsmitglieder;ref:5500;EXPENSE;;0;;
+SKR49;5503;Reisekosten AN Verpflegungsmehraufwand;ref:5503;EXPENSE;;0;;
+SKR49;5506;Reisekosten Arbeitnehmer;ref:5506;EXPENSE;;0;;
+SKR49;5509;Km-Geld-Erstattung;ref:5509;EXPENSE;;0;;
+SKR49;5512;Spesenersatz an akt.Sportler Kostennachw;ref:5512;EXPENSE;;0;;
+SKR49;5515;Speseners.an aktiv.Nichtmitgl.Kostenn.;ref:5515;EXPENSE;;0;;
+SKR49;5518;Sonst.veranstaltungsabhäng.Kosten Sport1;ref:5518;EXPENSE;;0;;
+SKR49;5521;Entschädigungen an Nichtaktive;ref:5521;EXPENSE;;0;;
+SKR49;5524;Reisekosten AN Verpflegungsmehraufwand;ref:5524;EXPENSE;;0;;
+SKR49;5527;Reisekosten Arbeitnehmer;ref:5527;EXPENSE;;0;;
+SKR49;5533;Reisekost.erstatt.an Nicht-Arbeitnehmer;ref:5533;EXPENSE;;0;;
+SKR49;5536;Transportkosten;ref:5536;EXPENSE;;0;;
+SKR49;5539;Kostenerstattung der Gastmannschaften;ref:5539;EXPENSE;;0;;
+SKR49;5542;Abgaben;ref:5542;EXPENSE;;0;;
+SKR49;5545;Sonstige Kosten der Veranstaltung;ref:5545;EXPENSE;;0;;
+SKR49;5550;Kosten der Sportanlagen;ref:5550;EXPENSE;;0;;
+SKR49;5555;Miete, Pacht;ref:5555;EXPENSE;;0;;
+SKR49;5560;Strom;ref:5560;EXPENSE;;0;;
+SKR49;5561;Wasser;ref:5561;EXPENSE;;0;;
+SKR49;5562;Gas, Heizung;ref:5562;EXPENSE;;0;;
+SKR49;5565;Reparaturen;ref:5565;EXPENSE;;0;;
+SKR49;5570;Allgemeine Kosten des Sportbetriebs;ref:5570;EXPENSE;;0;;
+SKR49;5575;Verwaltungskosten;ref:5575;EXPENSE;;0;;
+SKR49;5580;Reisekostenerstattungen;ref:5580;EXPENSE;;0;;
+SKR49;5585;Reisekosten AN Verpflegungsmehraufwand;ref:5585;EXPENSE;;0;;
+SKR49;5590;Reisekosten Arbeitnehmer;ref:5590;EXPENSE;;0;;
+SKR49;5595;Km-Geld-Erstattung;ref:5595;EXPENSE;;0;;
+SKR49;5600;Versicherungen;ref:5600;EXPENSE;;0;;
+SKR49;5605;Sportkleidung;ref:5605;EXPENSE;;0;;
+SKR49;5610;Ausbildungskostenersatz;ref:5610;EXPENSE;;0;;
+SKR49;5620;Betriebskosten Fahrzeuge,Transportmitt.;ref:5620;EXPENSE;;0;;
+SKR49;5621;Kfz-Steuern;ref:5621;EXPENSE;;0;;
+SKR49;5622;Kfz-Versicherungen;ref:5622;EXPENSE;;0;;
+SKR49;5623;Laufende Kfz-Kosten;ref:5623;EXPENSE;;0;;
+SKR49;5624;Kfz-Reparaturen;ref:5624;EXPENSE;;0;;
+SKR49;5625;Sonstige Kfz-Kosten;ref:5625;EXPENSE;;0;;
+SKR49;5630;Betriebskosten Ausstattung Sportgeräte;ref:5630;EXPENSE;;0;;
+SKR49;5635;Betr.kosten Ausstattung Zweckbetrieb;ref:5635;EXPENSE;;0;;
+SKR49;5640;Betriebskosten Sportgeräte;ref:5640;EXPENSE;;0;;
+SKR49;5645;Reparaturen Sportgeräte;ref:5645;EXPENSE;;0;;
+SKR49;5650;Sonstige Kosten Zweckbetrieb Sport 1;ref:5650;EXPENSE;;0;;
+SKR49;5670;Verrechnete/aufgeteilte Kosten;ref:5670;EXPENSE;;0;;
+SKR49;5672;Einstellungen in steuerliche Rücklagen;ref:5672;EXPENSE;;0;;
+SKR49;5675;Anteilige Umsatzsteuerzahlungen;ref:5675;EXPENSE;;0;;
+SKR49;5680;Aufzuteilende Vorsteuer Teilber.5001;ref:5680;EXPENSE;;0;;
+SKR49;5685;Abziehbare Vorsteuer;ref:5685;EXPENSE;;0;;
+SKR49;5690;Nicht abziehbare Vorsteuer;ref:5690;EXPENSE;;0;;
+SKR49;5695;Aufzuteilende Posten Teilbereich 5001;ref:5695;EXPENSE;;0;;
+SKR49;5700;Erlöse Sport 2 0% i.S.v.§4 Nr.22a UStG;ref:5700;INCOME;;0;;
+SKR49;5702;Einnahmen aus Vorträgen/Sport 0% USt;ref:5702;INCOME;;0;;
+SKR49;5704;Einnahmen aus Kursen/Sport 0 % USt;ref:5704;INCOME;;0;;
+SKR49;5706;Einnahmen aus sonst.Veranstaltungen 0%;ref:5706;INCOME;;0;;
+SKR49;5720;Sport-Erlöse 0% i.S.v. §4 Nr. 22b UStG;ref:5720;INCOME;;0;;
+SKR49;5722;Teilnehmergebühren 0 % USt;ref:5722;INCOME;;0;;
+SKR49;5724;Startgelder 0 % USt;ref:5724;INCOME;;0;;
+SKR49;5726;Meldegebühren 0 % USt;ref:5726;INCOME;;0;;
+SKR49;5728;Teilnehmergebühren 0% Sportwettkämpfe;ref:5728;INCOME;;0;;
+SKR49;5740;Sport Jugendhilfe 0% §4 Nr.25a+b UStG;ref:5740;INCOME;;0;;
+SKR49;5742;Einn.a.Lehrgäng.Jugendhilfe Sport 0 %;ref:5742;INCOME;;0;;
+SKR49;5744;Einn.a.Sportunterricht Jugendhilfe 0%;ref:5744;INCOME;;0;;
+SKR49;5750;Sport Jugendhilfe 0%i.S.v. §4Nr.25c UStG;ref:5750;INCOME;;0;;
+SKR49;5752;Einn.a.Darbietungen Jugendlicher 0% USt;ref:5752;INCOME;;0;;
+SKR49;5754;Einn.a.Darbietungen Jugendl.u.Erwachs.0%;ref:5754;INCOME;;0;;
+SKR49;5760;Sonst.Einnahmen 0% Zweckbetrieb Sport 2;ref:5760;INCOME;;0;;
+SKR49;5762;Anteilig verrechnete Einnahmen/Erlöse;ref:5762;INCOME;;0;;
+SKR49;5780;Sonstige betriebliche Erträge;ref:5780;INCOME;;0;;
+SKR49;5782;Veräußerungserlöse 0% §4 Nr.12 UStG;ref:5782;INCOME;;0;;
+SKR49;5783;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:5783;INCOME;;0;;
+SKR49;5784;Einnahmen aus Nebenleistungen;ref:5784;INCOME;;0;;
+SKR49;5790;Zuschreibungen;ref:5790;INCOME;;0;;
+SKR49;5800;Aufwendungen für RHB/bezogene Waren;ref:5800;EXPENSE;;0;;
+SKR49;5810;Aufwendungen für bezogene Leistungen;ref:5810;EXPENSE;;0;;
+SKR49;5820;Personalkosten Übungsleiter,Trainer;ref:5820;EXPENSE;;0;;
+SKR49;5822;Sonstige Personalkosten;ref:5822;EXPENSE;;0;;
+SKR49;5830;Soziale Abgaben allgmein;ref:5830;EXPENSE;;0;;
+SKR49;5835;Abgaben für Altersversorgung;ref:5835;EXPENSE;;0;;
+SKR49;5836;Beiträge zur Berufsgenossenschaft;ref:5836;EXPENSE;;0;;
+SKR49;5840;Abschreibungen Anlagevermögen B 5000;ref:5840;EXPENSE;;0;;
+SKR49;5844;Abschreibungen GWG;ref:5844;EXPENSE;;0;;
+SKR49;5845;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:5845;EXPENSE;;0;;
+SKR49;5846;Anlagenabgänge Restbuchwerte;ref:5846;EXPENSE;;0;;
+SKR49;5848;Kalkulatorische Abschreibungen;ref:5848;EXPENSE;;0;;
+SKR49;5850;Abschreib.geleistete Ablösezahlungen;ref:5850;EXPENSE;;0;;
+SKR49;5855;Abschr. auf Umlaufvermögen, unüblich;ref:5855;EXPENSE;;0;;
+SKR49;5860;Unmittelbare Kosten des Sportunterrichts;ref:5860;EXPENSE;;0;;
+SKR49;5865;Unmittelb.Kost.Darbiet.Jugend/Erwachs.;ref:5865;EXPENSE;;0;;
+SKR49;5870;Sonstige Kosten Teilbereich 5700;ref:5870;EXPENSE;;0;;
+SKR49;5872;Sonstige Kosten sportl.Veranstaltg.;ref:5872;EXPENSE;;0;;
+SKR49;5874;Sonstige Kosten Jugendhilfe;ref:5874;EXPENSE;;0;;
+SKR49;5875;Einstellungen in steuerliche Rücklagen;ref:5875;EXPENSE;;0;;
+SKR49;5876;Reisekostenerstattung Arbeitnehmer;ref:5876;EXPENSE;;0;;
+SKR49;5878;Betriebskosten Ausstattung, Geräte;ref:5878;EXPENSE;;0;;
+SKR49;5880;Nicht abziehbare Vorsteuer;ref:5880;EXPENSE;;0;;
+SKR49;5882;Verrechnungskto.aufzuteil.Posten TB5700;ref:5882;EXPENSE;;0;;
+SKR49;5990;Umgebuchte Einnahmen B 5000 (Gkto.8980);ref:5990;EXPENSE;;0;;
+SKR49;5992;Umgebuchte Ausgaben  B 5000 (Gkto.8990);ref:5992;EXPENSE;;0;;
+SKR49;6000;Umsatzerlöse;ref:6000;INCOME;;0;;
+SKR49;6005;Umsatzerlöse 7 %;ref:6005;INCOME;;0;;
+SKR49;6008;Vermietung Sportanlagen an Mitglieder;ref:6008;INCOME;;0;;
+SKR49;6010;Eintrittsgelder 7 %;ref:6010;INCOME;;0;;
+SKR49;6012;Zuwendungen Dritter (Sponsoren) 7 %;ref:6012;INCOME;;0;;
+SKR49;6015;Einnahmen aus Programmverkauf;ref:6015;INCOME;;0;;
+SKR49;6045;Direkt mit dem Umsatz verbundene Steuern;ref:6045;INCOME;;0;;
+SKR49;6050;Bestandsveränderung;ref:6050;INCOME;;0;;
+SKR49;6055;andere aktivierte Eigenleistungen;ref:6055;INCOME;;0;;
+SKR49;6059;Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen);ref:6059;INCOME;;0;;
+SKR49;6060;sonstige betriebliche Erträge;ref:6060;INCOME;;0;;
+SKR49;6065;Einnahmen aus Nebenleistungen;ref:6065;INCOME;;0;;
+SKR49;6069;Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ;ref:6069;INCOME;;0;;
+SKR49;6070;Veranstaltungsgebundene Zuschüsse;ref:6070;INCOME;;0;;
+SKR49;6075;Anteilige verrechnete Einnahmen/Umlagen;ref:6075;INCOME;;0;;
+SKR49;6080;Verkaufserlöse Anlageverm.Zweckbetr.7 %;ref:6080;INCOME;;0;;
+SKR49;6082;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:6082;INCOME;;0;;
+SKR49;6085;Unentgeltliche Wertabgaben 7 % USt;ref:6085;INCOME;;0;;
+SKR49;6090;Zuschreibungen;ref:6090;INCOME;;0;;
+SKR49;6170;Aufwendungen für RHB;ref:6170;EXPENSE;;0;;
+SKR49;6180;Aufwendungen für bezogene Leistungen;ref:6180;EXPENSE;;0;;
+SKR49;6200;Löhne und Gehälter;ref:6200;EXPENSE;;0;;
+SKR49;6205;Personalkosten Übungsleiter;ref:6205;EXPENSE;;0;;
+SKR49;6210;Aufwandsentschädigung §3 Nr.26 EStG;ref:6210;EXPENSE;;0;;
+SKR49;6215;Aushilfslöhne;ref:6215;EXPENSE;;0;;
+SKR49;6250;soziale Abgaben;ref:6250;EXPENSE;;0;;
+SKR49;6251;Beiträge zur Berufsgenossenschaft;ref:6251;EXPENSE;;0;;
+SKR49;6255;abgeführte Lohnsteuer;ref:6255;EXPENSE;;0;;
+SKR49;6260;freiwillige soziale Aufwendungen;ref:6260;EXPENSE;;0;;
+SKR49;6275;Abgaben für Altersversorgung;ref:6275;EXPENSE;;0;;
+SKR49;6280;Abschreibungen Anlagevermögen;ref:6280;EXPENSE;;0;;
+SKR49;6285;Abschreibungen GWG;ref:6285;EXPENSE;;0;;
+SKR49;6286;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:6286;EXPENSE;;0;;
+SKR49;6290;Abschr.auf Umlaufvermögen (unüblich);ref:6290;EXPENSE;;0;;
+SKR49;6300;sonstige betriebliche Aufwendungen;ref:6300;EXPENSE;;0;;
+SKR49;6301;Werbekosten;ref:6301;EXPENSE;;0;;
+SKR49;6302;Reparaturkosten Ausstattung;ref:6302;EXPENSE;;0;;
+SKR49;6303;Transportkosten;ref:6303;EXPENSE;;0;;
+SKR49;6305;Bewirtungskosten (abzugsfähig);ref:6305;EXPENSE;;0;;
+SKR49;6310;Reisekosten;ref:6310;EXPENSE;;0;;
+SKR49;6315;Reisekosten AN Verpflegungsmehraufwand;ref:6315;EXPENSE;;0;;
+SKR49;6320;Reisekosten Arbeitnehmer;ref:6320;EXPENSE;;0;;
+SKR49;6325;Km-Geld-Erstattung;ref:6325;EXPENSE;;0;;
+SKR49;6328;Veranstaltungsabhängige Kosten;ref:6328;EXPENSE;;0;;
+SKR49;6329;Reinigungskosten;ref:6329;EXPENSE;;0;;
+SKR49;6330;Gebäudekosten;ref:6330;EXPENSE;;0;;
+SKR49;6331;Strom;ref:6331;EXPENSE;;0;;
+SKR49;6332;Wasser;ref:6332;EXPENSE;;0;;
+SKR49;6333;Gas, Heizung;ref:6333;EXPENSE;;0;;
+SKR49;6334;Sonstige Raumkosten;ref:6334;EXPENSE;;0;;
+SKR49;6335;Gema-Gebühren;ref:6335;EXPENSE;;0;;
+SKR49;6336;Musikkosten;ref:6336;EXPENSE;;0;;
+SKR49;6339;Miete, Pacht;ref:6339;EXPENSE;;0;;
+SKR49;6340;Verwaltungskosten;ref:6340;EXPENSE;;0;;
+SKR49;6341;Porto, Telefon, Bürobedarf;ref:6341;EXPENSE;;0;;
+SKR49;6342;Zeitschriften, Bücher (Fachliteratur);ref:6342;EXPENSE;;0;;
+SKR49;6345;Geschenke unter 35 EUR;ref:6345;EXPENSE;;0;;
+SKR49;6346;Repräsentationskosten;ref:6346;EXPENSE;;0;;
+SKR49;6350;Fahrzeuge, Transportmittel;ref:6350;EXPENSE;;0;;
+SKR49;6353;Versicherungen;ref:6353;EXPENSE;;0;;
+SKR49;6354;Geringwertige Wirtschaftsgüter;ref:6354;EXPENSE;;0;;
+SKR49;6355;Verrechnete/aufgeteilte Kosten;ref:6355;EXPENSE;;0;;
+SKR49;6360;Anteilige Zinsaufwendungen;ref:6360;EXPENSE;;0;;
+SKR49;6362;Einstellungen in steuerliche Rücklagen;ref:6362;EXPENSE;;0;;
+SKR49;6365;Anteilige Umsatzsteuerzahlungen;ref:6365;EXPENSE;;0;;
+SKR49;6375;Abziehbare Vorsteuer;ref:6375;EXPENSE;;0;;
+SKR49;6377;Nicht abziehbare Vorsteuer;ref:6377;EXPENSE;;0;;
+SKR49;6380;Aufzuteilende Vorsteuer;ref:6380;EXPENSE;;0;;
+SKR49;6385;Aufzuteilende Posten Teilbereich 6000;ref:6385;EXPENSE;;0;;
+SKR49;6410;Erträge aus Beteiligungen;ref:6410;EXPENSE;;0;;
+SKR49;6420;Erträge aus anderen Wertpapieren;ref:6420;EXPENSE;;0;;
+SKR49;6430;sonstige Zinsen und ähnl.Erträge;ref:6430;EXPENSE;;0;;
+SKR49;6440;Abschreibungen auf Finanzanlagen;ref:6440;EXPENSE;;0;;
+SKR49;6450;Zinsen und ähnl.Aufwendungen;ref:6450;EXPENSE;;0;;
+SKR49;6470;Steuern vom Einkommen und vom Ertrag;ref:6470;EXPENSE;;0;;
+SKR49;6475;sonstige Steuern;ref:6475;EXPENSE;;0;;
+SKR49;6500;Umsatzerlöse;ref:6500;INCOME;;0;;
+SKR49;6505;Umsatzerlöse 0 %;ref:6505;INCOME;;0;;
+SKR49;6510;Eintrittsgelder 0%;ref:6510;INCOME;;0;;
+SKR49;6515;Einnahmen aus Programmverkauf;ref:6515;INCOME;;0;;
+SKR49;6520;Einnahmen aus Unterricht §4 Nr.22a UStG;ref:6520;INCOME;;0;;
+SKR49;6525;Einnahmen kulturell.Veranst.Jugendhilfe;ref:6525;INCOME;;0;;
+SKR49;6545;Direkt mit dem Umsatz verbundene Steuern;ref:6545;INCOME;;0;;
+SKR49;6550;Bestandsveränderung;ref:6550;INCOME;;0;;
+SKR49;6555;andere aktivierte Eigenleistungen;ref:6555;INCOME;;0;;
+SKR49;6559;Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen);ref:6559;INCOME;;0;;
+SKR49;6560;sonstige betriebliche Erträge;ref:6560;INCOME;;0;;
+SKR49;6565;Einnahmen aus Nebenleistungen;ref:6565;INCOME;;0;;
+SKR49;6570;veranstaltungsgebundene Zuschüsse;ref:6570;INCOME;;0;;
+SKR49;6575;Anteilige verrechnete Einnahmen/Umlagen;ref:6575;INCOME;;0;;
+SKR49;6580;Verkaufserlöse Anlageverm.Zweckbetr.0 %;ref:6580;INCOME;;0;;
+SKR49;6582;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:6582;INCOME;;0;;
+SKR49;6585;Unentgeltliche Wertabgaben 0 % USt;ref:6585;INCOME;;0;;
+SKR49;6590;Zuschreibungen;ref:6590;INCOME;;0;;
+SKR49;6670;Aufwendungen für RHB;ref:6670;EXPENSE;;0;;
+SKR49;6680;Aufwendungen für bezogene Leistungen;ref:6680;EXPENSE;;0;;
+SKR49;6700;Löhne und Gehälter;ref:6700;EXPENSE;;0;;
+SKR49;6705;Personalkosten Übungsleiter;ref:6705;EXPENSE;;0;;
+SKR49;6710;Aufwandsentschädigung §3 Nr.26 EStG;ref:6710;EXPENSE;;0;;
+SKR49;6715;Aushilfslöhne;ref:6715;EXPENSE;;0;;
+SKR49;6750;soziale Abgaben;ref:6750;EXPENSE;;0;;
+SKR49;6751;Beiträge zur Berufsgenossenschaft;ref:6751;EXPENSE;;0;;
+SKR49;6755;abgeführte Lohnsteuer;ref:6755;EXPENSE;;0;;
+SKR49;6760;freiwillige soziale Aufwendungen;ref:6760;EXPENSE;;0;;
+SKR49;6775;Abgaben für Altersversorgung;ref:6775;EXPENSE;;0;;
+SKR49;6780;Abschreibungen Anlagevermögen;ref:6780;EXPENSE;;0;;
+SKR49;6785;Abschreibungen GWG;ref:6785;EXPENSE;;0;;
+SKR49;6786;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:6786;EXPENSE;;0;;
+SKR49;6790;Abschr.auf Umlaufvermögen (unüblich);ref:6790;EXPENSE;;0;;
+SKR49;6800;sonstige betriebliche Aufwendungen;ref:6800;EXPENSE;;0;;
+SKR49;6805;Bewirtungskosten (abzugsfähig);ref:6805;EXPENSE;;0;;
+SKR49;6810;Reisekosten;ref:6810;EXPENSE;;0;;
+SKR49;6815;Reisekosten AN Verpflegungsmehraufwand;ref:6815;EXPENSE;;0;;
+SKR49;6820;Reisekosten Arbeitnehmer;ref:6820;EXPENSE;;0;;
+SKR49;6825;Km-Geld-Erstattung;ref:6825;EXPENSE;;0;;
+SKR49;6830;Gebäudekosten;ref:6830;EXPENSE;;0;;
+SKR49;6831;Strom;ref:6831;EXPENSE;;0;;
+SKR49;6832;Wasser;ref:6832;EXPENSE;;0;;
+SKR49;6833;Gas, Heizung;ref:6833;EXPENSE;;0;;
+SKR49;6834;Sonstige Raumkosten;ref:6834;EXPENSE;;0;;
+SKR49;6835;Gema-Gebühren;ref:6835;EXPENSE;;0;;
+SKR49;6839;Miete, Pacht;ref:6839;EXPENSE;;0;;
+SKR49;6840;Verwaltungskosten;ref:6840;EXPENSE;;0;;
+SKR49;6841;Porto, Telefon;ref:6841;EXPENSE;;0;;
+SKR49;6842;Bürobedarf;ref:6842;EXPENSE;;0;;
+SKR49;6845;Geschenke unter 35 EUR;ref:6845;EXPENSE;;0;;
+SKR49;6848;Versicherungen;ref:6848;EXPENSE;;0;;
+SKR49;6850;Fahrzeuge, Transportmittel;ref:6850;EXPENSE;;0;;
+SKR49;6855;Verrechnete/aufgeteilte Kosten;ref:6855;EXPENSE;;0;;
+SKR49;6860;Anteilige Zinsaufwendungen;ref:6860;EXPENSE;;0;;
+SKR49;6862;Einstellungen in steuerliche Rücklagen;ref:6862;EXPENSE;;0;;
+SKR49;6865;Anteilige Umsatzsteuerzahlungen;ref:6865;EXPENSE;;0;;
+SKR49;6875;Abziehbare Vorsteuer;ref:6875;EXPENSE;;0;;
+SKR49;6877;Nicht abziehbare Vorsteuer;ref:6877;EXPENSE;;0;;
+SKR49;6880;Aufzuteilende Vorsteuer;ref:6880;EXPENSE;;0;;
+SKR49;6885;Aufzuteilende Posten Teilbereich 6500;ref:6885;EXPENSE;;0;;
+SKR49;6890;Unmittelbare Kosten des Unterrichts;ref:6890;EXPENSE;;0;;
+SKR49;6895;Unm.Kost.Darbietung.Jugendl.u.Erwachsene;ref:6895;EXPENSE;;0;;
+SKR49;6910;Erträge aus Beteiligungen;ref:6910;EXPENSE;;0;;
+SKR49;6930;sonstige Zinsen und ähnl.Erträge;ref:6930;EXPENSE;;0;;
+SKR49;6940;Abschreibungen auf Finanzanlagen;ref:6940;EXPENSE;;0;;
+SKR49;6950;Zinsen und ähnl.Aufwendungen;ref:6950;EXPENSE;;0;;
+SKR49;6970;Steuern vom Einkommen und vom Ertrag;ref:6970;EXPENSE;;0;;
+SKR49;6975;sonstige Steuern;ref:6975;EXPENSE;;0;;
+SKR49;6990;Umgebuchte Einnahmen B 6000 (Gkto.8980);ref:6990;INCOME;;0;;
+SKR49;6992;Umgebuchte Ausgaben B 5000 (Gkto. 8990);ref:6992;EXPENSE;;0;;
+SKR49;7000;Einnahmen aus Geschäftsbetrieb.Sport;ref:7000;INCOME;;0;;
+SKR49;7002;Einnahmen 19 % USt Sport 3;ref:7002;INCOME;;0;;
+SKR49;7004;Eintritt aus Wettkämpfen 19 % USt;ref:7004;INCOME;;0;;
+SKR49;7006;Eintritt a.Fußballspielen 19 % USt;ref:7006;INCOME;;0;;
+SKR49;7008;Eintritt aus Sportturnieren 19 % USt;ref:7008;INCOME;;0;;
+SKR49;7010;Eintritt aus sonst.Sportveranst. 19 % USt;ref:7010;INCOME;;0;;
+SKR49;7012;Zuwendungen Dritter (Sponsoren) 19 % USt;ref:7012;INCOME;;0;;
+SKR49;7021;Eintrittsgelder aus Sport 1 (19 % USt);ref:7021;INCOME;;0;;
+SKR49;7022;Eintrittsgelder aus Sport 2 (19 % USt);ref:7022;INCOME;;0;;
+SKR49;7023;Eintrittsgelder aus Sport 3 (19 % USt);ref:7023;INCOME;;0;;
+SKR49;7050;Einn.a.Fußballspiel.mit Lizenzspielern;ref:7050;INCOME;;0;;
+SKR49;7052;Eintrittsgelder 19 % USt;ref:7052;INCOME;;0;;
+SKR49;7054;Einnahmen aus Ablösesummen 19 % USt;ref:7054;INCOME;;0;;
+SKR49;7100;Sonst.Einnahmen Geschäftsbetr.Sport 3;ref:7100;INCOME;;0;;
+SKR49;7102;Anteilige/verrechnete Einnahmen;ref:7102;INCOME;;0;;
+SKR49;7104;Sonstige Erträge;ref:7104;INCOME;;0;;
+SKR49;7106;Einn.a.Sportkursen/-lehrg.m.bez.Sportl.;ref:7106;INCOME;;0;;
+SKR49;7150;Einnahmen a.Ablöse bez.Sportler 19 % USt;ref:7150;INCOME;;0;;
+SKR49;7152;Verkaufserl.Anlagev.TB 7001 19 % USt;ref:7152;INCOME;;0;;
+SKR49;7154;Einnahmen aus Nebenleistungen;ref:7154;INCOME;;0;;
+SKR49;7160;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:7160;INCOME;;0;;
+SKR49;7190;Erträge aus Zuschreibungen des Anlagevermögens;ref:7190;INCOME;;0;;
+SKR49;7200;Aufwendungen für RHB/bezogene Waren;ref:7200;EXPENSE;;0;;
+SKR49;7210;Aufwendungen für bezogene Leistungen;ref:7210;EXPENSE;;0;;
+SKR49;7220;Löhne und Gehälter;ref:7220;EXPENSE;;0;;
+SKR49;7222;Vergütungen an Sportler;ref:7222;EXPENSE;;0;;
+SKR49;7224;Vergütungen i.S.v. §67a Abs.3 Satz 3 AO;ref:7224;EXPENSE;;0;;
+SKR49;7226;Sportlervergütungen an aktive Mitglieder;ref:7226;EXPENSE;;0;;
+SKR49;7228;Sonstige Vergütung.an aktive Mitglieder;ref:7228;EXPENSE;;0;;
+SKR49;7230;Sportlervergüt.aktive Nichtmitglieder;ref:7230;EXPENSE;;0;;
+SKR49;7232;Personalkosten Trainer,Übungsleiter;ref:7232;EXPENSE;;0;;
+SKR49;7234;Sonstige Personalkosten;ref:7234;EXPENSE;;0;;
+SKR49;7236;Aushilfslöhne;ref:7236;EXPENSE;;0;;
+SKR49;7250;Sozialversicherungsbeiträge;ref:7250;EXPENSE;;0;;
+SKR49;7251;Beiträge zur Berufsgenossenschaft;ref:7251;EXPENSE;;0;;
+SKR49;7252;Abgeführte Lohnsteuer;ref:7252;EXPENSE;;0;;
+SKR49;7265;Abgaben für Altersversorgung;ref:7265;EXPENSE;;0;;
+SKR49;7270;Abschreibung Anlagevermögen TB 7000;ref:7270;EXPENSE;;0;;
+SKR49;7272;Abschreibungen;ref:7272;EXPENSE;;0;;
+SKR49;7274;Abschreibungen GWG;ref:7274;EXPENSE;;0;;
+SKR49;7275;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:7275;EXPENSE;;0;;
+SKR49;7278;Kalkulatorische Abschreibungen;ref:7278;EXPENSE;;0;;
+SKR49;7280;Abschr. auf Umlaufvermögen, unüblich;ref:7280;EXPENSE;;0;;
+SKR49;7300;Reisekosten;ref:7300;EXPENSE;;0;;
+SKR49;7302;Reisekosten AN Verpflegungsmehraufwand;ref:7302;EXPENSE;;0;;
+SKR49;7304;Reisekosten Arbeitnehmer;ref:7304;EXPENSE;;0;;
+SKR49;7306;Km-Geld-Erstattung;ref:7306;EXPENSE;;0;;
+SKR49;7308;Sonstiger Reisekostenersatz;ref:7308;EXPENSE;;0;;
+SKR49;7310;Kostenerstattung an Gastmannschaften;ref:7310;EXPENSE;;0;;
+SKR49;7312;Sonstige Vergütungen;ref:7312;EXPENSE;;0;;
+SKR49;7314;Aufwand für andere Vorteile;ref:7314;EXPENSE;;0;;
+SKR49;7316;Gezahlte Preisgelder an bezahlt.Sportler;ref:7316;EXPENSE;;0;;
+SKR49;7318;Aufwandsersatz;ref:7318;EXPENSE;;0;;
+SKR49;7320;Anteilige Aufwandspauschale TB 7001;ref:7320;EXPENSE;;0;;
+SKR49;7350;Sonstige veranstaltungsabhängig.Kosten;ref:7350;EXPENSE;;0;;
+SKR49;7352;Reisekostenerstattung an Nichtaktive;ref:7352;EXPENSE;;0;;
+SKR49;7354;Transportkosten;ref:7354;EXPENSE;;0;;
+SKR49;7356;Abgaben;ref:7356;EXPENSE;;0;;
+SKR49;7358;Sonstige Kosten;ref:7358;EXPENSE;;0;;
+SKR49;7380;Kosten der Sportanlagen;ref:7380;EXPENSE;;0;;
+SKR49;7382;Personalkosten;ref:7382;EXPENSE;;0;;
+SKR49;7384;Miete, Pacht;ref:7384;EXPENSE;;0;;
+SKR49;7385;Strom;ref:7385;EXPENSE;;0;;
+SKR49;7386;Wasser;ref:7386;EXPENSE;;0;;
+SKR49;7387;Gas, Heizung;ref:7387;EXPENSE;;0;;
+SKR49;7388;Reparaturen;ref:7388;EXPENSE;;0;;
+SKR49;7400;Allgemeine Kosten des Sportbetriebs;ref:7400;EXPENSE;;0;;
+SKR49;7402;Anteilige Personalkosten;ref:7402;EXPENSE;;0;;
+SKR49;7404;Verwaltungskosten;ref:7404;EXPENSE;;0;;
+SKR49;7406;Reisekostenerstattung;ref:7406;EXPENSE;;0;;
+SKR49;7408;Reisekosten AN Verpflegungsmehraufwand;ref:7408;EXPENSE;;0;;
+SKR49;7410;Reisekosten Arbeitnehmer;ref:7410;EXPENSE;;0;;
+SKR49;7412;Km-Geld-Erstattung;ref:7412;EXPENSE;;0;;
+SKR49;7414;Versicherungen;ref:7414;EXPENSE;;0;;
+SKR49;7416;Sportkleidung;ref:7416;EXPENSE;;0;;
+SKR49;7418;Ausbildungskostenersatz;ref:7418;EXPENSE;;0;;
+SKR49;7430;Betriebskosten Fahrzeuge,Transportmitt.;ref:7430;EXPENSE;;0;;
+SKR49;7432;Kfz-Kosten;ref:7432;EXPENSE;;0;;
+SKR49;7440;Betriebskosten Ausstattung,Sportgeräte;ref:7440;EXPENSE;;0;;
+SKR49;7442;Betriebskosten Ausstattung TB 7001;ref:7442;EXPENSE;;0;;
+SKR49;7444;Betriebskosten Sportgeräte TB 7001;ref:7444;EXPENSE;;0;;
+SKR49;7446;Reparaturkosten Ausstattung/Geräte;ref:7446;EXPENSE;;0;;
+SKR49;7462;Sonstige Steuern, Abgaben;ref:7462;EXPENSE;;0;;
+SKR49;7500;Verschiedene Kosten Teilbereich 7001;ref:7500;EXPENSE;;0;;
+SKR49;7502;Verrechnete/aufgeteilte Kosten;ref:7502;EXPENSE;;0;;
+SKR49;7504;Anteilige Umsatzsteuerzahlungen;ref:7504;EXPENSE;;0;;
+SKR49;7506;Aufzuteilende Vorsteuer;ref:7506;EXPENSE;;0;;
+SKR49;7508;Abziehbare Vorsteuer;ref:7508;EXPENSE;;0;;
+SKR49;7510;Nicht abziehbare Vorsteuer;ref:7510;EXPENSE;;0;;
+SKR49;7512;Beiträge;ref:7512;EXPENSE;;0;;
+SKR49;7514;Anteilige Verwaltungskosten;ref:7514;EXPENSE;;0;;
+SKR49;7516;Aufzuteilende Posten Teilbereich 7001;ref:7516;EXPENSE;;0;;
+SKR49;7517;Einstellungen in steuerliche Rücklagen;ref:7517;EXPENSE;;0;;
+SKR49;7518;Ertr.a.Storno Aufw.pauschal.(Gkto.3795);ref:7518;EXPENSE;;0;;
+SKR49;7520;Ertr.a.Storno Trainingskst.(Gkto.3795);ref:7520;EXPENSE;;0;;
+SKR49;7800;Werbeeinnahmen i.eigener Regie b.Sport;ref:7800;INCOME;;0;;
+SKR49;7801;Einnahmen Reklameflächen 19% USt in Eigenregie;ref:7801;INCOME;;0;;
+SKR49;7802;Einnahmen Trikotwerbung 19% USt in Eigenregie;ref:7802;INCOME;;0;;
+SKR49;7803;Einnahmen Sportgerätewerbung 19% USt in Eigenregie;ref:7803;INCOME;;0;;
+SKR49;7804;Einnahmen Bandenwerbung 19% USt in Eigenregie;ref:7804;INCOME;;0;;
+SKR49;7805;Einnahmen aus Plakatwerbung und ähnliches 19% USt in Eigenregie;ref:7805;INCOME;;0;;
+SKR49;7806;Einnahmen Lautsprecherwerbung 19% USt in Eigenregie;ref:7806;INCOME;;0;;
+SKR49;7810;Einnahmen aus übertragenen Werberechten im wirtschaftlichen Geschäftsbetrieb;ref:7810;INCOME;;0;;
+SKR49;7811;Einnahmen Trikotwerberechte 19% USt im wirtschaftlichen Geschäftsbetrieb;ref:7811;INCOME;;0;;
+SKR49;7812;Einnahmen Sportgeräte-Werberechte 19% USt im wirtschaftlichen Geschäftsbetrieb;ref:7812;INCOME;;0;;
+SKR49;7813;Einnahmen a. sonst. übertr. Werberechten im wirtschaftlichen Geschäftsbetrieb;ref:7813;INCOME;;0;;
+SKR49;7820;Einnahmen Inserate/Werbeanzeigen in Eigenregie;ref:7820;INCOME;;0;;
+SKR49;7821;Einnahmen Verkauf Embleme/Abzeichen in Eigenregie;ref:7821;INCOME;;0;;
+SKR49;7830;Kurzfr.Vermiet.Sportstätten a.Nichtmitgl;ref:7830;INCOME;;0;;
+SKR49;7831;Kurzfr.Vermietung a.Nichtmitgl.;ref:7831;INCOME;;0;;
+SKR49;7832;Stundenw.Vermietung v.Spielfeld. 19 % USt;ref:7832;INCOME;;0;;
+SKR49;7833;Stundenw.Vermietung v.Tennispl. 19 % USt;ref:7833;INCOME;;0;;
+SKR49;7834;Stundenw.Vermiet.v.Schwimmhallen 19 %USt;ref:7834;INCOME;;0;;
+SKR49;7835;Stundenw.Vermiet.v.Kegelbahnen 19 % USt;ref:7835;INCOME;;0;;
+SKR49;7836;Stundenw.Vermiet.v.Geräten 19 % USt;ref:7836;INCOME;;0;;
+SKR49;7837;Einnahmen Greenfee 19 % USt;ref:7837;INCOME;;0;;
+SKR49;7840;Sonstige Einnahmen Teilbereich 7800;ref:7840;INCOME;;0;;
+SKR49;7842;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:7842;INCOME;;0;;
+SKR49;7850;Unmittelbare Ausgaben zur Werbung;ref:7850;EXPENSE;;0;;
+SKR49;7851;Werbekostenpauschbetrag 85% (Gkto.3795);ref:7851;EXPENSE;;0;;
+SKR49;7852;Tatsächliche Kosten Werbung;ref:7852;EXPENSE;;0;;
+SKR49;7854;Anteilige Druckkosten;ref:7854;EXPENSE;;0;;
+SKR49;7855;Anteilige Versandkosten;ref:7855;EXPENSE;;0;;
+SKR49;7856;Werbemittlungskosten;ref:7856;EXPENSE;;0;;
+SKR49;7858;Ertr.Storno tatsäch.Werbekost.(Gkt.3795);ref:7858;EXPENSE;;0;;
+SKR49;7860;Unmittelb.Ausgaben Sportstättenvermiet.;ref:7860;EXPENSE;;0;;
+SKR49;7861;Anteilige Kostenumlage f.Sportstätten;ref:7861;EXPENSE;;0;;
+SKR49;7870;Verschiedene Kosten Teilbereich 7800;ref:7870;EXPENSE;;0;;
+SKR49;7871;Verrechnete/aufgeteilte Kosten TB7800;ref:7871;EXPENSE;;0;;
+SKR49;7874;Einstellungen in steuerliche Rücklagen;ref:7874;EXPENSE;;0;;
+SKR49;7875;Anteilige Umsatzsteuerzahlungen;ref:7875;EXPENSE;;0;;
+SKR49;7876;Aufzuteilende Vorsteuer;ref:7876;EXPENSE;;0;;
+SKR49;7877;Abziehbare Vorsteuer;ref:7877;EXPENSE;;0;;
+SKR49;7878;Nicht abziehbare Vorsteuer;ref:7878;EXPENSE;;0;;
+SKR49;7879;Aufzuteilende Posten Teilbereich 7800;ref:7879;EXPENSE;;0;;
+SKR49;8000;Einnahmen aus Umsatzerlösen;ref:8000;INCOME;;0;;
+SKR49;8002;Eintr.gelder aus geselligen Veranstalt.;ref:8002;INCOME;;0;;
+SKR49;8004;Erlöse aus Handelswaren;ref:8004;INCOME;;0;;
+SKR49;8006;Erlöse aus Leistungen;ref:8006;INCOME;;0;;
+SKR49;8008;Erlöse aus Leihgebühren;ref:8008;INCOME;;0;;
+SKR49;8010;Erlöse aus Geldspielautomaten;ref:8010;INCOME;;0;;
+SKR49;8012;Einnahmen aus Werbung Reklameflächen;ref:8012;INCOME;;0;;
+SKR49;8014;Anzeigengeschäfte (Vereinszeitschr...);ref:8014;INCOME;;0;;
+SKR49;8016;Sonstige Werbeeinnahmen;ref:8016;INCOME;;0;;
+SKR49;8018;Kurzfr.Benutzungsgeb.v.Nichtmitglied.;ref:8018;INCOME;;0;;
+SKR49;8020;Erlöse USt-frei §4 Nr.7 ff UStG;ref:8020;INCOME;;0;;
+SKR49;8022;Einn.a.steuerschädl.Lotterien/Ausspiel.;ref:8022;INCOME;;0;;
+SKR49;8024;Erlöse USt-frei §4 Nr.1-6 UStG;ref:8024;INCOME;;0;;
+SKR49;8025;Erlöse als Kleinunternehmer § 19 Abs. 1 UStG ;ref:8025;INCOME;;0;;
+SKR49;8026;Erlöse 7 % Umsatzsteuer;ref:8026;INCOME;;0;;
+SKR49;8028;Erl.Speis./Getr. 7 % (kein Verzehr a.Ort);ref:8028;INCOME;;0;;
+SKR49;8030;Erlöse 19 % USt;ref:8030;INCOME;;0;;
+SKR49;8032;Erlöse 19 % USt Vereinsgastst. u.ä.;ref:8032;INCOME;;0;;
+SKR49;8034;Erl.Speise/Getr.ausserh.Gastst. 19 % USt;ref:8034;INCOME;;0;;
+SKR49;8036;Erlöse Festzeltbetrieb 19 % USt;ref:8036;INCOME;;0;;
+SKR49;8038;Getränkeumsatz alkoholfrei;ref:8038;INCOME;;0;;
+SKR49;8040;Getränkeumsatz alkoholisch;ref:8040;INCOME;;0;;
+SKR49;8042;Verrechnungskonto Geldspielautomaten;ref:8042;INCOME;;0;;
+SKR49;8044;Provisionserlöse;ref:8044;INCOME;;0;;
+SKR49;8045;Direkt mit dem Umsatz verbundene Steuern;ref:8045;INCOME;;0;;
+SKR49;8046;Erlösschmälerungen;ref:8046;INCOME;;0;;
+SKR49;8048;Nicht steuerbare Umsätze (Innenumsätze);ref:8048;INCOME;;0;;
+SKR49;8050;Umsatzsteuervergütungen;ref:8050;INCOME;;0;;
+SKR49;8052;Unentgeltliche Wertabgaben;ref:8052;INCOME;;0;;
+SKR49;8054;Entnahme v.Gegenst.3/1b/1 UStG (Waren);ref:8054;INCOME;;0;;
+SKR49;8056;Unentgelt.Zuwend.Gegenst.3/1b/2.3 UStG;ref:8056;INCOME;;0;;
+SKR49;8090;Bestandsveränderung;ref:8090;INCOME;;0;;
+SKR49;8095;andere aktivierte Eigenleistungen;ref:8095;INCOME;;0;;
+SKR49;8099;Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen);ref:8099;INCOME;;0;;
+SKR49;8100;Sonstige betriebliche Erträge;ref:8100;INCOME;;0;;
+SKR49;8102;Erlöse Verkauf Anlagevermögen TB 8001;ref:8102;INCOME;;0;;
+SKR49;8104;Verwend.v.Gegenst. §3/9a/1 UStG;ref:8104;INCOME;;0;;
+SKR49;8106;Unentgeltl.Leistungserbring.3/9a/1 UStG;ref:8106;INCOME;;0;;
+SKR49;8108;Erlöse Abfallverwertung;ref:8108;INCOME;;0;;
+SKR49;8110;Erlöse Leergut;ref:8110;INCOME;;0;;
+SKR49;8112;Anteilige/verrechnete Einnahmen;ref:8112;INCOME;;0;;
+SKR49;8114;Erhaltene Zinsen auf Betriebsteuern;ref:8114;INCOME;;0;;
+SKR49;8130;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:8130;INCOME;;0;;
+SKR49;8131;Sonstige Erträge unregelmäßig;ref:8131;INCOME;;0;;
+SKR49;8132;Sonstige Erträge betrieblich und regelmäßig;ref:8132;INCOME;;0;;
+SKR49;8133;Erstattungen nach AAG;ref:8133;INCOME;;0;;
+SKR49;8134;Verrechnete sonstige Sachbezüge (keine Waren);ref:8134;INCOME;;0;;
+SKR49;8140;Zuschreibungen;ref:8140;INCOME;;0;;
+SKR49;8150;Wareneinkauf;ref:8150;EXPENSE;;0;;
+SKR49;8152;Wareneingang 7 % Vorsteuer;ref:8152;EXPENSE;;0;;
+SKR49;8154;Wareneingang 19 % Vorsteuer;ref:8154;EXPENSE;;0;;
+SKR49;8156;Handelswaren;ref:8156;EXPENSE;;0;;
+SKR49;8158;Tatsächliche Kosten Altpapiersammlungen;ref:8158;EXPENSE;;0;;
+SKR49;8160;Tatsächl.Kosten Altmaterialsammlungen;ref:8160;EXPENSE;;0;;
+SKR49;8162;Ausgabenpausch.95%  Altpap.(Gkto.3895);ref:8162;EXPENSE;;0;;
+SKR49;8164;Ausgabenpausch.80%  Altmat.(Gkto.3895);ref:8164;EXPENSE;;0;;
+SKR49;8166;Ertrag aus Stornokost.Altpap./Altmat.;ref:8166;EXPENSE;;0;;
+SKR49;8172;Bezugs- und Nebenkosten;ref:8172;EXPENSE;;0;;
+SKR49;8200;Fremdleistungen;ref:8200;EXPENSE;;0;;
+SKR49;8210;Löhne und Gehälter;ref:8210;EXPENSE;;0;;
+SKR49;8212;Aushilfslöhne;ref:8212;EXPENSE;;0;;
+SKR49;8213;Löhne für Minijobs;ref:8213;EXPENSE;;0;;
+SKR49;8214;Bedienungsgelder;ref:8214;EXPENSE;;0;;
+SKR49;8215;Freiwillige Zuwendungen an Minijobber;ref:8215;EXPENSE;;0;;
+SKR49;8216;Vermögenswirksame Leistungen;ref:8216;EXPENSE;;0;;
+SKR49;8217;Sachzuwendungen an Arbeitnehmer;ref:8217;EXPENSE;;0;;
+SKR49;8218;Sachzuwendungen an Minijobber;ref:8218;EXPENSE;;0;;
+SKR49;8219;Fahrtkostenerstattung Wohnung/Arbeitsstätte;ref:8219;EXPENSE;;0;;
+SKR49;8220;Zuschüsse der Agenturen für Arbeit (Haben);ref:8220;EXPENSE;;0;;
+SKR49;8221;Pauschale Steuer auf sonstige Bezüge;ref:8221;EXPENSE;;0;;
+SKR49;8222;Pauschale Steuer für Arbeitnehmer;ref:8222;EXPENSE;;0;;
+SKR49;8223;Pauschale Steuer für Aushilfen;ref:8223;EXPENSE;;0;;
+SKR49;8226;Pauschale Steuer für Minijobber;ref:8226;EXPENSE;;0;;
+SKR49;8230;Sozialversicherungsbeiträge;ref:8230;EXPENSE;;0;;
+SKR49;8231;Freiwillige soziale Aufwendungen, LSt frei;ref:8231;EXPENSE;;0;;
+SKR49;8232;Abgeführte Lohnsteuer;ref:8232;EXPENSE;;0;;
+SKR49;8233;Aufwendungen aus der Veränderung von Urlaubsrückstellungen;ref:8233;EXPENSE;;0;;
+SKR49;8235;Abgaben für Altersversorgung;ref:8235;EXPENSE;;0;;
+SKR49;8236;Beiträge zur Berufsgenossenschaft;ref:8236;EXPENSE;;0;;
+SKR49;8237;Soziale Abgaben für Minijobber;ref:8237;EXPENSE;;0;;
+SKR49;8238;Pauschale Steuer auf sonstige Bezüge;ref:8238;EXPENSE;;0;;
+SKR49;8239;Aufwendungen für Unterstützung;ref:8239;EXPENSE;;0;;
+SKR49;8240;Abschreibungen Anlagevermögen;ref:8240;EXPENSE;;0;;
+SKR49;8242;Abschreibungen GWG;ref:8242;EXPENSE;;0;;
+SKR49;8243;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:8243;EXPENSE;;0;;
+SKR49;8244;Anlagenabgänge/Restbuchwerte;ref:8244;EXPENSE;;0;;
+SKR49;8246;Kalkulatorische Abschreibungen;ref:8246;EXPENSE;;0;;
+SKR49;8270;Abschr.auf Umlaufvermögen (unüblich);ref:8270;EXPENSE;;0;;
+SKR49;8300;Anteilige Raumkosten;ref:8300;EXPENSE;;0;;
+SKR49;8302;Miete, Pacht;ref:8302;EXPENSE;;0;;
+SKR49;8303;Strom;ref:8303;EXPENSE;;0;;
+SKR49;8304;Wasser;ref:8304;EXPENSE;;0;;
+SKR49;8305;Gas, Heizung;ref:8305;EXPENSE;;0;;
+SKR49;8306;Reinigungskosten;ref:8306;EXPENSE;;0;;
+SKR49;8308;Verwaltungskosten;ref:8308;EXPENSE;;0;;
+SKR49;8310;Büromaterial;ref:8310;EXPENSE;;0;;
+SKR49;8312;Porto;ref:8312;EXPENSE;;0;;
+SKR49;8313;Telefon;ref:8313;EXPENSE;;0;;
+SKR49;8314;Zinsen, Bankspesen;ref:8314;EXPENSE;;0;;
+SKR49;8318;Versicherungen, Beiträge;ref:8318;EXPENSE;;0;;
+SKR49;8320;Sonstige Abgaben;ref:8320;EXPENSE;;0;;
+SKR49;8322;Fahrzeugkosten;ref:8322;EXPENSE;;0;;
+SKR49;8324;Pkw-Kosten;ref:8324;EXPENSE;;0;;
+SKR49;8326;Garagenmieten;ref:8326;EXPENSE;;0;;
+SKR49;8328;Fremdfahrzeuge;ref:8328;EXPENSE;;0;;
+SKR49;8330;Werbe- und Reisekosten;ref:8330;EXPENSE;;0;;
+SKR49;8332;Geschenke bis 35 EUR;ref:8332;EXPENSE;;0;;
+SKR49;8334;Bewirtungskosten (abzugsfähig);ref:8334;EXPENSE;;0;;
+SKR49;8336;Reisekosten Arbeitnehmer;ref:8336;EXPENSE;;0;;
+SKR49;8338;Reisekosten AN Verpflegungsmehraufwand;ref:8338;EXPENSE;;0;;
+SKR49;8340;Reisekosten Arbeitnehmer;ref:8340;EXPENSE;;0;;
+SKR49;8342;Km-Geld-Erstattung;ref:8342;EXPENSE;;0;;
+SKR49;8370;Einstellungen in steuerliche Rücklagen;ref:8370;EXPENSE;;0;;
+SKR49;8378;Anteilige Umsatzsteuerzahlungen;ref:8378;EXPENSE;;0;;
+SKR49;8380;Aufzuteilende Vorsteuer;ref:8380;EXPENSE;;0;;
+SKR49;8382;Abziehbare Vorsteuer;ref:8382;EXPENSE;;0;;
+SKR49;8384;Nicht abziehbare Vorsteuer;ref:8384;EXPENSE;;0;;
+SKR49;8410;Erträge aus anderen Wertpapieren;ref:8410;EXPENSE;;0;;
+SKR49;8420;sonstige Zinsen und ähnl.Erträge;ref:8420;EXPENSE;;0;;
+SKR49;8430;Abschreibungen auf Finanzanlagen;ref:8430;EXPENSE;;0;;
+SKR49;8440;Zinsen und ähnl.Aufwendungen;ref:8440;EXPENSE;;0;;
+SKR49;8470;Steuern vom Einkommen und vom Ertrag;ref:8470;EXPENSE;;0;;
+SKR49;8480;sonstige Steuern;ref:8480;EXPENSE;;0;;
+SKR49;8500;Umsatzerlöse;ref:8500;INCOME;;0;;
+SKR49;8545;Direkt mit dem Umsatz verbundene Steuern;ref:8545;INCOME;;0;;
+SKR49;8590;Bestandsveränderungen;ref:8590;INCOME;;0;;
+SKR49;8595;andere aktivierte Eigenleistungen;ref:8595;INCOME;;0;;
+SKR49;8599;Aktivierte Eigenleistungen (d. Herstellungskosten zurechenb. Fremdkapitalzinsen);ref:8599;INCOME;;0;;
+SKR49;8600;sonstige betriebliche Erträge;ref:8600;INCOME;;0;;
+SKR49;8630;Erträge aus der Auflösung einer steuerlichen Rücklage;ref:8630;INCOME;;0;;
+SKR49;8640;Zuschreibungen;ref:8640;INCOME;;0;;
+SKR49;8700;Aufwendungen für bezogene Leistungen;ref:8700;EXPENSE;;0;;
+SKR49;8710;Löhne und Gehälter;ref:8710;EXPENSE;;0;;
+SKR49;8720;soziale Abgaben;ref:8720;EXPENSE;;0;;
+SKR49;8735;Abgaben für Altersversorgung;ref:8735;EXPENSE;;0;;
+SKR49;8736;Beiträge zur Berufsgenossenschaft;ref:8736;EXPENSE;;0;;
+SKR49;8740;Abschreibungen Anlagevermögen;ref:8740;EXPENSE;;0;;
+SKR49;8745;Abschreibungen GWG;ref:8745;EXPENSE;;0;;
+SKR49;8746;Abschreibungen auf den Sammelposten geringwertige Wirtschaftsgüter;ref:8746;EXPENSE;;0;;
+SKR49;8770;Abschr.auf Umlaufvermögen (unüblich);ref:8770;EXPENSE;;0;;
+SKR49;8800;sonstige betriebliche Aufwendungen;ref:8800;EXPENSE;;0;;
+SKR49;8830;Einstellungen in steuerliche Rücklagen;ref:8830;EXPENSE;;0;;
+SKR49;8838;Anteilige Umsatzsteuerzahlungen;ref:8838;EXPENSE;;0;;
+SKR49;8840;Aufzuteilende Vorsteuer;ref:8840;EXPENSE;;0;;
+SKR49;8842;Abziehbare Vorsteuer;ref:8842;EXPENSE;;0;;
+SKR49;8844;Nicht abziehbare Vorsteuer;ref:8844;EXPENSE;;0;;
+SKR49;8860;Erträge aus anderen Wertpapieren;ref:8860;EXPENSE;;0;;
+SKR49;8870;sonstige Zinsen und ähnl.Erträge;ref:8870;EXPENSE;;0;;
+SKR49;8880;Abschreibungen auf Finanzanlagen;ref:8880;EXPENSE;;0;;
+SKR49;8890;Zinsen und ähnl. Aufwendungen;ref:8890;EXPENSE;;0;;
+SKR49;8920;Steuern vom Einkommen und vom Ertrag;ref:8920;EXPENSE;;0;;
+SKR49;8930;sonstige Steuern;ref:8930;EXPENSE;;0;;
+SKR49;8980;Umgebuchte Einnahmen bisheriger Zweckbet;ref:8980;INCOME;;0;;
+SKR49;8990;Umgebuchte Ausgaben bisheriger Zweckbetr;ref:8990;EXPENSE;;0;;
+SKR49;9000;Saldovorträge Sachkonten;ref:9000;Statistik;;0;;
+SKR49;9008;Saldovorträge Debitoren;ref:9008;Statistik;;0;;
+SKR49;9009;Saldovorträge Kreditoren;ref:9009;Statistik;;0;;
+SKR49;9090;Summenvortrag;ref:9090;Statistik;;0;;

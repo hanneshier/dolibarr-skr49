@@ -18,7 +18,7 @@ Zunächst müssen die für die Einnahmen-Überschuss-Rechnung genutzten benutzer
 
 Die benötigten Kontengruppen befinden sich in der Datei [kontengruppen.csv](kontengruppen.csv) oder in der Excel-Tabelle im zweiten Tab.
 
-*HINWEIS: Die Berechnung der Formeln funktioniert aktuelle nicht und zeigt Err bzw. 0,00 an*
+*HINWEIS: Die Reihenfolge der Kontengruppen bzw. der Position ist wichtig! Die Formeln funktionieren nur, wenn sie in der Position hinter den zu berechnende Feldern stehen*
 
 ### Import in Dolibarr
 

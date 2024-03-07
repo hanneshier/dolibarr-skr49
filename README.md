@@ -2,7 +2,7 @@
 
 Deutscher SKR49 Kontenplan inkl. EÜR-Auswertung für den Import in Dolibarr.
 
-WICHTIG: Die Zuordnung für die Kontengruppen ist noch nicht für alle Konten abgeschlossen! Siehe auch [Kontengruppen zuordnen](#kontengruppen-zuordnen).
+**WICHTIG:** Die Zuordnung für die Kontengruppen ist noch nicht für alle Konten abgeschlossen! Siehe auch [Kontengruppen zuordnen](#kontengruppen-zuordnen).
 
 Siehe die [Diskussion](https://forum.dolibarr.de/forum/t/dolibarr-als-vereinsverwaltung/6548) im deutschen Dolibarr Forum für mehr Infos zum Kontenplan und Dolibarr als Vereinsverwaltung.
 
@@ -17,6 +17,8 @@ Dieser Schritt kann übersprungen werden, wenn keine Zuordnung zum den EÜR Post
 Zunächst müssen die für die Einnahmen-Überschuss-Rechnung genutzten benutzerdefinierten Kontengruppen hinzugefügt werden. Diese Zuordnung ist aus dem Datev Kontenrahmen PDF aus der Spalte "Ergebnisposten" übernommen. Leider habe ich keine Funktion für einen automatischen Import dieser Kontengruppen gefunden. Deshalb müssen diese von manuell zu Dolibarr hinzugefügt werden. Hinzugefügt werden Kontengruppen in Dolibarr unter Buchhaltung - Einstellungen - Benutzerdefinierte Kontengruppen.
 
 Die benötigten Kontengruppen befinden sich in der Datei [kontengruppen.csv](kontengruppen.csv) oder in der Excel-Tabelle im zweiten Tab.
+
+*HINWEIS: Die Berechnung der Formeln funktioniert aktuelle nicht und zeigt Err bzw. 0,00 an*
 
 ### Import in Dolibarr
 

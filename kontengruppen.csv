@@ -1,78 +1,78 @@
 ﻿Name;Bezeichnung;Berechnet;Formel;Position;;Geschäftsbereich;Art;EÜR Posten
 ;;;;;;;;
-IBEIN1;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);Nein;;;100;Ideeler Bereich;Einnahmen;Sonstige nicht steuerbare Einnahmen 
-IBEIN2;Mitgliedsbeiträge (Ideeler Bereich - Einnahmen);Nein;;;101;Ideeler Bereich;Einnahmen;Mitgliedsbeiträge 
-IBEIN3;Aufnahmegebühren (Ideeler Bereich - Einnahmen);Nein;;;102;Ideeler Bereich;Einnahmen;Aufnahmegebühren
-IBEIN4;Zuschüsse (Ideeler Bereich - Einnahmen);Nein;;;103;Ideeler Bereich;Einnahmen;Zuschüsse
-IBEIN5;Sonstige steuerneutrale Einnahmen (Ideeler Bereich - Einnahmen);Nein;;;104;Ideeler Bereich;Einnahmen;Sonstige steuerneutrale Einnahmen 
-IBEIN6;Schenkungen (Ideeler Bereich - Einnahmen);Nein;;;105;Ideeler Bereich;Einnahmen;Schenkungen 
-IBEIN7;Erbschaften/ Vermächtnisse (Ideeler Bereich - Einnahmen);Nein;;;106;Ideeler Bereich;Einnahmen;Erbschaften/ Vermächtnisse 
-IBEIN8;Spenden (Ideeler Bereich - Einnahmen);Nein;;;107;Ideeler Bereich;Einnahmen;Spenden 
-IBEIN9;Steuerneutrale Einnahmen (Ideeler Bereich - Einnahmen);Nein;;;108;Ideeler Bereich;Einnahmen;Steuerneutrale Einnahmen 
-IBEIN;Gesamt (Ideeler Bereich - Einnahmen);Ja;IBEIN1 + IBEIN2 + IBEIN3 + IBEIN4 + IBEIN5 + IBEIN6 + IBEIN7 + IBEIN8 + IBEIN9;;149;Ideeler Bereich;Einnahmen;Gesamt
+IBEIN1;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);Nein;;100;;Ideeler Bereich;Einnahmen;Sonstige nicht steuerbare Einnahmen 
+IBEIN2;Mitgliedsbeiträge (Ideeler Bereich - Einnahmen);Nein;;101;;Ideeler Bereich;Einnahmen;Mitgliedsbeiträge 
+IBEIN3;Aufnahmegebühren (Ideeler Bereich - Einnahmen);Nein;;102;;Ideeler Bereich;Einnahmen;Aufnahmegebühren
+IBEIN4;Zuschüsse (Ideeler Bereich - Einnahmen);Nein;;103;;Ideeler Bereich;Einnahmen;Zuschüsse
+IBEIN5;Sonstige steuerneutrale Einnahmen (Ideeler Bereich - Einnahmen);Nein;;104;;Ideeler Bereich;Einnahmen;Sonstige steuerneutrale Einnahmen 
+IBEIN6;Schenkungen (Ideeler Bereich - Einnahmen);Nein;;105;;Ideeler Bereich;Einnahmen;Schenkungen 
+IBEIN7;Erbschaften/ Vermächtnisse (Ideeler Bereich - Einnahmen);Nein;;106;;Ideeler Bereich;Einnahmen;Erbschaften/ Vermächtnisse 
+IBEIN8;Spenden (Ideeler Bereich - Einnahmen);Nein;;107;;Ideeler Bereich;Einnahmen;Spenden 
+IBEIN9;Steuerneutrale Einnahmen (Ideeler Bereich - Einnahmen);Nein;;108;;Ideeler Bereich;Einnahmen;Steuerneutrale Einnahmen 
+IBEIN;Gesamt (Ideeler Bereich - Einnahmen);Ja;IBEIN1 + IBEIN2 + IBEIN3 + IBEIN4 + IBEIN5 + IBEIN6 + IBEIN7 + IBEIN8 + IBEIN9;149;;Ideeler Bereich;Einnahmen;Gesamt
 ;;;;;;;;
-IBAUS1;Abschreibungen (Ideeler Bereich - Ausgaben);Nein;;;150;Ideeler Bereich;Ausgaben;Abschreibungen 
-IBAUS2;Übrige Ausgaben (Ideeler Bereich - Ausgaben);Nein;;;151;Ideeler Bereich;Ausgaben;Übrige Ausgaben 
-IBAUS3;Personalkosten (Ideeler Bereich - Ausgaben);Nein;;;152;Ideeler Bereich;Ausgaben;Personalkosten 
-IBAUS4;Reisekosten (Ideeler Bereich - Ausgaben);Nein;;;153;Ideeler Bereich;Ausgaben;Reisekosten 
-IBAUS5;Raumkosten (Ideeler Bereich - Ausgaben);Nein;;;154;Ideeler Bereich;Ausgaben;Raumkosten 
-IBAUS6;Übrige Ausgaben (Ideeler Bereich - Ausgaben);Nein;;;155;Ideeler Bereich;Ausgaben;Übrige Ausgaben
-IBAUS7;Sonstige nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);Nein;;;156;Ideeler Bereich;Ausgaben;Sonstige nicht abziehbare Ausgaben 
-IBAUS8;Gezahlte/hingegebene Spenden (Ideeler Bereich - Ausgaben);Nein;;;157;Ideeler Bereich;Ausgaben;Gezahlte/hingegebene Spenden 
-IBAUS9;Sonstige nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);Nein;;;158;Ideeler Bereich;Ausgaben;Sonstige nicht abziehbare Ausgaben 
-IBAUS10;Nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);Nein;;;159;Ideeler Bereich;Ausgaben;Nicht abziehbare Ausgaben 
-IBAUS;Gesamt (Ideeler Bereich - Ausgaben);Ja;IBAUS1 + IBAUS2 + IBAUS3 + IBAUS4 + IBAUS5 + IBAUS6 + IBAUS7 + IBAUS8 + IBAUS9 + IBAUS10;;199;Ideeler Bereich;Ausgaben;Gesamt
+IBAUS1;Abschreibungen (Ideeler Bereich - Ausgaben);Nein;;150;;Ideeler Bereich;Ausgaben;Abschreibungen 
+IBAUS2;Übrige Ausgaben (Ideeler Bereich - Ausgaben);Nein;;151;;Ideeler Bereich;Ausgaben;Übrige Ausgaben 
+IBAUS3;Personalkosten (Ideeler Bereich - Ausgaben);Nein;;152;;Ideeler Bereich;Ausgaben;Personalkosten 
+IBAUS4;Reisekosten (Ideeler Bereich - Ausgaben);Nein;;153;;Ideeler Bereich;Ausgaben;Reisekosten 
+IBAUS5;Raumkosten (Ideeler Bereich - Ausgaben);Nein;;154;;Ideeler Bereich;Ausgaben;Raumkosten 
+IBAUS6;Übrige Ausgaben (Ideeler Bereich - Ausgaben);Nein;;155;;Ideeler Bereich;Ausgaben;Übrige Ausgaben
+IBAUS7;Sonstige nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);Nein;;156;;Ideeler Bereich;Ausgaben;Sonstige nicht abziehbare Ausgaben 
+IBAUS8;Gezahlte/hingegebene Spenden (Ideeler Bereich - Ausgaben);Nein;;157;;Ideeler Bereich;Ausgaben;Gezahlte/hingegebene Spenden 
+IBAUS9;Sonstige nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);Nein;;158;;Ideeler Bereich;Ausgaben;Sonstige nicht abziehbare Ausgaben 
+IBAUS10;Nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);Nein;;159;;Ideeler Bereich;Ausgaben;Nicht abziehbare Ausgaben 
+IBAUS;Gesamt (Ideeler Bereich - Ausgaben);Ja;IBAUS1 + IBAUS2 + IBAUS3 + IBAUS4 + IBAUS5 + IBAUS6 + IBAUS7 + IBAUS8 + IBAUS9 + IBAUS10;199;;Ideeler Bereich;Ausgaben;Gesamt
 ;;;;;;;;
-VVEIN1;Sonstige ertragsteuerfreie Einnahmen gemeinnütziger Vereine (gV) (Vermögensverwaltung - Einnahmen);Nein;;;200;Vermögensverwaltung;Einnahmen;Sonstige ertragsteuerfreie Einnahmen gemeinnütziger Vereine (gV) 
-VVEIN2;Miet- und Pachterträge (gV) (Vermögensverwaltung - Einnahmen);Nein;;;201;Vermögensverwaltung;Einnahmen;Miet- und Pachterträge (gV) 
-VVEIN3;Zins- und Kurserträge (gV) (Vermögensverwaltung - Einnahmen);Nein;;;202;Vermögensverwaltung;Einnahmen;Zins- und Kurserträge (gV) 
-VVEIN4;Erträge Werbung (gV) (Vermögensverwaltung - Einnahmen);Nein;;;203;Vermögensverwaltung;Einnahmen;Erträge Werbung (gV) 
-VVEIN5;Sonstige ertragsteuerpflichtige Einnahmen nicht gemeinnütziger Vereine (ngV) (Vermögensverwaltung - Einnahmen);Nein;;;204;Vermögensverwaltung;Einnahmen;Sonstige ertragsteuerpflichtige Einnahmen nicht gemeinnütziger Vereine (ngV)
-VVEIN6;Miet- und Pachterträge (ngV) (Vermögensverwaltung - Einnahmen);Nein;;;205;Vermögensverwaltung;Einnahmen;Miet- und Pachterträge (ngV)
-VVEIN7;Zins- und Kurserträge (ngV) (Vermögensverwaltung - Einnahmen);Nein;;;206;Vermögensverwaltung;Einnahmen;Zins- und Kurserträge (ngV)
-VVEIN;Gesamt (Vermögensverwaltung - Einnahmen);Ja;VVEIN1 + VVEIN2 + VVEIN3 + VVEIN4 + VVEIN5 + VVEIN6 + VVEIN7;;249;Vermögensverwaltung;Einnahmen;Gesamt
+VVEIN1;Sonstige ertragsteuerfreie Einnahmen gemeinnütziger Vereine (gV) (Vermögensverwaltung - Einnahmen);Nein;;200;;Vermögensverwaltung;Einnahmen;Sonstige ertragsteuerfreie Einnahmen gemeinnütziger Vereine (gV) 
+VVEIN2;Miet- und Pachterträge (gV) (Vermögensverwaltung - Einnahmen);Nein;;201;;Vermögensverwaltung;Einnahmen;Miet- und Pachterträge (gV) 
+VVEIN3;Zins- und Kurserträge (gV) (Vermögensverwaltung - Einnahmen);Nein;;202;;Vermögensverwaltung;Einnahmen;Zins- und Kurserträge (gV) 
+VVEIN4;Erträge Werbung (gV) (Vermögensverwaltung - Einnahmen);Nein;;203;;Vermögensverwaltung;Einnahmen;Erträge Werbung (gV) 
+VVEIN5;Sonstige ertragsteuerpflichtige Einnahmen nicht gemeinnütziger Vereine (ngV) (Vermögensverwaltung - Einnahmen);Nein;;204;;Vermögensverwaltung;Einnahmen;Sonstige ertragsteuerpflichtige Einnahmen nicht gemeinnütziger Vereine (ngV)
+VVEIN6;Miet- und Pachterträge (ngV) (Vermögensverwaltung - Einnahmen);Nein;;205;;Vermögensverwaltung;Einnahmen;Miet- und Pachterträge (ngV)
+VVEIN7;Zins- und Kurserträge (ngV) (Vermögensverwaltung - Einnahmen);Nein;;206;;Vermögensverwaltung;Einnahmen;Zins- und Kurserträge (ngV)
+VVEIN;Gesamt (Vermögensverwaltung - Einnahmen);Ja;VVEIN1 + VVEIN2 + VVEIN3 + VVEIN4 + VVEIN5 + VVEIN6 + VVEIN7;249;;Vermögensverwaltung;Einnahmen;Gesamt
 ;;;;;;;;
-VVAUS1;Abschreibungen (Vermögensverwaltung - Ausgaben);Nein;;;250;Vermögensverwaltung;Ausgaben;Abschreibungen 
-VVAUS2;Sonstige Ausgaben (Vermögensverwaltung - Ausgaben);Nein;;;251;Vermögensverwaltung;Ausgaben;Sonstige Ausgaben 
-VVAUS3;Löhne und Gehälter (Vermögensverwaltung - Ausgaben);Nein;;;252;Vermögensverwaltung;Ausgaben;Löhne und Gehälter
-VVAUS4;Soziale Abgaben (Vermögensverwaltung - Ausgaben);Nein;;;253;Vermögensverwaltung;Ausgaben;Soziale Abgaben 
-VVAUS;Gesamt (Vermögensverwaltung - Ausgaben);Ja;VVAUS1 + VVAUS2 + VVAUS3 + VVAUS4;;299;Vermögensverwaltung;Ausgaben;Gesamt
+VVAUS1;Abschreibungen (Vermögensverwaltung - Ausgaben);Nein;;250;;Vermögensverwaltung;Ausgaben;Abschreibungen 
+VVAUS2;Sonstige Ausgaben (Vermögensverwaltung - Ausgaben);Nein;;251;;Vermögensverwaltung;Ausgaben;Sonstige Ausgaben 
+VVAUS3;Löhne und Gehälter (Vermögensverwaltung - Ausgaben);Nein;;252;;Vermögensverwaltung;Ausgaben;Löhne und Gehälter
+VVAUS4;Soziale Abgaben (Vermögensverwaltung - Ausgaben);Nein;;253;;Vermögensverwaltung;Ausgaben;Soziale Abgaben 
+VVAUS;Gesamt (Vermögensverwaltung - Ausgaben);Ja;VVAUS1 + VVAUS2 + VVAUS3 + VVAUS4;299;;Vermögensverwaltung;Ausgaben;Gesamt
 ;;;;;;;;
-ZBEIN1;Umsatzerlöse (Zweckbetrieb - Einnahmen);Nein;;;300;Zweckbetrieb;Einnahmen;Umsatzerlöse
-ZBEIN2;Bestandsveränderung (Zweckbetrieb - Einnahmen);Nein;;;301;Zweckbetrieb;Einnahmen;Bestandsveränderung
-ZBEIN3;Andere aktivierte Eigenleistungen (Zweckbetrieb - Einnahmen);Nein;;;302;Zweckbetrieb;Einnahmen;Andere aktivierte Eigenleistungen 
-ZBEIN4;Sonstige betriebliche Erträge (Zweckbetrieb - Einnahmen);Nein;;;303;Zweckbetrieb;Einnahmen;Sonstige betriebliche Erträge
-ZBEIN;Gesamt (Zweckbetrieb - Einnahmen);Ja;ZBEIN1 + ZBEIN2 + ZBEIN3 + ZBEIN4;;349;Zweckbetrieb;Einnahmen;Gesamt
+ZBEIN1;Umsatzerlöse (Zweckbetrieb - Einnahmen);Nein;;300;;Zweckbetrieb;Einnahmen;Umsatzerlöse
+ZBEIN2;Bestandsveränderung (Zweckbetrieb - Einnahmen);Nein;;301;;Zweckbetrieb;Einnahmen;Bestandsveränderung
+ZBEIN3;Andere aktivierte Eigenleistungen (Zweckbetrieb - Einnahmen);Nein;;302;;Zweckbetrieb;Einnahmen;Andere aktivierte Eigenleistungen 
+ZBEIN4;Sonstige betriebliche Erträge (Zweckbetrieb - Einnahmen);Nein;;303;;Zweckbetrieb;Einnahmen;Sonstige betriebliche Erträge
+ZBEIN;Gesamt (Zweckbetrieb - Einnahmen);Ja;ZBEIN1 + ZBEIN2 + ZBEIN3 + ZBEIN4;349;;Zweckbetrieb;Einnahmen;Gesamt
 ;;;;;;;;
-ZBAUS1;Umsatzerlöse (Zweckbetrieb - Ausgaben);Nein;;;350;Zweckbetrieb;Ausgaben;Umsatzerlöse
-ZBAUS2;Aufwendungen für bezogene Leistungen (Zweckbetrieb - Ausgaben);Nein;;;351;Zweckbetrieb;Ausgaben;Aufwendungen für bezogene Leistungen 
-ZBAUS3;Löhne und Gehälter (Zweckbetrieb - Ausgaben);Nein;;;352;Zweckbetrieb;Ausgaben;Löhne und Gehälter 
-ZBAUS4;Soziale Abgaben (Zweckbetrieb - Ausgaben);Nein;;;353;Zweckbetrieb;Ausgaben;Soziale Abgaben
-ZBAUS5;Immaterielle Vermögensgegenstände und Sachanlagen (Zweckbetrieb - Ausgaben);Nein;;;354;Zweckbetrieb;Ausgaben;Immaterielle Vermögensgegenstände und Sachanlagen 
-ZBAUS6;Umlaufvermögen, unüblich hoch (Zweckbetrieb - Ausgaben);Nein;;;355;Zweckbetrieb;Ausgaben;Umlaufvermögen, unüblich hoch 
-ZBAUS7;Sonstige betriebliche Aufwendungen (Zweckbetrieb - Ausgaben);Nein;;;356;Zweckbetrieb;Ausgaben;Sonstige betriebliche Aufwendungen 
-ZBAUS8;Zinsen und ähnliche Aufwendungen (Zweckbetrieb - Ausgaben);Nein;;;357;Zweckbetrieb;Ausgaben;Zinsen und ähnliche Aufwendungen 
-ZBAUS9;Sonstige Steuern (Zweckbetrieb - Ausgaben);Nein;;;358;Zweckbetrieb;Ausgaben;Sonstige Steuern 
-ZBAUS;Gesamt (Zweckbetrieb - Ausgaben);Ja;ZBAUS1 + ZBAUS2 + ZBAUS3 + ZBAUS4 + ZBAUS5 + ZBAUS6 + ZBAUS7 + ZBAUS8 + ZBAUS9;;399;Zweckbetrieb;Ausgaben;Gesamt
+ZBAUS1;Umsatzerlöse (Zweckbetrieb - Ausgaben);Nein;;350;;Zweckbetrieb;Ausgaben;Umsatzerlöse
+ZBAUS2;Aufwendungen für bezogene Leistungen (Zweckbetrieb - Ausgaben);Nein;;351;;Zweckbetrieb;Ausgaben;Aufwendungen für bezogene Leistungen 
+ZBAUS3;Löhne und Gehälter (Zweckbetrieb - Ausgaben);Nein;;352;;Zweckbetrieb;Ausgaben;Löhne und Gehälter 
+ZBAUS4;Soziale Abgaben (Zweckbetrieb - Ausgaben);Nein;;353;;Zweckbetrieb;Ausgaben;Soziale Abgaben
+ZBAUS5;Immaterielle Vermögensgegenstände und Sachanlagen (Zweckbetrieb - Ausgaben);Nein;;354;;Zweckbetrieb;Ausgaben;Immaterielle Vermögensgegenstände und Sachanlagen 
+ZBAUS6;Umlaufvermögen, unüblich hoch (Zweckbetrieb - Ausgaben);Nein;;355;;Zweckbetrieb;Ausgaben;Umlaufvermögen, unüblich hoch 
+ZBAUS7;Sonstige betriebliche Aufwendungen (Zweckbetrieb - Ausgaben);Nein;;356;;Zweckbetrieb;Ausgaben;Sonstige betriebliche Aufwendungen 
+ZBAUS8;Zinsen und ähnliche Aufwendungen (Zweckbetrieb - Ausgaben);Nein;;357;;Zweckbetrieb;Ausgaben;Zinsen und ähnliche Aufwendungen 
+ZBAUS9;Sonstige Steuern (Zweckbetrieb - Ausgaben);Nein;;358;;Zweckbetrieb;Ausgaben;Sonstige Steuern 
+ZBAUS;Gesamt (Zweckbetrieb - Ausgaben);Ja;ZBAUS1 + ZBAUS2 + ZBAUS3 + ZBAUS4 + ZBAUS5 + ZBAUS6 + ZBAUS7 + ZBAUS8 + ZBAUS9;399;;Zweckbetrieb;Ausgaben;Gesamt
 ;;;;;;;;
-GBEIN1;Umsatzerlöse (Geschäftsbetrieb - Einnahmen);Nein;;;400;Geschäftsbetrieb;Einnahmen;Umsatzerlöse 
-GBEIN2;Sonstige betriebliche Erträge (Geschäftsbetrieb - Einnahmen);Nein;;;401;Geschäftsbetrieb;Einnahmen;Sonstige betriebliche Erträge 
-GBEIN3;Bestandsveränderungen (Geschäftsbetrieb - Einnahmen);Nein;;;402;Geschäftsbetrieb;Einnahmen;Bestandsveränderungen
-GBEIN4;Andere aktivierte Eigenleistungen (Geschäftsbetrieb - Einnahmen);Nein;;;403;Geschäftsbetrieb;Einnahmen;Andere aktivierte Eigenleistungen 
-GBEIN5;Sonstige Zinsen und ähnliche Einnahmen (Geschäftsbetrieb - Einnahmen);Nein;;;404;Geschäftsbetrieb;Einnahmen;Sonstige Zinsen und ähnliche Einnahmen 
-GBEIN;Gesamt (Geschäftsbetrieb - Einnahmen);Ja;GBEIN1 + GBEIN2 + GBEIN3 + GBEIN4 + GBEIN5;;449;Geschäftsbetrieb;Einnahmen;Gesamt
+GBEIN1;Umsatzerlöse (Geschäftsbetrieb - Einnahmen);Nein;;400;;Geschäftsbetrieb;Einnahmen;Umsatzerlöse 
+GBEIN2;Sonstige betriebliche Erträge (Geschäftsbetrieb - Einnahmen);Nein;;401;;Geschäftsbetrieb;Einnahmen;Sonstige betriebliche Erträge 
+GBEIN3;Bestandsveränderungen (Geschäftsbetrieb - Einnahmen);Nein;;402;;Geschäftsbetrieb;Einnahmen;Bestandsveränderungen
+GBEIN4;Andere aktivierte Eigenleistungen (Geschäftsbetrieb - Einnahmen);Nein;;403;;Geschäftsbetrieb;Einnahmen;Andere aktivierte Eigenleistungen 
+GBEIN5;Sonstige Zinsen und ähnliche Einnahmen (Geschäftsbetrieb - Einnahmen);Nein;;404;;Geschäftsbetrieb;Einnahmen;Sonstige Zinsen und ähnliche Einnahmen 
+GBEIN;Gesamt (Geschäftsbetrieb - Einnahmen);Ja;GBEIN1 + GBEIN2 + GBEIN3 + GBEIN4 + GBEIN5;449;;Geschäftsbetrieb;Einnahmen;Gesamt
 ;;;;;;;;
-GBAUS1;Ausgaben für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Geschäftsbetrieb - Ausgaben);Nein;;;450;Geschäftsbetrieb;Ausgaben;Ausgaben für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren 
-GBAUS2;Sonstige betriebliche Aufwendungen (Geschäftsbetrieb - Ausgaben);Nein;;;451;Geschäftsbetrieb;Ausgaben;Sonstige betriebliche Aufwendungen 
-GBAUS3;Aufwendungen für bezogene Leistungen (Geschäftsbetrieb - Ausgaben);Nein;;;452;Geschäftsbetrieb;Ausgaben;Aufwendungen für bezogene Leistungen 
-GBAUS4;Löhne und Gehälter (Geschäftsbetrieb - Ausgaben);Nein;;;453;Geschäftsbetrieb;Ausgaben;Löhne und Gehälter 
-GBAUS5;Soziale Abgaben (Geschäftsbetrieb - Ausgaben);Nein;;;454;Geschäftsbetrieb;Ausgaben;Soziale Abgaben 
-GBAUS6;Immaterielle Vermögensgegenstände und Sachanlagen (Geschäftsbetrieb - Ausgaben);Nein;;;455;Geschäftsbetrieb;Ausgaben;Immaterielle Vermögensgegenstände und Sachanlagen 
-GBAUS7;Umlaufvermögen, unüblich hoch (Geschäftsbetrieb - Ausgaben);Nein;;;456;Geschäftsbetrieb;Ausgaben;Umlaufvermögen, unüblich hoch 
-GBAUS8;Erträge aus Beteiligungen (Geschäftsbetrieb - Ausgaben);Nein;;;457;Geschäftsbetrieb;Ausgaben;Erträge aus Beteiligungen 
-GBAUS9;Erträge aus anderen Wertpapieren (Geschäftsbetrieb - Ausgaben);Nein;;;458;Geschäftsbetrieb;Ausgaben;Erträge aus anderen Wertpapieren 
-GBAUS10;Sonstige Zinsen und ähnliche Erträge (Geschäftsbetrieb - Ausgaben);Nein;;;459;Geschäftsbetrieb;Ausgaben;Sonstige Zinsen und ähnliche Erträge 
-GBAUS11;Abschreibungen auf Finanzanlagen (Geschäftsbetrieb - Ausgaben);Nein;;;460;Geschäftsbetrieb;Ausgaben;Abschreibungen auf Finanzanlagen 
-GBAUS12;Zinsen und ähnliche Aufwendungen (Geschäftsbetrieb - Ausgaben);Nein;;;461;Geschäftsbetrieb;Ausgaben;Zinsen und ähnliche Aufwendungen 
-GBAUS13;Sonstige Steuern (Geschäftsbetrieb - Ausgaben);Nein;;;462;Geschäftsbetrieb;Ausgaben;Sonstige Steuern 
-GBAUS;Gesamt (Geschäftsbetrieb - Ausgaben);Ja;GBAUS1 + GBAUS2 + GBAUS3 + GBAUS4 + GBAUS5 + GBAUS6 + GBAUS7 + GBAUS8 + GBAUS9 + GBAUS10 + GBAUS11 + GBAUS12 + GBAUS13;;499;Geschäftsbetrieb;Ausgaben;Gesamt
+GBAUS1;Ausgaben für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Geschäftsbetrieb - Ausgaben);Nein;;;;Geschäftsbetrieb;Ausgaben;Ausgaben für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren 
+GBAUS2;Sonstige betriebliche Aufwendungen (Geschäftsbetrieb - Ausgaben);Nein;;451;;Geschäftsbetrieb;Ausgaben;Sonstige betriebliche Aufwendungen 
+GBAUS3;Aufwendungen für bezogene Leistungen (Geschäftsbetrieb - Ausgaben);Nein;;452;;Geschäftsbetrieb;Ausgaben;Aufwendungen für bezogene Leistungen 
+GBAUS4;Löhne und Gehälter (Geschäftsbetrieb - Ausgaben);Nein;;453;;Geschäftsbetrieb;Ausgaben;Löhne und Gehälter 
+GBAUS5;Soziale Abgaben (Geschäftsbetrieb - Ausgaben);Nein;;454;;Geschäftsbetrieb;Ausgaben;Soziale Abgaben 
+GBAUS6;Immaterielle Vermögensgegenstände und Sachanlagen (Geschäftsbetrieb - Ausgaben);Nein;;455;;Geschäftsbetrieb;Ausgaben;Immaterielle Vermögensgegenstände und Sachanlagen 
+GBAUS7;Umlaufvermögen, unüblich hoch (Geschäftsbetrieb - Ausgaben);Nein;;;;Geschäftsbetrieb;Ausgaben;Umlaufvermögen, unüblich hoch 
+GBAUS8;Erträge aus Beteiligungen (Geschäftsbetrieb - Ausgaben);Nein;;457;;Geschäftsbetrieb;Ausgaben;Erträge aus Beteiligungen 
+GBAUS9;Erträge aus anderen Wertpapieren (Geschäftsbetrieb - Ausgaben);Nein;;458;;Geschäftsbetrieb;Ausgaben;Erträge aus anderen Wertpapieren 
+GBAUS10;Sonstige Zinsen und ähnliche Erträge (Geschäftsbetrieb - Ausgaben);Nein;;459;;Geschäftsbetrieb;Ausgaben;Sonstige Zinsen und ähnliche Erträge 
+GBAUS11;Abschreibungen auf Finanzanlagen (Geschäftsbetrieb - Ausgaben);Nein;;460;;Geschäftsbetrieb;Ausgaben;Abschreibungen auf Finanzanlagen 
+GBAUS12;Zinsen und ähnliche Aufwendungen (Geschäftsbetrieb - Ausgaben);Nein;;461;;Geschäftsbetrieb;Ausgaben;Zinsen und ähnliche Aufwendungen 
+GBAUS13;Sonstige Steuern (Geschäftsbetrieb - Ausgaben);Nein;;462;;Geschäftsbetrieb;Ausgaben;Sonstige Steuern 
+GBAUS;Gesamt (Geschäftsbetrieb - Ausgaben);Ja;GBAUS1 + GBAUS2 + GBAUS3 + GBAUS4 + GBAUS5 + GBAUS6 + GBAUS7 + GBAUS8 + GBAUS9 + GBAUS10 + GBAUS11 + GBAUS12 + GBAUS13;499;;Geschäftsbetrieb;Ausgaben;Gesamt

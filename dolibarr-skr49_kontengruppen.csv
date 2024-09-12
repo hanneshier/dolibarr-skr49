@@ -1,0 +1,70 @@
+﻿rowid;entity;code;label;range_account;sens;category_type;formula;position;fk_country;active
+;1;IBEIN1;Sonstige nicht steuerbare Einnahmen (Ideeler Bereich - Einnahmen);;0;0;;100;5;1
+;1;IBEIN2;Mitgliedsbeiträge (Ideeler Bereich - Einnahmen);;0;0;;101;5;1
+;1;IBEIN3;Aufnahmegebühren (Ideeler Bereich - Einnahmen);;0;0;;102;5;1
+;1;IBEIN4;Zuschüsse (Ideeler Bereich - Einnahmen);;0;0;;103;5;1
+;1;IBEIN5;Sonstige steuerneutrale Einnahmen (Ideeler Bereich - Einnahmen);;0;0;;104;5;1
+;1;IBEIN6;Schenkungen (Ideeler Bereich - Einnahmen);;0;0;;105;5;1
+;1;IBEIN7;Erbschaften/ Vermächtnisse (Ideeler Bereich - Einnahmen);;0;0;;106;5;1
+;1;IBEIN8;Spenden (Ideeler Bereich - Einnahmen);;0;0;;107;5;1
+;1;IBEIN9;Steuerneutrale Einnahmen (Ideeler Bereich - Einnahmen);;0;0;;108;5;1
+;1;IBEIN;Gesamt (Ideeler Bereich - Einnahmen);;0;1;IBEIN1 + IBEIN2 + IBEIN3 + IBEIN4 + IBEIN5 + IBEIN6 + IBEIN7 + IBEIN8 + IBEIN9;149;5;1
+;1;IBAUS1;Abschreibungen (Ideeler Bereich - Ausgaben);;0;0;;150;5;1
+;1;IBAUS2;Übrige Ausgaben (Ideeler Bereich - Ausgaben);;0;0;;151;5;1
+;1;IBAUS3;Personalkosten (Ideeler Bereich - Ausgaben);;0;0;;152;5;1
+;1;IBAUS4;Reisekosten (Ideeler Bereich - Ausgaben);;0;0;;153;5;1
+;1;IBAUS5;Raumkosten (Ideeler Bereich - Ausgaben);;0;0;;154;5;1
+;1;IBAUS6;Übrige Ausgaben (Ideeler Bereich - Ausgaben);;0;0;;155;5;1
+;1;IBAUS7;Sonstige nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);;0;0;;156;5;1
+;1;IBAUS8;Gezahlte/hingegebene Spenden (Ideeler Bereich - Ausgaben);;0;0;;157;5;1
+;1;IBAUS9;Sonstige nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);;0;0;;158;5;1
+;1;IBAUS10;Nicht abziehbare Ausgaben (Ideeler Bereich - Ausgaben);;0;0;;159;5;1
+;1;IBAUS;Gesamt (Ideeler Bereich - Ausgaben);;0;1;IBAUS1 + IBAUS2 + IBAUS3 + IBAUS4 + IBAUS5 + IBAUS6 + IBAUS7 + IBAUS8 + IBAUS9 + IBAUS10;199;5;1
+;1;VVEIN1;Sonstige ertragsteuerfreie Einnahmen gemeinnütziger Vereine (gV) (Vermögensverwaltung - Einnahmen);;0;0;;200;5;1
+;1;VVEIN2;Miet- und Pachterträge (gV) (Vermögensverwaltung - Einnahmen);;0;0;;201;5;1
+;1;VVEIN3;Zins- und Kurserträge (gV) (Vermögensverwaltung - Einnahmen);;0;0;;202;5;1
+;1;VVEIN4;Erträge Werbung (gV) (Vermögensverwaltung - Einnahmen);;0;0;;203;5;1
+;1;VVEIN5;Sonstige ertragsteuerpflichtige Einnahmen nicht gemeinnütziger Vereine (ngV) (Vermögensverwaltung - Einnahmen);;0;0;;204;5;1
+;1;VVEIN6;Miet- und Pachterträge (ngV) (Vermögensverwaltung - Einnahmen);;0;0;;205;5;1
+;1;VVEIN7;Zins- und Kurserträge (ngV) (Vermögensverwaltung - Einnahmen);;0;0;;206;5;1
+;1;VVEIN;Gesamt (Vermögensverwaltung - Einnahmen);;0;1;VVEIN1 + VVEIN2 + VVEIN3 + VVEIN4 + VVEIN5 + VVEIN6 + VVEIN7;249;5;1
+;1;VVAUS1;Abschreibungen (Vermögensverwaltung - Ausgaben);;0;0;;250;5;1
+;1;VVAUS2;Sonstige Ausgaben (Vermögensverwaltung - Ausgaben);;0;0;;251;5;1
+;1;VVAUS3;Löhne und Gehälter (Vermögensverwaltung - Ausgaben);;0;0;;252;5;1
+;1;VVAUS4;Soziale Abgaben (Vermögensverwaltung - Ausgaben);;0;0;;253;5;1
+;1;VVAUS;Gesamt (Vermögensverwaltung - Ausgaben);;0;1;VVAUS1 + VVAUS2 + VVAUS3 + VVAUS4;299;5;1
+;1;ZBEIN1;Umsatzerlöse (Zweckbetrieb - Einnahmen);;0;0;;300;5;1
+;1;ZBEIN2;Bestandsveränderung (Zweckbetrieb - Einnahmen);;0;0;;301;5;1
+;1;ZBEIN3;Andere aktivierte Eigenleistungen (Zweckbetrieb - Einnahmen);;0;0;;302;5;1
+;1;ZBEIN4;Sonstige betriebliche Erträge (Zweckbetrieb - Einnahmen);;0;0;;303;5;1
+;1;ZBEIN;Gesamt (Zweckbetrieb - Einnahmen);;0;1;ZBEIN1 + ZBEIN2 + ZBEIN3 + ZBEIN4;349;5;1
+;1;ZBAUS1;Umsatzerlöse (Zweckbetrieb - Ausgaben);;0;0;;350;5;1
+;1;ZBAUS2;Aufwendungen für bezogene Leistungen (Zweckbetrieb - Ausgaben);;0;0;;351;5;1
+;1;ZBAUS3;Löhne und Gehälter (Zweckbetrieb - Ausgaben);;0;0;;352;5;1
+;1;ZBAUS4;Soziale Abgaben (Zweckbetrieb - Ausgaben);;0;0;;353;5;1
+;1;ZBAUS5;Immaterielle Vermögensgegenstände und Sachanlagen (Zweckbetrieb - Ausgaben);;0;0;;354;5;1
+;1;ZBAUS6;Umlaufvermögen, unüblich hoch (Zweckbetrieb - Ausgaben);;0;0;;355;5;1
+;1;ZBAUS7;Sonstige betriebliche Aufwendungen (Zweckbetrieb - Ausgaben);;0;0;;356;5;1
+;1;ZBAUS8;Zinsen und ähnliche Aufwendungen (Zweckbetrieb - Ausgaben);;0;0;;357;5;1
+;1;ZBAUS9;Sonstige Steuern (Zweckbetrieb - Ausgaben);;0;0;;358;5;1
+;1;ZBAUS;Gesamt (Zweckbetrieb - Ausgaben);;0;1;ZBAUS1 + ZBAUS2 + ZBAUS3 + ZBAUS4 + ZBAUS5 + ZBAUS6 + ZBAUS7 + ZBAUS8 + ZBAUS9;399;5;1
+;1;GBEIN1;Umsatzerlöse (Geschäftsbetrieb - Einnahmen);;0;0;;400;5;1
+;1;GBEIN2;Sonstige betriebliche Erträge (Geschäftsbetrieb - Einnahmen);;0;0;;401;5;1
+;1;GBEIN3;Bestandsveränderungen (Geschäftsbetrieb - Einnahmen);;0;0;;402;5;1
+;1;GBEIN4;Andere aktivierte Eigenleistungen (Geschäftsbetrieb - Einnahmen);;0;0;;403;5;1
+;1;GBEIN5;Sonstige Zinsen und ähnliche Einnahmen (Geschäftsbetrieb - Einnahmen);;0;0;;404;5;1
+;1;GBEIN;Gesamt (Geschäftsbetrieb - Einnahmen);;0;1;GBEIN1 + GBEIN2 + GBEIN3 + GBEIN4 + GBEIN5;449;5;1
+;1;GBAUS1;Ausgaben für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren (Geschäftsbetrieb - Ausgaben);;0;0;;450;5;1
+;1;GBAUS2;Sonstige betriebliche Aufwendungen (Geschäftsbetrieb - Ausgaben);;0;0;;451;5;1
+;1;GBAUS3;Aufwendungen für bezogene Leistungen (Geschäftsbetrieb - Ausgaben);;0;0;;452;5;1
+;1;GBAUS4;Löhne und Gehälter (Geschäftsbetrieb - Ausgaben);;0;0;;453;5;1
+;1;GBAUS5;Soziale Abgaben (Geschäftsbetrieb - Ausgaben);;0;0;;454;5;1
+;1;GBAUS6;Immaterielle Vermögensgegenstände und Sachanlagen (Geschäftsbetrieb - Ausgaben);;0;0;;455;5;1
+;1;GBAUS7;Umlaufvermögen, unüblich hoch (Geschäftsbetrieb - Ausgaben);;0;0;;456;5;1
+;1;GBAUS8;Erträge aus Beteiligungen (Geschäftsbetrieb - Ausgaben);;0;0;;457;5;1
+;1;GBAUS9;Erträge aus anderen Wertpapieren (Geschäftsbetrieb - Ausgaben);;0;0;;458;5;1
+;1;GBAUS10;Sonstige Zinsen und ähnliche Erträge (Geschäftsbetrieb - Ausgaben);;0;0;;459;5;1
+;1;GBAUS11;Abschreibungen auf Finanzanlagen (Geschäftsbetrieb - Ausgaben);;0;0;;460;5;1
+;1;GBAUS12;Zinsen und ähnliche Aufwendungen (Geschäftsbetrieb - Ausgaben);;0;0;;461;5;1
+;1;GBAUS13;Sonstige Steuern (Geschäftsbetrieb - Ausgaben);;0;0;;462;5;1
+;1;GBAUS;Gesamt (Geschäftsbetrieb - Ausgaben);;0;1;GBAUS1 + GBAUS2 + GBAUS3 + GBAUS4 + GBAUS5 + GBAUS6 + GBAUS7 + GBAUS8 + GBAUS9 + GBAUS10 + GBAUS11 + GBAUS12 + GBAUS13;499;5;1

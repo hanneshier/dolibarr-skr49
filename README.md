@@ -32,8 +32,8 @@ Hinzugefügt werden Kontengruppen in Dolibarr unter Buchhaltung - Einstellungen 
 Die benötigten Kontengruppen befinden sich in der Datei [kontengruppen.csv](kontengruppen.csv) oder in der Excel-Tabelle im zweiten Tab.
 
 #### B) CSV-Import in die Datenbank
-Per phpMyAdmin oder einem zu eurer Umgebung passenden DB-Management wird die Tabelle *"llx_c_accounting_category"* geöffnet.
-Per "**Importieren**"-Funktion wird die Datei [dolibarr-skr49_kontengruppen.csv](dolibarr-skr49_kontengruppen.csv) ausgewählt. Um die Kopfzeile zu überspringen, wird bei "Diese Anzahl Abfragen (für SQL) überspringen, beginnend von der ersten:" auf den Wert **"1"** gesetzt. Die Spalten sind getrennt mit **";"**.
+Per phpMyAdmin oder einem zu eurer Umgebung passenden DB-Management wird die Tabelle *"llx_c_accounting_category"* geöffnet.  
+Per "**Importieren**"-Funktion wird die Datei [dolibarr-skr49_kontengruppen.csv](dolibarr-skr49_kontengruppen.csv) ausgewählt. Um die Kopfzeile zu überspringen, wird bei "Diese Anzahl Abfragen (für SQL) überspringen, beginnend von der ersten:" der Wert auf **"1"** gesetzt. Die Spalten sind getrennt mit **";"**.
 
 _HINWEIS: Die Reihenfolge der Kontengruppen bzw. der Position ist wichtig! Die Formeln funktionieren nur, wenn sie in der Position hinter den zu berechnende Feldern stehen._
 

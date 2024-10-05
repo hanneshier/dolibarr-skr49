@@ -21,21 +21,34 @@ Und bitte teilt doch eure Zuordnungen wieder als pull-request auf Github! Oder a
 
 ### 1. (Optional) benutzerdefinierte Kontengruppen hinzufügen
 
-Dieser Schritt kann übersprungen werden, wenn keine Zuordnung zu den EÜR-Posten erfolgen soll. In dem Fall darf im Import die Spalte "Benutzerdefinierte Kontengruppe" nicht zugeordnet werden!
+Dieser Schritt kann übersprungen werden, wenn keine Zuordnung zu den EÜR-Posten erfolgen soll. In dem Fall darf im Import des Kontenplans die Spalte "Benutzerdefinierte Kontengruppe" nicht zugeordnet werden!
 
-Zunächst müssen die für die Einnahmen-Überschuss-Rechnung genutzten benutzerdefinierten Kontengruppen hinzugefügt werden. Diese Zuordnung ist aus dem Datev Kontenrahmen PDF aus der Spalte "Ergebnisposten" übernommen. Leider habe ich keine Funktion für einen automatischen Import dieser Kontengruppen gefunden. Deshalb müssen diese von manuell zu Dolibarr hinzugefügt werden. Hinzugefügt werden Kontengruppen in Dolibarr unter Buchhaltung - Einstellungen - Benutzerdefinierte Kontengruppen.
+Zunächst müssen die für die Einnahmen-Überschuss-Rechnung genutzten benutzerdefinierten Kontengruppen hinzugefügt werden. Diese Zuordnung ist aus dem Datev Kontenrahmen PDF aus der Spalte "Ergebnisposten" übernommen.
 
+Leider steht in Dolibarr keine Funktion für einen automatischen Import dieser Kontengruppen bereit. Deshalb müssen diese entweder manuell zu Dolibarr hinzugefügt werden oder alternativ per Import direkt in die zugrundeliegende Datenbank geschrieben werden.
+
+#### A) Manuelle Einträge per Dolibarr-Webinterface
+Hinzugefügt werden Kontengruppen in Dolibarr unter Buchhaltung - Einstellungen - Benutzerdefinierte Gruppen.
 Die benötigten Kontengruppen befinden sich in der Datei [kontengruppen.csv](kontengruppen.csv) oder in der Excel-Tabelle im zweiten Tab.
 
-_HINWEIS: Die Reihenfolge der Kontengruppen bzw. der Position ist wichtig! Die Formeln funktionieren nur, wenn sie in der Position hinter den zu berechnende Feldern stehen_
+#### B) CSV-Import in die Datenbank
+Per phpMyAdmin oder einem zu eurer Umgebung passenden DB-Management wird die Tabelle *"llx_c_accounting_category"* geöffnet.  
+Per "**Importieren**"-Funktion wird die Datei [dolibarr-skr49_kontengruppen.csv](dolibarr-skr49_kontengruppen.csv) ausgewählt. Um die Kopfzeile zu überspringen, wird bei "Diese Anzahl Abfragen (für SQL) überspringen, beginnend von der ersten:" der Wert auf **"1"** gesetzt. Die Spalten sind getrennt mit **";"**.
+
+_HINWEIS: Die Reihenfolge der Kontengruppen bzw. der Position ist wichtig! Die Formeln funktionieren nur, wenn sie in der Position hinter den zu berechnende Feldern stehen._
 
 ### 2. Import in Dolibarr
 
 Unter Buchhaltung - Einstellungen - Allgemein sollte die Funktion "Beibehalten der Nullen am Ende eines Buchungskontos ("1200")" aktiviert werden.
 
-Der Import des Kontenplan funktioniert in Dolibarr über Tools - Import-Assistent - Neuer Import - Buchhaltung (erweitert) / Kontenplan. Dort unter csv die Datei [dolibarr-skr49.csv](dolibarr-skr49.csv) hochladen. Im 4. Schritt müssen jeweils die Spalten der Tabelle den (in der Frontend-Übersetzung) gleichnamigen Datenbankfeldern zugeordnet werden. Die Spalte "EUeR Zuordung" braucht keine Zuordnung. Wenn das Hinzufügen der benutzerdefinierten Kontengruppen übersprungen wurden, darf diese Spalte nicht zugeordnet werden, sonst kommt es zu einem Problem beim Import.
+Der Import des Kontenplan funktioniert in Dolibarr über Tools - Import-Assistent - Neuer Import - Buchhaltung (erweitert) / Kontenplan. Wenn die Option bzw. die Verknüpfung auf ein _"Übergeordnetes Konto"_ genutzt werden soll, ist ein zweistufiger Import notwendig.
+Im Schritt 2 "csv" wählen und unter Schritt 3 die Datei [dolibarr-skr49.csv](dolibarr-skr49.csv) hochladen. Im 4. Schritt müssen jeweils die Spalten der Tabelle den (in der Frontend-Übersetzung) gleichnamigen Datenbankfeldern zugeordnet werden:
+* Die Spalte "EUeR Zuordung" braucht keine Zuordnung.
+* Wenn das Hinzufügen der benutzerdefinierten Kontengruppen übersprungen wurde, darf diese Spalte nicht zugeordnet werden, sonst kommt es zu einem Problem beim Import.
+* Beim **erstmaligen** Import darf die Spalte "Übergeordnetes Konto" **nicht** zugeordnet werden. (Ansonsten Fehlermeldung: "Das Feld D : ’ xxxx ’ ist keine AccountingAccount Referenz")
 
-Wenn du den Kontenplan erneut importierst, wähle in Schritt 5 einen oder mehrere Werte in der Option "Schlüssel (Spalte), der zum Aktualisieren der vorhandenen Daten von verwendet wird" aus.
+Um die Verknüpfungen der Konten zu "Übergeordneten Konten" herzustellen, ist ein zweiter identischer Importvorgang durchzuführen, bei dem schließlich die Zuordnung der Spalte "Übergeordnetes Konto" durchgeführt wird.
+Wenn du den Kontenplan erneut importierst, wähle in Schritt 5 einen oder mehrere Werte in der Option "Schlüssel (Spalte), der zum Aktualisieren der vorhandenen Daten von verwendet wird" aus. Das sind üblicher Weise „Kontenplan“ und „Buchungskonto“.
 
 Standardmäßig sind alle Konten deaktiviert! Die benötigten Konten müssen also zuerst aktiviert werden, bevor sie genutzt werden können.
 
